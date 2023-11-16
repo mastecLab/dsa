@@ -1,0 +1,103 @@
+{
+  "$is": "node",
+  "$$appid": "1006477dd9c4b285549000fdd5ebfd1a",
+  "$$capacity": null,
+  "Aguascalientes-4019233": {
+    "$is": "node",
+    "$cityId": 4019233,
+    "$name": "Aguascalientes",
+    "$city": "Aguascalientes",
+    "$country": "MX",
+    "$lat": 21.88,
+    "$lon": -102.3,
+    "$units_type": "metric",
+    "$updateTime": "2019-02-25T18:53:09.665730Z",
+    "Condition": {
+      "$is": "node",
+      "$type": "string",
+      "?value": "Clouds"
+    },
+    "Condition_Codes": {
+      "$is": "node",
+      "$name": "Condition Codes",
+      "$type": "string",
+      "?value": "802"
+    },
+    "Description": {
+      "$is": "node",
+      "$type": "string",
+      "?value": "scattered clouds"
+    },
+    "Icon": {
+      "$is": "node",
+      "$type": "string",
+      "?value": "http://openweathermap.org/img/w/03n.png"
+    },
+    "Temperature": {
+      "$is": "node",
+      "$type": "number",
+      "@unit": "°C",
+      "?value": 19
+    },
+    "Wind_Speed": {
+      "$is": "node",
+      "$name": "Wind Speed",
+      "$type": "number",
+      "@unit": "kph",
+      "?value": 2.6
+    },
+    "Wind_Direction": {
+      "$is": "node",
+      "$name": "Wind Direction",
+      "$type": "number",
+      "?value": 230
+    },
+    "Humidity": {
+      "$is": "node",
+      "$type": "number",
+      "?value": 25
+    },
+    "Pressure": {
+      "$is": "node",
+      "$type": "number",
+      "@unit": "hPa",
+      "?value": 1024
+    },
+    "Visibility": {
+      "$is": "node",
+      "$type": "number",
+      "@unit": "km",
+      "?value": 16.093
+    },
+    "Sunrise": {
+      "$is": "node",
+      "$type": "string",
+      "?value": "2019-02-25T13:13:09.000Z"
+    },
+    "Sunset": {
+      "$is": "node",
+      "$type": "string",
+      "?value": "2019-02-26T00:51:32.000Z"
+    },
+    "Delete_Tracker": {
+      "$is": "deleteTracker",
+      "$invokable": "write",
+      "$result": "values",
+      "$params": {},
+      "$name": "Delete Tracker"
+    },
+    "Forecast5": {
+      "$is": "forecast5",
+      "$invokable": "read",
+      "$result": "table",
+      "$name": "Forecast 5 Days",
+      "$params": [
+        {
+          "name": "Interval",
+          "type": "enum[3hours,daily]"
+        }
+      ],
+      "$updateTime": "2019-02-26T00:54:30.606459Z"
+    }
+  }
+}

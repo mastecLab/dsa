@@ -1,0 +1,162 @@
+{
+  "db" : {
+    "$name" : "db",
+    "$is" : "node",
+    "$$db" : true,
+    "$path" : "db",
+    "edit" : {
+      "$name" : "Edit",
+      "$is" : "node"
+    },
+    "rw" : {
+      "$name" : "Rows Written",
+      "$is" : "node",
+      "$type" : "number",
+      "?value" : 4
+    },
+    "cef" : {
+      "$name" : "Cache Expiry Flushes",
+      "$is" : "node",
+      "$type" : "number",
+      "?value" : 0
+    },
+    "brw" : {
+      "$name" : "Backdated Rows written",
+      "$is" : "node",
+      "$type" : "number",
+      "?value" : 0
+    },
+    "fcf" : {
+      "$name" : "Forced Rows Flushed",
+      "$is" : "node",
+      "$type" : "number",
+      "?value" : 0
+    },
+    "purgeSettings" : {
+      "$name" : "Purge Settings",
+      "$is" : "node",
+      "$$dsr" : 10,
+      "$$ap" : true
+    },
+    "Temp" : {
+      "$is" : "node",
+      "$$wg" : true,
+      "edit" : {
+        "$name" : "Edit",
+        "$is" : "node",
+        "$$bft" : 10,
+        "$$lt" : "All data",
+        "$$i" : 10
+      },
+      "restoreGetHistoryAction" : {
+        "$name" : "Restore GetHistory aliases",
+        "$is" : "node"
+      },
+      "addWatchPath" : {
+        "$name" : "Add Watch Path",
+        "$is" : "node"
+      },
+      "%2Fdata%2FTemperatura" : {
+        "$is" : "node",
+        "$type" : "number",
+        "$useNewEncodingMethod" : true,
+        "overrideType" : {
+          "$name" : "Override data point type",
+          "$is" : "node"
+        },
+        "endDate" : {
+          "$name" : "End Date",
+          "$is" : "node",
+          "$type" : "time",
+          "?value" : "2019-03-21T19:05:00.472682-06:00"
+        },
+        "unsubPurge" : {
+          "$name" : "Unsubscribe and Purge",
+          "$is" : "node"
+        },
+        "lwv" : {
+          "$name" : "Last Written Value",
+          "$is" : "node",
+          "$type" : "dynamic",
+          "?value" : 31
+        },
+        "purge" : {
+          "$name" : "Purge",
+          "$is" : "node"
+        },
+        "enabled" : {
+          "$name" : "Enabled",
+          "$is" : "node",
+          "$type" : "bool",
+          "?value" : true,
+          "$writable" : "config"
+        },
+        "startDate" : {
+          "$name" : "Start Date",
+          "$is" : "node",
+          "$type" : "time",
+          "?value" : "2019-03-21T19:05:00.472682-06:00"
+        }
+      },
+      "%2Fdownstream%2FWeather%2FAguascalientes-4019233%2FTemperature" : {
+        "$is" : "node",
+        "$type" : "number",
+        "?value" : 21,
+        "$useNewEncodingMethod" : true,
+        "overrideType" : {
+          "$name" : "Override data point type",
+          "$is" : "node"
+        },
+        "endDate" : {
+          "$name" : "End Date",
+          "$is" : "node",
+          "$type" : "time",
+          "?value" : "2019-03-21T20:35:16.173135-06:00"
+        },
+        "unsubPurge" : {
+          "$name" : "Unsubscribe and Purge",
+          "$is" : "node"
+        },
+        "lwv" : {
+          "$name" : "Last Written Value",
+          "$is" : "node",
+          "$type" : "dynamic",
+          "?value" : 21
+        },
+        "purge" : {
+          "$name" : "Purge",
+          "$is" : "node"
+        },
+        "enabled" : {
+          "$name" : "Enabled",
+          "$is" : "node",
+          "$type" : "bool",
+          "?value" : true,
+          "$writable" : "config"
+        },
+        "startDate" : {
+          "$name" : "Start Date",
+          "$is" : "node",
+          "$type" : "time",
+          "?value" : "2019-03-21T19:05:09.415033-06:00"
+        }
+      },
+      "delete" : {
+        "$name" : "Delete",
+        "$is" : "node"
+      }
+    },
+    "rf" : {
+      "$name" : "Rows Flushed",
+      "$is" : "node",
+      "$type" : "number",
+      "?value" : 4
+    },
+    "clf" : {
+      "$name" : "Cache Limit Flushes",
+      "$is" : "node",
+      "$type" : "number",
+      "?value" : 0
+    }
+  }
+}

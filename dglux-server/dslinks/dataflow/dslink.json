@@ -1,0 +1,21 @@
+{
+  "name": "dataflow",
+  "version": "1.0.0",
+  "description": "Dataflow DSLink",
+  "main": "run.dart",
+  "engines": {
+    "dart": ">=1.9.0"
+  },
+  "configs": {
+    "broker": {
+      "type": "url"
+    },
+    "name": {
+      "type": "string",
+      "default": "dataflow"
+    },
+    "token": {
+      "type": "string"
+    }
+  }
+}

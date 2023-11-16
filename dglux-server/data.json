@@ -1,0 +1,50 @@
+{
+  "salida": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "dynamic"
+  },
+  "Temperatura": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none",
+    "@@getHistory": {
+      "@": "merge",
+      "type": "paths",
+      "val": [
+        "/downstream/etsdb-G/db/Temp/%2Fdata%2FTemperatura/getHistory"
+      ]
+    }
+  },
+  "Humedad": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none"
+  },
+  "Director": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none"
+  },
+  "Temp 1": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none"
+  },
+  "HumedadR": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none"
+  },
+  "Value": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none"
+  }
+}
