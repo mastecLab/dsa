@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Login - DG Solution Builder</title>
+    <style>
+        body {
+            background: #333e48;
+            font-family: "Lucida Sans Unicode", tahoma, serif;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container {
+            max-width: 340px;
+            margin: 150px auto 0 auto;
+            padding-bottom: 100px;
+        }
+
+        .main-box {
+            max-width: 340px;
+            margin: 0 auto 0 auto;
+            text-align: center;
+            background: #232B32;
+            overflow: hidden;
+        }
+
+        .form-group {
+            margin-top: 20px;
+        }
+
+        .error-message {
+            font-size: 14px;
+            color: #E33A3A;
+            letter-spacing: 1px;
+        }
+
+        .logo-holder {
+            padding-top: 50px;
+        }
+
+        .version {
+            font-size: 10px;
+            margin-top: 30px;
+            margin-bottom: 10px;
+            display: inline-block;
+            color: gray;
+        }
+
+        .forgot-password {
+            font-family: OpenSans, sans-serif;
+            font-size: 14px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            color: #00aaff;
+        }
+
+        .forgot-password > a {
+            text-decoration: none;
+            color: #00aaff;
+        }
+
+        .message-holder {
+            width: 100%;
+            padding: 1px 0 1px 0;
+            background: #fff;
+        }
+
+        .message-holder h4 {
+            font-size: 14px;
+            letter-spacing: 1px;
+            margin: 20px;
+        }
+
+        .form-holder {
+            background: #242c33;
+            padding-bottom: 50px
+        }
+
+        .form-group {
+            display: inline-block;
+            width: 300px;
+            text-align: center;
+            border-bottom: 1px solid gray;
+        }
+
+        .icon-holder {
+            display: inline-block;
+            position: relative;
+            float: left;
+            width: 30px;
+            margin-top: 5px;
+        }
+
+        .input-control {
+            display: inline-block;
+            width: 80%;
+            background: none;
+            box-shadow: none;
+            border: none;
+            color: #fff;
+            font-size: 14px;
+            outline: none;
+            float: left;
+            margin-top: 8px;
+            padding-left: 10px;
+        }
+
+        .input-control input:focus {
+            box-shadow: none !important;
+            border: none;
+        }
+
+        .input-control::-webkit-input-placeholder {
+            color: #808088;
+        }
+
+        .blue-btn {
+            width: 130px;
+            height: 35px;
+            background: #0a99d5;
+            border: none;
+            color: #FFF;
+            font-size: 14px;
+            border-radius: 25px;
+            cursor: pointer;
+        }
+
+        .blue-btn:hover {
+            background: #0ab2f8;
+        }
+
+        .check-box-style {
+            color: #fff;
+            margin-top: 15px;
+            margin-bottom: 25px;
+            font-size: 12px;
+        }
+
+        .check-box-style input {
+            margin-right: 10px;
+        }
+
+        @media (max-width: 500px) {
+            .container {
+                margin: 20px auto 0 auto;
+            }
+
+            .blue-btn {
+                width: 80%;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                margin: 20px auto 0 auto;
+            }
+
+            .blue-btn {
+                width: 80%;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="main-box">
+        <div class="logo-holder">
+            <img src="images/logo.png" alt="logo"/>
+            <!--<object type="image/svg+xml" data="images/logo.svg"
+                    width="200" border="1"></object>-->
+        </div>
+        <!-- /.logo-holder -->
+        <span class="version">DG Solution Builder r{{DGLUX_REVISION}}</span>
+
+        <div id="invalid" class="message-holder" hidden>
+            <h4 class="error-message">Invalid username and password provided! please try again.</h4>
+        </div>
+        <!-- /.message-holder -->
+
+        <div class="form-holder">
+            <form id="form" method="post" action="{{TARGET}}">
+                <div class="form-group">
+                    <div class="icon-holder"><img src="images/user.png" alt="" width="15"/></div>
+                    <!-- /.icon-holder -->
+                    <input class="input-control" id="username" name="username" type="text" placeholder="Username"/>
+                </div>
+                <!-- /.form-group -->
+
+                <div class="form-group">
+                    <div class="icon-holder"><img src="images/lock.png" alt="" width="13"/></div>
+                    <!-- /.icon-holder -->
+                    <input class="input-control" id="_password" name="_password" type="password" placeholder="Password" {{PASSWORD_ATTRIBUTES}}/>
+                    <input class="input-control" id="password" name="password" type="hidden"/>
+                    <input class="input-control" id="b64" name="b64" type="hidden" value="yes"/>
+                </div>
+                <div class="forgot-password" id="forgot-link"><a href="/forgot_password">Forgot password?</a></div>
+                <!-- /.form-group -->
+
+                <div class="check-box-style remember-box">
+                    <input name="remember" id="remember" type="checkbox"/>Remember me on this computer
+                </div>
+                <!-- /.form-group -->
+                <button id="submitBtn" class="blue-btn">Login</button>
+            </form>
+        </div>
+        <!-- /.form-holder -->
+    </div>
+    <!-- /.login-box -->
+</div>
+<!-- /.container -->
+<script>
+    document.querySelector("#submitBtn").addEventListener("click", function (e) {
+        var pwdA = document.querySelector("#_password");
+        var pwdB = document.querySelector("#password");
+        pwdB.value = btoa(pwdA.value);
+        pwdA.parentNode.removeChild(pwdA);
+        document.querySelector("#form").submit();
+    });
+
+    var secureMode = false;
+    if (secureMode) {
+        document.querySelector(".remember-box").innerHTML = "";
+    }
+
+    var invalid = false;
+    if (invalid) {
+        document.querySelector("#invalid").hidden = false;
+    }
+    document.querySelector("#username").focus();
+</script>
+</body>
+</html>

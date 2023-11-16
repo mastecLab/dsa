@@ -1,0 +1,22 @@
+{
+  "name": "dslink-dart-openweathermap",
+  "version": "1.0.0",
+  "description": "Open Weather Map DSLink",
+  "main": "bin/run.dart",
+  "engines": {
+    "dart": ">=1.9.0"
+  },
+  "getDependencies": [],
+  "configs": {
+    "broker": {
+      "type": "url"
+    },
+    "name": {
+      "type": "string",
+      "default": "Weather"
+    },
+    "token": {
+      "type": "string"
+    }
+  }
+}

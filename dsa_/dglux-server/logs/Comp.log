@@ -1,0 +1,329 @@
+[2020-09-01 17:04:00.466832] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:52934/conn, --token, b4UYrQbxfiGP7vWtJjc8XgHZcW3hXiuQG4VaQmc7TvHA2yuA] (pid: 13588) ==
+[2020-09-01 17:04:04.597748] [INFO][DSA] Connecting to http://127.0.0.1:52934/conn
+[2020-09-01 17:04:04.706825] [INFO][DSA] Connected
+[2020-09-01 17:07:10.994291] Unhandled exception:
+[2020-09-01 17:07:10.994291] FormatException: Bad UTF-8 encoding 0xa2
+[2020-09-01 17:07:10.994291] #0      _Utf8Decoder.convert (dart:convert/utf.dart:558)
+[2020-09-01 17:07:10.994291] #1      _Utf8ConversionSink.addSlice (dart:convert/string_conversion.dart:333)
+[2020-09-01 17:07:10.994291] #2      _Utf8ConversionSink.add (dart:convert/string_conversion.dart:329)
+[2020-09-01 17:07:10.994291] #3      _ConverterStreamEventSink.add (dart:convert/chunked_conversion.dart:92)
+[2020-09-01 17:07:10.994291] #4      _SinkTransformerStreamSubscription._handleData (dart:async/stream_transformers.dart:119)
+[2020-09-01 17:07:10.994291] #5      _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:10.994291] #6      _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:10.994291] #7      _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:10.994291] #8      _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:10.994291] #9      _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:10.994291] #10     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:10.994291] #11     _Socket._onData (dart:io-patch/socket_patch.dart:1659)
+[2020-09-01 17:07:10.994291] #12     _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:10.994291] #13     _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:10.994291] #14     _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:10.994291] #15     _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:10.994291] #16     _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:10.994291] #17     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:10.994291] #18     _RawSocket._RawSocket.<anonymous closure> (dart:io-patch/socket_patch.dart:1226)
+[2020-09-01 17:07:10.994291] #19     _NativeSocket.issueReadEvent.issue (dart:io-patch/socket_patch.dart:760)
+[2020-09-01 17:07:10.994291] #20     _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2020-09-01 17:07:10.994291] #21     _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2020-09-01 17:07:10.994291] #22     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2020-09-01 17:07:10.994291] #23     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2020-09-01 17:07:11.010304] == Exited with status 255 ==
+[2020-09-01 17:07:10.994291] Unhandled exception:
+[2020-09-01 17:07:10.994291] FormatException: Bad UTF-8 encoding 0xa2
+[2020-09-01 17:07:10.994291] #0      _Utf8Decoder.convert (dart:convert/utf.dart:558)
+[2020-09-01 17:07:10.994291] #1      _Utf8ConversionSink.addSlice (dart:convert/string_conversion.dart:333)
+[2020-09-01 17:07:10.994291] #2      _Utf8ConversionSink.add (dart:convert/string_conversion.dart:329)
+[2020-09-01 17:07:10.994291] #3      _ConverterStreamEventSink.add (dart:convert/chunked_conversion.dart:92)
+[2020-09-01 17:07:10.994291] #4      _SinkTransformerStreamSubscription._handleData (dart:async/stream_transformers.dart:119)
+[2020-09-01 17:07:10.994291] #5      _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:10.994291] #6      _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:10.994291] #7      _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:10.994291] #8      _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:10.994291] #9      _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:10.994291] #10     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:10.994291] #11     _Socket._onData (dart:io-patch/socket_patch.dart:1659)
+[2020-09-01 17:07:10.994291] #12     _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:10.994291] #13     _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:10.994291] #14     _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:10.994291] #15     _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:10.994291] #16     _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:10.994291] #17     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:10.994291] #18     _RawSocket._RawSocket.<anonymous closure> (dart:io-patch/socket_patch.dart:1226)
+[2020-09-01 17:07:10.994291] #19     _NativeSocket.issueReadEvent.issue (dart:io-patch/socket_patch.dart:760)
+[2020-09-01 17:07:10.994291] #20     _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2020-09-01 17:07:10.994291] #21     _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2020-09-01 17:07:10.994291] #22     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2020-09-01 17:07:10.994291] #23     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2020-09-01 17:07:11.010304] == Exited with status 255 ==
+[2020-09-01 17:07:10.994291] Unhandled exception:
+[2020-09-01 17:07:10.994291] FormatException: Bad UTF-8 encoding 0xa2
+[2020-09-01 17:07:10.994291] #0      _Utf8Decoder.convert (dart:convert/utf.dart:558)
+[2020-09-01 17:07:10.994291] #1      _Utf8ConversionSink.addSlice (dart:convert/string_conversion.dart:333)
+[2020-09-01 17:07:10.994291] #2      _Utf8ConversionSink.add (dart:convert/string_conversion.dart:329)
+[2020-09-01 17:07:10.994291] #3      _ConverterStreamEventSink.add (dart:convert/chunked_conversion.dart:92)
+[2020-09-01 17:07:10.994291] #4      _SinkTransformerStreamSubscription._handleData (dart:async/stream_transformers.dart:119)
+[2020-09-01 17:07:10.994291] #5      _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:10.994291] #6      _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:10.994291] #7      _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:10.994291] #8      _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:10.994291] #9      _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:10.994291] #10     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:10.994291] #11     _Socket._onData (dart:io-patch/socket_patch.dart:1659)
+[2020-09-01 17:07:10.994291] #12     _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:10.994291] #13     _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:10.994291] #14     _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:10.994291] #15     _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:10.994291] #16     _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:10.994291] #17     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:10.994291] #18     _RawSocket._RawSocket.<anonymous closure> (dart:io-patch/socket_patch.dart:1226)
+[2020-09-01 17:07:10.994291] #19     _NativeSocket.issueReadEvent.issue (dart:io-patch/socket_patch.dart:760)
+[2020-09-01 17:07:10.994291] #20     _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2020-09-01 17:07:10.994291] #21     _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2020-09-01 17:07:10.994291] #22     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2020-09-01 17:07:10.994291] #23     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2020-09-01 17:07:11.010304] == Exited with status 255 ==
+[2020-09-01 17:07:12.248187] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:52934/conn, --token, b4UYrQbxfiGP7vWtJjc8XgHZcW3hXiuQG4VaQmc7TvHA2yuA] (pid: 8308) ==
+[2020-09-01 17:07:14.236579] [INFO][DSA] Connecting to http://127.0.0.1:52934/conn
+[2020-09-01 17:07:14.335649] [INFO][DSA] Connected
+[2020-09-01 17:07:17.860138] Unhandled exception:
+[2020-09-01 17:07:17.860138] FormatException: Bad UTF-8 encoding 0xa2
+[2020-09-01 17:07:17.860138] #0      _Utf8Decoder.convert (dart:convert/utf.dart:558)
+[2020-09-01 17:07:17.860138] #1      _Utf8ConversionSink.addSlice (dart:convert/string_conversion.dart:333)
+[2020-09-01 17:07:17.860138] #2      _Utf8ConversionSink.add (dart:convert/string_conversion.dart:329)
+[2020-09-01 17:07:17.860138] #3      _ConverterStreamEventSink.add (dart:convert/chunked_conversion.dart:92)
+[2020-09-01 17:07:17.860138] #4      _SinkTransformerStreamSubscription._handleData (dart:async/stream_transformers.dart:119)
+[2020-09-01 17:07:17.860138] #5      _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:17.860138] #6      _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:17.860138] #7      _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:17.860138] #8      _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:17.860138] #9      _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:17.860138] #10     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:17.860138] #11     _Socket._onData (dart:io-patch/socket_patch.dart:1659)
+[2020-09-01 17:07:17.860138] #12     _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:17.860138] #13     _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:17.860138] #14     _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:17.860138] #15     _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:17.860138] #16     _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:17.860138] #17     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:17.860138] #18     _RawSocket._RawSocket.<anonymous closure> (dart:io-patch/socket_patch.dart:1226)
+[2020-09-01 17:07:17.860138] #19     _NativeSocket.issueReadEvent.issue (dart:io-patch/socket_patch.dart:760)
+[2020-09-01 17:07:17.860138] #20     _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2020-09-01 17:07:17.860138] #21     _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2020-09-01 17:07:17.860138] #22     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2020-09-01 17:07:17.860138] #23     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2020-09-01 17:07:17.875147] == Exited with status 255 ==
+[2020-09-01 17:07:17.860138] Unhandled exception:
+[2020-09-01 17:07:17.860138] FormatException: Bad UTF-8 encoding 0xa2
+[2020-09-01 17:07:17.860138] #0      _Utf8Decoder.convert (dart:convert/utf.dart:558)
+[2020-09-01 17:07:17.860138] #1      _Utf8ConversionSink.addSlice (dart:convert/string_conversion.dart:333)
+[2020-09-01 17:07:17.860138] #2      _Utf8ConversionSink.add (dart:convert/string_conversion.dart:329)
+[2020-09-01 17:07:17.860138] #3      _ConverterStreamEventSink.add (dart:convert/chunked_conversion.dart:92)
+[2020-09-01 17:07:17.860138] #4      _SinkTransformerStreamSubscription._handleData (dart:async/stream_transformers.dart:119)
+[2020-09-01 17:07:17.860138] #5      _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:17.860138] #6      _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:17.860138] #7      _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:17.860138] #8      _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:17.860138] #9      _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:17.860138] #10     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:17.860138] #11     _Socket._onData (dart:io-patch/socket_patch.dart:1659)
+[2020-09-01 17:07:17.860138] #12     _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:17.860138] #13     _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:17.860138] #14     _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:17.860138] #15     _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:17.860138] #16     _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:17.860138] #17     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:17.860138] #18     _RawSocket._RawSocket.<anonymous closure> (dart:io-patch/socket_patch.dart:1226)
+[2020-09-01 17:07:17.860138] #19     _NativeSocket.issueReadEvent.issue (dart:io-patch/socket_patch.dart:760)
+[2020-09-01 17:07:17.860138] #20     _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2020-09-01 17:07:17.860138] #21     _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2020-09-01 17:07:17.860138] #22     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2020-09-01 17:07:17.860138] #23     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2020-09-01 17:07:17.875147] == Exited with status 255 ==
+[2020-09-01 17:07:17.860138] Unhandled exception:
+[2020-09-01 17:07:17.860138] FormatException: Bad UTF-8 encoding 0xa2
+[2020-09-01 17:07:17.860138] #0      _Utf8Decoder.convert (dart:convert/utf.dart:558)
+[2020-09-01 17:07:17.860138] #1      _Utf8ConversionSink.addSlice (dart:convert/string_conversion.dart:333)
+[2020-09-01 17:07:17.860138] #2      _Utf8ConversionSink.add (dart:convert/string_conversion.dart:329)
+[2020-09-01 17:07:17.860138] #3      _ConverterStreamEventSink.add (dart:convert/chunked_conversion.dart:92)
+[2020-09-01 17:07:17.860138] #4      _SinkTransformerStreamSubscription._handleData (dart:async/stream_transformers.dart:119)
+[2020-09-01 17:07:17.860138] #5      _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:17.860138] #6      _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:17.860138] #7      _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:17.860138] #8      _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:17.860138] #9      _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:17.860138] #10     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:17.860138] #11     _Socket._onData (dart:io-patch/socket_patch.dart:1659)
+[2020-09-01 17:07:17.860138] #12     _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:17.860138] #13     _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:17.860138] #14     _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:17.860138] #15     _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:17.860138] #16     _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:17.860138] #17     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:17.860138] #18     _RawSocket._RawSocket.<anonymous closure> (dart:io-patch/socket_patch.dart:1226)
+[2020-09-01 17:07:17.860138] #19     _NativeSocket.issueReadEvent.issue (dart:io-patch/socket_patch.dart:760)
+[2020-09-01 17:07:17.860138] #20     _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2020-09-01 17:07:17.860138] #21     _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2020-09-01 17:07:17.860138] #22     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2020-09-01 17:07:17.860138] #23     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2020-09-01 17:07:17.875147] == Exited with status 255 ==
+[2020-09-01 17:07:18.989935] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:52934/conn, --token, b4UYrQbxfiGP7vWtJjc8XgHZcW3hXiuQG4VaQmc7TvHA2yuA] (pid: 12184) ==
+[2020-09-01 17:07:20.958325] [INFO][DSA] Connecting to http://127.0.0.1:52934/conn
+[2020-09-01 17:07:21.061396] [INFO][DSA] Connected
+[2020-09-01 17:07:34.156637] Unhandled exception:
+[2020-09-01 17:07:34.156637] FormatException: Bad UTF-8 encoding 0xa2
+[2020-09-01 17:07:34.156637] #0      _Utf8Decoder.convert (dart:convert/utf.dart:558)
+[2020-09-01 17:07:34.156637] #1      _Utf8ConversionSink.addSlice (dart:convert/string_conversion.dart:333)
+[2020-09-01 17:07:34.156637] #2      _Utf8ConversionSink.add (dart:convert/string_conversion.dart:329)
+[2020-09-01 17:07:34.156637] #3      _ConverterStreamEventSink.add (dart:convert/chunked_conversion.dart:92)
+[2020-09-01 17:07:34.156637] #4      _SinkTransformerStreamSubscription._handleData (dart:async/stream_transformers.dart:119)
+[2020-09-01 17:07:34.156637] #5      _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:34.156637] #6      _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:34.156637] #7      _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:34.156637] #8      _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:34.156637] #9      _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:34.156637] #10     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:34.156637] #11     _Socket._onData (dart:io-patch/socket_patch.dart:1659)
+[2020-09-01 17:07:34.156637] #12     _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:34.156637] #13     _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:34.156637] #14     _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:34.156637] #15     _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:34.156637] #16     _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:34.156637] #17     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:34.156637] #18     _RawSocket._RawSocket.<anonymous closure> (dart:io-patch/socket_patch.dart:1226)
+[2020-09-01 17:07:34.156637] #19     _NativeSocket.issueReadEvent.issue (dart:io-patch/socket_patch.dart:760)
+[2020-09-01 17:07:34.156637] #20     _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2020-09-01 17:07:34.156637] #21     _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2020-09-01 17:07:34.156637] #22     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2020-09-01 17:07:34.156637] #23     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2020-09-01 17:07:34.169647] == Exited with status 255 ==
+[2020-09-01 17:07:34.156637] Unhandled exception:
+[2020-09-01 17:07:34.156637] FormatException: Bad UTF-8 encoding 0xa2
+[2020-09-01 17:07:34.156637] #0      _Utf8Decoder.convert (dart:convert/utf.dart:558)
+[2020-09-01 17:07:34.156637] #1      _Utf8ConversionSink.addSlice (dart:convert/string_conversion.dart:333)
+[2020-09-01 17:07:34.156637] #2      _Utf8ConversionSink.add (dart:convert/string_conversion.dart:329)
+[2020-09-01 17:07:34.156637] #3      _ConverterStreamEventSink.add (dart:convert/chunked_conversion.dart:92)
+[2020-09-01 17:07:34.156637] #4      _SinkTransformerStreamSubscription._handleData (dart:async/stream_transformers.dart:119)
+[2020-09-01 17:07:34.156637] #5      _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:34.156637] #6      _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:34.156637] #7      _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:34.156637] #8      _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:34.156637] #9      _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:34.156637] #10     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:34.156637] #11     _Socket._onData (dart:io-patch/socket_patch.dart:1659)
+[2020-09-01 17:07:34.156637] #12     _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:34.156637] #13     _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:34.156637] #14     _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:34.156637] #15     _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:34.156637] #16     _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:34.156637] #17     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:34.156637] #18     _RawSocket._RawSocket.<anonymous closure> (dart:io-patch/socket_patch.dart:1226)
+[2020-09-01 17:07:34.156637] #19     _NativeSocket.issueReadEvent.issue (dart:io-patch/socket_patch.dart:760)
+[2020-09-01 17:07:34.156637] #20     _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2020-09-01 17:07:34.156637] #21     _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2020-09-01 17:07:34.156637] #22     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2020-09-01 17:07:34.156637] #23     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2020-09-01 17:07:34.169647] == Exited with status 255 ==
+[2020-09-01 17:07:34.156637] Unhandled exception:
+[2020-09-01 17:07:34.156637] FormatException: Bad UTF-8 encoding 0xa2
+[2020-09-01 17:07:34.156637] #0      _Utf8Decoder.convert (dart:convert/utf.dart:558)
+[2020-09-01 17:07:34.156637] #1      _Utf8ConversionSink.addSlice (dart:convert/string_conversion.dart:333)
+[2020-09-01 17:07:34.156637] #2      _Utf8ConversionSink.add (dart:convert/string_conversion.dart:329)
+[2020-09-01 17:07:34.156637] #3      _ConverterStreamEventSink.add (dart:convert/chunked_conversion.dart:92)
+[2020-09-01 17:07:34.156637] #4      _SinkTransformerStreamSubscription._handleData (dart:async/stream_transformers.dart:119)
+[2020-09-01 17:07:34.156637] #5      _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:34.156637] #6      _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:34.156637] #7      _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:34.156637] #8      _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:34.156637] #9      _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:34.156637] #10     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:34.156637] #11     _Socket._onData (dart:io-patch/socket_patch.dart:1659)
+[2020-09-01 17:07:34.156637] #12     _RootZone.runUnaryGuarded (dart:async/zone.dart:1138)
+[2020-09-01 17:07:34.156637] #13     _BufferingStreamSubscription._sendData (dart:async/stream_impl.dart:334)
+[2020-09-01 17:07:34.156637] #14     _BufferingStreamSubscription._add (dart:async/stream_impl.dart:261)
+[2020-09-01 17:07:34.156637] #15     _StreamController&&_SyncStreamControllerDispatch._sendData (dart:async/stream_controller.dart:768)
+[2020-09-01 17:07:34.156637] #16     _StreamController._add (dart:async/stream_controller.dart:635)
+[2020-09-01 17:07:34.156637] #17     _StreamController.add (dart:async/stream_controller.dart:581)
+[2020-09-01 17:07:34.156637] #18     _RawSocket._RawSocket.<anonymous closure> (dart:io-patch/socket_patch.dart:1226)
+[2020-09-01 17:07:34.156637] #19     _NativeSocket.issueReadEvent.issue (dart:io-patch/socket_patch.dart:760)
+[2020-09-01 17:07:34.156637] #20     _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2020-09-01 17:07:34.156637] #21     _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2020-09-01 17:07:34.156637] #22     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2020-09-01 17:07:34.156637] #23     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2020-09-01 17:07:34.169647] == Exited with status 255 ==
+[2020-09-01 17:07:35.284446] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:52934/conn, --token, b4UYrQbxfiGP7vWtJjc8XgHZcW3hXiuQG4VaQmc7TvHA2yuA] (pid: 13668) ==
+[2020-09-01 17:07:37.213794] [INFO][DSA] Connecting to http://127.0.0.1:52934/conn
+[2020-09-01 17:07:37.316880] [INFO][DSA] Connected
+[2020-09-01 18:13:45.471123] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:57585/conn, --token, wcesKuwwSzm9ccFYkbtdf9xx16HyMhzaY3badAW2328NV45l] (pid: 8124) ==
+[2020-09-01 18:13:51.703521] [INFO][DSA] Connecting to http://127.0.0.1:57585/conn
+[2020-09-01 18:13:51.893656] [INFO][DSA] Connected
+[2020-09-01 18:13:59.999377] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:57720/conn, --token, K4BjZig15hnPGxvxvs3PG2mdiRlQ7hpMabNQKBwmD6MQo6x9] (pid: 10356) ==
+[2020-09-01 18:14:04.906839] [INFO][DSA] Connecting to http://127.0.0.1:57720/conn
+[2020-09-01 18:14:05.045937] [INFO][DSA] Connected
+[2020-09-01 18:14:29.555234] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:57845/conn, --token, TdJ8zktUAMnFyS34PGwZJNuUkJOnnamwD8f7weiG4qTZrD3S] (pid: 5720) ==
+[2020-09-01 18:14:34.994073] [INFO][DSA] Connecting to http://127.0.0.1:57845/conn
+[2020-09-01 18:14:35.171198] [INFO][DSA] Connected
+[2020-09-02 18:20:10.537679] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:50028/conn, --token, FuGAIheRyfyuCAw0MvOUNs4J3HHDsDHTdJ503uO6TjFYvwnq] (pid: 9820) ==
+[2020-09-02 18:20:19.600174] [INFO][DSA] Connecting to http://127.0.0.1:50028/conn
+[2020-09-02 18:20:19.774283] [INFO][DSA] Connected
+[2020-09-02 23:13:33.767049] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:53012/conn, --token, Es9vlCkhnMdToEQWkjHTbzoSQsQtYd41sHqBbSQy5K3GOQCE] (pid: 5604) ==
+[2020-09-02 23:13:42.926428] [INFO][DSA] Connecting to http://127.0.0.1:53012/conn
+[2020-09-02 23:13:43.074534] [INFO][DSA] Connected
+[2020-09-03 04:30:06.577821] [INFO][DSA] Disconnected
+[2020-09-03 04:30:06.890586] [INFO][DSA] Connected
+[2020-09-03 08:39:34.885249] [INFO][DSA] Disconnected
+[2020-09-03 08:40:06.471498] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:61336/conn, --token, yeTLpEjXykmZ0W2K9JUWWyiFfBjoDgRCvMIxIpZweXooCzew] (pid: 12532) ==
+[2020-09-03 08:40:23.184098] [INFO][DSA] Connecting to http://127.0.0.1:61336/conn
+[2020-09-03 08:40:23.331207] [INFO][DSA] Connected
+[2020-09-03 20:26:15.516759] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:52677/conn, --token, qCAgSzAPtZrZAcz6cMXn8mpSwHSRwfiIQZHDu6rVuLLj8X7I] (pid: 4744) ==
+[2020-09-03 20:26:25.859159] [INFO][DSA] Connecting to http://127.0.0.1:52677/conn
+[2020-09-03 20:26:26.003261] [INFO][DSA] Connected
+[2020-09-04 13:37:50.959076] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:51394/conn, --token, QtHAN0zDubWuE6lHC0u5rD6Ag4M9WEU9oYH8xszr0XOC9Sxo] (pid: 12628) ==
+[2020-09-04 13:37:58.294234] [INFO][DSA] Connecting to http://127.0.0.1:51394/conn
+[2020-09-04 13:37:58.434331] [INFO][DSA] Connected
+[2020-09-04 15:20:52.551741] [INFO][DSA] Disconnected
+[2020-09-04 15:20:52.767895] [INFO][DSA] Connected
+[2020-09-04 21:35:16.888894] [INFO][DSA] Disconnected
+[2020-09-04 21:35:20.036490] [INFO][DSA] Connected
+[2020-09-04 22:28:15.675862] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:60156/conn, --token, EeNMisoEDl0CE3SCwoI2eNvm1bW4TRtorJLShp6vMZcP77DX] (pid: 14136) ==
+[2020-09-04 22:28:19.799771] [INFO][DSA] Connecting to http://127.0.0.1:60156/conn
+[2020-09-04 22:28:19.938871] [INFO][DSA] Connected
+[2020-09-07 23:29:48.120769] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:58266/conn, --token, FcPsVtqAtP9qYzwao2Z63oxy9rJCojMKhDtyYsHqbkcYp64C] (pid: 1568) ==
+[2020-09-07 23:29:58.504399] [INFO][DSA] Connecting to http://127.0.0.1:58266/conn
+[2020-09-07 23:29:58.670517] [INFO][DSA] Connected
+[2020-09-08 19:10:14.612124] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:65458/conn, --token, zTnONBPowpui0vQdDEjx5x2yROrAoNZEhstMWjwuGis1D1M6] (pid: 13700) ==
+[2020-09-08 19:10:20.492549] [INFO][DSA] Connecting to http://127.0.0.1:65458/conn
+[2020-09-08 19:10:20.765242] [INFO][DSA] Connected
+[2020-09-09 14:05:44.544862] [INFO][DSA] Disconnected
+[2020-09-09 14:05:45.037080] [INFO][DSA] Connected
+[2020-09-09 14:24:57.550743] [INFO][DSA] Disconnected
+[2020-09-09 14:24:57.998149] [INFO][DSA] Connected
+[2020-09-09 14:38:53.309978] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:53502/conn, --token, y8l6b75EacWKcKp2MVIhW2qSCrvuyuSUsGr8fBVuPMSprpF7] (pid: 26392) ==
+[2020-09-09 14:39:00.606124] [INFO][DSA] Connecting to http://127.0.0.1:53502/conn
+[2020-09-09 14:39:00.734214] [INFO][DSA] Connected
+[2020-09-09 15:46:00.372313] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:55229/conn, --token, hVCLoEnvStOGGJbK3DH02moIqhD5SBSHGfYOkyCbjHn76eEz] (pid: 24396) ==
+[2020-09-09 15:46:04.461454] [INFO][DSA] Connecting to http://127.0.0.1:55229/conn
+[2020-09-09 15:46:04.825712] [INFO][DSA] Connected
+[2020-09-09 20:24:11.544679] [INFO][DSA] Disconnected
+[2020-09-09 20:24:11.712800] [INFO][DSA] Connected
+[2020-09-10 00:06:13.960050] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:59846/conn, --token, q8Uaq90tjbr6iq8ey2DL2GcSpGOq60bFUEFvrlNSaeKC71LC] (pid: 17392) ==
+[2020-09-10 00:06:24.924783] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:59903/conn, --token, kkQ8cVdwDfBJFEupQ3NlhvPPMIJKm4PkuRnL0lFAicNwjZdz] (pid: 18640) ==
+[2020-09-10 00:06:30.884239] [INFO][DSA] Connecting to http://127.0.0.1:59903/conn
+[2020-09-10 00:06:31.122907] [INFO][DSA] Connected
+[2020-09-10 00:17:35.581874] [INFO][DSA] Disconnected
+[2020-09-10 00:17:35.737984] [INFO][DSA] Connected
+[2020-09-10 00:23:00.405593] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:56702/conn, --token, MdbSXb7uRvzxv4FtIVr9wxLCSznZuDylxm8fR8n4rsClnuy2] (pid: 21428) ==
+[2020-09-10 00:23:05.151494] [INFO][DSA] Connecting to http://127.0.0.1:56702/conn
+[2020-09-10 00:23:05.258119] [INFO][DSA] Connected
+[2020-09-10 00:29:25.260695] [INFO][DSA] Disconnected
+[2020-09-10 00:29:31.911519] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:59643/conn, --token, RO6kBMLmBqHCgvD3vsodZyscGLbkBwHrR24S99UPZc3ojcVD] (pid: 13540) ==
+[2020-09-10 00:29:36.517442] [INFO][DSA] Connecting to http://127.0.0.1:59643/conn
+[2020-09-10 00:29:36.659542] [INFO][DSA] Connected
+[2020-09-10 21:35:29.316782] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:54636/conn, --token, LOLixlLvhSFhKfAevw2iTmNSFNeAKJCJ6F13qpqHKMnrh81e] (pid: 10880) ==
+[2020-09-10 21:35:41.600446] [INFO][DSA] Connecting to http://127.0.0.1:54636/conn
+[2020-09-10 21:35:41.720532] [INFO][DSA] Connected
+[2020-09-10 21:59:40.825547] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:58990/conn, --token, fhhLmRb0ErGrrSjZpQDhQCIYwfv8hLexVGvkOfTboQTN3sxK] (pid: 8568) ==
+[2020-09-10 21:59:44.965065] [INFO][DSA] Connecting to http://127.0.0.1:58990/conn
+[2020-09-10 21:59:45.073139] [INFO][DSA] Connected
+[2020-09-10 22:04:02.629499] == Exited with status 1 ==
+[2020-09-10 22:04:02.629499] == Exited with status 1 ==
+[2020-09-10 22:04:02.629499] == Exited with status 1 ==

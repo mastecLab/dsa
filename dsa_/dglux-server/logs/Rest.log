@@ -1,0 +1,16 @@
+[2019-02-22 20:24:53.951535] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, REST, --broker, http://127.0.0.1:52787/conn, --token, MPG3cNwuso1bcjDDSL7ELxIlR4eO940zRkKTDIrd3Mo4hpIu] (pid: 12696) ==
+[2019-02-22 20:24:58.122855] [INFO][DSA] Connecting to http://127.0.0.1:52787/conn
+[2019-02-22 20:24:58.260774] [INFO][DSA] Connected
+[2019-02-22 20:26:21.324772] [WARNING][DSA] Unable to start IPv6 server
+[2019-02-22 20:26:21.324772] [WARNING][DSA] SocketException: Failed to create server socket (OS Error: Solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto)
+[2019-02-22 20:26:21.324772] 
+[2019-02-22 20:26:21.324772] [WARNING][DSA] , errno = 10048), address = ::, port = 8020
+[2019-02-22 20:26:36.259582] [WARNING][DSA] Unable to start IPv6 server
+[2019-02-22 20:26:36.259582] [WARNING][DSA] SocketException: Failed to create server socket (OS Error: Solo se permite un uso de cada dirección de socket (protocolo/dirección de red/puerto)
+[2019-02-22 20:26:36.259582] 
+[2019-02-22 20:26:36.259582] [WARNING][DSA] , errno = 10048), address = ::, port = 8020
+[2019-02-22 22:55:47.519848] [INFO][DSA] Disconnected
+[2019-02-22 22:55:51.154098] [INFO][DSA] Connected
+[2019-02-22 23:23:07.811700] == Exited with status 1 ==
+[2019-02-22 23:23:07.811700] == Exited with status 1 ==
+[2019-02-22 23:23:07.811700] == Exited with status 1 ==

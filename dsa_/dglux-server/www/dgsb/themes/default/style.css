@@ -1,0 +1,55 @@
+@font-face {
+  font-family: 'icons_font';
+  src:url('fonts/icons_font.woff?xlbxdx') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="dgIcon-"], [class*=" dgIcon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icons_font' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.dgIcon-c-add:before {
+  content: "\e905";
+}
+.dgIcon-trash-simple:before {
+  content: "\e906";
+}
+.dgIcon-n-edit:before {
+  content: "\e907";
+}
+.dgIcon-s-add:before {
+  content: "\e908";
+}
+.dgIcon-log-out-2:before {
+  content: "\e909";
+}
+.dgIcon-users-wm:before {
+  content: "\e90a";
+}
+.dgIcon-user-icon:before {
+  content: "\e903";
+}
+.dgIcon-user-settings:before {
+  content: "\e904";
+}
+.dgIcon-pi-wrap-break:before {
+  content: "\e900";
+}
+.dgIcon-pi-wrap-none:before {
+  content: "\e901";
+}
+.dgIcon-pi-wrap-wrap:before {
+  content: "\e902";
+}

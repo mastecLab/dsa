@@ -1,0 +1,12 @@
+{
+  "name": "BI Application",
+  "owner": "dgSuper",
+  "canRead": [
+    "guest"
+  ],
+  "canWrite": [],
+  "isTemplate": false,
+  "category": null,
+  "description": "",
+  "version": ""
+}

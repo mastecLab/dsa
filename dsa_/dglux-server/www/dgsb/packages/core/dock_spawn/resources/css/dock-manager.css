@@ -1,0 +1,399 @@
+
+/************* Panel with title bar ************/
+.dglux_page_root .panel-base {
+  background-color: #282828;
+  
+  border-color: #181818;
+  border-width: 1px;
+  border-style: solid;	  
+}
+
+.dglux_page_root .panel-titlebar {
+    background-color: #333; 
+	height: 25px;
+	width: 100%;
+	margin-left: 1px;
+	margin-right:1px;
+	
+	border-top-color: #555555;
+	border-top-width: 1px;
+	border-top-style: solid;
+	
+	border-bottom-color: #262626;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	
+	/*
+	border-right-color: #ffffff;
+	border-right-width: 10px;
+	border-right-style: solid;*/
+	
+	overflow: hidden;
+}
+
+.dglux_page_root .panel-titlebar-text {
+	float: left; 
+	padding-left:6px;
+	padding-top:5px;
+	font-size: 11px;
+	font-weight: bold;
+	color:#aaa;
+}
+
+.dglux_page_root .panel-titlebar-button-close {
+	float: right; 
+	padding-top:5px;
+	padding-right:8px;
+	font-weight: bold;
+	color:#aaa;
+}
+
+.dglux_page_root .panel-titlebar-button-close:hover {
+	float: right; 
+	padding-top:5px;
+	padding-right:8px;
+	font-weight: bold;
+	color:#fff;
+}
+
+.dglux_page_root .panel-content {
+	background-color: #333333; 
+	
+	/*border-top-color: #404040;
+	border-top-width: 1px;
+	border-top-style: solid;
+	
+	
+	border-right-color: #ffffff;
+	border-right-width: 1px;
+	border-right-style: solid;
+	margin-left: 1px;
+	margin-right:1px;
+	*/
+	
+	width: 100%;
+	
+}
+
+.dglux_page_root .panel-content-margin {
+    margin-left: 0px;
+    margin-right:0px;
+    position: relative;
+}
+
+.dglux_page_root .sidePanel
+{
+  position: absolute;
+  box-shadow: 2px 2px 10px #111;
+  z-index: -1;
+}
+
+/***************** Floating dialog box ****************/
+.dglux_page_root .dialog-floating {
+	position: absolute;
+	box-shadow: 2px 2px 10px #111;
+}
+
+.dglux_page_root .tab-handle-ellipsis {
+  width: 100%;
+}
+
+.dglux_page_root .tab-handle-text-ellipsis {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+  padding-right: 20px;
+}
+
+/************ Resize decorator ************/
+.dglux_page_root .resize-handle {
+	position: absolute;
+	width: 6px; 
+	height: 6px; 
+}
+
+.dglux_page_root .resize-handle-corner {
+	position: absolute;
+	width: 12px; 
+	height: 12px; 
+}
+
+.dglux_page_root .resize-handle-e { cursor: e-resize; }
+.dglux_page_root .resize-handle-w { cursor: w-resize; }
+.dglux_page_root .resize-handle-s { cursor: s-resize; }
+.dglux_page_root .resize-handle-n { cursor: n-resize; }
+.dglux_page_root .resize-handle-ne { cursor: ne-resize; }
+.dglux_page_root .resize-handle-nw { cursor: nw-resize; }
+.dglux_page_root .resize-handle-se { cursor: se-resize; }
+.dglux_page_root .resize-handle-sw { cursor: sw-resize; }
+
+
+/******************* Dock Manager ********************/
+.dglux_page_root .dock-container {
+	background-color: #888; 
+}
+
+.dglux_page_root .dock-container-fill {
+
+}
+
+/******************* Document Manager ********************/
+.dglux_page_root .document-manager {
+	background-color: #666; 
+}
+
+
+/******************* Dock Wheel ********************/
+.dglux_page_root .dock-wheel-base {
+	position: absolute;
+}
+
+.dglux_page_root .dock-wheel-item {
+	position: absolute;
+	width:32px;
+	height:32px;
+}
+
+.dglux_page_root .dock-wheel-fill {
+	margin-left: -16px;
+	margin-top: -16px;
+}
+
+.dglux_page_root .dock-wheel-left {
+	margin-left: -48px;
+	margin-top: -16px;
+}
+
+.dglux_page_root .dock-wheel-right {
+	margin-left: 16px;
+	margin-top: -16px;
+}
+
+.dglux_page_root .dock-wheel-top {
+	margin-left: -16px;
+	margin-top: -48px;
+}
+
+.dglux_page_root .dock-wheel-down {
+	margin-left: -16px;
+	margin-top: 16px;
+}
+
+.dglux_page_root .dock-wheel-panel-preview {
+	position: absolute;
+	background-color:rgba(0,230,254, 0.2);
+}
+
+.dglux_page_root .dock-wheel-fill-icon { background:url(../images/dock_fill.png) 0 0; }
+.dglux_page_root .dock-wheel-left-icon { background:url(../images/dock_left.png) 0 0; }
+.dglux_page_root .dock-wheel-right-icon { background:url(../images/dock_right.png) 0 0; }
+.dglux_page_root .dock-wheel-top-icon { background:url(../images/dock_top.png) 0 0; }
+.dglux_page_root .dock-wheel-down-icon { background:url(../images/dock_bottom.png) 0 0; }
+
+.dglux_page_root .dock-wheel-fill-icon-hover { background:url(../images/dock_fill_sel.png) 0 0; }
+.dglux_page_root .dock-wheel-left-icon-hover { background:url(../images/dock_left_sel.png) 0 0; }
+.dglux_page_root .dock-wheel-right-icon-hover { background:url(../images/dock_right_sel.png) 0 0; }
+.dglux_page_root .dock-wheel-top-icon-hover { background:url(../images/dock_top_sel.png) 0 0; }
+.dglux_page_root .dock-wheel-down-icon-hover { background:url(../images/dock_bottom_sel.png) 0 0; }
+
+/**************************** Splitter *********************************/
+.dglux_page_root .splitter-container-horizontal {
+	float:left;
+	overflow: visible; 
+    /*background-color: #262626;*/ 
+}
+
+.dglux_page_root .splitter-container-vertical {
+  overflow: visible;
+  /*background-color: #262626;*/ 
+}
+
+.dglux_page_root .splitbar-horizontal {
+	/*background-color: #262626;*/ 
+	width:100%; 
+	height:5px; 
+	cursor:row-resize; 
+}
+	
+.dglux_page_root .splitbar-vertical {
+	/*background-color: #262626;*/
+	width:5px; 
+	height:100%; 
+	float:left; 
+	cursor:col-resize; 
+}
+
+/*************************** Tab Host ********************************/
+.dglux_page_root .tab-host {
+	/*background: -webkit-linear-gradient(rgb(24,24,24), rgb(20,20,20));  For Safari */
+	background: #1B1B1B;
+	border-color: #181818;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.dglux_page_root .tab-content {
+	background-color: #333333;
+	/*
+	border-right-color: #131313;
+	border-right-width: 1px;
+	border-right-style: solid;
+	*/
+	/*
+	margin-left: 1px;
+	margin-right: 1px;*/
+	/*width: 100%;*/  /* Controlled now manually, because of box-sizing: border-box*/ 
+}
+
+.dglux_page_root .tab-handle {
+	position: relative;
+	background-color: #161616; 
+	color:#dedede;
+	height: 16px;
+	float: left;
+	/*pointer: default;*/ 
+    
+  border-right-color: #292929;
+	border-right-width: 1px;
+	border-right-style: solid;
+	
+	border-bottom-color: #292929;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+    
+	margin-left: 0px;
+	margin-top: -1px;
+	overflow: hidden;
+	/*box-shadow: 0px 5px 20px #000;*/
+	
+}
+.dglux_page_root .tab-handle:hover {
+	background-color: #333333;
+	color:#dddddd;
+	height: 16px;
+}
+
+.dglux_page_root .tab-handle-selected {
+	background-color: #333333;
+	color:#cecece;
+	height: 17px;
+	border-top-color: #444444;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: none;
+	margin-top: -2px;
+}
+
+.dglux_page_root .tab-handle-selected:hover {
+  height: 17px;
+}
+
+.dglux_page_root .tab-handle-text {
+	margin-top: 1px;
+	margin-left: 8px;
+	margin-right: 8px;
+	font-size: 10px;
+	font-weight: normal;
+	float: left;
+}
+
+.dglux_page_root .tab-handle-close-button {
+	margin-top: 3px;
+	margin-right: 6px;
+	float: right;
+	/*font-family: "FontAwesome";
+	font-size: 9px;*/
+	width: 8px;
+	height: 8px;
+}
+
+.dglux_page_root .tab-handle-close-button:hover {
+	color:#fff;
+}
+
+.dglux_page_root .tab-handle-cross,
+.dglux_page_root .tab-handle-cross:hover {
+  opacity: 0.8;
+  transform: scale(0.5, 0.5) translate(-8px, -8px); 
+  -webkit-transform: scale(0.5, 0.5) translate(-8px, -8px);
+  -ms-transform: scale(0.5, 0.5) translate(-8px, -8px);
+}
+
+.dglux_page_root .tab-handle-cross:hover {
+  opacity: 1;
+}
+
+
+
+.dglux_page_root #tab-handle-list-container-grad
+{
+background: -webkit-linear-gradient(rgb(24,24,24), rgb(20,20,20)); /* For Safari */
+background: -o-linear-gradient(rgb(24,24,24), rgb(20,20,20)); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(rgb(24,24,24), rgb(20,20,20)); /* For Firefox 3.6 to 15 */
+background: linear-gradient(rgb(24,24,24), rgb(20,20,20)); /* Standard syntax */
+}
+.dglux_page_root .tab-handle-list-container {
+    position: relative;
+    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #202020), color-stop(1, #191919) );
+    background:-moz-linear-gradient( center top, #202020 5%, #191919 100% );
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#202020', endColorstr='#191919');
+    background-color:#202020;
+    
+	border-top-color: #292929;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-bottom-color: #3a3a3a;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	height: 17px;
+}
+
+.dglux_page_root .tab-handle-content-seperator {
+    position: relative;
+	background-color: #333333; 
+	height: 0px;
+	margin-left: 1px;
+	
+	border-bottom-color: #262626;
+	border-bottom-width: 1px;
+	border-bottom-style: none;
+	
+	border-right-color: #131313;
+	border-right-width: 1px;
+	border-right-style: none;
+}
+
+/*************************** Text Selection **************************/
+.dglux_page_root .disable-selection {
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  cursor: default;
+}
+
+
+/************************ Misc Utils *************************/
+.dglux_page_root .full-screen {
+	display:block;
+
+    /*set the div in the top-left corner of the screen*/
+    top:0;
+    left:0;
+    
+    /*set the width and height to 100% of the screen*/
+    width:100%;
+    height:100%;
+    
+}
+
+.dglux_page_root .rounded-corner-top {
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+}
+
+.dglux_page_root .panel-titlebar-button-close {
+  pointer-events: none;
+}

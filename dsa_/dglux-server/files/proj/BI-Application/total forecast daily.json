@@ -1,0 +1,142 @@
+[
+	{
+		"PARTNER REFERRAL":"35",
+		"EVENTS":"50",
+		"INTERNET":"20",
+		"PHONE":"47",
+		"OTHER":"70",
+		"scale":"0",
+		"browser":"32",
+		"chart_color":"#5574D4",
+		"time":"0"
+	},
+	{
+		"PARTNER REFERRAL":"180",
+		"EVENTS":"160",
+		"INTERNET":"310",
+		"PHONE":"190",
+		"OTHER":"120",
+		"scale":"100",
+		"browser":"31",
+		"chart_color":"#9E75FF",
+		"time":"2"
+	},
+	{
+		"PARTNER REFERRAL":"185",
+		"EVENTS":"130",
+		"INTERNET":"230",
+		"PHONE":"340",
+		"OTHER":"130",
+		"scale":"200",
+		"browser":"25",
+		"chart_color":"#7EDEB3",
+		"time":"4"
+	},
+	{
+		"PARTNER REFERRAL":"123",
+		"EVENTS":"130",
+		"INTERNET":"240",
+		"PHONE":"180",
+		"OTHER":"190",
+		"scale":"300",
+		"browser":"9",
+		"chart_color":"#599FFF",
+		"time":"6"
+	},
+	{
+		"PARTNER REFERRAL":"280",
+		"EVENTS":"310",
+		"INTERNET":"210",
+		"PHONE":"110",
+		"OTHER":"150",
+		"scale":"400",
+		"browser":"3",
+		"chart_color":"#E79374",
+		"time":"8"
+	},
+	{
+		"PARTNER REFERRAL":"300",
+		"EVENTS":"350",
+		"INTERNET":"220",
+		"PHONE":"170",
+		"OTHER":"90",
+		"time":"9"
+	},
+	{
+		"PARTNER REFERRAL":"23",
+		"EVENTS":"40",
+		"INTERNET":"140",
+		"PHONE":"90",
+		"OTHER":"230",
+		"time":"10"
+	},
+	{
+		"PARTNER REFERRAL":"23",
+		"EVENTS":"40",
+		"INTERNET":"140",
+		"PHONE":"90",
+		"OTHER":"230",
+		"time":"11"
+	},
+	{
+		"PARTNER REFERRAL":"67",
+		"EVENTS":"70",
+		"INTERNET":"180",
+		"PHONE":"120",
+		"OTHER":"270",
+		"time":"12"
+	},
+	{
+		"PARTNER REFERRAL":"270",
+		"EVENTS":"210",
+		"INTERNET":"370",
+		"PHONE":"130",
+		"OTHER":"330",
+		"scale":"0",
+		"time":"14"
+	},
+	{
+		"PARTNER REFERRAL":"270",
+		"EVENTS":"210",
+		"INTERNET":"370",
+		"PHONE":"130",
+		"OTHER":"330",
+		"scale":"100",
+		"time":"16"
+	},
+	{
+		"PARTNER REFERRAL":"180",
+		"EVENTS":"160",
+		"INTERNET":"310",
+		"PHONE":"190",
+		"OTHER":"120",
+		"scale":"200",
+		"time":"18"
+	},
+	{
+		"PARTNER REFERRAL":"210",
+		"EVENTS":"270",
+		"INTERNET":"270",
+		"PHONE":"190",
+		"OTHER":"50",
+		"scale":"300",
+		"time":"20"
+	},
+	{
+		"PARTNER REFERRAL":"185",
+		"EVENTS":"130",
+		"INTERNET":"230",
+		"PHONE":"340",
+		"OTHER":"130",
+		"scale":"400",
+		"time":"22"
+	},
+	{
+		"PARTNER REFERRAL":"20",
+		"EVENTS":"20",
+		"INTERNET":"100",
+		"PHONE":"10",
+		"OTHER":"10",
+		"time":"24"
+	}
+]

@@ -1,0 +1,34 @@
+{
+ "dglux": {
+  "type": "dsa",
+  "dist": "Dsa",
+  "productId": "dsa-lp69fB7V1rY0P49724iCeik6887Ux0U74A04wbd7p09bKIn4qq86cK9FiU807O2y",
+  "hosts": [
+   "localhost:8088"
+  ],
+  "paths": [
+   ""
+  ],
+  "projs": [
+   "*"
+  ],
+  "config": {
+   "indexUrl": "index.html",
+   "viewerUrl": "viewer.html",
+   "dataUrl": "data",
+   "websocketUrl": "ws",
+   "userUrl": "user",
+   "assetUrl": "file",
+   "sessionUrl": "session",
+   "dbUrl": "db",
+   "logoutUrl": "logout"
+  },
+  "expire": "2020-11-05",
+  "rhash": "OXKDiKGt",
+  "topics": 100,
+  "company": "Universidad Panamericana",
+  "maintenance": "2021-10-06T23:17:00.000Z",
+  "hash": "Oi09KjQvNDIpIjwn"
+ },
+ "sig": "AJxYXHfXgdSUc/UETQJ/UE3ezLeWegtYMk6+UBQCeO5dcVvUGr8uYrigYpPdtfZzOcl+Qr3+2KOHHrHazolFuh3Vi7zSKBNb0L7+Xx5Te+zwqLwqVYhUrlgN4Ane62R6imlNFI8uEGG/MctRLn8BB3uhUyttUn7iDS/xk5CMp0tWmOjeiz9XhqrFWUYxdVNnQ+lRA52zchGqvvwvMBvBIw=="
+}

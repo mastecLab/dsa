@@ -1,0 +1,776 @@
+[2017-02-13 12:34:57.316414] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:56140/conn, --token, TjbSGVF6K94p9nuPVK66EhEb0HZGYDe5zKhMhMmzbj83Zf87] (pid: 10532) ==
+[2017-02-13 12:34:59.824130] [INFO][DSA] Connecting to http://127.0.0.1:56140/conn
+[2017-02-13 12:35:00.010286] [INFO][DSA] Connected
+[2017-02-13 17:56:38.849994] [INFO][DSA] Disconnected
+[2017-02-13 17:56:39.141199] [INFO][DSA] Connected
+[2017-11-10 16:04:47.729056] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:52351/conn, --token, UOMVqSCaBqMDPRWLKG0v8s1RahWSp9gkSMKX7WKYOgUQUJ5r] (pid: 15412) ==
+[2017-11-10 16:04:48.254930] [INFO][DSA] Connecting to http://127.0.0.1:52351/conn
+[2017-11-10 16:04:48.386441] [INFO][DSA] Connected
+[2017-11-10 18:12:48.576765] [INFO][DSA] Disconnected
+[2017-11-10 18:12:48.683383] [INFO][DSA] Connected
+[2017-11-10 22:01:08.621106] [INFO][DSA] Disconnected
+[2017-11-10 22:01:08.687111] [INFO][DSA] Connected
+[2017-11-10 23:26:02.088862] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:55114/conn, --token, XHtLuqLcV7ugDEqBpTdoTHu5bg8hVOeZle7pKoIhcynSyQex] (pid: 15628) ==
+[2017-11-10 23:26:02.837050] [INFO][DSA] Connecting to http://127.0.0.1:55114/conn
+[2017-11-10 23:26:02.937312] [INFO][DSA] Connected
+[2017-11-11 09:30:42.734510] [INFO][DSA] Disconnected
+[2017-11-11 09:30:42.886617] [INFO][DSA] Connected
+[2017-11-11 15:04:16.614290] [INFO][DSA] Disconnected
+[2017-11-11 15:04:16.694348] [INFO][DSA] Connected
+[2017-11-11 15:41:14.840135] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:64133/conn, --token, Z8ycY8xlCQ7JL7aA5OWJC5ibowCJSacDHSeypcVi7S5hjYmo] (pid: 18828) ==
+[2017-11-11 15:41:15.281474] [INFO][DSA] Connecting to http://127.0.0.1:64133/conn
+[2017-11-11 15:41:15.400085] [INFO][DSA] Connected
+[2017-11-16 18:56:38.557246] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:60510/conn, --token, WnDMiAoJEuIr5xrXQCWh5XWhMvUGly4RKpW9MfNGvlZxwfjt] (pid: 11680) ==
+[2017-11-16 18:56:39.244734] [INFO][DSA] Connecting to http://127.0.0.1:60510/conn
+[2017-11-16 18:56:39.338485] [INFO][DSA] Connected
+[2018-01-20 09:48:25.385626] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:52991/conn, --token, Q3EZx2I1D9XCzK1oyJg48UsJfJ1ipWDTFuaFmnYSZwDMlrG9] (pid: 8692) ==
+[2018-01-20 09:48:26.595489] [INFO][DSA] Connecting to http://127.0.0.1:52991/conn
+[2018-01-20 09:48:26.721561] [INFO][DSA] Connected
+[2018-01-20 23:33:24.499734] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:55911/conn, --token, y9whdFci1QlWJkTPZ3RFJwNe7UsYfzI06pbhKe0aIgECzT3x] (pid: 9820) ==
+[2018-01-20 23:33:25.159777] [INFO][DSA] Connecting to http://127.0.0.1:55911/conn
+[2018-01-20 23:33:25.472998] [INFO][DSA] Connected
+[2018-01-20 23:36:58.253229] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:56126/conn, --token, UEzhlSmbUGLNsWSnUFyJRSMprBCfFgkDIL0FUQr4y00qq22T] (pid: 7776) ==
+[2018-01-20 23:36:58.978761] [INFO][DSA] Connecting to http://127.0.0.1:56126/conn
+[2018-01-20 23:36:59.336580] [INFO][DSA] Connected
+[2018-01-20 23:39:55.155845] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:56288/conn, --token, qOI9Q7V9WsH8bWVHSltX9TSga4Xdl4MLfV70jA32y1vGXKd1] (pid: 11612) ==
+[2018-01-20 23:39:55.964956] [INFO][DSA] Connecting to http://127.0.0.1:56288/conn
+[2018-01-20 23:39:56.307234] [INFO][DSA] Connected
+[2018-01-22 16:17:51.900594] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:53646/conn, --token, 0ZCPTigz1wqX1iOUg7I9aBpyM97JEZtfn0RHlvQFPCLZY1dA] (pid: 9652) ==
+[2018-01-22 16:17:52.707897] [INFO][DSA] Connecting to http://127.0.0.1:53646/conn
+[2018-01-22 16:17:52.891536] [INFO][DSA] Connected
+[2018-01-22 18:47:52.826825] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57047/conn, --token, tJQN1vLykWfzlPEcw8opu6ij5SHEq4uJ62D4Y8DVybqyWj7y] (pid: 5572) ==
+[2018-01-22 18:47:53.540330] [INFO][DSA] Connecting to http://127.0.0.1:57047/conn
+[2018-01-22 18:47:53.883573] [INFO][DSA] Connected
+[2018-01-22 19:20:09.522837] [INFO][DSA] Disconnected
+[2018-01-22 19:20:09.593886] [INFO][DSA] Connected
+[2018-01-23 10:31:10.549234] [INFO][DSA] Disconnected
+[2018-01-23 10:31:10.654318] [INFO][DSA] Connected
+[2018-01-23 13:01:40.234696] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:61534/conn, --token, ZxpN0ubLxRzqMXdF0aiZ7bXGdS0eg7XyGsNfvVwrT52t5Sac] (pid: 484) ==
+[2018-01-23 13:01:41.148343] [INFO][DSA] Connecting to http://127.0.0.1:61534/conn
+[2018-01-23 13:01:41.392516] [INFO][DSA] Connected
+[2018-01-23 15:41:38.463238] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:63807/conn, --token, qYTz8TLEwWIqAsMBeAYkqeDxhp55mtYtNPOR67txI9BHlLTT] (pid: 10292) ==
+[2018-01-23 15:41:39.366878] [INFO][DSA] Connecting to http://127.0.0.1:63807/conn
+[2018-01-23 15:41:39.819198] [INFO][DSA] Connected
+[2018-01-29 18:38:23.039466] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:50259/conn, --token, KhTYI8vLV9gSH4417VqpVD56sxyQTGO6c8xlG1V1uU5qCBzU] (pid: 2504) ==
+[2018-01-29 18:38:23.662480] [INFO][DSA] Connecting to http://127.0.0.1:50259/conn
+[2018-01-29 18:38:23.788519] [INFO][DSA] Connected
+[2018-01-29 19:36:37.555863] [INFO][DSA] Disconnected
+[2018-01-29 19:36:37.603897] [INFO][DSA] Connected
+[2018-02-01 01:19:36.902994] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:54730/conn, --token, 8rKiPjlohOBV2mSBrAavJF6ztNkoCGMAQpQfFnVSbnAutWpy] (pid: 15104) ==
+[2018-02-01 01:19:37.466392] [INFO][DSA] Connecting to http://127.0.0.1:54730/conn
+[2018-02-01 01:19:37.696555] [INFO][DSA] Connected
+[2018-02-01 01:23:51.881282] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:54921/conn, --token, 0MCksPVS71Fm1qlOFrAmP5nQKQDvSnX6tTJmO3NgJsYic8pd] (pid: 7852) ==
+[2018-02-01 01:23:57.673954] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:54925/conn, --token, EWEEKYCvEdQSdMMhB5Cj6zqj7jCvLL1EKFgxG7KfP0J5KaAD] (pid: 7560) ==
+[2018-02-01 01:23:58.411476] [INFO][DSA] Connecting to http://127.0.0.1:54925/conn
+[2018-02-01 01:23:58.775733] [INFO][DSA] Connected
+[2018-02-01 23:31:35.442555] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:63501/conn, --token, aZWn3WF3lB4sZpK0WWihjcM1G0InAGJEJr6vOstzBykQd6fl] (pid: 7852) ==
+[2018-02-01 23:31:37.116738] [INFO][DSA] Connecting to http://127.0.0.1:63501/conn
+[2018-02-01 23:31:37.298866] [INFO][DSA] Connected
+[2018-02-12 18:08:28.199934] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:59031/conn, --token, fYiaIaiYliZvNkOeZ7SEdoErXAg7Kq8Nmemb4Cle6knobg4C] (pid: 22628) ==
+[2018-02-12 18:08:29.122027] [INFO][DSA] Connecting to http://127.0.0.1:59031/conn
+[2018-02-12 18:08:29.272389] [INFO][DSA] Connected
+[2018-02-12 19:41:14.625830] [INFO][DSA] Disconnected
+[2018-02-12 19:41:14.763927] [INFO][DSA] Connected
+[2018-02-12 20:14:52.328886] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:60752/conn, --token, TgLILKVcxh7r5gEtfAmxTu2OrWp7CTwg7hLWdiDwsbGHYsGk] (pid: 12072) ==
+[2018-02-12 20:14:53.211510] [INFO][DSA] Connecting to http://127.0.0.1:60752/conn
+[2018-02-12 20:14:53.428664] [INFO][DSA] Connected
+[2018-02-12 21:57:24.818502] [INFO][DSA] Disconnected
+[2018-02-12 21:57:25.053667] [INFO][DSA] Connected
+[2018-02-13 09:19:09.581315] [INFO][DSA] Disconnected
+[2018-02-13 09:19:09.716920] [INFO][DSA] Connected
+[2018-02-13 20:40:50.788159] [INFO][DSA] Disconnected
+[2018-02-13 20:40:50.878722] [INFO][DSA] Connected
+[2018-02-14 10:04:54.595245] [INFO][DSA] Disconnected
+[2018-02-14 10:04:55.249268] [INFO][DSA] Connected
+[2018-02-19 10:55:19.377956] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:64268/conn, --token, 6qj2g36tLHvlhYedxzG66To0tvoqQfujG1TJ2CkxZYQoRNCd] (pid: 3284) ==
+[2018-02-19 10:55:20.093463] [INFO][DSA] Connecting to http://127.0.0.1:64268/conn
+[2018-02-19 10:55:20.285600] [INFO][DSA] Connected
+[2018-02-19 16:47:40.292893] [INFO][DSA] Disconnected
+[2018-02-19 16:50:22.771881] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:56528/conn, --token, K71J7portVejCzLa1ehGsEBBKyV69GgPjVy6gwc6AbAeW4yQ] (pid: 9832) ==
+[2018-02-19 16:50:23.695323] [INFO][DSA] Connecting to http://127.0.0.1:56528/conn
+[2018-02-19 16:50:23.880047] [INFO][DSA] Connected
+[2018-02-19 17:01:16.417954] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:56903/conn, --token, EgoCB0I8yxQ3kLUfM3wtCgCJI7eyv0cwjn4yLkN4r3WW5kAP] (pid: 17344) ==
+[2018-02-19 17:01:17.268133] [INFO][DSA] Connecting to http://127.0.0.1:56903/conn
+[2018-02-19 17:01:17.790003] [INFO][DSA] Connected
+[2018-02-19 17:13:31.245908] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57404/conn, --token, 7mPxMhcEd5CfQYZ2dXqDR2AJq1mMQNLLqVlCwNIXzBRHGe3o] (pid: 8184) ==
+[2018-02-19 17:13:32.210637] [INFO][DSA] Connecting to http://127.0.0.1:57404/conn
+[2018-02-19 17:13:32.607418] [INFO][DSA] Connected
+[2018-02-19 18:07:48.638775] [INFO][DSA] Disconnected
+[2018-02-19 18:07:48.766866] [INFO][DSA] Connected
+[2018-02-19 21:41:26.910819] [INFO][DSA] Disconnected
+[2018-02-26 18:09:16.145424] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:53934/conn, --token, QE1qatVAQqA6XKYpsFb7Du8VPqF8UumvJKvgDs5bs5uvwJsT] (pid: 9584) ==
+[2018-02-26 18:09:16.782873] [INFO][DSA] Connecting to http://127.0.0.1:53934/conn
+[2018-02-26 18:09:16.929977] [INFO][DSA] Connected
+[2018-02-26 21:49:55.594421] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:58315/conn, --token, MoOGp1YKkVg1BQ4aw0ozV6NjLcXRr2VJSu1Wqk2hPRaSTueR] (pid: 15168) ==
+[2018-02-26 21:49:56.340957] [INFO][DSA] Connecting to http://127.0.0.1:58315/conn
+[2018-02-26 21:49:56.734226] [INFO][DSA] Connected
+[2018-02-27 19:57:53.608942] [INFO][DSA] Disconnected
+[2018-02-27 19:57:53.666983] [INFO][DSA] Connected
+[2018-02-28 09:06:24.912967] [INFO][DSA] Disconnected
+[2018-02-28 09:06:25.013539] [INFO][DSA] Connected
+[2018-02-28 13:26:18.811959] [INFO][DSA] Disconnected
+[2018-02-28 13:26:18.854491] [INFO][DSA] Connected
+[2018-02-28 15:08:34.659753] [INFO][DSA] Disconnected
+[2018-02-28 15:08:34.670760] [INFO][DSA] Connected
+[2018-02-28 16:59:59.596808] [INFO][DSA] Disconnected
+[2018-02-28 16:59:59.669412] [INFO][DSA] Connected
+[2018-02-28 21:18:48.763401] [INFO][DSA] Disconnected
+[2018-02-28 21:18:48.811434] [INFO][DSA] Connected
+[2018-03-01 11:34:49.781978] [INFO][DSA] Disconnected
+[2018-03-01 11:34:49.900061] [INFO][DSA] Connected
+[2018-03-02 09:33:15.660358] [INFO][DSA] Disconnected
+[2018-03-02 09:33:15.821472] [INFO][DSA] Connected
+[2018-03-02 12:47:01.684321] [INFO][DSA] Disconnected
+[2018-03-02 12:47:01.692325] [INFO][DSA] Connected
+[2018-03-03 19:50:36.313459] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57853/conn, --token, 8XZDJ5ET2XibhWtgyBxDMYt1GYPqNMhccTKMh7T1gz7Uc596] (pid: 6664) ==
+[2018-03-03 19:50:37.417240] [INFO][DSA] Connecting to http://127.0.0.1:57853/conn
+[2018-03-03 19:50:37.583367] [INFO][DSA] Connected
+[2018-03-05 18:30:38.182092] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:62768/conn, --token, BFhPiAk98KOpkA1gB3SjaACAnNi034OPI21KrktdYR2ruD94] (pid: 16812) ==
+[2018-03-05 18:30:38.988462] [INFO][DSA] Connecting to http://127.0.0.1:62768/conn
+[2018-03-05 18:30:39.112055] [INFO][DSA] Connected
+[2018-03-06 09:44:03.818478] [INFO][DSA] Disconnected
+[2018-03-06 09:44:04.060647] [INFO][DSA] Connected
+[2018-04-09 14:08:48.074982] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:64479/conn, --token, WEDzFXMwQHoBZk3lBgYLfmDaVHdWUGstnsqO5Zbkw1QGfl79] (pid: 19780) ==
+[2018-04-09 14:08:48.837319] [INFO][DSA] Connecting to http://127.0.0.1:64479/conn
+[2018-04-09 14:08:49.050632] [INFO][DSA] Connected
+[2018-04-09 18:01:22.559789] [INFO][DSA] Disconnected
+[2018-04-09 18:01:22.744949] [INFO][DSA] Connected
+[2018-04-10 11:12:29.616778] [INFO][DSA] Disconnected
+[2018-04-10 11:12:29.969526] [INFO][DSA] Connected
+[2018-04-10 18:22:04.617286] [INFO][DSA] Disconnected
+[2018-04-10 18:22:05.158717] [INFO][DSA] Connected
+[2018-04-10 20:12:01.532175] == Exited with status 1073807364 ==
+[2018-04-10 20:12:07.094200] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:64479/conn, --token, WEDzFXMwQHoBZk3lBgYLfmDaVHdWUGstnsqO5Zbkw1QGfl79] (pid: 12800) ==
+[2018-04-10 20:12:07.121221] == Exited with status -1073741205 ==
+[2018-04-10 20:12:07.121221] == Exited with status -1073741205 ==
+[2018-04-10 20:12:07.121221] == Exited with status -1073741205 ==
+[2018-04-10 20:12:08.168735] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:64479/conn, --token, WEDzFXMwQHoBZk3lBgYLfmDaVHdWUGstnsqO5Zbkw1QGfl79] (pid: 12124) ==
+[2018-04-10 20:12:08.248791] == Exited with status -1073741205 ==
+[2018-04-10 20:12:08.168735] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:64479/conn, --token, WEDzFXMwQHoBZk3lBgYLfmDaVHdWUGstnsqO5Zbkw1QGfl79] (pid: 12124) ==
+[2018-04-10 20:12:08.248791] == Exited with status -1073741205 ==
+[2018-04-10 21:31:03.643225] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:50524/conn, --token, 2JCsiPWaEvBcQJkTTf7SKbzIHGo1qyUw1vkq1if9eQw6frqK] (pid: 12804) ==
+[2018-04-10 21:31:04.382395] [INFO][DSA] Connecting to http://127.0.0.1:50524/conn
+[2018-04-10 21:31:04.614577] [INFO][DSA] Connected
+[2018-04-11 16:22:33.119732] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:56960/conn, --token, jUf1758Q72dOurMivsiAX2xwH1IWrVIUjF6qQWc4oa79fU5j] (pid: 10992) ==
+[2018-04-11 16:22:33.765831] [INFO][DSA] Connecting to http://127.0.0.1:56960/conn
+[2018-04-11 16:22:34.007304] [INFO][DSA] Connected
+[2018-08-10 13:58:45.514634] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:64475/conn, --token, lO7bbTz2wiAbzIbFwvTce9NbJp35Wn9ZBhdVC9bZ5IisZJLf] (pid: 38620) ==
+[2018-08-10 13:58:46.016390] [INFO][DSA] Connecting to http://127.0.0.1:64475/conn
+[2018-08-10 13:58:46.123329] [INFO][DSA] Connected
+[2018-08-10 17:20:16.626587] [INFO][DSA] Disconnected
+[2018-08-10 17:20:16.853456] [INFO][DSA] Connected
+[2018-08-10 20:38:02.614062] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:56377/conn, --token, 7wOnqA3ZibygEgyyLiofcRmLHYTjt1oWRtxncqA8HsvI0rmm] (pid: 28808) ==
+[2018-08-10 20:38:03.097782] [INFO][DSA] Connecting to http://127.0.0.1:56377/conn
+[2018-08-10 20:38:03.272681] [INFO][DSA] Connected
+[2018-08-11 11:22:12.720547] [INFO][DSA] Disconnected
+[2018-08-11 11:22:12.986394] [INFO][DSA] Connected
+[2018-08-11 13:06:34.990437] [INFO][DSA] Disconnected
+[2018-08-11 13:06:35.315582] [INFO][DSA] Connected
+[2018-08-11 16:28:56.781428] [INFO][DSA] Disconnected
+[2018-08-11 16:28:56.782427] [INFO][DSA] Connected
+[2018-11-10 13:46:04.762669] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:50440/conn, --token, Gz8xh1iPb1XE0i2aDmFT1YUZUNm4W1nmP8BkfLngYPPs7OYy] (pid: 8892) ==
+[2018-11-10 13:46:05.892419] [INFO][DSA] Connecting to http://127.0.0.1:50440/conn
+[2018-11-10 13:46:06.040334] [INFO][DSA] Connected
+[2018-11-10 14:55:26.915598] [INFO][DSA] Disconnected
+[2018-11-10 14:55:27.042525] [INFO][DSA] Connected
+[2018-11-10 15:13:15.372443] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:52637/conn, --token, c9YQofUXIW8S1MVGQ1ZWLc9BfJhOsXF3UcRTeCAECpLzpeEo] (pid: 17216) ==
+[2018-11-11 09:58:12.037369] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:52809/conn, --token, F1mDJep9P33r4dSSUo4paENC3exrejPLhrHb3JpXWkgHroOG] (pid: 18640) ==
+[2018-11-11 09:58:14.965125] [INFO][DSA] Connecting to http://127.0.0.1:52809/conn
+[2018-11-11 09:58:15.957554] [INFO][DSA] Connected
+[2018-11-11 09:59:40.796935] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:52979/conn, --token, dAjxzmEdgH1sRre41CGE3druFIVN3qQECbj5Q1nkeMwDfyEw] (pid: 17908) ==
+[2018-11-11 09:59:44.421850] [INFO][DSA] Connecting to http://127.0.0.1:52979/conn
+[2018-11-11 09:59:45.448256] [INFO][DSA] Connected
+[2018-11-11 19:40:59.750684] [INFO][DSA] Disconnected
+[2018-11-11 19:40:59.947571] [INFO][DSA] Connected
+[2018-11-11 20:18:14.254852] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:54652/conn, --token, URKEx0EnK1IUaZsCOASCIc3Hi6qIbIDDCF0RQA86wiBtct4Y] (pid: 14924) ==
+[2018-11-11 20:18:18.403464] [INFO][DSA] Connecting to http://127.0.0.1:54652/conn
+[2018-11-11 20:18:19.772675] [INFO][DSA] Connected
+[2018-11-12 10:48:19.069412] [INFO][DSA] Disconnected
+[2018-11-12 10:48:19.153365] [INFO][DSA] Connected
+[2018-11-12 15:49:01.772756] [INFO][DSA] Disconnected
+[2018-11-12 15:49:01.930665] [INFO][DSA] Connected
+[2018-11-12 17:05:31.663710] [INFO][DSA] Disconnected
+[2018-11-12 17:05:31.784640] [INFO][DSA] Connected
+[2018-11-12 21:59:09.801655] [INFO][DSA] Disconnected
+[2018-11-12 21:59:10.000538] [INFO][DSA] Connected
+[2019-01-24 18:59:03.310563] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:51353/conn, --token, PEtp4MHkWSYwD2zymeFQh3ywinMxxVKQB5gD4F33JDS6gAAw] (pid: 9520) ==
+[2019-01-24 18:59:04.643801] [INFO][DSA] Connecting to http://127.0.0.1:51353/conn
+[2019-01-24 18:59:04.863674] [INFO][DSA] Connected
+[2019-01-24 19:39:05.598845] [INFO][DSA] Disconnected
+[2019-01-24 19:39:05.661809] [INFO][DSA] Connected
+[2019-01-25 11:10:10.749657] [INFO][DSA] Disconnected
+[2019-01-25 11:10:10.976529] [INFO][DSA] Connected
+[2019-01-25 12:46:19.691726] [INFO][DSA] Disconnected
+[2019-01-25 12:46:19.786672] [INFO][DSA] Connected
+[2019-02-07 16:50:37.130670] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:50861/conn, --token, p4g3XGMpKr8noQ2hIa3yiLVL0j9S3OasZeNq95UdJL6dwDWe] (pid: 20316) ==
+[2019-02-07 16:50:38.144287] [INFO][DSA] Connecting to http://127.0.0.1:50861/conn
+[2019-02-07 16:50:38.379137] [INFO][DSA] Connected
+[2019-02-07 18:31:58.113636] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57610/conn, --token, OTijC61PM3JT5MFhoAg45bjjOURsMrsJGrdzh5oXS9f0Ls20] (pid: 2980) ==
+[2019-02-07 18:31:58.880207] [INFO][DSA] Connecting to http://127.0.0.1:57610/conn
+[2019-02-07 18:31:59.026123] [INFO][DSA] Connected
+[2019-02-07 19:54:03.214596] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:58896/conn, --token, 58Ft2GbofRqQGVldyKJGJAablHkJecbDiG80GkeIavaE5gJ1] (pid: 2708) ==
+[2019-02-07 19:54:04.160038] [INFO][DSA] Connecting to http://127.0.0.1:58896/conn
+[2019-02-07 19:54:04.480853] [INFO][DSA] Connected
+[2019-02-07 20:08:52.540049] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:59233/conn, --token, LAejMR1iEf2lQ5c3KFzHqjvEDTmG772i9Nf1slPxFG7aIuId] (pid: 15040) ==
+[2019-02-07 20:08:53.476511] [INFO][DSA] Connecting to http://127.0.0.1:59233/conn
+[2019-02-07 20:08:53.884276] [INFO][DSA] Connected
+[2019-02-07 20:12:45.228809] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:59420/conn, --token, JEjGXRcm2IK8FZsiOhWtOcyXdwiU5LeZyTWmQdMDOqDo1pGj] (pid: 7436) ==
+[2019-02-07 20:12:46.161273] [INFO][DSA] Connecting to http://127.0.0.1:59420/conn
+[2019-02-07 20:12:46.509306] [INFO][DSA] Connected
+[2019-02-07 20:25:19.989711] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:59876/conn, --token, 1uzQyMj8o0fLaKPPaBuUEeh5DgnnzMZajXLhv8CJvFZtm3Ql] (pid: 9648) ==
+[2019-02-07 20:25:20.851213] [INFO][DSA] Connecting to http://127.0.0.1:59876/conn
+[2019-02-07 20:25:21.156037] [INFO][DSA] Connected
+[2019-02-08 15:34:41.710754] [INFO][DSA] Disconnected
+[2019-02-08 15:34:42.128507] [INFO][DSA] Connected
+[2019-02-08 16:12:19.539801] [INFO][DSA] Disconnected
+[2019-02-08 16:12:19.582777] [INFO][DSA] Connected
+[2019-02-09 00:29:01.746637] [INFO][DSA] Disconnected
+[2019-02-09 00:29:01.846579] [INFO][DSA] Connected
+[2019-02-09 09:02:37.793653] [INFO][DSA] Disconnected
+[2019-02-09 09:02:38.370319] [INFO][DSA] Connected
+[2019-02-11 12:58:18.647794] [INFO][DSA] Disconnected
+[2019-02-11 12:58:21.997475] [INFO][DSA] Connected
+[2019-02-14 16:25:13.904081] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:64178/conn, --token, dcnaRTBawCy31eHpi1w4xdmPcuU3P6BYlCUlaRohunT5g3tr] (pid: 13876) ==
+[2019-02-14 16:25:15.002476] [INFO][DSA] Connecting to http://127.0.0.1:64178/conn
+[2019-02-14 16:25:15.150391] [INFO][DSA] Connected
+[2019-02-14 16:45:35.154244] [INFO][DSA] Disconnected
+[2019-02-14 16:54:59.261072] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:64919/conn, --token, tT4nj8j8U70UhCHr4oy9ASbwlt5q28sm8FMZdGq2q49MomHt] (pid: 10948) ==
+[2019-02-14 16:55:00.310467] [INFO][DSA] Connecting to http://127.0.0.1:64919/conn
+[2019-02-14 16:55:00.894131] [INFO][DSA] Connected
+[2019-02-14 17:11:49.481258] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:65469/conn, --token, 2M5OLbJDK463mngVYuQx06TzYTwE8Txsf2VbcLhCqHAUtXwn] (pid: 7284) ==
+[2019-02-14 17:11:50.474685] [INFO][DSA] Connecting to http://127.0.0.1:65469/conn
+[2019-02-14 17:11:50.938417] [INFO][DSA] Connected
+[2019-02-14 18:07:42.468221] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:50068/conn, --token, zjfEl4RIKZ8qmRrAYcTrmeBqGrJbjJsUWx5LwR0vtVZcWpj2] (pid: 6964) ==
+[2019-02-14 18:07:43.527598] [INFO][DSA] Connecting to http://127.0.0.1:50068/conn
+[2019-02-14 18:07:43.828425] [INFO][DSA] Connected
+[2019-02-14 19:10:15.297129] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:51154/conn, --token, I3Bwl7FW88xKWrLbeYddcMsGLXoEJvNnOLx2ZFQTZxwuTGws] (pid: 8276) ==
+[2019-02-14 19:10:16.335529] [INFO][DSA] Connecting to http://127.0.0.1:51154/conn
+[2019-02-14 19:10:16.836240] [INFO][DSA] Connected
+[2019-02-14 20:27:17.921257] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:54915/conn, --token, N5Rl2g7pginnzLp7FLurLtoOq10WQdxx5x1a9hYNSStIgsCV] (pid: 12412) ==
+[2019-02-14 20:27:20.461012] [INFO][DSA] Connecting to http://127.0.0.1:54915/conn
+[2019-02-14 20:27:20.461012] [INFO][DSA] Connected
+[2019-02-14 20:49:23.865925] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:55659/conn, --token, CQBQiKIE0SMIrj7XbqRh2owrctWD4bq1Ix5Z9WtjZMr8vkDZ] (pid: 4960) ==
+[2019-02-14 20:49:24.601551] [INFO][DSA] Connecting to http://127.0.0.1:55659/conn
+[2019-02-14 20:49:24.618543] [INFO][DSA] Connected
+[2019-02-14 23:12:56.643773] [INFO][DSA] Disconnected
+[2019-02-14 23:12:56.767744] [INFO][DSA] Connected
+[2019-02-14 23:44:15.469025] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:56608/conn, --token, ZrDSORHFyiXHii9iuJ33wfkcm0fNIb5uDEUac4Z7mUROQjBf] (pid: 3740) ==
+[2019-02-14 23:44:23.187048] [INFO][DSA] Connecting to http://127.0.0.1:56608/conn
+[2019-02-14 23:44:23.928624] [INFO][DSA] Connected
+[2019-02-15 00:07:10.927948] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57150/conn, --token, 37rlOYE0FfVDqChxhThpuWmGxEPIDfnKUoRiID6RqlAEbLWv] (pid: 14736) ==
+[2019-02-15 00:07:13.946351] [INFO][DSA] Connecting to http://127.0.0.1:57150/conn
+[2019-02-15 00:07:15.207624] [INFO][DSA] Connected
+[2019-02-15 00:10:38.743326] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57309/conn, --token, 1KUCEkrY6yywVEEMCHVjyHyAvnADCldwHQfaUYW04LYWLvZg] (pid: 14944) ==
+[2019-02-15 00:10:42.044865] [INFO][DSA] Connecting to http://127.0.0.1:57309/conn
+[2019-02-15 00:10:43.496103] [INFO][DSA] Connected
+[2019-02-15 00:14:51.637205] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57636/conn, --token, 3aiWsMKydsCLoIqKH6qBuO9xkt5oHBo7QWmjvRwBlGBA4Apz] (pid: 4288) ==
+[2019-02-15 00:14:54.932751] [INFO][DSA] Connecting to http://127.0.0.1:57636/conn
+[2019-02-15 00:14:55.875207] [INFO][DSA] Connected
+[2019-02-15 00:56:20.544707] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:58474/conn, --token, RSwvGTRpVEJlEbilSdTBvgx82kvr9kMja0REkNhbbNr1O7DR] (pid: 2728) ==
+[2019-02-15 00:56:21.502143] [INFO][DSA] Connecting to http://127.0.0.1:58474/conn
+[2019-02-15 00:56:21.898917] [INFO][DSA] Connected
+[2019-02-15 13:21:58.836868] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:65199/conn, --token, ZlXUf9HXBNbKg7R5QMS6wab0BZl1VtkEGLeJNL6tTMEfpvmu] (pid: 7644) ==
+[2019-02-15 13:21:59.709365] [INFO][DSA] Connecting to http://127.0.0.1:65199/conn
+[2019-02-15 13:22:00.017187] [INFO][DSA] Connected
+[2019-02-15 16:06:49.845162] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:50394/conn, --token, BEJfqvWSVyk3ugByd17j7p76L8XKrZv5zbE1xDRZBRnWaKVQ] (pid: 8980) ==
+[2019-02-15 16:06:50.776615] [INFO][DSA] Connecting to http://127.0.0.1:50394/conn
+[2019-02-15 16:06:51.108424] [INFO][DSA] Connected
+[2019-02-15 21:36:13.559747] [INFO][DSA] Disconnected
+[2019-02-15 21:36:17.162092] [INFO][DSA] Connected
+[2019-02-16 09:17:21.588869] [INFO][DSA] Disconnected
+[2019-02-16 09:17:21.632843] [INFO][DSA] Connected
+[2019-02-16 12:49:21.773179] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:62471/conn, --token, YXsue8jFIck1x0FGdibGGFCi9y18LPvqWdLpS1LmWJvrrgnW] (pid: 1144) ==
+[2019-02-16 12:49:23.717508] [INFO][DSA] Connecting to http://127.0.0.1:62471/conn
+[2019-02-16 12:49:23.876416] [INFO][DSA] Connected
+[2019-02-16 12:52:00.674651] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:62602/conn, --token, 3yJkgHfcz00sulJeDFG7g8EixqQVSJMs7JQrXxGEv2dEpq9y] (pid: 15028) ==
+[2019-02-16 12:52:01.774017] [INFO][DSA] Connecting to http://127.0.0.1:62602/conn
+[2019-02-16 12:52:02.100829] [INFO][DSA] Connected
+[2019-02-17 16:29:57.630829] [INFO][DSA] Disconnected
+[2019-02-17 16:30:01.088425] [INFO][DSA] Connected
+[2019-02-17 22:38:23.166336] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:56261/conn, --token, zl1Mwih3xAI29qgJABLdr3y2vJvVsmqjTRMUQ5K3nFvTD2nw] (pid: 22212) ==
+[2019-02-17 22:38:24.429551] [INFO][DSA] Connecting to http://127.0.0.1:56261/conn
+[2019-02-17 22:38:24.589459] [INFO][DSA] Connected
+[2019-02-18 10:02:16.431590] [INFO][DSA] Disconnected
+[2019-02-18 10:02:16.619139] [INFO][DSA] Connected
+[2019-02-18 18:55:47.630940] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:64893/conn, --token, 85tHrPTsx9b1dzi1zmDUqkKV0STUQYA5vzoiGKTLlyp2Brk0] (pid: 9272) ==
+[2019-02-18 18:55:49.485884] [INFO][DSA] Connecting to http://127.0.0.1:64893/conn
+[2019-02-18 18:55:49.719748] [INFO][DSA] Connected
+[2019-02-19 10:50:02.691989] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:51830/conn, --token, MkZTPjWLxwWj39p0VZ1DGtxlU5xLINUCjMBDpGw0jbm3OWkA] (pid: 18832) ==
+[2019-02-19 10:50:05.254514] [INFO][DSA] Connecting to http://127.0.0.1:51830/conn
+[2019-02-19 10:50:05.721247] [INFO][DSA] Connected
+[2019-02-19 13:07:05.730591] [INFO][DSA] Disconnected
+[2019-02-19 13:07:49.507611] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:54184/conn, --token, wHR2NxfP2qyUMN8I7gK6yUwlPFKXktLnmF8VyjoaHldZbcoy] (pid: 15884) ==
+[2019-02-19 13:07:50.891815] [INFO][DSA] Connecting to http://127.0.0.1:54184/conn
+[2019-02-19 13:07:51.177650] [INFO][DSA] Connected
+[2019-02-19 13:38:49.693721] [INFO][DSA] Disconnected
+[2019-02-19 13:38:49.871617] [INFO][DSA] Connected
+[2019-02-20 10:30:26.707935] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:55101/conn, --token, 8GYdBHwL7GrB94n2xBwzJIcbillRBhIwZ2NTeqaf2SeQoukj] (pid: 21384) ==
+[2019-02-20 10:30:28.532934] [INFO][DSA] Connecting to http://127.0.0.1:55101/conn
+[2019-02-20 10:30:28.734819] [INFO][DSA] Connected
+[2019-02-20 10:32:00.415530] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:55225/conn, --token, LonGf0LpbFAgdnFqtYzFXsMiBjvs06egxke2jqYF3j5Zsbm2] (pid: 13776) ==
+[2019-02-20 10:32:01.620837] [INFO][DSA] Connecting to http://127.0.0.1:55225/conn
+[2019-02-20 10:32:02.108557] [INFO][DSA] Connected
+[2019-02-21 10:04:09.295344] [INFO][DSA] Disconnected
+[2019-02-21 10:04:10.046911] [INFO][DSA] Connected
+[2019-02-21 13:41:42.098989] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:54996/conn, --token, rT6K3H2GX0Tv0d2XpRJGhDgjANZjxr8UXHtdqV0e6mKyPmfC] (pid: 19432) ==
+[2019-02-21 13:41:43.538161] [INFO][DSA] Connecting to http://127.0.0.1:54996/conn
+[2019-02-21 13:41:43.703068] [INFO][DSA] Connected
+[2019-02-21 13:42:18.303660] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:55055/conn, --token, IdclUM0ayRCi9eUKkndxPRRgvDSd1raClOL8Y5tzQ6daqVTk] (pid: 4004) ==
+[2019-02-21 13:42:19.172161] [INFO][DSA] Connecting to http://127.0.0.1:55055/conn
+[2019-02-21 13:42:19.544946] [INFO][DSA] Connected
+[2019-02-21 17:16:10.099440] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57661/conn, --token, AYTlGkTPkU5xhVDp4ALJIAsm6ucc9MIgpJLp50ROrJNbS2Jf] (pid: 20732) ==
+[2019-02-21 17:16:11.218794] [INFO][DSA] Connecting to http://127.0.0.1:57661/conn
+[2019-02-21 17:16:11.420679] [INFO][DSA] Connected
+[2019-02-21 17:22:23.248468] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57845/conn, --token, Dmre3aLTqibue3xhqR5IkrnvXoNK541fI6prm7JRgFP6trZs] (pid: 15312) ==
+[2019-02-21 17:22:24.298865] [INFO][DSA] Connecting to http://127.0.0.1:57845/conn
+[2019-02-21 17:22:24.674649] [INFO][DSA] Connected
+[2019-02-21 18:10:53.703467] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:60904/conn, --token, 7qzgTc4yD9iPOupZuqsSbJDnNl44kRrBME9Lob2qzCixdYBK] (pid: 9324) ==
+[2019-02-21 18:10:55.316552] [INFO][DSA] Connecting to http://127.0.0.1:60904/conn
+[2019-02-21 18:10:55.499447] [INFO][DSA] Connected
+[2019-02-22 09:54:08.711668] [INFO][DSA] Disconnected
+[2019-02-22 09:54:08.959710] [INFO][DSA] Connected
+[2019-02-22 12:46:51.589828] [INFO][DSA] Disconnected
+[2019-02-22 12:46:51.745737] [INFO][DSA] Connected
+[2019-02-22 18:16:46.643740] [INFO][DSA] Disconnected
+[2019-02-22 18:16:46.766669] [INFO][DSA] Connected
+[2019-02-22 20:00:45.305873] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:52787/conn, --token, NpTFCl3v8Gk92PN8szRrmhNX8fTSLPSsLzce0ZC2Jf1SHqMh] (pid: 9700) ==
+[2019-02-22 20:00:46.519513] [INFO][DSA] Connecting to http://127.0.0.1:52787/conn
+[2019-02-22 20:00:46.717399] [INFO][DSA] Connected
+[2019-02-22 22:55:47.519848] [INFO][DSA] Disconnected
+[2019-02-22 22:55:51.298580] [INFO][DSA] Connected
+[2019-02-23 08:59:20.754647] [INFO][DSA] Disconnected
+[2019-02-23 08:59:20.968524] [INFO][DSA] Connected
+[2019-02-23 11:24:27.228978] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:52260/conn, --token, JpsP0Ej6IWUJULZcwqe0hTC24Wb5BmyuQpDIs5LUVE5GVaUK] (pid: 13548) ==
+[2019-02-23 11:24:28.959239] [INFO][DSA] Connecting to http://127.0.0.1:52260/conn
+[2019-02-23 11:24:29.117148] [INFO][DSA] Connected
+[2019-02-23 11:24:30.032327] DslinkServer loaded /dataflow
+[2019-02-23 11:24:30.083286] create Folder /libs
+[2019-02-23 14:46:55.862618] [INFO][DSA] Disconnected
+[2019-02-23 14:46:56.045511] [INFO][DSA] Connected
+[2019-02-23 15:18:39.005326] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:60814/conn, --token, 03jPl4AAgQvWIUK6K9eWMMGQaAXJVavUy4CjLFQPnEP7gXDk] (pid: 9616) ==
+[2019-02-23 15:18:40.520449] [INFO][DSA] Connecting to http://127.0.0.1:60814/conn
+[2019-02-23 15:18:40.754314] [INFO][DSA] Connected
+[2019-02-23 15:18:41.006168] DslinkServer loaded /dataflow
+[2019-02-23 15:18:41.022159] create Folder /libs
+[2019-02-23 21:05:23.519847] [INFO][DSA] Disconnected
+[2019-02-23 21:05:23.654770] [INFO][DSA] Connected
+[2019-02-24 23:39:50.944014] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57095/conn, --token, yBWDlP7jdYOS91oBTJenU0kpwx6RkRl0eBnPJhzpzHC1OXjH] (pid: 9736) ==
+[2019-02-24 23:39:52.016386] [INFO][DSA] Connecting to http://127.0.0.1:57095/conn
+[2019-02-24 23:39:52.195283] [INFO][DSA] Connected
+[2019-02-24 23:39:52.437646] DslinkServer loaded /dataflow
+[2019-02-24 23:39:52.443657] create Folder /libs
+[2019-02-25 12:53:09.868613] [INFO][DSA] Disconnected
+[2019-02-25 12:53:10.045512] [INFO][DSA] Connected
+[2019-02-26 08:22:41.014495] [INFO][DSA] Disconnected
+[2019-02-26 08:22:43.960591] [INFO][DSA] Connected
+[2019-02-26 20:43:16.245270] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:56170/conn, --token, hsvQFswqPAYXW1iQ6S4J2PfVP5PcnJm0MjcE4xpe3G38BNU1] (pid: 15024) ==
+[2019-02-26 20:43:17.700431] [INFO][DSA] Connecting to http://127.0.0.1:56170/conn
+[2019-02-26 20:43:17.868334] [INFO][DSA] Connected
+[2019-02-26 20:43:18.207139] DslinkServer loaded /dataflow
+[2019-02-26 20:43:18.213135] create Folder /libs
+[2019-02-27 10:03:54.608145] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:61501/conn, --token, p1Lm88pjaDYU4unq4nvSISnGS4tOGri28tVEyLxijZutBPKh] (pid: 14620) ==
+[2019-02-27 10:04:20.419144] [INFO][DSA] Connecting to http://127.0.0.1:61501/conn
+[2019-02-27 10:04:20.578071] [INFO][DSA] Connected
+[2019-02-27 10:04:20.841749] DslinkServer loaded /dataflow
+[2019-02-27 10:04:20.883722] create Folder /libs
+[2019-02-28 11:11:58.536606] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57013/conn, --token, AVVHxXUZdOgmqo6oBT1sOFUTxA2ohA5Cn3xhiTEW88Xd7OJm] (pid: 7636) ==
+[2019-02-28 11:12:00.153229] [INFO][DSA] Connecting to http://127.0.0.1:57013/conn
+[2019-02-28 11:12:00.308132] [INFO][DSA] Connected
+[2019-02-28 11:12:01.271409] DslinkServer loaded /dataflow
+[2019-02-28 11:12:01.297394] create Folder /libs
+[2019-02-28 18:05:01.640043] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:49948/conn, --token, 6pLPCSebXa5rOpLQJkwWZ7rrepFpSRwhvuuYtsqwgdAa70Ym] (pid: 9356) ==
+[2019-02-28 18:05:03.254546] [INFO][DSA] Connecting to http://127.0.0.1:49948/conn
+[2019-02-28 18:05:03.407458] [INFO][DSA] Connected
+[2019-02-28 18:05:04.010449] DslinkServer loaded /dataflow
+[2019-02-28 18:05:04.045501] create Folder /libs
+[2019-03-02 15:31:14.293372] [INFO][DSA] Disconnected
+[2019-03-02 15:31:17.299638] [INFO][DSA] Connected
+[2019-03-04 22:30:58.096163] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:49652/conn, --token, yazQXbvmFHyMEg1FTvpHU8tLdwa2VxYdvDpRsZWAQbY2XFeA] (pid: 6220) ==
+[2019-03-04 22:30:59.209556] [INFO][DSA] Connecting to http://127.0.0.1:49652/conn
+[2019-03-04 22:30:59.363483] [INFO][DSA] Connected
+[2019-03-04 22:30:59.578346] DslinkServer loaded /dataflow
+[2019-03-04 22:30:59.584341] create Folder /libs
+[2019-03-04 23:54:43.609805] [INFO][DSA] Disconnected
+[2019-03-04 23:54:43.669765] [INFO][DSA] Connected
+[2019-03-05 09:10:43.923730] [INFO][DSA] Disconnected
+[2019-03-05 09:10:44.115679] [INFO][DSA] Connected
+[2019-03-05 09:18:30.856410] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:54960/conn, --token, 7ILyiXqzaXeQZAzfC4Poqb4h1RJZt2HJOQJHhgGBq2g1dGJF] (pid: 12176) ==
+[2019-03-05 09:18:32.004198] [INFO][DSA] Connecting to http://127.0.0.1:54960/conn
+[2019-03-05 09:18:32.163095] [INFO][DSA] Connected
+[2019-03-05 09:18:32.215076] DslinkServer loaded /dataflow
+[2019-03-05 09:18:32.221073] create Folder /libs
+[2019-03-05 13:45:40.693716] [INFO][DSA] Disconnected
+[2019-03-05 13:45:40.823638] [INFO][DSA] Connected
+[2019-03-05 17:30:42.742696] [INFO][DSA] Disconnected
+[2019-03-05 17:30:42.899606] [INFO][DSA] Connected
+[2019-03-05 17:39:12.243255] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:64909/conn, --token, P7P3Yds1H5OAx2rj9Zcmm2psJqiC4BOuyhsLcdvrAdUa36lF] (pid: 22496) ==
+[2019-03-05 17:39:14.318055] [INFO][DSA] Connecting to http://127.0.0.1:64909/conn
+[2019-03-05 17:39:14.512942] [INFO][DSA] Connected
+[2019-03-05 17:39:14.839267] DslinkServer loaded /dataflow
+[2019-03-05 17:39:14.846261] create Folder /libs
+[2019-03-06 16:29:26.881718] [INFO][DSA] Disconnected
+[2019-03-06 16:29:30.272979] [INFO][DSA] Connected
+[2019-03-06 16:30:59.849741] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:65047/conn, --token, k4Qw9gCmKaB2eEpL5Wwvfnw8VfSEibqSYxYHLwK0FbNX2j5X] (pid: 17524) ==
+[2019-03-06 16:31:00.657274] [INFO][DSA] Connecting to http://127.0.0.1:65047/conn
+[2019-03-06 16:31:00.657274] DslinkServer loaded /dataflow
+[2019-03-06 16:31:00.657274] create Folder /libs
+[2019-03-06 16:31:01.301977] [INFO][DSA] Connected
+[2019-03-09 08:58:36.673414] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:63036/conn, --token, FXjdsNzVNgQI9NiIl9xMUpmUDHM7QSp2OBn6cTparZK3ttTe] (pid: 18632) ==
+[2019-03-09 08:58:38.536696] [INFO][DSA] Connecting to http://127.0.0.1:63036/conn
+[2019-03-09 08:58:38.741576] [INFO][DSA] Connected
+[2019-03-09 08:58:39.152337] DslinkServer loaded /dataflow
+[2019-03-09 08:58:39.161332] create Folder /libs
+[2019-03-09 09:10:37.718677] [INFO][DSA] Disconnected
+[2019-03-09 09:10:37.817618] [INFO][DSA] Connected
+[2019-03-09 14:54:09.567751] [INFO][DSA] Disconnected
+[2019-03-09 14:54:12.916281] [INFO][DSA] Connected
+[2019-03-09 19:52:59.300793] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:62423/conn, --token, ii6W8sV5P0OcJ5j3vZrZIwJ6hbEUSpfkjcVdstq2gXpnWHmZ] (pid: 17592) ==
+[2019-03-09 19:53:00.826130] [INFO][DSA] Connecting to http://127.0.0.1:62423/conn
+[2019-03-09 19:53:00.985042] [INFO][DSA] Connected
+[2019-03-09 19:53:01.308394] DslinkServer loaded /dataflow
+[2019-03-09 19:53:01.318387] create Folder /libs
+[2019-03-09 23:26:57.981521] [INFO][DSA] Disconnected
+[2019-03-09 23:26:58.123440] [INFO][DSA] Connected
+[2019-03-10 12:32:28.635745] [INFO][DSA] Disconnected
+[2019-03-10 12:32:28.941570] [INFO][DSA] Connected
+[2019-03-10 15:10:53.189226] [INFO][DSA] Disconnected
+[2019-03-10 15:10:55.309457] [INFO][DSA] Connected
+[2019-03-14 18:06:34.357962] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:55215/conn, --token, NRMdmZ9m4YXdoXE8k07q29sJYUYHUwE1X5xSdgfsy2qk20Lp] (pid: 10576) ==
+[2019-03-14 18:06:36.002004] [INFO][DSA] Connecting to http://127.0.0.1:55215/conn
+[2019-03-14 18:06:36.169921] [INFO][DSA] Connected
+[2019-03-14 18:06:36.779842] DslinkServer loaded /dataflow
+[2019-03-14 18:06:36.808811] create Folder /libs
+[2019-03-16 10:17:56.057456] [INFO][DSA] Disconnected
+[2019-03-16 10:17:56.736065] [INFO][DSA] Connected
+[2019-03-16 12:28:19.615813] [INFO][DSA] Disconnected
+[2019-03-16 12:28:19.646797] [INFO][DSA] Connected
+[2019-03-21 19:05:02.591539] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:65345/conn, --token, AEkDW9Aan4KECbmU3EXF6NH8WKvaf7LGpRW4vJYcXYMvZsgE] (pid: 12536) ==
+[2019-03-21 19:05:03.373572] [INFO][DSA] Connecting to http://127.0.0.1:65345/conn
+[2019-03-21 19:05:03.614432] [INFO][DSA] Connected
+[2019-03-21 19:05:03.637419] DslinkServer loaded /dataflow
+[2019-03-21 19:05:03.643416] create Folder /libs
+[2019-03-21 21:28:08.359085] [INFO][DSA] Disconnected
+[2019-03-21 21:28:08.451033] [INFO][DSA] Connected
+[2019-03-28 20:16:32.790905] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:54630/conn, --token, OuI9oBJMDqNB1FvrFvkUYp95snF65VkifOivKon7Gm3GiJQZ] (pid: 3880) ==
+[2019-03-28 20:16:34.152323] [INFO][DSA] Connecting to http://127.0.0.1:54630/conn
+[2019-03-28 20:16:34.310234] [INFO][DSA] Connected
+[2019-03-28 20:16:34.904117] DslinkServer loaded /dataflow
+[2019-03-28 20:16:34.952079] create Folder /libs
+[2019-03-28 21:55:19.727708] [INFO][DSA] Disconnected
+[2019-03-28 21:55:19.950579] [INFO][DSA] Connected
+[2020-03-10 20:00:12.923471] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:50315/conn, --token, hjYFcNrkimQxdK957CaPMyL5pKE6nYm9UTuOIBrrFkwyKavv] (pid: 11664) ==
+[2020-03-10 20:00:15.503840] [INFO][DSA] Connecting to http://127.0.0.1:50315/conn
+[2020-03-10 20:00:15.753804] [INFO][DSA] Connected
+[2020-03-10 20:00:15.863170] DslinkServer loaded /dataflow
+[2020-03-10 20:00:15.863170] create Folder /libs
+[2020-03-10 20:59:10.620682] [INFO][DSA] Disconnected
+[2020-03-10 20:59:10.838385] [INFO][DSA] Connected
+[2020-03-10 21:07:27.488860] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:51769/conn, --token, Coiw7WLR8ZsFdGRKdEFJ6wHq08AZ0x89x0lU5YPWcjmYfqV6] (pid: 6020) ==
+[2020-03-10 21:07:29.184849] [INFO][DSA] Connecting to http://127.0.0.1:51769/conn
+[2020-03-10 21:07:29.461279] DslinkServer loaded /dataflow
+[2020-03-10 21:07:29.481274] create Folder /libs
+[2020-03-10 21:07:29.749207] [INFO][DSA] Connected
+[2020-08-18 15:33:49.968711] == Executing D:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:56807/conn, --token, VKUm0whiqRjx81BI4k8ZWp4fyfUjuhNTj4PAxqpx2LvqXRYo] (pid: 15928) ==
+[2020-08-18 15:33:51.331674] [INFO][DSA] Connecting to http://127.0.0.1:56807/conn
+[2020-08-18 15:33:51.509800] [INFO][DSA] Connected
+[2020-08-18 15:33:51.576847] DslinkServer loaded /dataflow
+[2020-08-18 15:33:51.583853] create Folder /libs
+[2020-08-18 15:36:43.849362] == Executing D:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:56879/conn, --token, iVOvtDWwndpj48nNqiS6rwREUePMlOIzhmOjD5Mafot8ufPh] (pid: 13700) ==
+[2020-08-18 15:36:44.554861] [INFO][DSA] Connecting to http://127.0.0.1:56879/conn
+[2020-08-18 15:36:44.692959] DslinkServer loaded /dataflow
+[2020-08-18 15:36:44.702965] create Folder /libs
+[2020-08-18 15:36:44.852070] [INFO][DSA] Connected
+[2020-08-18 15:37:11.236441] == Executing D:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:56909/conn, --token, RarBVUFxbif7erz40Qn9S20gWFsVl2jGB3USpcVc7CwVWgCO] (pid: 10220) ==
+[2020-08-18 15:37:12.116049] [INFO][DSA] Connecting to http://127.0.0.1:56909/conn
+[2020-08-18 15:37:12.262153] DslinkServer loaded /dataflow
+[2020-08-18 15:37:12.273160] create Folder /libs
+[2020-08-18 15:37:12.428270] [INFO][DSA] Connected
+[2020-08-18 15:45:25.653768] == Executing D:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57204/conn, --token, qYBnq50jupFRqhor51j0Hji901AtzFLTBrS1xmxXmO2BlJby] (pid: 10180) ==
+[2020-08-18 15:45:26.416295] [INFO][DSA] Connecting to http://127.0.0.1:57204/conn
+[2020-08-18 15:45:26.613435] DslinkServer loaded /dataflow
+[2020-08-18 15:45:26.622442] create Folder /libs
+[2020-08-18 15:45:26.753534] [INFO][DSA] Connected
+[2020-08-18 15:51:23.442423] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57370/conn, --token, dSf19mZWn16gZBVDyhT9Br1JEhXJSWjV2TBDPsgaNSTIXXda] (pid: 9852) ==
+[2020-08-18 15:51:25.244811] [INFO][DSA] Connecting to http://127.0.0.1:57370/conn
+[2020-08-18 15:51:25.425995] DslinkServer loaded /dataflow
+[2020-08-18 15:51:25.435502] create Folder /libs
+[2020-08-18 15:51:25.578603] [INFO][DSA] Connected
+[2020-08-18 15:54:29.215714] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57502/conn, --token, v1llPUUpGkiffRkMrhoI1vhYBQqvvkgvIGTYVVi3jkPrQwdk] (pid: 10788) ==
+[2020-08-18 15:54:30.120932] [INFO][DSA] Connecting to http://127.0.0.1:57502/conn
+[2020-08-18 15:54:30.209995] DslinkServer loaded /dataflow
+[2020-08-18 15:54:30.223504] create Folder /libs
+[2020-08-18 15:54:30.834936] [INFO][DSA] Connected
+[2020-08-18 15:55:59.931662] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57610/conn, --token, 3NnJo7rZnWO68i5Wn5tPVOtQiieEkLDgTezGqSE6WFl3d3zq] (pid: 9988) ==
+[2020-08-18 15:56:00.794811] [INFO][DSA] Connecting to http://127.0.0.1:57610/conn
+[2020-08-18 15:56:00.953923] DslinkServer loaded /dataflow
+[2020-08-18 15:56:00.976439] create Folder /libs
+[2020-08-18 15:56:01.150062] [INFO][DSA] Connected
+[2020-08-18 17:02:58.547410] [INFO][DSA] Disconnected
+[2020-08-18 17:02:58.749553] [INFO][DSA] Connected
+[2020-08-19 00:07:05.547904] [INFO][DSA] Disconnected
+[2020-08-19 00:07:05.907163] [INFO][DSA] Connected
+[2020-08-25 18:51:27.369858] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:50550/conn, --token, Z4JMMlbqMCDRgnmL7Pk6xI4SKWLhlWosuISpSt8Po9RyikzM] (pid: 5372) ==
+[2020-08-25 18:51:29.699504] [INFO][DSA] Connecting to http://127.0.0.1:50550/conn
+[2020-08-25 18:51:29.970696] [INFO][DSA] Connected
+[2020-08-25 18:51:29.998715] DslinkServer loaded /dataflow
+[2020-08-25 18:51:30.008722] create Folder /libs
+[2020-08-26 00:20:06.636250] [INFO][DSA] Disconnected
+[2020-08-26 00:20:10.573194] [INFO][DSA] Connected
+[2020-08-31 16:14:33.972020] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:54415/conn, --token, 8W6Lus5chcFGzLr1I87308x5KaGujMyMJuinllQcmo7Ogm8n] (pid: 12108) ==
+[2020-08-31 16:14:35.963430] [INFO][DSA] Connecting to http://127.0.0.1:54415/conn
+[2020-08-31 16:14:36.151563] [INFO][DSA] Connected
+[2020-08-31 16:14:36.511816] DslinkServer loaded /dataflow
+[2020-08-31 16:14:36.516833] create Folder /libs
+[2020-09-01 15:25:18.790052] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:52934/conn, --token, 5s0GtsVd7taq7GjSegjEpjkyHF0sj0j49pSlHuBaYwUlixs0] (pid: 8072) ==
+[2020-09-01 15:25:19.727713] [INFO][DSA] Connecting to http://127.0.0.1:52934/conn
+[2020-09-01 15:25:19.864810] [INFO][DSA] Connected
+[2020-09-01 15:25:19.931857] DslinkServer loaded /dataflow
+[2020-09-01 15:25:19.937862] create Folder /libs
+[2020-09-01 18:13:45.500145] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57585/conn, --token, szMaEzWtJwvJ9YnDBXjBzP7O5VXMdIPHwJ2xze2qHcngCqnw] (pid: 12896) ==
+[2020-09-01 18:13:46.704997] [INFO][DSA] Connecting to http://127.0.0.1:57585/conn
+[2020-09-01 18:13:46.901132] DslinkServer loaded /dataflow
+[2020-09-01 18:13:46.916143] create Folder /libs
+[2020-09-01 18:13:47.487547] [INFO][DSA] Connected
+[2020-09-01 18:14:00.022393] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57720/conn, --token, ZU1jXomPDkN5g4ZQqi6mIioOUCVFTWH2WfEw7UGagFhFJfuR] (pid: 9716) ==
+[2020-09-01 18:14:01.235249] [INFO][DSA] Connecting to http://127.0.0.1:57720/conn
+[2020-09-01 18:14:01.541465] DslinkServer loaded /dataflow
+[2020-09-01 18:14:01.551472] create Folder /libs
+[2020-09-01 18:14:01.818662] [INFO][DSA] Connected
+[2020-09-01 18:14:29.577250] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:57845/conn, --token, THz1l5MXY7MkJ2I2nCCxVoVKT5wYmMjyYXqd5UtRq8KOiw41] (pid: 8804) ==
+[2020-09-01 18:14:30.771092] [INFO][DSA] Connecting to http://127.0.0.1:57845/conn
+[2020-09-01 18:14:30.973235] DslinkServer loaded /dataflow
+[2020-09-01 18:14:30.991247] create Folder /libs
+[2020-09-01 18:14:31.745781] [INFO][DSA] Connected
+[2020-09-02 18:20:10.543671] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:50028/conn, --token, DqXX1WJfs3LoadYnK8NBqnCWT41rvDwbvKRvBgUgXuDs0ORV] (pid: 5052) ==
+[2020-09-02 18:20:11.779542] [INFO][DSA] Connecting to http://127.0.0.1:50028/conn
+[2020-09-02 18:20:11.968676] [INFO][DSA] Connected
+[2020-09-02 18:20:12.273892] DslinkServer loaded /dataflow
+[2020-09-02 18:20:12.280896] create Folder /libs
+[2020-09-02 23:13:33.784048] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:53012/conn, --token, iPy8HxF5YaYiwQWhn1tBOfttWMB4gJiwOieq6Xjm8owVLc43] (pid: 7692) ==
+[2020-09-02 23:13:35.348990] [INFO][DSA] Connecting to http://127.0.0.1:53012/conn
+[2020-09-02 23:13:35.455065] DslinkServer loaded /dataflow
+[2020-09-02 23:13:35.463071] create Folder /libs
+[2020-09-02 23:13:35.591161] [INFO][DSA] Connected
+[2020-09-03 04:30:06.577821] [INFO][DSA] Disconnected
+[2020-09-03 04:30:06.897589] [INFO][DSA] Connected
+[2020-09-03 08:39:36.561077] [INFO][DSA] Disconnected
+[2020-09-03 08:40:06.493513] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:61336/conn, --token, dRZiGouiw7TtBnWaTrpfPNsAobh0ZA2aOJYp16GhEYth2KwZ] (pid: 13372) ==
+[2020-09-03 08:40:09.614765] [INFO][DSA] Connecting to http://127.0.0.1:61336/conn
+[2020-09-03 08:40:09.616766] DslinkServer loaded /dataflow
+[2020-09-03 08:40:09.616766] create Folder /libs
+[2020-09-03 08:40:09.616766] [INFO][DSA] Connected
+[2020-09-03 20:26:15.535772] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:52677/conn, --token, eVBRq7OVptny5a478JmDTcZTgVCXPuty01LrUgE0v12AhAYJ] (pid: 18804) ==
+[2020-09-03 20:26:17.492153] [INFO][DSA] Connecting to http://127.0.0.1:52677/conn
+[2020-09-03 20:26:17.654267] DslinkServer loaded /dataflow
+[2020-09-03 20:26:17.654267] create Folder /libs
+[2020-09-03 20:26:17.728320] [INFO][DSA] Connected
+[2020-09-04 13:37:50.978072] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:51394/conn, --token, zExJvmoXGrlVs3yeFUjtDviMiTBPzB5yZWuTWkPCq8W9qWs2] (pid: 12556) ==
+[2020-09-04 13:37:52.294] [INFO][DSA] Connecting to http://127.0.0.1:51394/conn
+[2020-09-04 13:37:52.423092] DslinkServer loaded /dataflow
+[2020-09-04 13:37:52.430096] create Folder /libs
+[2020-09-04 13:37:52.481132] [INFO][DSA] Connected
+[2020-09-04 15:20:52.551741] [INFO][DSA] Disconnected
+[2020-09-04 15:20:52.767895] [INFO][DSA] Connected
+[2020-09-04 21:35:19.928414] [INFO][DSA] Disconnected
+[2020-09-04 21:35:20.037490] [INFO][DSA] Connected
+[2020-09-04 22:28:15.692874] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:60156/conn, --token, uzbw99Ptda81etMcelzm4jWNtcSEgopCWfqt1hEAp32acT4s] (pid: 12716) ==
+[2020-09-04 22:28:16.330324] [INFO][DSA] Connecting to http://127.0.0.1:60156/conn
+[2020-09-04 22:28:16.534468] DslinkServer loaded /dataflow
+[2020-09-04 22:28:16.534468] create Folder /libs
+[2020-09-04 22:28:16.642544] [INFO][DSA] Connected
+[2020-09-07 23:29:48.138782] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:58266/conn, --token, ZM07vXIcZloHkJnlIwCE5ZT87NzNAEOJieM9q3bInl3zasNm] (pid: 7372) ==
+[2020-09-07 23:29:49.527067] [INFO][DSA] Connecting to http://127.0.0.1:58266/conn
+[2020-09-07 23:29:49.722205] [INFO][DSA] Connected
+[2020-09-07 23:29:49.826279] DslinkServer loaded /dataflow
+[2020-09-07 23:29:49.826279] create Folder /libs
+[2020-09-08 19:10:14.657155] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:65458/conn, --token, 8IdZZLkm66aTcMCDKTmRVY6RQiSgVcrqo4gMltvMcK0VfuYN] (pid: 3128) ==
+[2020-09-08 19:10:17.190502] [INFO][DSA] Connecting to http://127.0.0.1:65458/conn
+[2020-09-08 19:10:17.432173] DslinkServer loaded /dataflow
+[2020-09-08 19:10:17.441679] create Folder /libs
+[2020-09-08 19:10:17.569269] [INFO][DSA] Connected
+[2020-09-09 14:05:44.646933] [INFO][DSA] Disconnected
+[2020-09-09 14:05:44.961195] [INFO][DSA] Connected
+[2020-09-09 14:24:57.673829] [INFO][DSA] Disconnected
+[2020-09-09 14:24:57.993145] [INFO][DSA] Connected
+[2020-09-09 14:38:53.327990] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:53502/conn, --token, hqxwhAL816KgVA4ABiyX1efrcrl2EaT8DWGp4lZkx8dVBFev] (pid: 23876) ==
+[2020-09-09 14:38:55.017184] [INFO][DSA] Connecting to http://127.0.0.1:53502/conn
+[2020-09-09 14:38:55.178296] [INFO][DSA] Connected
+[2020-09-09 14:38:55.232334] DslinkServer loaded /dataflow
+[2020-09-09 14:38:55.239340] create Folder /libs
+[2020-09-09 15:46:00.395328] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:55229/conn, --token, XR4Ldc6YbSU85G2ecRftpQOXSWD2UH1wLsEeDRvBzBmfcMIG] (pid: 15024) ==
+[2020-09-09 15:46:01.207506] [INFO][DSA] Connecting to http://127.0.0.1:55229/conn
+[2020-09-09 15:46:01.393637] [INFO][DSA] Connected
+[2020-09-09 15:46:01.651819] DslinkServer loaded /dataflow
+[2020-09-09 15:46:01.659825] create Folder /libs
+[2020-09-09 20:24:11.540677] [INFO][DSA] Disconnected
+[2020-09-09 20:24:11.712800] [INFO][DSA] Connected
+[2020-09-10 00:06:05.844190] == Exited with status -1073741510 ==
+[2020-09-10 00:06:05.844190] == Exited with status -1073741510 ==
+[2020-09-10 00:06:05.844190] == Exited with status -1073741510 ==
+[2020-09-10 00:06:13.981065] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:59846/conn, --token, 2LWwhP9xcDiGV4aJWjTaRmPzkgTdHE9ZLalT0vzWhdvEUN3r] (pid: 1616) ==
+[2020-09-10 00:06:15.299994] [INFO][DSA] Connecting to http://127.0.0.1:59846/conn
+[2020-09-10 00:06:15.300997] [INFO][DSA] Connected
+[2020-09-10 00:06:16.777037] DslinkServer loaded /dataflow
+[2020-09-10 00:06:16.799051] create Folder /libs
+[2020-09-10 00:06:24.943797] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:59903/conn, --token, 3Lk2fTljpBqP0slaqMSdcT1EOgHrx2u8OY62RYFZckLOShme] (pid: 6024) ==
+[2020-09-10 00:06:25.855009] [INFO][DSA] Connecting to http://127.0.0.1:59903/conn
+[2020-09-10 00:06:26.016123] DslinkServer loaded /dataflow
+[2020-09-10 00:06:26.029632] create Folder /libs
+[2020-09-10 00:06:26.361866] [INFO][DSA] Connected
+[2020-09-10 00:17:35.581874] [INFO][DSA] Disconnected
+[2020-09-10 00:17:35.736983] [INFO][DSA] Connected
+[2020-09-10 00:23:00.421603] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:56702/conn, --token, IlxY0DuRnsZDBVm7IEI0asClS6fHDY5XfPT6TAx6p8Jib76o] (pid: 12996) ==
+[2020-09-10 00:23:01.298277] [INFO][DSA] Connecting to http://127.0.0.1:56702/conn
+[2020-09-10 00:23:01.523936] DslinkServer loaded /dataflow
+[2020-09-10 00:23:01.537446] create Folder /libs
+[2020-09-10 00:23:02.000271] [INFO][DSA] Connected
+[2020-09-10 00:29:22.003334] [INFO][DSA] Disconnected
+[2020-09-10 00:29:31.936535] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:59643/conn, --token, gdT80i2oXJR2LkFwIF0cCth3QFi3hIaNAT1qiNUl7sGokh2h] (pid: 25960) ==
+[2020-09-10 00:29:32.867744] [INFO][DSA] Connecting to http://127.0.0.1:59643/conn
+[2020-09-10 00:29:33.040866] DslinkServer loaded /dataflow
+[2020-09-10 00:29:33.052875] create Folder /libs
+[2020-09-10 00:29:33.359091] [INFO][DSA] Connected
+[2020-09-10 21:35:29.342800] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:54636/conn, --token, yiFXxJcEk90r9baGaiHeEeDRGWtadsf3P86LWz2NhTDhLBOl] (pid: 12836) ==
+[2020-09-10 21:35:30.539644] [INFO][DSA] Connecting to http://127.0.0.1:54636/conn
+[2020-09-10 21:35:30.718771] [INFO][DSA] Connected
+[2020-09-10 21:35:30.740787] DslinkServer loaded /dataflow
+[2020-09-10 21:35:30.748792] create Folder /libs
+[2020-09-10 21:59:40.841560] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:58990/conn, --token, 1DmP4LcfGOQCtATxolWm0wlTtwlY1ycCS8dFTzefoRDHDnNE] (pid: 13456) ==
+[2020-09-10 21:59:41.649687] [INFO][DSA] Connecting to http://127.0.0.1:58990/conn
+[2020-09-10 21:59:42.240604] DslinkServer loaded /dataflow
+[2020-09-10 21:59:42.251612] create Folder /libs
+[2020-09-10 21:59:42.783487] [INFO][DSA] Connected
+[2020-09-10 22:20:58.740580] [INFO][DSA] Disconnected
+[2020-09-10 22:20:58.802183] [INFO][DSA] Connecting to http://127.0.0.1:58990/conn
+[2020-09-10 22:20:58.821172] [INFO][DSA] Connected
+[2020-09-10 22:21:18.690370] [INFO][DSA] Disconnected
+[2020-09-10 22:21:18.754415] [INFO][DSA] Connecting to http://127.0.0.1:58990/conn
+[2020-09-10 22:21:18.775418] [INFO][DSA] Connected
+[2020-09-10 22:28:23.822400] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:63123/conn, --token, XDvfyrzLQvGVftKaSWUvvL2Ae6X9D1Ao831P9wi86LquS262] (pid: 1432) ==
+[2020-09-10 22:28:24.694566] [INFO][DSA] Connecting to http://127.0.0.1:63123/conn
+[2020-09-10 22:28:24.861184] DslinkServer loaded /dataflow
+[2020-09-10 22:28:24.873192] create Folder /libs
+[2020-09-10 22:28:25.263467] [INFO][DSA] Connected
+[2020-09-10 22:31:34.499471] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:63373/conn, --token, xRdYPyjFy0JsUFXMZEXLivRRJKUoGO2z2tUA111zy4AVOJe1] (pid: 8920) ==
+[2020-09-10 22:31:35.346108] [INFO][DSA] Connecting to http://127.0.0.1:63373/conn
+[2020-09-10 22:31:35.545248] DslinkServer loaded /dataflow
+[2020-09-10 22:31:35.556756] create Folder /libs
+[2020-09-10 22:31:35.865974] [INFO][DSA] Connected
+[2020-09-15 16:03:07.151963] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:52692/conn, --token, PzFRFw0gH3k0DPL3FUJbvR3mYWJN3poW3AdU2uM2rjNVPdVF] (pid: 12996) ==
+[2020-09-15 16:03:08.565960] [INFO][DSA] Connecting to http://127.0.0.1:52692/conn
+[2020-09-15 16:03:08.731080] [INFO][DSA] Connected
+[2020-09-15 16:03:09.081325] DslinkServer loaded /dataflow
+[2020-09-15 16:03:09.086330] create Folder /libs
+[2020-09-16 04:02:45.566379] [INFO][DSA] Disconnected
+[2020-09-16 04:03:00.704932] [INFO][DSA] Connected
+[2020-09-16 08:14:15.671904] [INFO][DSA] Disconnected
+[2020-09-16 08:14:22.908306] [INFO][DSA] Connected
+                                                      [2020-09-18 09:23:12.728599] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:55271/conn, --token, j1SFypay88GAwbUGbJtLYM6m1DHKVuXTDKDEitryOkfN1VvX] (pid: 12940) ==
+[2020-09-18 09:23:13.693290] [INFO][DSA] Connecting to http://127.0.0.1:55271/conn
+[2020-09-18 09:23:13.826392] [INFO][DSA] Connected
+[2020-09-18 09:23:13.880430] DslinkServer loaded /dataflow
+[2020-09-18 09:23:13.888439] create Folder /libs
+[2020-09-21 09:58:59.457649] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:56845/conn, --token, s5vHRaIBikK6284hsMXDFsZPdc0HACqr1RPwM1A3oZqkfGvZ] (pid: 6272) ==
+[2020-09-21 09:59:00.920686] [INFO][DSA] Connecting to http://127.0.0.1:56845/conn
+[2020-09-21 09:59:01.064788] [INFO][DSA] Connected
+[2020-09-21 09:59:01.321970] DslinkServer loaded /dataflow
+[2020-09-21 09:59:01.326974] create Folder /libs
+[2020-09-22 18:07:59.289495] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:54278/conn, --token, I8xqe32VjraFxJUjR81Ow0cvIHX6qz4KTilbAiXUQi3w0lcj] (pid: 12660) ==
+[2020-09-22 18:08:01.081765] [INFO][DSA] Connecting to http://127.0.0.1:54278/conn
+[2020-09-22 18:08:01.181836] [INFO][DSA] Connected
+[2020-09-22 18:08:01.478045] DslinkServer loaded /dataflow
+[2020-09-22 18:08:01.478045] create Folder /libs
+[2020-09-30 13:41:26.006464] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:53562/conn, --token, rE6wMCzQhPCbC53mybr0w3kAXrxwEKuRHSy0nvB7Hs1eTgWg] (pid: 11196) ==
+[2020-09-30 13:41:26.985153] [INFO][DSA] Connecting to http://127.0.0.1:53562/conn
+[2020-09-30 13:41:27.132257] [INFO][DSA] Connected
+[2020-09-30 13:41:27.178290] DslinkServer loaded /dataflow
+[2020-09-30 13:41:27.191299] create Folder /libs
+[2020-09-30 15:41:11.573784] [INFO][DSA] Disconnected
+[2020-09-30 15:41:11.705877] [INFO][DSA] Connected
+[2020-10-06 16:36:51.868367] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:53033/conn, --token, p5Jcr0wb1Qmi7YOusXKd45BDWagHajCAL7e0ji25z4bm9PA2] (pid: 14416) ==
+[2020-10-06 16:36:53.806735] [INFO][DSA] Connecting to http://127.0.0.1:53033/conn
+[2020-10-06 16:36:54.071921] [INFO][DSA] Connected
+[2020-10-06 16:36:54.650329] DslinkServer loaded /dataflow
+[2020-10-06 16:36:54.656334] create Folder /libs
+[2020-10-06 18:13:56.310283] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:49934/conn, --token, krPfctARFf7HseEi2bntgpYkID0JBLwmYOwbquwfQQBSaCxI] (pid: 14188) ==
+[2020-10-06 18:13:57.923423] [INFO][DSA] Connecting to http://127.0.0.1:49934/conn
+[2020-10-06 18:13:58.173598] DslinkServer loaded /dataflow
+[2020-10-06 18:13:58.185606] create Folder /libs
+[2020-10-06 18:13:58.246649] [INFO][DSA] Connected
+[2020-10-06 18:16:57.746776] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:50192/conn, --token, rjarx0wS5aCSEyRsYxjcnhNliz8SeTVWDS226L05xIFG2dci] (pid: 14020) ==
+[2020-10-06 18:16:58.646411] [INFO][DSA] Connecting to http://127.0.0.1:50192/conn
+[2020-10-06 18:16:58.803523] DslinkServer loaded /dataflow
+[2020-10-06 18:16:58.820534] create Folder /libs
+[2020-10-06 18:16:59.097732] [INFO][DSA] Connected
+[2020-10-06 18:19:20.998244] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:50391/conn, --token, mtxWGPPJeXUBdtZBKznyoCQUQuQojoz1pB9Eu1dWpfWnd7pF] (pid: 9012) ==
+[2020-10-06 18:19:22.366209] [INFO][DSA] Connecting to http://127.0.0.1:50391/conn
+[2020-10-06 18:19:22.598371] DslinkServer loaded /dataflow
+[2020-10-06 18:19:22.624389] create Folder /libs
+[2020-10-06 18:19:23.528026] [INFO][DSA] Connected
+[2020-10-07 15:01:55.210218] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:60037/conn, --token, ls13uKy8hG76CqYqe0bmZa4NKcPPXHqrlbBS6DABv3nR7I0E] (pid: 8188) ==
+[2020-10-07 15:01:56.053799] [INFO][DSA] Connecting to http://127.0.0.1:60037/conn
+[2020-10-07 15:01:56.218916] [INFO][DSA] Connected
+[2020-10-07 15:01:56.576167] DslinkServer loaded /dataflow
+[2020-10-07 15:01:56.582172] create Folder /libs
+[2020-10-07 18:04:04.554900] [INFO][DSA] Disconnected
+[2020-10-07 18:04:04.718014] [INFO][DSA] Connected
+[2020-10-07 20:37:21.529767] [INFO][DSA] Disconnected
+[2020-10-07 20:37:21.632839] [INFO][DSA] Connected
+[2020-10-08 00:54:53.543896] [INFO][DSA] Disconnected
+[2020-10-08 00:54:53.671986] [INFO][DSA] Connected
+[2020-10-13 10:52:37.593160] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:50584/conn, --token, BLEJyHAFRybi0Pr3LYoNmPJmsdOGbfLUsbcKnrFPnjF0DrJy] (pid: 12976) ==
+[2020-10-13 10:52:38.773994] [INFO][DSA] Connecting to http://127.0.0.1:50584/conn
+[2020-10-13 10:52:38.981140] DslinkServer loaded /dataflow
+[2020-10-13 10:52:38.991147] create Folder /libs
+[2020-10-13 10:52:39.062197] [INFO][DSA] Connected
+[2020-10-13 13:34:05.025967] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:54874/conn, --token, BLGDqUGPYSuiu6vUSTXCr4Djpy9ruzaf0jLDhGky88sirCRw] (pid: 15216) ==
+[2020-10-13 13:34:06.063758] [INFO][DSA] Connecting to http://127.0.0.1:54874/conn
+[2020-10-13 13:34:06.277909] DslinkServer loaded /dataflow
+[2020-10-13 13:34:06.296422] create Folder /libs
+[2020-10-13 13:34:06.687199] [INFO][DSA] Connected
+[2020-10-20 18:23:39.500666] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:56488/conn, --token, 3aEyuJgDVIVY8qT4ZJtTzEsD1BNpTSOIVmdl5uKOsreNgDXd] (pid: 13020) ==
+[2020-10-20 18:23:41.701222] [INFO][DSA] Connecting to http://127.0.0.1:56488/conn
+[2020-10-20 18:23:42.141531] DslinkServer loaded /dataflow
+[2020-10-20 18:23:42.143533] create Folder /libs
+[2020-10-20 18:23:42.230595] [INFO][DSA] Connected
+[2020-10-21 08:55:50.489209] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:55337/conn, --token, kzElx3w6iLSBb3JRnI2UpiIFqzNyrqPeGjWgzzpGLifGwkpG] (pid: 14720) ==
+[2020-10-21 08:55:58.422430] [INFO][DSA] Connecting to http://127.0.0.1:55337/conn
+[2020-10-21 08:56:00.242730] DslinkServer loaded /dataflow
+[2020-10-21 08:56:00.279759] create Folder /libs
+[2020-10-21 08:56:01.275461] [INFO][DSA] Connected
+[2020-10-27 18:28:21.346635] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:50874/conn, --token, CXl88EhBOhffrtOKOsp1P6RkQ7QJNwuBK8CyAgAWaRgPA8qs] (pid: 14420) ==
+[2020-10-27 18:28:22.822676] [INFO][DSA] Connecting to http://127.0.0.1:50874/conn
+[2020-10-27 18:28:23.020815] [INFO][DSA] Connected
+[2020-10-27 18:28:23.407090] DslinkServer loaded /dataflow
+[2020-10-27 18:28:23.414103] create Folder /libs
+[2020-10-28 08:32:39.894174] [INFO][DSA] Disconnected
+[2020-10-28 08:34:09.984240] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:51583/conn, --token, l1oTTcT46cB7TSFe72ebCJJHNtcQrwsnSFi6x3sjvNJRaw1N] (pid: 10640) ==
+[2020-10-28 08:34:13.029313] [INFO][DSA] Connecting to http://127.0.0.1:51583/conn
+[2020-10-28 08:34:13.243464] [INFO][DSA] Connected
+[2020-10-28 08:34:13.858903] DslinkServer loaded /dataflow
+[2020-10-28 08:34:13.871924] create Folder /libs
+[2020-11-10 18:08:48.980501] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:52587/conn, --token, mZ131X4LZFUhljybfgy0dTXRfavLFZMwREl4BIfKJ8Ak6SUz] (pid: 13620) ==
+[2020-11-10 18:08:50.362473] [INFO][DSA] Connecting to http://127.0.0.1:52587/conn
+[2020-11-10 18:08:50.531592] [INFO][DSA] Connected
+[2020-11-10 18:08:50.647676] DslinkServer loaded /dataflow
+[2020-11-10 18:08:50.657682] create Folder /libs
+[2020-11-10 20:42:05.166202] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:55579/conn, --token, KUKV4Chpg7GODqYM2uuT9fy5RnScrSf2vjqJbyrTa0j8I8l5] (pid: 4272) ==
+[2020-11-10 20:42:07.084567] [INFO][DSA] Connecting to http://127.0.0.1:55579/conn
+[2020-11-10 20:42:07.391785] DslinkServer loaded /dataflow
+[2020-11-10 20:42:07.417804] create Folder /libs
+[2020-11-10 20:42:07.506867] [INFO][DSA] Connected
+[2020-11-13 18:20:05.225355] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:52722/conn, --token, ioKXXQoq89Ugp2FhBHxk3so17HH1TvQJVaYy7HsA6uqTY7Mm] (pid: 11032) ==
+[2020-11-13 18:20:09.310245] [INFO][DSA] Connecting to http://127.0.0.1:52722/conn
+[2020-11-13 18:20:09.561423] [INFO][DSA] Connected
+[2020-11-13 18:20:09.716532] DslinkServer loaded /dataflow
+[2020-11-13 18:20:09.727541] create Folder /libs
+[2020-11-13 18:20:36.914769] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:52925/conn, --token, B2dBwKqMMxSSZ1mqqii0cDWVGWATHDCfNeiEFAxA635lIWb1] (pid: 11648) ==
+[2020-11-13 18:20:37.979522] [INFO][DSA] Connecting to http://127.0.0.1:52925/conn
+[2020-11-13 18:20:38.150643] DslinkServer loaded /dataflow
+[2020-11-13 18:20:38.164653] create Folder /libs
+[2020-11-13 18:20:39.028264] [INFO][DSA] Connected
+[2020-12-10 11:50:25.396161] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [run.dart, --name, dataflow, --broker, http://127.0.0.1:56375/conn, --token, MXXCF9Ciw3qhpBGeBXcN0zFqUlXxi5XhSLjTZmAcUB0INENl] (pid: 6372) ==
+[2020-12-10 11:50:26.860202] [INFO][DSA] Connecting to http://127.0.0.1:56375/conn
+[2020-12-10 11:50:27.078356] [INFO][DSA] Connected
+[2020-12-10 11:50:27.493651] DslinkServer loaded /dataflow
+[2020-12-10 11:50:27.515667] create Folder /libs

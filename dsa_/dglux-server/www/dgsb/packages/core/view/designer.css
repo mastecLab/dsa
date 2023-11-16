@@ -1,0 +1,1667 @@
+/*
+Styles for designer.
+Warning: changing some styles, like pointer-events, can cause designer disfunction.
+*/
+
+.dglux_page_root .dgFeedback {
+  border-color: rgba(0, 0, 0, 0); /* transparent border color, to apply border styles and make feedback fit into the content */  
+  
+  /* Debug outline 
+  outline: red dotted 1px;*/
+}
+
+.dglux_page_root .feedbackHandle {
+  width: 8px;
+  height: 8px;
+  background-color: #A9A9A9;
+  border-radius: 4px;
+  opacity: 0.8;
+}
+
+.dglux_page_root .feedbackArrowHandle {
+  background: none !important;
+  border-radius: 4px;
+  opacity: 0.8;
+  overflow: visible;
+}
+
+.dglux_page_root .feedbackArrowHandle path {
+  fill: #2ebed7;
+  stroke: #323232;
+}
+
+.dglux_page_root .feedbackArrowHandle svg {
+  -moz-transform: scale(0.8);
+  -webkit-transform: scale(0.8);
+  transform: scale(0.8);
+
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.dglux_page_root .feedbackArrowHandle:hover svg {
+  -moz-transform: scale(1);
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
+
+.dglux_page_root .rectFeedbackHandle {
+  width: 8px;
+  height: 8px;
+  background-color: #A9A9A9;
+  border-radius: 1px;
+  opacity: 0.8;
+}
+
+.dglux_page_root .feedbackHandleSelected {
+  width: 8px;
+  height: 8px;
+  background-color: #00ff00;/*93E22A*/
+  border-radius: 4px;
+  opacity: 0.8;
+}
+
+.dglux_page_root .rectFeedbackHandleSelected {
+  width: 8px;
+  height: 8px;
+  background-color: #00ff00;/*93E22A*/
+  border-radius: 1px;
+  opacity: 0.8;
+}
+
+.dglux_page_root div.feedbackFrame div.feedbackHandle,
+.dglux_page_root div.feedbackFrame div.feedbackHandleSelected,
+.dglux_page_root div.feedbackFrame div.rectFeedbackHandle,
+.dglux_page_root div.feedbackFrame div.rectFeedbackHandleSelected {
+  transform-origin: 0px 0px;
+  -webkit-transform-origin: 0px 0px;
+}
+
+.dglux_page_root .feedbackFrame {
+  position: absolute !important;
+}
+
+.dglux_page_root .feedbackFrameOutline, .dglux_page_root .feedbackFrameOutline > svg
+{
+  position: absolute !important;
+/*  outline: solid 1px #595959;*/
+}
+
+.dglux_page_root .feedbackFrameOutlinePath {
+  fill: none;
+  stroke: #595959;
+}
+
+/* override for div.dgDisableMouse div */
+.dglux_page_root div.feedbackFrame div.feedbackHandle,
+.dglux_page_root div.feedbackFrame div.feedbackHandleSelected,
+.dglux_page_root div.feedbackFrame div.rectFeedbackHandle,
+.dglux_page_root div.feedbackFrame div.rectFeedbackHandleSelected {
+  pointer-events: auto;
+}
+
+/* Highlight for container when dragging things */
+.dglux_page_root .containerHighLight
+{
+  outline: solid 1px #2AAEE2;  /* DGLux3 hintColorIn*/
+}
+
+/* Hint manager highlight */
+.dglux_page_root .base-hint
+{
+  border: solid 1px #2AAEE2;  /* DGLux3 hintColorIn*/
+}
+
+.dglux_page_root .editingGroupMask {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+.dglux_page_root div.editingGroupMask > div {
+  opacity: 0.1;
+  background-color: #FFF;
+  pointer-events: auto;
+}
+
+.dglux_page_root #designerToolsToolbarContainer {
+  left: 0px;
+}
+
+.dglux_page_root #designerToolsToolbarContainer div,
+.dglux_page_root #designerCommandsToolbarContainer div
+{
+  box-sizing: content-box;
+  -moz-box-sizing: content-box; /* Firefox */  
+}
+
+.dglux_page_root .designerContentElement {
+  border: #000000 solid 1px;
+  outline: #393939 solid 1px;
+  overflow: hidden;
+}
+
+.dglux_page_root .designerRootContainer {
+  width: 100%;
+  height: 100%;
+  background-color: #181818;
+}
+
+/* Padding between icon and label in the context menu */
+.dglux_page_root div.dgDesignerPopupMenu > div > div:nth-child(2)
+{
+  padding-left: 6px;
+  padding-right: 4px;
+}
+
+.dglux_page_root .dgDesignerPopupMenu #editSymbolDivEditor {
+  height: 16px;
+  margin-top: -1px;
+}
+
+.dglux_page_root .dgDesignerPopupMenu #editSymbolDivEditor input {
+  height: 20px;
+}
+
+/*
+//-----------------------------------------------------------
+//
+// Hierarchy navigator styles
+//
+//-----------------------------------------------------------
+*/
+
+/* Common background and text styles */
+.dglux_page_root .hierarchyNavigator {
+  height: 20px;
+  width: 100%;                /* 100% of the root container */
+  background-color: #333333;
+  
+  /* text color and size for all text */  
+  color: #DDDDDD; 
+  font-size: 12px;
+}
+
+/* Label for in-place editing */
+.dglux_page_root .hierarchyNavigator .labelInput
+{
+  position: absolute; 
+  display: none;
+  color: #FFFFFF;
+  background-color: #000000;
+  border-style: none;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  min-width: 50px;
+}
+
+
+.dglux_page_root .hierarchyNavigator div
+{
+  box-sizing: content-box;
+  -moz-box-sizing: content-box; /* Firefox */  
+}
+
+/* First div with subscript "There are no selected objects" */
+.dglux_page_root .hierarchyNavigatorNoItems {
+  padding: 0px 2px 0px 2px;  
+  vertical-align: middle;
+  height: 100%;  
+}
+
+.dglux_page_root .hierarchyNavigatorContainer {
+  height: 20px;
+}
+
+/* Main content for items */
+.dglux_page_root .hierarchyNavigatorContent {
+  height: 100%;  
+  overflow-x: hidden; /* for now, scroll is separate theme for the day */
+  left: 0px;
+}
+
+/* Arrow between items */
+.dglux_page_root .hierarchyNavigatorArrow, .dglux_page_root .HierarchyNavigatorArrow {
+  padding: 0px 4px 0px 2px;
+}
+
+/* Common rules for the first item and other items */
+.dglux_page_root .hierarchyNavigatorItem, .dglux_page_root .HierarchyNavigatorItem,
+.dglux_page_root .firstHierarchyNavigatorItem, .dglux_page_root .firstDFHierarchyNavigatorItem,
+.dglux_page_root .activeHierarchyNavigatorItem, .dglux_page_root .activeDFHierarchyNavigatorItem
+{
+  padding: 0px 10px 0px 10px;  
+  height: 100%;
+  overflow: hidden;  
+}
+
+/* Common rules for items hover state */
+.dglux_page_root .hierarchyNavigatorItem:hover, .dglux_page_root .HierarchyNavigatorItem:hover,
+.dglux_page_root .firstHierarchyNavigatorItem:hover, .dglux_page_root .firstDFHierarchyNavigatorItem:hover,
+.dglux_page_root .activeHierarchyNavigatorItem:hover, .dglux_page_root .activeDFHierarchyNavigatorItem:hover
+{
+  background-color: #545454;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/* Common rules for items in active state (mouse down) */
+.dglux_page_root .hierarchyNavigatorItem:active, .dglux_page_root .HierarchyNavigatorItem:active,
+.dglux_page_root .firstHierarchyNavigatorItem:active, .dglux_page_root .firstDFHierarchyNavigatorItem:active,
+.dglux_page_root .activeHierarchyNavigatorItem:active, .dglux_page_root .activeDFHierarchyNavigatorItem:active
+{
+  background-color: #2E4051;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/* For a first item button is never visible */
+.dglux_page_root .firstHierarchyNavigatorItem .dgButton, .dglux_page_root .firstDFHierarchyNavigatorItem .dgButton {
+  display: none;
+}
+
+/* Label for all items except the first item must be underlined */
+.dglux_page_root .hierarchyNavigatorItem .hierarchyNavigatorItemLabel, .dglux_page_root .HierarchyNavigatorItem .HierarchyNavigatorItemLabel {
+  text-decoration: underline;
+}
+
+/* For dataflow, active item */
+.dglux_page_root .activeHierarchyNavigatorItem .hierarchyNavigatorItemLabel, .dglux_page_root .activeDFHierarchyNavigatorItem .HierarchyNavigatorItemLabel {
+  font-weight: bold;
+}
+
+
+/* Lock icon transformation */
+.dglux_page_root .hierarchyNavigatorItem .dgIcon-icn-pi-lock {
+  left: -1px;
+  top: -1px;
+  transform: scale(0.5, 0.5) translate(50%, 50%); 
+  -webkit-transform: scale(0.5, 0.5) translate(50%, 50%);
+  -ms-transform: scale(0.5, 0.5) translate(50%, 50%);
+}  
+
+.dglux_page_root .hierarchyNavigator .previousButton {
+  padding: 0;
+}
+
+/* Styles for lock button (the one button for now) */
+.dglux_page_root .hierarchyNavigatorItem .dgButton {
+  width: 16px; 
+  height: 16px; 
+  margin: 1px 3px 0 0;
+  padding: 0;
+}
+
+.dglux_page_root .hierarchyNavigator div.previewButtonsContainer {
+  position: absolute; 
+  display: table;
+  width: 142px; 
+  right: 1px;
+  bottom: 1px;
+  height: 18px;
+}
+
+.dglux_page_root .hierarchyNavigator div.editButton, .dglux_page_root .hierarchyNavigator div.previewButton {
+  position: relative;
+  display:table-cell; 
+  vertical-align: middle; 
+  height: 100%; 
+  width: 70px; 
+  border-radius: 8px 0px 0px 8px;
+}
+
+.dglux_page_root .hierarchyNavigator div.previewButton {
+  border-radius: 0px 8px 8px 0px;
+}
+
+.dglux_page_root div.previewButton, .dglux_page_root div.editButton {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.dglux_page_root .hierarchyNavigator div.editButtonSelection {
+  position:absolute; 
+  background-color: #2AAEE2; 
+  top: 0px; 
+  left: 0px; 
+  opacity: 0.5;
+  display: none;
+  height: 16px;
+}
+
+.dglux_page_root .hierarchyNavigatorPadding {
+  width: 0px;  
+}
+
+.dglux_page_root .previewLabelHolder {
+  padding-top: 1px;
+  overflow: hidden;
+}
+
+.dglux_page_root .editLabelHolder {
+  overflow: hidden;
+}
+
+/*Border for record state*/
+.dglux_page_root .recordStateBlinkingBorder {
+border: solid 5px;
+-webkit-animation: changeColor 1s infinite alternate;
+animation: changeColor 1s infinite alternate;
+}  
+ @-webkit-keyframes changeColor {
+  0% { border-color: black;}
+  100% {border-color: red;}
+  }
+@keyframes changeColor {
+  0% { border-color: black;}
+  100% {border-color: red;}
+  }
+
+/*Border for record state changed prop*/
+.dglux_page_root .recordStateThinBorder {
+  position:absolute;
+  left:0;
+  right:0;
+  top:0;
+  bottom:0;
+  -moz-box-shadow: inset 0 0 2px 2px red;
+  -webkit-box-shadow: inset 0 0 2px 2px red;
+  box-shadow: inset 0 0 2px 2px red;
+}
+
+
+.dglux_page_root .hierarchyNavigator div.recordButtonsContainer {
+  position: absolute; 
+  display: table;
+  width: 142px; 
+  right: 0px;
+  bottom: 1px;
+  height: 18px;
+}
+
+.dglux_page_root .hierarchyNavigator div.finishRecordButton, .dglux_page_root .hierarchyNavigator div.cancelRecordButton {
+  position: relative;
+  display:table-cell; 
+  vertical-align: middle; 
+  height: 100%; 
+  width: 18px;
+}
+
+.dglux_page_root .hierarchyNavigator div.cancelRecordButton {
+}
+
+.dglux_page_root .hierarchyNavigator div.recordButtonSelection {
+  position:absolute; 
+  background-color: #2AAEE2; 
+  top: 0px; 
+  left: 0px; 
+  opacity: 0.5;
+  display: none;
+  width: 68px; 
+}
+
+.dglux_page_root .hierarchyNavigatorApplyButton, .dglux_page_root .hierarchyNavigatorCancelButton {
+  width: 20px;
+  height: 18px;
+}
+
+.dglux_page_root .hierarchyNavigatorApplyButton > div {
+  left: 2px;
+  top: 2px;
+}
+
+.dglux_page_root .hierarchyNavigatorCancelButton > div {
+  left: 3px;
+  top: 2px;
+}
+
+.dglux_page_root .hierarchyNavigatorToolButtons {
+  padding-right: 25px;
+}
+
+/*
+//---------------------------------------------------------------------------------------------
+//
+// Designer toolbars
+//
+//---------------------------------------------------------------------------------------------
+*/
+
+/* Selection */
+.dglux_page_root div.designerToolbarSelection
+{
+  width: 100%; 
+  height: 100%; 
+  opacity: 0.5; 
+  background: #2AAEE2;
+}
+  
+/*
+//---------------------------------------------------------------------------------------------
+//
+// Paths
+//
+//---------------------------------------------------------------------------------------------
+*/
+
+.dglux_page_root path.pointsPath {
+  stroke: transparent;
+  fill: #ffffff;
+}
+
+.dglux_page_root path.marqueePath {
+  fill: #93e22a;
+}
+
+.dglux_page_root div.marqueePathDiv {
+  position:absolute;
+}
+
+.dglux_page_root svg.marqueeSvg {
+  position:absolute;
+  width:100%;
+  height:100%;
+}
+
+/* Snapping */
+.dglux_page_root svg.snappingSvg {
+  position:absolute;
+  width:100%;
+  height:100%;
+}
+
+.dglux_page_root path.snappingPath {
+  stroke: #2aaee2;
+  fill: none;
+}
+
+.dglux_page_root path.pathFeedbackPath {
+  stroke: #ffffff;
+  fill: none;
+}
+
+.dglux_page_root svg.pathFeedbackSvg {
+  overflow: visible;
+  position: absolute;
+  pointer-events: none;
+}
+
+.dglux_page_root path.insertPointPath {
+  fill: #999999;
+}
+
+.dglux_page_root svg.insertPointSvg {
+  position:absolute;
+  pointer-events: none;
+}
+
+.dglux_page_root #designerToolsToolbarContainer div .defaultFillStroke {
+  left: 1px;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box; /* Firefox */  
+}
+
+.dglux_page_root .fillStrokeFavoritesDiv {
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box; /* Firefox */  
+}
+
+.dglux_page_root .dgDefaultFillStrokeLabel {
+  line-height: 22px;
+  font-size: 12px;
+}
+
+.dglux_page_root .defaultFillStrokeSvg {
+  position:absolute;
+  pointer-events: none;
+}
+
+.dglux_page_root .defaultFillStrokeRect {
+}
+
+.dglux_page_root .fillStroke {
+  width: 38px;
+  height: 38px;
+}
+
+.dglux_page_root .fillStrokeSvg {
+  position:absolute;
+  pointer-events: none;
+}
+
+.dglux_page_root .fillStrokeRect {
+}
+
+.dglux_page_root .emptyFillStroke {
+  cursor: pointer;
+}
+
+
+.dglux_page_root .symbolParamEditor{
+  
+}
+
+.dglux_page_root .symbolParamEditorDivider{
+  min-width:8px;
+  min-height:3px;
+  -webkit-flex: 0 0 auto !important;
+  flex: 0 0 auto !important;
+}
+.dglux_page_root .symbolParamEditorThumb{
+  min-height:20px;
+  min-width:8px;
+  -webkit-flex: 0 0 auto !important;
+  flex: 0 0 auto !important;
+  line-height: 23px;
+  margin-right: 5px;
+}
+.dglux_page_root .symbolDefaultParamEditor{
+  text-decoration:underline;
+}
+.dglux_page_root .symbolParamEditorLayoutThumb{
+  min-height:20px;
+  min-width:8px;
+  background:rgba(100,100,255,0.3);
+  -webkit-flex: 0 0 auto !important;
+  flex: 0 0 auto !important;
+}
+.dglux_page_root .symbolParamHightlightDiv{
+  box-shadow: inset 0px 0px 9px #AAAAFF;
+}
+.dglux_page_root .dgSymbolLibLabelInput{
+  position:absolute; 
+  color: #FFFFFF;
+  background-color: #000000;
+  border-style: none;
+  min-width: 50px;
+}
+.dglux_page_root .usersAccessItemRenderer {
+  padding-left: 0px;
+  width: 100%;
+  height:26px;
+  color: #DDDDDD;
+  font-size: 8pt;
+}
+
+.dglux_page_root .usersAccessExtendedItemRenderer {
+  height: 50px;
+}
+
+.dglux_page_root .usersAccessExtendedItemRenderer .loginDiv {
+  width: 78px;
+}
+
+.dglux_page_root .usersAccessExtendedItemRenderer .iconDiv {
+  width: 36px;
+  height: 36px;
+}
+
+.dglux_page_root .usersAccessExtendedItemRenderer .emailDiv {
+  width: 142px;
+}
+
+.dglux_page_root .isOwnerDivExt {
+  padding-left: 10px;
+}
+
+.dglux_page_root .dgPopupBackground {
+  background: #2f2f2f;
+}
+
+.dglux_page_root .menuTriangle {
+  fill: #ababab;
+}
+
+.dglux_page_root .componentHightlight {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  background-color: rgba(42, 174, 226, 0.3);
+  pointer-events: none;
+  border: 1px solid #2AAEE2;
+}
+
+.dglux_page_root .toolbar-separator {
+  background-color: #999999;
+}
+
+.dglux_page_root .downloadFileLabel {
+  color: #dddddd;
+}
+
+.dglux_page_root div.advancedPICaptionHolder {
+  content: 'Advanced';
+}
+
+.dglux_page_root .designerToolsToolbarHolder {
+  width: 22px; 
+  height: 100%; 
+  padding: 0px; 
+  background: none; 
+  border-style: none;
+}
+
+.dglux_page_root .designerCommandsToolbarHolder {
+  width: 22px; 
+  height: 100%; 
+  background: none; 
+  padding: 0px;
+}
+
+.dglux_page_root .toolbarSpacer {
+  height: 2px;
+}
+
+.dglux_page_root .toolbarVerticalSpacer {
+  width: 2px;
+}
+
+.dglux_page_root .toolbarSpacerBig {
+  height: 5px;
+}
+
+.dglux_page_root #widgetChooserContainer {
+  height: 95px;
+}
+
+.dglux_page_root .fileManagerToolsPanel {
+  height: 18px;
+}
+
+.dglux_page_root .menuTriangleSvg {
+  right: 2px;
+}
+
+.dglux_page_root div.defaultTreeRowHeightHolder {
+  content: '20';
+}
+
+.dglux_page_root div.useTreeFullLengthRowHolder {
+  content: 'false';
+}
+
+.dglux_page_root .pointTreeDiv {
+  top: 24px;
+}
+
+.dglux_page_root .menuCommandHotKey {
+  right: 5px;
+}
+
+.dglux_page_root .previewPanelSearchIconHolder {
+  display: none;
+}
+
+.dglux_page_root .searchProjectDiv {
+  margin-right: 2px;
+}
+
+.dglux_page_root .dgPathShapesTools {
+  padding: 2px;
+}
+
+.dglux_page_root .alignPopupDiv {
+  width: 74px; 
+  height: 118px;
+}
+
+.dglux_page_root .alignPopupDiv .toolbar-separator {
+  width: 72px;
+}
+
+.dglux_page_root .welcomeDialogButtonsSpacer {
+  height: 5px;
+}
+
+.dglux_page_root .welcomeWindowButton {
+  height: 90px;
+}
+
+.dglux_page_root .welcomeWindowButtonSelection {
+  height: 90px;
+}
+
+.dglux_page_root .welcomeWindowButtonDescFullString {
+  display: inline;
+  overflow: hidden;
+  text-align: left;
+  white-space: pre-wrap;
+  width: 150px;
+  height: 24px;
+  word-wrap: break-word;
+}
+
+.dglux_page_root .welcomeWindowRecentButton {
+  width: 147px;
+}
+
+.dglux_page_root .welcomeWindowTutorialButton {
+  width: 137px;
+}
+
+.dglux_page_root .projectsSearchDiv > .dgIcon-icn-tool-zoom {
+  top: 3px;
+}
+
+.dglux_page_root .welcomeScreenButtonsDiv #btn1, .dglux_page_root .welcomeScreenButtonsDiv #btn2, .dglux_page_root .welcomeScreenButtonsDiv #btn3, .dglux_page_root .welcomeScreenButtonsDiv #deleteButton{
+  height: 20px;
+}
+
+.dglux_page_root .welcomeScreenButtonsDiv {
+  bottom: 10px;
+  right: 10px;
+}
+
+.dglux_page_root .tutorial_iframe_container {
+  border: none;
+  width: 100%;
+  padding-bottom: 40px;
+  height: 100%;
+}
+
+.dglux_page_root #tutorial_iframe {
+  border: none;
+  width: 100%;
+  height: 100%;
+}
+
+.dglux_page_root .tempPI {
+  border: none;
+}
+
+.dglux_page_root .projects_box > .projects-top {
+  padding-left: 5px;
+}
+
+.dglux_page_root .searchProjectInput {
+  width: 147px;
+}
+
+.dglux_page_root .importLibraryTree .projects_box {
+  height: 508px;
+}
+
+.dglux_page_root .dialogButton, .dglux_page_root .dialogButtonWithSpace {
+  height: 20px;
+}
+
+.dglux_page_root .importLibraryTree {
+  height: 530px;
+}
+
+.dglux_page_root .languageDialogButtons {
+  padding: 3px 3px 4px 3px;
+}
+
+.dglux_page_root .submitFeedbackTitle {
+  padding-left: 71px;
+}
+
+.dglux_page_root .submitFeedbackVerticalSpacer, .dglux_page_root .addTagVerticalSpacer {
+  height: 6px;
+}
+
+.dglux_page_root #subjectTextInput {
+  width: 400px;
+}
+
+.dglux_page_root #typeDiv {
+  width: 150px;
+}
+
+.dglux_page_root .feedbackEmailDiv {
+  width: 100%;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.dglux_page_root .feedbackTypeDiv {
+  width: 100%;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.dglux_page_root .feedbackTypeLabel {
+  width: 60px;
+}
+
+.dglux_page_root .saveDialogButtonsContainer {
+  padding-bottom: 4px;
+  bottom: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.dglux_page_root .feedbackButtonsBar, .dglux_page_root .addTagButtonsBar {
+  right: 10px;
+}
+
+.dglux_page_root .licenseControlDiv {
+  height: 26px;
+  width: 95%;
+  padding: 3px;
+}
+
+.dglux_page_root .licenseRequestControlDiv {
+  height: 26px;
+  width: 95%;
+  padding: 3px;
+}
+
+.dglux_page_root .licenseControlDiv .dialogBtnPadding, .dglux_page_root .licenseRequestControlDiv .dialogBtnPadding {
+  line-height: 19px;
+}
+
+.dglux_page_root .licenceTextArea {
+  resize: none;
+  width: 95%;
+}
+
+.dglux_page_root .inputLicenceLabel {
+  margin-top: 15px;
+}
+
+.dglux_page_root .symbolPanedDesignerDiv {
+  bottom: 24px;
+}
+
+.dglux_page_root .symbolPanelButtonsBar {
+  height: 24px;
+  padding: 2px;
+}
+
+.dglux_page_root .symbolPanelButton{
+  width: 40px;
+  margin-right: 4px;
+  line-height: 19px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-back {
+  top: 1px;
+  left: 0px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgAutoButton > div {
+  top:10px;
+  left:0px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgNoneButton > div {
+  top:10px;
+  left:0px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgDefaultButton > div {
+  left:12px;
+  top:9px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgPointerButton > div {
+  left:10px;
+  top:9px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgMoveButton > div {
+  left:10px;
+  top:10px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgCrosshairButton > div {
+  left:8px;
+  top:8px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgWaitButton > div {
+  left:10px;
+  top:9px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgContextMenuButton > div {
+  left:8px;
+  top:7px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgHelprButton > div {
+  left:9px;
+  top:9px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgNoDropButton > div {
+  left:9px;
+  top:6px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgNResizeButton > div {
+  left:14px;
+  top:10px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgNEResizeButton > div {
+  left:12px;
+  top:12px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgEResizeButton > div {
+  left:10px;
+  top:14px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgSEResizeButton > div {
+  left:12px;
+  top:12px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgSResizeButton > div {
+  left:14px;
+  top:10px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgSWResizeButton > div {
+  left:12px;
+  top:12px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgWResizeButton > div {
+  left:10px;
+  top:14px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgNWResizeButton > div {
+  left:12px;
+  top:12px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgNSResizeButton > div {
+  left:14px;
+  top:8px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgNESWResizeButton > div {
+  left:11px;
+  top:11px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgEWResizeButton > div {
+  left:8px;
+  top:14px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgNWSEResizeButton > div {
+  left:11px;
+  top:11px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgTextButton > div {
+  left:14px;
+  top:8px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgVerticalTextButton > div {
+  left:8px;
+  top:14px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgRowResizeButton > div {
+  left:8px;
+  top:10px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgColResizeButton > div {
+  left:10px;
+  top:8px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgProgressButton > div {
+  left:5px;
+  top:8px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgCellButton > div {
+  left:10px;
+  top:8px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgAliasButton > div {
+  left:5px;
+  top:4px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgCopyButton > div {
+  left:5px;
+  top:4px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgNotAllowedButton > div {
+  left:8px;
+  top:6px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgAllScrollButton > div {
+  left:5px;
+  top:4px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgZoomInButton > div {
+  left:10px;
+  top:8px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgZoomOutButton > div {
+  left:10px;
+  top:8px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgGrabButton > div {
+  left:10px;
+  top:8px;
+}
+
+.dglux_page_root .cursorEditorPopup .dgGrabbingButton > div {
+  left:10px;
+  top:8px;
+}
+
+
+
+.dglux_page_root .cursorEditorDiv .dgAutoButton > div {
+  top:5px;
+  left:4px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgDefaultButton > div {
+  left:9px;
+  top:3px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgPointerButton > div {
+  left:7px;
+  top:3px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgMoveButton > div {
+  left:6px;
+  top:4px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgCrosshairButton > div {
+  left:5px;
+  top:3px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgWaitButton > div {
+  left:7px;
+  top:3px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgContextMenuButton > div {
+  left:4px;
+  top:1px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgHelprButton > div {
+  left:5px;
+  top:3px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgNoDropButton > div {
+  left:6px;
+  top:0px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgNResizeButton > div {
+  left:10px;
+  top:4px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgNEResizeButton > div {
+  left:9px;
+  top:6px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgEResizeButton > div {
+  left:7px;
+  top:8px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgSEResizeButton > div {
+  left:9px;
+  top:6px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgSResizeButton > div {
+  left:10px;
+  top:4px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgSWResizeButton > div {
+  left:9px;
+  top:6px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgWResizeButton > div {
+  left:7px;
+  top:8px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgNWResizeButton > div {
+  left:9px;
+  top:6px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgNSResizeButton > div {
+  left:10px;
+  top:3px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgNESWResizeButton > div {
+  left:8px;
+  top:5px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgEWResizeButton > div {
+  left:5px;
+  top:8px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgNWSEResizeButton > div {
+  left:7px;
+  top:5px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgTextButton > div {
+  left:10px;
+  top:3px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgVerticalTextButton > div {
+  left:5px;
+  top:8px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgRowResizeButton > div {
+  left:6px;
+  top:4px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgColResizeButton > div {
+  left:7px;
+  top:4px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgNoneButton > div {
+  top:5px;
+  left:2px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgProgressButton > div {
+  left:3px;
+  top:1px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgCellButton > div {
+  left:5px;
+  top:3px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgAliasButton > div {
+  left:3px;
+  top:1px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgCopyButton > div {
+  left:3px;
+  top:1px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgNotAllowedButton > div {
+  left:3px;
+  top:2px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgAllScrollButton > div {
+  left:0px;
+  top:0px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgZoomInButton > div {
+  left:4px;
+  top:3px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgZoomOutButton > div {
+  left:4px;
+  top:3px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgGrabButton > div {
+  left:4px;
+  top:2px;
+}
+
+.dglux_page_root .cursorEditorDiv .dgGrabbingButton > div {
+  left:6px;
+  top:4px;
+}
+
+.dglux_page_root .projects_box_holder {
+  height: auto;
+}
+
+.dglux_page_root #treeContainerSaveDialog {
+  bottom: 65px;
+  position: absolute;
+}
+
+.dglux_page_root .saveDialogInputDiv {
+  left:0px;
+  right:0px;
+  padding:10px;
+  position:absolute;
+  bottom: 23px;
+}
+
+.dglux_page_root #treeContainerOpenDialog {
+  bottom: 43px;
+  position: absolute;
+}
+
+.dglux_page_root .radiusAxisSpacer {
+  height: 2px;
+}
+
+.dglux_page_root .radiusAxisLabelSpacer {
+  height: 10px;
+}
+
+.dglux_page_root #chartBindingBox {
+  width: 350px;
+}
+
+.dglux_page_root #chartBindingBox select {
+  width: 150px;
+}
+
+.dglux_page_root .axisSelectorWindowVerticalSpacer {
+  height: 2px;
+}
+
+.dglux_page_root .dgBindingMapBox {
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width:80px;
+}
+
+.dglux_page_root .dgBindingOptionBox {
+  padding-left: 5px; 
+  padding-top: 5px; 
+  padding-bottom: 5px;
+}
+
+.dglux_page_root .dgBindingDialogContent {
+  bottom: 34px;
+}
+
+.dglux_page_root .exdtendedTextEditor {
+  right:13px;
+  left:5px;
+  top:5px;
+  bottom:35px;
+}
+
+.dglux_page_root .extendedTextEditorButtonsBar {
+  width:100%;
+  bottom:5px;
+}
+
+.dglux_page_root .linkingDialogRenderer {
+  align-items: center; 
+  align-content: flex-start; 
+  overflow: visible;
+  padding-left: 5px;
+  padding-bottom: 3px;
+  padding-top: 2px;
+}
+
+.dglux_page_root .eulaDialogControlPanel {
+  padding: 3px;
+}
+
+.dglux_page_root .fileDownloadDialogButton {
+  height: 20px;
+  line-height: 19px;
+}
+
+.dglux_page_root .fileDownloadDialogBar {
+  padding-top: 10px;
+}
+
+.dglux_page_root .importDialogOptionsButton {
+  width: 20px;
+}
+
+.dglux_page_root input#uploadFile {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.dglux_page_root .modalDialogBackground {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.dglux_page_root #accessEditDiv, .dglux_page_root .accessEditDiv, .dglux_page_root #accessEditDiv select, .dglux_page_root .accessEditDiv select {
+  width: 80px;
+}
+
+.dglux_page_root .accessEditDivExt {
+  width: 90px!important;
+}
+
+.dglux_page_root .accessEditDivFF, .dglux_page_root .accessEditDivFF select {
+  width: 90px !important;
+}
+
+.dglux_page_root .searchInputFlex {
+  -webkit-flex: 1 0 0px;
+  flex: 1 0 0px;
+  min-width: 0px;
+}
+
+.dglux_page_root .actionIndicatorContainer .dgTreeLoadingIcon {
+  width: 16px;
+  height: 16px;
+}
+
+.dglux_page_root .relativizeDialog .dgDatagridCell {
+  overflow: hidden;
+}
+
+.dglux_page_root .grid-layer {
+  pointer-events: none;
+}
+
+.dglux_page_root .logout_user_control {
+  overflow-x: hidden;
+  border: 1px #3a3a3a solid;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+//  border-right-width: 0px;
+  font-size: 14px;
+  width: 200px;
+  height: 36px;
+  padding-left: 20px;
+  cursor: pointer;
+  position: absolute;
+  color: #DDDDDD;
+}
+
+.dglux_page_root .logout_user_control_extended {
+  padding-left: 10px;
+}
+
+.dglux_page_root .userIconSpacer {
+  width: 12px;
+}
+
+.dglux_page_root .logout_user_control_extended .userIconSpacer {
+  width: 10px;
+}
+
+.dglux_page_root .logoutTriangle {
+  fill: #DDDDDD;
+}
+
+.dglux_page_root .logout_user_button {
+  width: 200px;
+  height: 36px;
+  cursor: pointer;
+  padding: 10px 20px 10px 20px;
+  color: #DDDDDD;
+  border: 1px #3a3a3a solid;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  box-shadow: 0 24px 30px 0 #000000, inset 0 1px 0 0 #58646f;
+  margin-top: -2px;
+}
+
+.dglux_page_root .logout_user_label {
+  font-size: 12px;
+}
+
+.dglux_page_root .user_menu {
+  width: 200px;
+  box-shadow: 0 24px 30px 0 #000000, inset 0 0px 0 0 #58646f;
+}
+
+.dglux_page_root .userIconDiv {
+  width: 28px;
+  height: 28px;
+}
+
+.dglux_page_root .userFirstAndLastNameLabel {
+  color: #DDDDDD;
+  font-size: 11px;
+  width: 115px;
+}
+
+.dglux_page_root .userNameLabel {
+  font-size: 14px;
+  width: 133px;
+}
+
+.dglux_page_root .logout_user_control_extended .userNameLabel {
+  color: #DDDDDD;
+  font-size: 10px;
+}
+
+.dglux_page_root .collaboratorsHeaderListControl {
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 36px;
+  position: absolute;
+  cursor: pointer;
+  border: 1px #3a3a3a solid;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+}
+
+.dglux_page_root .collaboratorsSeparator {
+  width: 10px;
+}
+
+.dglux_page_root .dialogVerticalSpacer {
+  height: 6px;
+}
+
+.dglux_page_root .dialogHorizontalSpacer {
+  width: 5px;
+}
+
+.dglux_page_root .dialogMainContainer {
+  padding: 20px;
+}
+
+.dglux_page_root .dialogButtonsBar {
+  padding: 20px 0px;
+  height: 60px;
+}
+
+.dglux_page_root .profileIconChangeButton {
+  font-size: 14px;
+  color: rgb(42,161,184);
+}
+
+.dglux_page_root .profileDataDiv {
+  width: 275px;
+}
+
+.dglux_page_root .userProfileHeader {
+  font-weight: bold;
+}
+
+.dglux_page_root #timeZoneDiv {
+  width: 232px;
+}
+
+.dglux_page_root #timeZoneDiv > select {
+  width: 232px!important;
+  max-width: 232px!important;
+}
+
+.passwordsMatchLabel {
+  color: #30d763;
+  text-align: center;
+}
+
+.passwordsDoesnotMatchLabel {
+  color: #ee3123;
+  text-align: center;
+}
+
+.dglux_page_root .profileDataEditor {
+  height: 22px;
+  width: 225px;
+}
+
+.dglux_page_root .groupsValueLabel, .dglux_page_root .rootUrlValueLabel{
+  width: 225px;
+}
+
+.dglux_page_root .profileLabel {
+  text-align: right;
+}
+
+.dglux_page_root .userProfileLabelDiv {
+  font-size: 12px;
+  color: #444444;
+}
+
+.dglux_page_root .userProfilePicWithoutBackground {
+  color: #DDDDDD;
+}
+
+.dglux_page_root .userProfileIcon {
+  background: #444444;
+}
+
+.dglux_page_root .collaboratorsContainer {
+  height: 500px;
+}
+
+.dglux_page_root .collaboratorsButtonBar, .dglux_page_root .collaboratorButtonBar {
+  padding: 20px;
+}
+
+.dglux_page_root .collaboratorsContent {
+  background: linear-gradient(to bottom, #323232, #323232 50px, #2B2B2B 50px, #2B2B2B 100px);
+  background-position: 0px 0px;
+  background-size: 200px 100px;
+  background-repeat: repeat;
+}
+
+.dglux_page_root .collaboratorRendererDiv {
+  cursor: pointer;
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 50px;
+  width: 100%;
+}
+
+.dglux_page_root .collaboratorRendererNameDiv {
+  font-size: 14px;
+  width: 160px;
+  max-width: 160px;
+  padding-left: 10px;
+}
+
+.dglux_page_root .collaboratorRendererEmailDiv {
+  font-size: 14px;
+  color: rgb(48,161,184);
+  width: 240px;
+  max-width: 240px;
+  padding-left: 10px;
+}
+
+.dglux_page_root .collaboratorProfileFieldDiv {
+  font-size: 14px;
+  width: 100px;
+  max-width: 100px;
+  padding-left: 20px;
+  text-align: right;
+}
+
+.dglux_page_root .collaboratorProfileEmailDiv {
+  font-size: 14px;
+  color: rgb(48,161,184);
+  width: 226px;
+  max-width: 226px;
+  padding-left: 20px;
+}
+
+.dglux_page_root .collaboratorProfileDataDiv {
+  font-size: 14px;
+  width: 226px;
+  max-width: 226px;
+  padding-left: 20px;
+}
+
+.dglux_page_root .collaboratorDataContent > div {
+  height: 40px;
+}
+
+.dglux_page_root .projectPropertiesEditor {
+  width: 225px;
+}
+
+.dglux_page_root .searchUserInput {
+  width: 141px;
+}
+
+.dglux_page_root .userProfileInactiveLabel {
+  color: #6A6A6A;
+}
+
+.dglux_page_root .userManagementHeaderSortingIndicator path {
+  fill: #ffffff;
+}
+
+.dglux_page_root .userManagementContent {
+  background: linear-gradient(to bottom, #323232, #323232 32px, #2B2B2B 32px, #2B2B2B 64px);
+  background-position: 0px 0px;
+  background-size: 128px 64px;
+  background-repeat: repeat;
+}
+
+.dglux_page_root .usersDivExt > .vertical {
+  background: linear-gradient(to bottom, #323232, #323232 50px, #2B2B2B 50px, #2B2B2B 100px);
+  background-size: 200px 100px;
+}
+
+.dglux_page_root .accessEditDivEven select {
+  background: #2B2B2B;
+}
+
+.dglux_page_root .userManagementControlBar .dgIcon-s-add, .dglux_page_root .userManagementRendererButtonsDiv {
+  color: rgb(42,161,184);
+}
+
+.dglux_page_root #labelContainer {
+  padding-top: 3px;
+}

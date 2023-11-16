@@ -1,0 +1,77 @@
+/*
+///////////////////////////////////////////////////////////////////
+//  Styles for charts
+//////////////////////////////////////////////////////////////////
+*/
+
+.chart 
+{
+  position: absolute;
+  /*outline: red 1px solid;*/
+}
+
+.chart *
+{
+  position: absolute;
+}
+
+.axisRenderer
+{
+  font-size: 12px;
+  stroke: none;
+  fill: white;
+}
+
+.chartDataTip
+{
+  background-color: white;
+  border: red 2px solid;
+  border-radius: 7px;
+  color: black;
+  font-size: 12px;
+  padding: 3px;
+}
+
+.pieSeriesLabel,
+.axisDivLabel
+{
+  white-space: nowrap;
+}
+
+.chartDataTip *,
+.pieSeriesLabel *,
+.axisDivLabel *
+{
+  position: relative;
+  white-space: nowrap;
+}
+
+
+.chart text, .gauge-labels text
+{
+  pointer-events: auto;
+  text-anchor: start;
+}
+
+.chartElement
+{
+  pointer-events: none;
+}
+
+div.seriesHolder 
+{
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.backgroundElementHolder, .annotationElementHolder
+{
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.dataTipOverlay, .allDataTipOverlay
+{
+  pointer-events: none;
+  /* overflow: hidden; this was removed on purpose in dg_chart_base.dart */
+}

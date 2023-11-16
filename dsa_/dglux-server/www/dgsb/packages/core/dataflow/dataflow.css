@@ -1,0 +1,284 @@
+.dglux_page_root .dataflowBlock {
+  font-size: 12px;
+}
+
+.dglux_page_root .blockHeader {
+  height: 20px;
+}
+
+.dglux_page_root div.blockTitle {
+  position: absolute;
+  text-align: left;
+  color: #DDDDDD;
+  cursor: move;
+  left: 5px;
+  right: 16px;
+  line-height: 20px;
+  text-shadow: 1px 1px 1px #000000;
+}
+
+.dglux_page_root input.blockTitleInput {
+  position: absolute;
+  text-align: left;
+  color: #DDDDDD;
+  left: 4px;
+  right: 16px;
+  font-size: 12px;
+  line-height: 15px;
+  display: none;
+  background: transparent;
+  border: none;
+  text-shadow: 1px 1px 1px #000000;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.dglux_page_root div.blockAddParamBtn {
+  position: absolute;
+  display: none;
+  width: 8px;
+  height: 8px;
+  top: 22px;
+  right: 2px;
+  cursor: pointer;
+}
+
+.dglux_page_root div.blockRemoveParamBtn {
+  position: absolute;
+  display: none;
+  width: 8px;
+  height: 8px;
+  top: 22px;
+  left: 3px;
+  cursor: pointer;
+}
+
+.dglux_page_root div.wsParameter {
+  padding-left: 16px;
+  padding-right: 10px;
+  width: 100%;
+  display: -webkit-flex;
+  -webkit-flex-direction: row;
+  display: flex;
+  flex-direction: row;
+}
+
+.dglux_page_root div.wsParamLabel {
+  text-align: left;
+  color: #DDDDDD;
+  line-height: 16px;
+  flex: 1 1 auto;
+  -webkit-flex: 1 1 auto;
+  white-space: nowrap;
+}
+
+.dglux_page_root div.wsParamValue {
+  text-align: right;
+  color: #DDDDDD;
+  line-height: 16px;
+  flex: 1 1 auto;
+  -webkit-flex: 1 1 auto;
+}
+
+.dglux_page_root svg.wireLayer {
+  position: absolute;
+  pointer-events: none;
+  width:100%;
+  height:100%;
+  overflow: visible;
+}
+
+.dglux_page_root svg.selectionLayer {
+  position: absolute;
+  pointer-events: none;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.dglux_page_root path.selectionPath {
+  stroke: #2aaee2;
+/*  stroke-dasharray: 4 1;*/
+  fill: none;
+}
+
+.dglux_page_root svg.blockBg {
+  position: absolute;
+  pointer-events: none;
+  overflow: visible;
+}
+
+.dglux_page_root path.blockBg {
+  stroke: #666666;
+}
+
+.dglux_page_root path.selectedBlockBg {
+  stroke: #008faf;
+  stroke-width: 2px;
+}
+
+.dglux_page_root text {
+  pointer-events: none;
+  text-anchor: middle;
+}
+
+.dglux_page_root svg.pinOut {
+  position: absolute;
+}
+
+.dglux_page_root svg.pinIn {
+  position: absolute;
+  /*  pointer-events: none;*/
+}
+
+.dglux_page_root path.pin {
+  stroke: #666666;
+}
+
+.dglux_page_root svg.fromOutsideCircleVisible {
+  position: absolute;
+  visibility: visible;
+}
+
+.dglux_page_root svg.fromOutsideCircleHidden {
+  position: absolute;
+  visibility: hidden;
+}
+
+.dglux_page_root circle.bindingFromOutsideCircle {
+  stroke: #666666;
+}
+
+.dglux_page_root .ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+}
+
+.dglux_page_root path.wire {
+  stroke-width: 2px;
+  fill: none;
+}
+
+.dglux_page_root div.wsContainer {
+  overflow: hidden;
+}
+
+.dglux_page_root div.wsScroller {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+}
+
+.dglux_page_root div.wsContent {
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  transform-origin: 0px 0px 0px;
+}
+
+.dglux_page_root div.wsBlockResizeHandler {
+  position: absolute;
+  cursor: e-resize;
+  right: 1px;
+  bottom: 1px;
+  width: 8px;
+  height: 8px;
+}
+
+div.blockNullColorHolder {
+  color: #999999;
+}
+
+div.blockDefaultColorHolder {
+  color: #FF9900;
+}
+
+div.blockComponentColorHolder {
+  color: #0099FF;
+}
+
+div.blockVariableColorHolder {
+  color: #00DE00;
+}
+
+div.blockPointColorHolder {
+  color: #FF665D;
+}
+
+div.gradientCoefficientHolder {
+  color: #000003;
+}
+
+div.blockLogicColorHolder {
+  color: #FF9900;
+}
+
+div.blockDatetimeColorHolder {
+  color: #FF9900;
+}
+
+div.blockTableColorHolder {
+  color: #FF9900;
+}
+
+div.blockStringColorHolder {
+  color: #FF9900;
+}
+
+div.blockDataservicesColorHolder {
+  color: #FF665D;
+}
+
+div.blockMathColorHolder {
+  color: #FF9900;
+}
+
+div.blockNumberColorHolder {
+  color: #FF9900;
+}
+
+div.blockStatisticalColorHolder {
+  color: #FF9900;
+}
+
+div.blockTrigonometricColorHolder {
+  color: #FF9900;
+}
+
+.dglux_page_root .blocksTreeSearchDiv {
+  height: 30px;
+}
+
+.dglux_page_root .blocksTreeSectionHeader {
+  position: absolute; 
+  display: none;
+}
+
+.dglux_page_root .blocksTreeClosedSectionSvg {
+  display: none;
+}
+
+.dglux_page_root .blocksTreeOpenedSectionSvg {
+  display: none;
+}
+
+.dglux_page_root .dataflowNavigator {
+  height: 22px;
+}
+
+.dglux_page_root .dataflowMenuParamButton {
+  width: 130px;
+  height: 20px;
+  padding: 0px;
+  margin: 2px 4px 2px 4px;
+}
+
+.dglux_page_root .blockNameDiv {
+  display: inline-block;
+}
+
+.dglux_page_root .remoteDFPanel {
+  background-color: #2d2d2d;
+}

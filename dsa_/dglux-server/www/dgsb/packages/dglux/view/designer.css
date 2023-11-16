@@ -1,0 +1,1304 @@
+/*
+Styles for designer.
+Warning: changing some styles, like pointer-events, can cause designer disfunction.
+*/
+
+.dgFeedback {
+  border-color: rgba(0, 0, 0, 0); /* transparent border color, to apply border styles and make feedback fit into the content */  
+  
+  /* Debug outline 
+  outline: red dotted 1px;*/
+}
+
+.feedbackHandle {
+  width: 8px;
+  height: 8px;
+  background-color: #A9A9A9;
+  border-radius: 4px;
+  opacity: 0.8;
+}
+
+.rectFeedbackHandle {
+  width: 8px;
+  height: 8px;
+  background-color: #A9A9A9;
+  border-radius: 1px;
+  opacity: 0.8;
+}
+
+.feedbackHandleSelected {
+  width: 8px;
+  height: 8px;
+  background-color: #00ff00;/*93E22A*/
+  border-radius: 4px;
+  opacity: 0.8;
+}
+
+.rectFeedbackHandleSelected {
+  width: 8px;
+  height: 8px;
+  background-color: #00ff00;/*93E22A*/
+  border-radius: 1px;
+  opacity: 0.8;
+}
+
+div.feedbackFrame div.feedbackHandle,
+div.feedbackFrame div.feedbackHandleSelected,
+div.feedbackFrame div.rectFeedbackHandle,
+div.feedbackFrame div.rectFeedbackHandleSelected {
+  transform-origin: 0px 0px;
+  -webkit-transform-origin: 0px 0px;
+}
+
+.feedbackFrame {
+  position: absolute !important;
+}
+
+.feedbackFrameOutline, .feedbackFrameOutline > svg
+{
+  position: absolute !important;
+/*  outline: solid 1px #595959;*/
+}
+
+.feedbackFrameOutlinePath {
+  fill: none;
+  stroke: #595959;
+}
+
+/* override for div.dgDisableMouse div */
+div.feedbackFrame div.feedbackHandle, 
+div.feedbackFrame div.feedbackHandleSelected, 
+div.feedbackFrame div.rectFeedbackHandle, 
+div.feedbackFrame div.rectFeedbackHandleSelected {
+  pointer-events: auto;
+}
+
+/* Highlight for container when dragging things */
+.containerHighLight
+{
+  outline: solid 1px #2AAEE2;  /* DGLux3 hintColorIn*/
+}
+
+/* Hint manager highlight */
+.base-hint
+{
+  border: solid 1px #2AAEE2;  /* DGLux3 hintColorIn*/
+}
+
+.editingGroupMask {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+div.editingGroupMask > div {
+  opacity: 0.1;
+  background-color: #FFF;
+  pointer-events: auto;
+}
+
+#designerToolsToolbarContainer div, 
+#designerCommandsToolbarContainer div
+{
+  box-sizing: content-box;
+  -moz-box-sizing: content-box; /* Firefox */  
+}
+
+.designerContentElement {
+  border: #000000 solid 1px;
+  outline: #393939 solid 1px;
+  overflow: hidden;
+}
+
+.designerRootContainer {
+  width: 100%;
+  height: 100%;
+  background-color: #181818;
+}
+
+/* Padding between icon and label in the context menu */
+div.dgDesignerPopupMenu > div > div:nth-child(2) 
+{
+  padding-left: 6px;
+  padding-right: 4px;
+}
+
+.dgDesignerPopupMenu #editSymbolDivEditor {
+  height: 16px;
+  margin-top: -1px;
+}
+
+.dgDesignerPopupMenu #editSymbolDivEditor input {
+  height: 20px;
+}
+
+/*
+//-----------------------------------------------------------
+//
+// Hierarchy navigator styles
+//
+//-----------------------------------------------------------
+*/
+
+/* Common background and text styles */
+.hierarchyNavigator {
+  height: 20px;
+  width: 100%;                /* 100% of the root container */
+  background-color: #333333;
+  
+  /* text color and size for all text */  
+  color: #DDDDDD; 
+  font-size: 12px;
+}
+
+/* Label for in-place editing */
+.hierarchyNavigator .labelInput
+{
+  position: absolute; 
+  display: none;
+  color: #FFFFFF;
+  background-color: #000000;
+  border-style: none;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  min-width: 50px;
+}
+
+
+.hierarchyNavigator div
+{
+  box-sizing: content-box;
+  -moz-box-sizing: content-box; /* Firefox */  
+}
+
+/* First div with subscript "There are no selected objects" */
+.hierarchyNavigatorNoItems {
+  padding: 0px 2px 0px 2px;  
+  vertical-align: middle;
+  height: 100%;  
+}
+
+.hierarchyNavigatorContainer {
+  height: 20px;
+}
+
+/* Main content for items */
+.hierarchyNavigatorContent {
+  height: 100%;  
+  overflow-x: hidden; /* for now, scroll is separate theme for the day */
+  left: 0px;
+}
+
+/* Arrow between items */
+.hierarchyNavigatorArrow, .HierarchyNavigatorArrow {
+  padding: 0px 4px 0px 2px;
+}
+
+/* Common rules for the first item and other items */
+.hierarchyNavigatorItem, .HierarchyNavigatorItem,
+.firstHierarchyNavigatorItem, .firstDFHierarchyNavigatorItem,
+.activeHierarchyNavigatorItem, .activeDFHierarchyNavigatorItem 
+{
+  padding: 0px 10px 0px 10px;  
+  height: 100%;
+  overflow: hidden;  
+}
+
+/* Common rules for items hover state */
+.hierarchyNavigatorItem:hover, .HierarchyNavigatorItem:hover,
+.firstHierarchyNavigatorItem:hover, .firstDFHierarchyNavigatorItem:hover,
+.activeHierarchyNavigatorItem:hover, .activeDFHierarchyNavigatorItem:hover
+{
+  background-color: #545454;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/* Common rules for items in active state (mouse down) */
+.hierarchyNavigatorItem:active, .HierarchyNavigatorItem:active, 
+.firstHierarchyNavigatorItem:active, .firstDFHierarchyNavigatorItem:active,
+.activeHierarchyNavigatorItem:active, .activeDFHierarchyNavigatorItem:active 
+{
+  background-color: #2E4051;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/* For a first item button is never visible */
+.firstHierarchyNavigatorItem .dgButton, .firstDFHierarchyNavigatorItem .dgButton {
+  display: none;
+}
+
+/* Label for all items except the first item must be underlined */
+.hierarchyNavigatorItem .hierarchyNavigatorItemLabel, .HierarchyNavigatorItem .HierarchyNavigatorItemLabel {
+  text-decoration: underline;
+}
+
+/* For dataflow, active item */
+.activeHierarchyNavigatorItem .hierarchyNavigatorItemLabel, .activeDFHierarchyNavigatorItem .HierarchyNavigatorItemLabel {
+  font-weight: bold;
+}
+
+
+/* Lock icon transformation */
+.hierarchyNavigatorItem .dgIcon-icn-pi-lock {
+  left: -1px;
+  top: -1px;
+  transform: scale(0.5, 0.5) translate(50%, 50%); 
+  -webkit-transform: scale(0.5, 0.5) translate(50%, 50%);
+  -ms-transform: scale(0.5, 0.5) translate(50%, 50%);
+}  
+
+.hierarchyNavigator .previousButton {
+  padding: 0;
+}
+
+/* Styles for lock button (the one button for now) */
+.hierarchyNavigatorItem .dgButton {
+  width: 16px; 
+  height: 16px; 
+  margin: 1px 3px 0 0;
+  padding: 0;
+}
+
+.hierarchyNavigator div.previewButtonsContainer {
+  position: absolute; 
+  display: table;
+  width: 142px; 
+  right: 1px;
+  bottom: 1px;
+  height: 18px;
+}
+
+.hierarchyNavigator div.editButton, .hierarchyNavigator div.previewButton {
+  position: relative;
+  display:table-cell; 
+  vertical-align: middle; 
+  height: 100%; 
+  width: 70px; 
+  border-radius: 8px 0px 0px 8px;
+}
+
+.hierarchyNavigator div.previewButton {
+  border-radius: 0px 8px 8px 0px;
+}
+
+div.previewButton, div.editButton {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.hierarchyNavigator div.editButtonSelection {
+  position:absolute; 
+  background-color: #2AAEE2; 
+  top: 0px; 
+  left: 0px; 
+  opacity: 0.5;
+  display: none;
+  height: 16px;
+}
+
+.hierarchyNavigatorPadding {
+  width: 0px;  
+}
+
+.previewLabelHolder {
+  padding-top: 1px;
+  overflow: hidden;
+}
+
+.editLabelHolder {
+  overflow: hidden;
+}
+
+/*Border for record state*/
+.recordStateBlinkingBorder {
+border: solid 5px;
+-webkit-animation: changeColor 1s infinite alternate;
+animation: changeColor 1s infinite alternate;
+}  
+ @-webkit-keyframes changeColor {
+  0% { border-color: black;}
+  100% {border-color: red;}
+  }
+@keyframes changeColor {
+  0% { border-color: black;}
+  100% {border-color: red;}
+  }
+
+
+.hierarchyNavigator div.recordButtonsContainer {
+  position: absolute; 
+  display: table;
+  width: 142px; 
+  right: 0px;
+  bottom: 1px;
+  height: 18px;
+}
+
+.hierarchyNavigator div.finishRecordButton, .hierarchyNavigator div.cancelRecordButton {
+  position: relative;
+  display:table-cell; 
+  vertical-align: middle; 
+  height: 100%; 
+  width: 18px;
+}
+
+.hierarchyNavigator div.cancelRecordButton {
+}
+
+.hierarchyNavigator div.recordButtonSelection {
+  position:absolute; 
+  background-color: #2AAEE2; 
+  top: 0px; 
+  left: 0px; 
+  opacity: 0.5;
+  display: none;
+  width: 68px; 
+}
+
+.hierarchyNavigatorApplyButton, .hierarchyNavigatorCancelButton {
+  width: 20px;
+  height: 18px;
+}
+
+.hierarchyNavigatorApplyButton > div {
+  left: 2px;
+  top: 2px;
+}
+
+.hierarchyNavigatorCancelButton > div {
+  left: 3px;
+  top: 2px;
+}
+
+.hierarchyNavigatorToolButtons {
+  padding-right: 25px;
+}
+
+/*
+//---------------------------------------------------------------------------------------------
+//
+// Designer toolbars
+//
+//---------------------------------------------------------------------------------------------
+*/
+
+/* Selection */
+div.designerToolbarSelection
+{
+  width: 100%; 
+  height: 100%; 
+  opacity: 0.5; 
+  background: #2AAEE2;
+}
+  
+/*
+//---------------------------------------------------------------------------------------------
+//
+// Paths
+//
+//---------------------------------------------------------------------------------------------
+*/
+
+path.pointsPath {
+  stroke: transparent;
+  fill: #ffffff;
+}
+
+path.marqueePath {
+  fill: #93e22a;
+}
+
+div.marqueePathDiv {
+  position:absolute;
+}
+
+svg.marqueeSvg {
+  position:absolute;
+  width:100%;
+  height:100%;
+}
+
+/* Snapping */
+svg.snappingSvg {
+  position:absolute;
+  width:100%;
+  height:100%;
+}
+
+path.snappingPath {
+  stroke: #2aaee2;
+  fill: none;
+}
+
+path.pathFeedbackPath {
+  stroke: #ffffff;
+  fill: none;
+}
+
+svg.pathFeedbackSvg {
+  overflow: visible;
+  position: absolute;
+  pointer-events: none;
+}
+
+path.insertPointPath {
+  fill: #999999;
+}
+
+svg.insertPointSvg {
+  position:absolute;
+  pointer-events: none;
+}
+
+#designerToolsToolbarContainer div .defaultFillStroke {
+  left: 1px;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box; /* Firefox */  
+}
+
+.fillStrokeFavoritesDiv {
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box; /* Firefox */  
+}
+
+.dgDefaultFillStrokeLabel {
+  line-height: 22px;
+  font-size: 12px;
+}
+
+.defaultFillStrokeSvg {
+  position:absolute;
+  pointer-events: none;
+}
+
+.defaultFillStrokeRect {
+}
+
+.fillStroke {
+  width: 38px;
+  height: 38px;
+}
+
+.fillStrokeSvg {
+  position:absolute;
+  pointer-events: none;
+}
+
+.fillStrokeRect {
+}
+
+.emptyFillStroke {
+  cursor: pointer;
+}
+
+
+.symbolParamEditor{
+  
+}
+
+.symbolParamEditorDivider{
+  min-width:8px;
+  min-height:3px;
+  -webkit-flex: 0 0 auto !important;
+  flex: 0 0 auto !important;
+}
+.symbolParamEditorThumb{
+  min-height:20px;
+  min-width:8px;
+  -webkit-flex: 0 0 auto !important;
+  flex: 0 0 auto !important;
+  line-height: 23px;
+  margin-right: 5px;
+}
+.symbolDefaultParamEditor{
+  text-decoration:underline;
+}
+.symbolParamEditorLayoutThumb{
+  min-height:20px;
+  min-width:8px;
+  background:rgba(100,100,255,0.3);
+  -webkit-flex: 0 0 auto !important;
+  flex: 0 0 auto !important;
+}
+.symbolParamHightlightDiv{
+  box-shadow: inset 0px 0px 9px #AAAAFF;
+}
+.dgSymbolLibLabelInput{
+  position:absolute; 
+  color: #FFFFFF;
+  background-color: #000000;
+  border-style: none;
+  min-width: 50px;
+}
+.usersAccessItemRenderer {
+  padding-left: 0px;
+  width: 100%;
+  height:26px;
+  color: #DDDDDD;
+  font-size: 8pt;
+}
+
+.dgPopupBackground {
+  background: #2f2f2f;
+}
+
+.menuTriangle {
+  fill: #ababab;
+}
+
+.componentHightlight {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  background-color: rgba(42, 174, 226, 0.3);
+  pointer-events: none;
+  border: 1px solid #2AAEE2;
+}
+
+.toolbar-separator {
+  background-color: #999999;
+}
+
+.downloadFileLabel {
+  color: #dddddd;
+}
+
+div.advancedPICaptionHolder {
+  content: 'Advanced';
+}
+
+.designerToolsToolbarHolder {
+  width: 22px; 
+  height: 100%; 
+  padding: 0px; 
+  background: none; 
+  border-style: none;
+}
+
+.designerCommandsToolbarHolder {
+  width: 22px; 
+  height: 100%; 
+  background: none; 
+  padding: 0px;
+}
+
+.toolbarSpacer {
+  height: 2px;
+}
+
+.toolbarVerticalSpacer {
+  width: 2px;
+}
+
+.toolbarSpacerBig {
+  height: 5px;
+}
+
+#widgetChooserContainer {
+  height: 95px;
+}
+
+.fileManagerToolsPanel {
+  height: 18px;
+}
+
+.menuTriangleSvg {
+  right: 2px;
+}
+
+div.defaultTreeRowHeightHolder {
+  content: '20';
+}
+
+div.useTreeFullLengthRowHolder {
+  content: 'false';
+}
+
+.pointTreeDiv {
+  top: 24px;
+}
+
+.menuCommandHotKey {
+  right: 5px;
+}
+
+.previewPanelSearchIconHolder {
+  display: none;
+}
+
+.searchProjectDiv {
+  margin-right: 2px;
+}
+
+.dgPathShapesTools {
+  padding: 2px;
+}
+
+.alignPopupDiv {
+  width: 74px; 
+  height: 118px;
+}
+
+.alignPopupDiv .toolbar-separator {
+  width: 72px;
+}
+
+.welcomeDialogButtonsSpacer {
+  height: 5px;
+}
+
+.welcomeWindowButton {
+  height: 90px;
+}
+
+.welcomeWindowButtonSelection {
+  height: 90px;
+}
+
+.welcomeWindowButtonDescFullString {
+  display: none;
+}
+
+.projectsSearchDiv > .dgIcon-icn-tool-zoom {
+  top: 3px;
+}
+
+.welcomeScreenButtonsDiv #btn1, .welcomeScreenButtonsDiv #btn2, .welcomeScreenButtonsDiv #btn3, .welcomeScreenButtonsDiv #deleteButton{
+  height: 20px;
+}
+
+.welcomeScreenButtonsDiv {
+  bottom: 10px;
+  right: 10px;
+}
+
+.tutorial_iframe_container {
+  border: none;
+  width: 100%;
+  padding-bottom: 40px;
+  height: 100%;
+}
+
+#tutorial_iframe {
+  border: none;
+  width: 100%;
+  height: 100%;
+}
+
+.tempPI {
+  border: none;
+}
+
+.projects_box > .projects-top {
+  padding-left: 5px;
+}
+
+.searchProjectInput {
+  width: 147px;
+}
+
+.importLibraryTree .projects_box {
+  height: 508px;
+}
+
+.dialogButton, .dialogButtonWithSpace {
+  height: 20px;
+}
+
+.importLibraryTree {
+  height: 530px;
+}
+
+.languageDialogButtons {
+  padding: 3px 3px 4px 3px;
+}
+
+.submitFeedbackTitle {
+  padding-left: 71px;
+}
+
+.submitFeedbackVerticalSpacer, .addTagVerticalSpacer {
+  height: 6px;
+}
+
+#subjectTextInput {
+  width: 400px;
+}
+
+#emailTextInput {
+  width: 400px;
+}
+
+#typeDiv {
+  width: 150px;
+}
+
+.feedbackEmailDiv {
+  width: 100%;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.feedbackTypeDiv {
+  width: 100%;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.feedbackTypeLabel {
+  width: 60px;
+}
+
+.saveDialogButtonsContainer {
+  padding-bottom: 4px;
+  bottom: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.feedbackButtonsBar, .addTagButtonsBar {
+  right: 10px;
+}
+
+.licenseControlDiv {
+  height: 26px;
+  width: 95%;
+  padding: 3px;
+}
+
+.licenseRequestControlDiv {
+  height: 26px;
+  width: 95%;
+  padding: 3px;
+}
+
+.licenseControlDiv .dialogBtnPadding, .licenseRequestControlDiv .dialogBtnPadding {
+  line-height: 19px;
+}
+
+.licenceTextArea {
+  resize: none;
+  width: 95%;
+}
+
+.inputLicenceLabel {
+  margin-top: 15px;
+}
+
+.symbolPanedDesignerDiv {
+  bottom: 24px;
+}
+
+.symbolPanelButtonsBar {
+  height: 24px;
+  padding: 2px;
+}
+
+.symbolPanelButton{
+  width: 40px;
+  margin-right: 4px;
+  line-height: 19px;
+}
+
+.dgIcon-icn-tool-back {
+  top: 1px;
+  left: 0px;
+}
+
+.cursorEditorPopup .dgAutoButton > div {
+  top:10px;
+  left:0px;
+}
+
+.cursorEditorPopup .dgNoneButton > div {
+  top:10px;
+  left:0px;
+}
+
+.cursorEditorPopup .dgDefaultButton > div {
+  left:12px;
+  top:9px;
+}
+
+.cursorEditorPopup .dgPointerButton > div {
+  left:10px;
+  top:9px;
+}
+
+.cursorEditorPopup .dgMoveButton > div {
+  left:10px;
+  top:10px;
+}
+
+.cursorEditorPopup .dgCrosshairButton > div {
+  left:8px;
+  top:8px;
+}
+
+.cursorEditorPopup .dgWaitButton > div {
+  left:10px;
+  top:9px;
+}
+
+.cursorEditorPopup .dgContextMenuButton > div {
+  left:8px;
+  top:7px;
+}
+
+.cursorEditorPopup .dgHelprButton > div {
+  left:9px;
+  top:9px;
+}
+
+.cursorEditorPopup .dgNoDropButton > div {
+  left:9px;
+  top:6px;
+}
+
+.cursorEditorPopup .dgNResizeButton > div {
+  left:14px;
+  top:10px;
+}
+
+.cursorEditorPopup .dgNEResizeButton > div {
+  left:12px;
+  top:12px;
+}
+
+.cursorEditorPopup .dgEResizeButton > div {
+  left:10px;
+  top:14px;
+}
+
+.cursorEditorPopup .dgSEResizeButton > div {
+  left:12px;
+  top:12px;
+}
+
+.cursorEditorPopup .dgSResizeButton > div {
+  left:14px;
+  top:10px;
+}
+
+.cursorEditorPopup .dgSWResizeButton > div {
+  left:12px;
+  top:12px;
+}
+
+.cursorEditorPopup .dgWResizeButton > div {
+  left:10px;
+  top:14px;
+}
+
+.cursorEditorPopup .dgNWResizeButton > div {
+  left:12px;
+  top:12px;
+}
+
+.cursorEditorPopup .dgNSResizeButton > div {
+  left:14px;
+  top:8px;
+}
+
+.cursorEditorPopup .dgNESWResizeButton > div {
+  left:11px;
+  top:11px;
+}
+
+.cursorEditorPopup .dgEWResizeButton > div {
+  left:8px;
+  top:14px;
+}
+
+.cursorEditorPopup .dgNWSEResizeButton > div {
+  left:11px;
+  top:11px;
+}
+
+.cursorEditorPopup .dgTextButton > div {
+  left:14px;
+  top:8px;
+}
+
+.cursorEditorPopup .dgVerticalTextButton > div {
+  left:8px;
+  top:14px;
+}
+
+.cursorEditorPopup .dgRowResizeButton > div {
+  left:8px;
+  top:10px;
+}
+
+.cursorEditorPopup .dgColResizeButton > div {
+  left:10px;
+  top:8px;
+}
+
+.cursorEditorPopup .dgProgressButton > div {
+  left:5px;
+  top:8px;
+}
+
+.cursorEditorPopup .dgCellButton > div {
+  left:10px;
+  top:8px;
+}
+
+.cursorEditorPopup .dgAliasButton > div {
+  left:5px;
+  top:4px;
+}
+
+.cursorEditorPopup .dgCopyButton > div {
+  left:5px;
+  top:4px;
+}
+
+.cursorEditorPopup .dgNotAllowedButton > div {
+  left:8px;
+  top:6px;
+}
+
+.cursorEditorPopup .dgAllScrollButton > div {
+  left:5px;
+  top:4px;
+}
+
+.cursorEditorPopup .dgZoomInButton > div {
+  left:10px;
+  top:8px;
+}
+
+.cursorEditorPopup .dgZoomOutButton > div {
+  left:10px;
+  top:8px;
+}
+
+.cursorEditorPopup .dgGrabButton > div {
+  left:10px;
+  top:8px;
+}
+
+.cursorEditorPopup .dgGrabbingButton > div {
+  left:10px;
+  top:8px;
+}
+
+
+
+.cursorEditorDiv .dgAutoButton > div {
+  top:5px;
+  left:4px;
+}
+
+.cursorEditorDiv .dgDefaultButton > div {
+  left:9px;
+  top:3px;
+}
+
+.cursorEditorDiv .dgPointerButton > div {
+  left:7px;
+  top:3px;
+}
+
+.cursorEditorDiv .dgMoveButton > div {
+  left:6px;
+  top:4px;
+}
+
+.cursorEditorDiv .dgCrosshairButton > div {
+  left:5px;
+  top:3px;
+}
+
+.cursorEditorDiv .dgWaitButton > div {
+  left:7px;
+  top:3px;
+}
+
+.cursorEditorDiv .dgContextMenuButton > div {
+  left:4px;
+  top:1px;
+}
+
+.cursorEditorDiv .dgHelprButton > div {
+  left:5px;
+  top:3px;
+}
+
+.cursorEditorDiv .dgNoDropButton > div {
+  left:6px;
+  top:0px;
+}
+
+.cursorEditorDiv .dgNResizeButton > div {
+  left:10px;
+  top:4px;
+}
+
+.cursorEditorDiv .dgNEResizeButton > div {
+  left:9px;
+  top:6px;
+}
+
+.cursorEditorDiv .dgEResizeButton > div {
+  left:7px;
+  top:8px;
+}
+
+.cursorEditorDiv .dgSEResizeButton > div {
+  left:9px;
+  top:6px;
+}
+
+.cursorEditorDiv .dgSResizeButton > div {
+  left:10px;
+  top:4px;
+}
+
+.cursorEditorDiv .dgSWResizeButton > div {
+  left:9px;
+  top:6px;
+}
+
+.cursorEditorDiv .dgWResizeButton > div {
+  left:7px;
+  top:8px;
+}
+
+.cursorEditorDiv .dgNWResizeButton > div {
+  left:9px;
+  top:6px;
+}
+
+.cursorEditorDiv .dgNSResizeButton > div {
+  left:10px;
+  top:3px;
+}
+
+.cursorEditorDiv .dgNESWResizeButton > div {
+  left:8px;
+  top:5px;
+}
+
+.cursorEditorDiv .dgEWResizeButton > div {
+  left:5px;
+  top:8px;
+}
+
+.cursorEditorDiv .dgNWSEResizeButton > div {
+  left:7px;
+  top:5px;
+}
+
+.cursorEditorDiv .dgTextButton > div {
+  left:10px;
+  top:3px;
+}
+
+.cursorEditorDiv .dgVerticalTextButton > div {
+  left:5px;
+  top:8px;
+}
+
+.cursorEditorDiv .dgRowResizeButton > div {
+  left:6px;
+  top:4px;
+}
+
+.cursorEditorDiv .dgColResizeButton > div {
+  left:7px;
+  top:4px;
+}
+
+.cursorEditorDiv .dgNoneButton > div {
+  top:5px;
+  left:2px;
+}
+
+.cursorEditorDiv .dgProgressButton > div {
+  left:3px;
+  top:1px;
+}
+
+.cursorEditorDiv .dgCellButton > div {
+  left:5px;
+  top:3px;
+}
+
+.cursorEditorDiv .dgAliasButton > div {
+  left:3px;
+  top:1px;
+}
+
+.cursorEditorDiv .dgCopyButton > div {
+  left:3px;
+  top:1px;
+}
+
+.cursorEditorDiv .dgNotAllowedButton > div {
+  left:3px;
+  top:2px;
+}
+
+.cursorEditorDiv .dgAllScrollButton > div {
+  left:0px;
+  top:0px;
+}
+
+.cursorEditorDiv .dgZoomInButton > div {
+  left:4px;
+  top:3px;
+}
+
+.cursorEditorDiv .dgZoomOutButton > div {
+  left:4px;
+  top:3px;
+}
+
+.cursorEditorDiv .dgGrabButton > div {
+  left:4px;
+  top:2px;
+}
+
+.cursorEditorDiv .dgGrabbingButton > div {
+  left:6px;
+  top:4px;
+}
+
+.projects_box_holder {
+  height: auto;
+}
+
+#treeContainerSaveDialog {
+  bottom: 65px;
+  position: absolute;
+}
+
+.saveDialogInputDiv {
+  left:0px;
+  right:0px;
+  padding:10px;
+  position:absolute;
+  bottom: 23px;
+}
+
+#treeContainerOpenDialog {
+  bottom: 43px;
+  position: absolute;
+}
+
+.radiusAxisSpacer {
+  height: 2px;
+}
+
+.radiusAxisLabelSpacer {
+  height: 10px;
+}
+
+#chartBindingBox {
+  width: 350px;
+}
+
+#chartBindingBox select {
+  width: 150px;
+}
+
+.axisSelectorWindowVerticalSpacer {
+  height: 2px;
+}
+
+.dgBindingMapBox {
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width:80px;
+}
+
+.dgBindingOptionBox {
+  padding-left: 5px; 
+  padding-top: 5px; 
+  padding-bottom: 5px;
+}
+
+.dgBindingDialogContent {
+  bottom: 34px;
+}
+
+.exdtendedTextEditor {
+  right:13px;
+  left:5px;
+  top:5px;
+  bottom:35px;
+}
+
+.extendedTextEditorButtonsBar {
+  width:100%;
+  bottom:5px;
+}
+
+.linkingDialogRenderer {
+  align-items: center; 
+  align-content: flex-start; 
+  overflow: visible;
+  padding-left: 5px;
+  padding-bottom: 3px;
+  padding-top: 2px;
+}
+
+.eulaDialogControlPanel {
+  padding: 3px;
+}
+
+.fileDownloadDialogButton {
+  height: 20px;
+  line-height: 19px;
+}
+
+.fileDownloadDialogBar {
+  padding-top: 10px;
+}
+
+.importDialogOptionsButton {
+  width: 20px;
+}
+
+input#uploadFile {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.modalDialogBackground {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+#accessEditDiv, .accessEditDiv, #accessEditDiv select, .accessEditDiv select {
+  width: 80px;
+}
+
+.accessEditDivFF, .accessEditDivFF select {
+  width: 90px !important;
+}
+
+.searchInputFlex {
+  -webkit-flex: 1 0 0px;
+  flex: 1 0 0px;
+  min-width: 0px;
+}

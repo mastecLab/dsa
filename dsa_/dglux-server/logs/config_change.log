@@ -1,0 +1,167 @@
+
+[2017-11-10 17:09:11.401251] user/dgSuper, install link from repo: ETSDB ETSDB
+[2017-11-10 17:09:56.587842] user/dgSuper, install link from repo: Weather Weather
+[2017-11-10 17:10:15.121984] user/dgSuper, install link from repo: Earthquakes Earthquakes
+[2017-11-10 17:10:43.229103] user/dgSuper, install link from repo: Email Email
+[2017-11-10 17:10:56.735979] user/dgSuper, install link from repo: Email Email
+[2017-11-10 17:11:48.444206] user/dgSuper, install link from repo: Enocean Enocean
+[2017-11-10 17:11:52.535167] user/dgSuper, install link from repo: Enocean Enocean
+[2018-02-19 11:43:10.909387] user/dgSuper, uninstall link: dslink-java-bacnet
+[2018-02-19 11:44:43.678943] user/dgSuper, install link from repo: BACnet v2 Bacnet
+[2018-02-19 11:44:55.582322] user/dgSuper, install link from repo: BACnet v2 Bacnet
+[2018-02-19 11:45:06.078834] user/dgSuper, install link from repo: BACnet v2 Bacnet
+[2018-02-19 12:03:45.284915] user/dgSuper, uninstall link: Bacnet
+[2018-02-19 12:04:42.064504] user/dgSuper, install link from repo: BACnet Bacnet
+[2018-02-19 12:04:42.470792] user/dgSuper, install link from repo: BACnet Bacnet
+[2018-02-19 12:13:11.133590] user/dgSuper, uninstall link: Bacnet
+[2018-02-19 12:13:39.983788] user/dgSuper, uninstall link: 8f51fb65-159c-11e8-b731-1cb72c1ccec4
+[2018-02-19 12:15:43.575367] user/dgSuper, install link from repo: BACnet Bac
+[2018-02-19 12:15:49.716126] user/dgSuper, install link from repo: BACnet Bac
+[2018-02-19 12:15:51.139134] user/dgSuper, install link from repo: BACnet Bac
+[2018-02-19 12:16:02.201223] user/dgSuper, install link from repo: BACnet Bac
+[2018-02-19 12:19:53.823897] user/dgSuper, install link from repo: BACnet Bacne
+[2018-02-19 12:20:11.556375] user/dgSuper, install link from repo: BACnet Bac
+[2018-02-19 12:42:37.428321] user/dgSuper, uninstall link: Bac
+[2018-02-19 12:43:22.283362] user/dgSuper, install link from repo: BACnet BACNET1
+[2018-02-19 13:45:20.625193] user/dgSuper, uninstall link: BACNET1
+[2018-02-19 13:45:26.133669] user/dgSuper, uninstall link: d809810d-15a0-11e8-b731-1cb72c1ccec4
+[2018-02-19 13:45:28.131923] user/dgSuper, uninstall link: d809810f-15a0-11e8-b731-1cb72c1ccec4
+[2018-02-19 13:50:23.577992] user/dgSuper, uninstall link: d8098110-15a0-11e8-b731-1cb72c1ccec4
+[2018-02-19 13:51:26.587622] user/dgSuper, install link from repo: BACnet BACNET10
+[2018-02-19 13:59:11.896122] user/dgSuper, install link from repo: MQTT MQTT
+[2018-02-19 16:43:06.582941] user/dgSuper, update link from repo: MQTT
+[2018-02-19 16:43:20.647390] user/dgSuper, update link from repo: MQTT
+[2018-02-19 16:50:40.857364] install link from git: https://github.com/IOT-DSA/dslink-java-mqtt mqtt
+[2018-02-19 16:50:56.810131] install link from git: https://github.com/IOT-DSA/dslink-java-mqtt mqtt
+[2018-02-19 16:52:10.964443] install link from url: https://github.com/IOT-DSA/dslink-java-mqtt mqtt2
+[2018-02-19 16:53:29.351209] install link from file: mqtt3
+[2018-02-19 16:53:43.416628] install link from git: https://github.com/IOT-DSA/dslink-java-mqtt mqtt2
+[2018-02-19 16:53:46.145590] uninstall link: BACNET10
+[2018-02-19 16:54:37.693103] user/dgSuper, uninstall link: ac123d9c-15c7-11e8-b731-1cb72c1ccec4
+[2018-02-19 16:54:45.306614] user/dgSuper, uninstall link: 6d7b6310-15c7-11e8-b731-1cb72c1ccec4
+[2018-02-19 16:54:47.295660] user/dgSuper, uninstall link: 9bc00a3d-15c7-11e8-b731-1cb72c1ccec4
+[2018-02-19 16:54:49.273982] user/dgSuper, uninstall link: 9bc00a3a-15c7-11e8-b731-1cb72c1ccec4
+[2018-02-19 16:54:51.186667] user/dgSuper, uninstall link: 93b29ca0-15c7-11e8-b731-1cb72c1ccec4
+[2018-02-19 16:55:38.192533] user/dgSuper, update link from repo: mqtt3
+[2018-02-19 17:02:30.485659] user/dgSuper, uninstall link: mqtt3
+[2018-02-19 17:12:43.423653] user/dgSuper, install link from repo: MQTT MQTT
+[2018-02-19 17:14:38.968356] user/dgSuper, install link from repo: MQTT Mosquitto
+[2018-02-19 17:15:09.079255] user/dgSuper, install link from repo: MQTT Mosquitto
+[2018-02-19 17:17:47.105176] user/dgSuper, uninstall link: Mosquitto
+[2018-04-10 21:48:10.610812] user/dgSuper, install link from repo: Motion JPEG Motion
+[2018-04-10 21:55:29.073021] user/dgSuper, uninstall link: Motion
+[2019-02-07 19:43:42.042407] user/dgSuper, install link from repo: Weather Weather
+[2019-02-07 20:00:03.231832] user/dgSuper, update link from repo: ETSDB
+[2019-02-07 20:00:18.913327] user/dgSuper, update link from repo: Weather
+[2019-02-07 20:01:02.666612] user/dgSuper, update link from repo: ETSDB
+[2019-02-07 20:07:38.960402] user/dgSuper, update link from repo: Weather
+[2019-02-07 20:08:00.774371] user/dgSuper, clear link log: Weather
+[2019-02-07 20:11:05.843424] user/dgSuper, update link from repo: Weather
+[2019-02-07 20:11:44.919713] user/dgSuper, update link from zip: Weather
+[2019-02-07 20:11:47.518131] user/dgSuper, update link from zip: Weather
+[2019-02-07 20:11:48.356561] user/dgSuper, update link from zip: Weather
+[2019-02-07 20:12:03.706093] user/dgSuper, update link from repo: Weather
+[2019-02-07 20:12:03.955344] user/dgSuper, update link from repo: Weather
+[2019-02-07 20:12:11.966686] user/dgSuper, update link from repo: Weather
+[2019-02-07 20:13:31.294228] user/dgSuper, update link from repo: Weather
+[2019-02-07 20:14:20.695366] user/dgSuper, download link Weather
+[2019-02-07 20:14:31.508897] user/dgSuper, update link from url: https://github.com/IOT-DSA/dslink-dart-weather Weather
+[2019-02-07 20:16:12.426346] user/dgSuper, install link from repo: WebCtrl W
+[2019-02-07 20:16:54.708072] user/dgSuper, uninstall link: W
+[2019-02-07 20:17:05.776807] user/dgSuper, update link from repo: Weather
+[2019-02-07 20:17:07.327092] user/dgSuper, update link from repo: Weather
+[2019-02-07 20:17:42.297408] user/dgSuper, download link Weather
+[2019-02-07 20:24:00.975129] user/dgSuper, update link from zip: Weather
+[2019-02-07 20:26:06.217620] user/dgSuper, uninstall link: Weather
+[2019-02-07 20:26:28.561793] user/dgSuper, install link from file: Weather
+[2019-02-07 20:28:21.715093] user/dgSuper, uninstall link: Weather
+[2019-02-07 20:28:40.253974] user/dgSuper, install link from repo: Weather Weather
+[2019-02-14 16:43:13.261449] user/dgSuper, uninstall link: Weather
+[2019-02-14 16:44:06.065800] user/dgSuper, install link from repo: Weather Weather
+[2019-02-14 16:44:21.308860] user/dgSuper, install link from repo: Weather Weather
+[2019-02-14 16:44:28.622900] user/dgSuper, install link from repo: Weather Weather
+[2019-02-14 16:55:27.743418] user/dgSuper, uninstall link: Weather2
+[2019-02-14 16:55:30.658886] user/dgSuper, uninstall link: Weather
+[2019-02-14 16:56:51.382315] user/dgSuper, install link from repo: Weather Weather
+[2019-02-14 19:43:33.882821] user/dgSuper, install link from repo: Email Email
+[2019-02-14 23:49:53.552359] user/dgSuper, update link from repo: ETSDB
+[2019-02-15 00:13:54.642908] user/dgSuper, update link from repo: ETSDB
+[2019-02-15 00:15:29.587692] user/dgSuper, uninstall link: ETSDB
+[2019-02-15 00:16:22.022673] user/dgSuper, install link from repo: ETSDB ETSDB
+[2019-02-15 01:02:21.344221] user/dgSuper, update server
+[2019-02-15 16:12:06.287463] user/dgSuper, update link from repo: ETSDB
+[2019-02-16 12:38:32.891716] user/dgSuper, update link from repo: ETSDB
+[2019-02-16 12:41:22.087527] user/dgSuper, install link from repo: Postgres Postgres
+[2019-02-16 12:43:37.554191] user/dgSuper, install link from repo: MongoDB MongoDB
+[2019-02-16 12:49:01.944657] user/dgSuper, uninstall link: MongoDB
+[2019-02-16 12:49:50.568255] user/guest, update server
+[2019-02-18 18:56:43.036866] user/dgSuper, update link from repo: ETSDB
+[2019-02-18 18:56:46.859861] user/dgSuper, uninstall link: ETSDB
+[2019-02-18 18:57:49.967537] user/dgSuper, install link from repo: ETSDB ETSDB
+[2019-02-19 10:55:54.195907] user/dgSuper, update link from repo: ETSDB
+[2019-02-19 12:47:07.670825] user/dgSuper, install link from repo: ETSDB hpv
+[2019-02-19 13:05:55.234793] user/dgSuper, install link from file: dddd
+[2019-02-19 13:08:13.994388] user/dgSuper, uninstall link: Postgres
+[2019-02-19 13:08:17.909509] user/dgSuper, uninstall link: hpv
+[2019-02-19 13:08:22.357675] user/dgSuper, uninstall link: dddd
+[2019-02-20 10:31:12.421591] user/dgSuper, update link from repo: ETSDB
+[2019-02-20 10:31:25.395146] user/dgSuper, uninstall link: ETSDB
+[2019-02-20 10:31:41.410824] user/dgSuper, update server
+[2019-02-20 10:33:19.737013] user/dgSuper, install link from repo: ETSDB ETSDB
+[2019-02-21 13:41:59.936971] user/dgSuper, uninstall link: ETSDB
+[2019-02-21 17:14:00.610817] user/guest, install link from repo: ETSDB Etsdb
+[2019-02-22 20:24:43.554458] user/dgSuper, install link from repo: System System
+[2019-02-22 20:24:44.238280] user/dgSuper, install link from repo: REST Server Rest
+[2019-02-22 23:23:08.115310] user/dgSuper, uninstall link: Rest
+[2019-02-22 23:23:20.855516] user/dgSuper, uninstall link: System
+[2019-02-24 23:42:31.788569] user/dgSuper, update link from repo: Etsdb
+[2019-02-26 21:32:38.254928] user/dgSuper, update link from repo: Etsdb
+[2019-03-04 22:46:28.399724] user/dgSuper, update link from repo: Etsdb
+[2019-03-05 17:42:19.656871] user/dgSuper, install link from repo: Serial Serial
+[2019-03-05 18:03:49.770993] user/dgSuper, uninstall link: Serial
+[2019-03-09 09:27:44.931878] user/dgSuper, install link from repo: MQTT MQTT
+[2019-03-09 09:30:24.284830] user/dgSuper, install link from repo: MQTT MQT
+[2019-03-09 09:31:46.342010] user/dgSuper, install link from repo: MQTT mqtt
+[2019-03-09 09:34:37.052825] user/dgSuper, install link from repo: MQTT MQT
+[2019-03-09 09:35:24.361012] user/dgSuper, install link from repo: MQTT MQ2
+[2019-03-09 09:37:00.134448] user/dgSuper, install link from repo: Advantech mqttt
+[2019-03-09 09:37:11.326939] user/dgSuper, uninstall link: mqttt
+[2019-03-09 09:37:36.939108] user/dgSuper, install link from repo: MQTT mqttt
+[2019-03-09 11:36:35.966021] user/dgSuper, uninstall link: mqttt
+[2019-03-09 11:36:39.191637] user/dgSuper, uninstall link: MQT
+[2020-03-10 21:13:20.224981] user/dgSuper, install link from repo: WeMo wemo
+[2020-09-01 17:03:21.892623] user/dgSuper, install link from repo: System Comp
+[2020-09-01 17:21:58.335506] user/dgSuper, install link from repo: Serial Serial
+[2020-09-02 23:14:42.595851] user/dgSuper, install link from repo: MQTT MQTT
+[2020-09-02 23:15:45.767655] user/dgSuper, install link from repo: MQTT MoS
+[2020-09-04 22:27:15.830653] user/dgSuper, install link from repo: HomeKit HomeKit
+[2020-09-04 22:27:58.800960] user/dgSuper, update link from repo: HomeKit
+[2020-09-04 22:29:20.295441] user/dgSuper, install link from repo: WeMo WeMo
+[2020-09-04 22:29:29.220737] user/dgSuper, uninstall link: HomeKit
+[2020-09-04 22:34:00.718375] user/dgSuper, update link from repo: wemo
+[2020-09-04 22:37:12.594728] user/dgSuper, uninstall link: wemo
+[2020-09-04 22:40:05.722839] user/dgSuper, install link from repo: YouTube Yoy
+[2020-09-08 19:23:05.848157] user/dgSuper, install link from repo: ETSDB ETSDB
+[2020-09-09 21:11:40.950398] user/dgSuper, install link from repo: WeMo Wemo
+[2020-09-10 00:30:06.960204] user/dgSuper, install link from repo: Serial Serial
+[2020-09-10 00:32:24.864657] user/dgSuper, install link from repo: Serial Serial
+[2020-09-10 00:32:38.670984] user/dgSuper, install link from repo: Serial Seriales
+[2020-09-10 21:58:52.869748] user/dgSuper, uninstall link: Seriales
+[2020-09-10 22:00:28.259782] user/guest, install link from repo: Serial Serial
+[2020-09-10 22:00:54.514377] user/guest, uninstall link: Yoy
+[2020-09-10 22:01:47.667701] user/guest, update server
+[2020-09-10 22:02:34.033891] user/dgSuper, install link from repo: Serial Serial
+[2020-09-10 22:02:45.921837] user/dgSuper, install link from repo: Serial Serial2
+[2020-09-10 22:04:03.669835] user/dgSuper, uninstall link: Comp
+[2020-09-10 22:07:47.271146] user/dgSuper, update link from repo: Serial2
+[2020-09-10 22:08:06.719037] user/dgSuper, download link Serial2
+[2020-09-10 22:08:52.968685] user/dgSuper, update link from zip: Serial2
+[2020-09-10 22:09:24.242629] user/dgSuper, uninstall link: Serial2
+[2020-09-10 22:09:56.858284] user/dgSuper, install link from file: Ser
+[2020-09-10 22:16:07.990470] user/dgSuper, uninstall link: Ser
+[2020-09-10 22:19:00.758026] user/dgSuper, install link from file: Hue
+[2020-09-10 22:20:31.926669] user/dgSuper, install link from file: hue
+[2020-09-10 22:20:58.736579] user/dgSuper, kick dslink dataflow-5vq1jjAwoaeZCPJY2lqA9ODcHrOCzoZzK4cP_MSKh6E dataflow
+[2020-09-10 22:21:18.690370] user/dgSuper, kick dslink dataflow-5vq1jjAwoaeZCPJY2lqA9ODcHrOCzoZzK4cP_MSKh6E dataflow
+[2020-09-10 22:23:47.700032] user/dgSuper, install link from file: hue2
+[2020-09-10 22:24:36.864517] user/dgSuper, add new token: aZiF5WaGHgQ4ttv8X5NxqjkMXaagmvb83LeJcnhp1Nt8K0Ta

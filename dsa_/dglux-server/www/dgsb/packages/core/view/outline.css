@@ -1,0 +1,482 @@
+/*
+//--------------------------------------------------------------------------------------------
+//
+// Styles for DGluxJS outline
+//
+//--------------------------------------------------------------------------------------------
+*/
+
+/* Main outline container */
+.dglux_page_root .outline
+{
+  width: 100%;
+  left: 0px;
+  overflow: auto;
+}    
+
+.dglux_page_root .symbolsLibrary
+{
+  top: 5px;
+  bottom: 26px;
+}    
+
+.dglux_page_root .dgSymbolPreview
+{
+  top: 0px;
+  left: 0px; 
+  width: 100%;
+  height: 150px;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;  
+  overflow:hidden;
+}
+
+.dglux_page_root .projectsList
+{
+  top: 0px;
+  margin-top: 40px;
+  margin-bottom: 0px;
+}    
+
+.dglux_page_root .categoriesList
+{
+  top: 0px;
+  margin-top: 18px;
+}
+
+.dglux_page_root .searchProjectDiv
+{
+  top: 0px;
+  margin-top: 18px;
+  background-color: #333333; 
+}    
+
+.dglux_page_root .projectsListHolder {
+  width: 170px;
+  overflow-x: auto;
+  background-color: #333333; 
+}
+
+.dglux_page_root .advancedProjectsListHolder {
+  overflow-x: hidden;
+  background-color: #333333; 
+}
+
+.dglux_page_root .advancedProjectsList {
+  flex-wrap: wrap;
+}
+
+.dglux_page_root .projects-bottom
+{
+  height: 24px;
+  width: 170px;
+  position: absolute;
+  background-color: #333333; 
+  bottom: 0px;
+  padding: 3px;
+}
+
+.dglux_page_root .projects-top
+{
+  height: 18px;
+  width: 170px;
+}
+
+.dglux_page_root .projectsPreview {
+  top: 0px;
+  bottom: 0px;
+  background-color: #333333;
+  overflow: hidden;
+}
+
+/* This needs to be extendable in width and height to do fill*/
+.dglux_page_root .outlineContent
+{
+  background: linear-gradient(to bottom, #2B2B2B, #2B2B2B 21px, #323232 22px, #323232 44px);
+  background-position: 0px 0px;
+  background-size: 200px 44px;
+  background-repeat: repeat;
+  width: auto;
+  /* fix for sizing, calc size of children to get its size */
+  display: table; 
+}    
+
+.dglux_page_root .outline div.itemRenderer,
+.dglux_page_root .outline div.itemRenderer.selected,
+.dglux_page_root .projectsListHolder div.itemRenderer,
+.dglux_page_root .projectsListHolder div.itemRenderer.selected
+{
+  padding-left: 0px;
+  width: auto;
+  height:22px;
+  color: #DDDDDD;
+  font-size: 8pt;
+}
+
+.dglux_page_root .advancedProjectsListHolder div.itemRenderer,
+.dglux_page_root .advancedProjectsListHolder div.itemRenderer.selected
+{
+  overflow: hidden;
+  padding: 5px;
+  width: 120px;
+  height:100px;
+  color: #DDDDDD;
+  font-size: 8pt;
+}
+
+.dglux_page_root .outline div.itemRenderer.selected,
+.dglux_page_root .projectsListHolder div.itemRenderer.selected
+{
+  background-color: rgba(48,161,184,0.5);
+  color: #FFFFFF;
+}
+
+.dglux_page_root .advancedProjectsListHolder div.itemRenderer.selected
+{
+  padding: 5px;
+  background-color: rgba(48,161,184,0.5);
+  color: #FFFFFF;
+}
+
+.dglux_page_root .outline div.selection
+{
+  background-color: rgba(48,161,184,0.5);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+
+.dglux_page_root .outline div.buttonsBackground
+{
+  position: absolute;
+  width: 58px;
+  height: 24px;
+  padding: 3px 2px 2px 3px; 
+  opacity: 0.9;
+  background-color: #585858;
+}
+
+.dglux_page_root .outline div.itemRenderer.selected div.buttonsBackground
+{
+  opacity: 0.5;
+}
+
+.dglux_page_root .outline div.buttonsContainer
+{
+  width:58px;
+  padding: 3px 2px 2px 3px; 
+}
+
+.dglux_page_root .outline div.button
+{
+  width: 16px;
+  height: 16px;
+  margin-right: 2px;
+}
+
+.dglux_page_root .outline div.buttonsBackground div.button
+{
+  background-color: #343434;
+}
+
+.dglux_page_root .outline div.icon
+{
+  position: absolute;
+  left: 0;
+  top: 0;      
+  width: 16px;
+  height: 16px;
+}
+
+.dglux_page_root .outline div.itemRenderer .preview
+{
+  height: 100%;
+  width: 20px;
+  overflow: hidden;
+  margin-right: 3px;
+}
+
+/* Lock icon transformation, apply to lock children */
+.dglux_page_root .outline div.smallLock {
+  left: -1px;
+  top: -1px;
+  transform: scale(0.5, 0.5) translate(50%, 50%); 
+  -webkit-transform: scale(0.5, 0.5) translate(50%, 50%);
+  -ms-transform: scale(0.5, 0.5) translate(50%, 50%);
+} 
+
+.dglux_page_root .outline div.button.pi_lock
+{
+  margin-left: -1px;
+} 
+
+.dglux_page_root .outline div.dataflowButton.selected
+{
+  outline: solid 2px rgba(48,161,184,0.5);
+}
+
+ /* Container to draw lines */
+.dglux_page_root .outline div.levelSeparatorContainer
+{
+  margin-left: 8px;
+  margin-right: 4px;
+}
+
+/* Level Separator - intermediate vertical line or without line, 18px space */
+.dglux_page_root .outline div.levelSeparatorVerticalLine,
+.dglux_page_root .outline div.levelSeparatorEmpty
+{
+  width: 18px; /* one level is about 18px */
+}
+
+/* Level separator with vertical line */
+.dglux_page_root .outline div.levelSeparatorVerticalLine
+{
+  background-image: linear-gradient(to bottom, #FFFFFF, transparent 1px);       
+  background-size: 1px 2px;
+  background-repeat: repeat-y;
+}
+
+/* Active level lines, that is right before item label (node)' */ 
+.dglux_page_root .outline div.nodeNormal,
+.dglux_page_root .outline div.nodeLast
+{
+  width: 36px; /* Common for all - 36px wide*/ 
+}       
+
+/* Root node, like level separator, 18px */
+.dglux_page_root .outline div.nodeRoot
+{
+  width: 18px;
+  margin-left: -9px;
+} 
+
+
+/* Normal node, vertical line at the left and horizontal line in the middle 
+    |_____________
+    |
+*/    
+.dglux_page_root .outline div.nodeNormal {
+  background-image: linear-gradient(to right, #FFFFFF, transparent 1px), linear-gradient(to bottom, #FFFFFF, transparent 1px);       
+  background-size: 2px 1px, 1px 2px;
+  background-repeat: repeat-x, repeat-y;
+  background-position: 0px 11px, 0 0;
+}
+
+/* Last node, vertical line at the left to the middle, horizontal line in the middle 
+    |_____________
+    
+*/    
+.dglux_page_root .outline div.nodeLast
+{
+  background-image: linear-gradient(to right, #FFFFFF, transparent 1px),
+                    repeating-linear-gradient(to bottom, #FFFFFF, transparent 1px, transparent 2px); 
+  background-size: 2px 1px, 1px 11px;
+  background-repeat: repeat-x, no-repeat;
+  background-position: 0px 11px, 0 0;
+}
+
+/* Normal node, opened group
+    | 
+    |----\/---
+    |    |
+*/    
+.dglux_page_root .outline div.nodeNormal.openedGroup {
+  background-image: linear-gradient(to right, #FFFFFF, transparent 1px), 
+                    linear-gradient(to bottom, #FFFFFF, transparent 1px),
+                    repeating-linear-gradient(to bottom, #FFFFFF, transparent 1px, transparent 2px);       
+  background-size: 2px 1px, 1px 2px, 1px 11px;
+  background-repeat: repeat-x, repeat-y, no-repeat;
+  background-position: 0px 11px, 0 0, 18px 11px;
+}
+
+/* Last node, opened group
+    | 
+    |----\/---
+         |
+*/    
+.dglux_page_root .outline div.nodeLast.openedGroup {
+  background-image: linear-gradient(to right, #FFFFFF, transparent 1px),
+                    repeating-linear-gradient(to bottom, #FFFFFF, transparent 1px, transparent 2px),
+                    repeating-linear-gradient(to bottom, #FFFFFF, transparent 1px, transparent 2px); 
+  background-size: 2px 1px, 1px 11px, 1px 11px;
+  background-repeat: repeat-x, no-repeat, no-repeat;
+  background-position: 0px 11px, 0 0, 18px 11px;
+}
+
+/* Root node opened, has vertical line in the middle*/
+.dglux_page_root .outline div.nodeRoot.openedGroup {
+  background-image: repeating-linear-gradient(to bottom, #FFFFFF, transparent 1px, transparent 2px); 
+  background-size: 1px 11px;
+  background-repeat: no-repeat;
+  background-position: 9px 11px;
+}
+    
+
+/* Opened disclosure icon for group */
+.dglux_page_root .outline div.openedGroup::after {
+  display: none;
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  margin-top: -1px;
+  margin-left: -5px;
+  
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid #c5c5c5;
+  
+}
+
+/* Closed disclosure icon for group */
+.dglux_page_root .outline div.closedGroup::after {
+  display: none;
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  margin-top: -5px;
+  margin-left: -1px;
+  
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid #c5c5c5;
+}
+
+.dglux_page_root .outline div.label
+{
+  cursor: default;
+  white-space: nowrap;
+}
+
+.dglux_page_root .outline .labelInput
+{
+  position: absolute; 
+  display: none;
+  color: #FFFFFF;
+  background-color: #000000;
+  border-style: none;
+  font-size: 8pt;
+}
+
+/* Top panel with buttons*/
+.dglux_page_root .outline-top
+{
+  top: 0px;
+  left: 0px; 
+  width: 100%;
+  padding-left: 3px;
+  padding-bottom: 3px;  
+  background-color: #444444; 
+}
+
+
+/* Bottom panel with buttons*/
+.dglux_page_root .outline-bottom
+{
+  position: absolute;
+  bottom: 5px;
+  padding: 3px;
+  width: 100%;
+  background-color: #444444; 
+}
+
+.dglux_page_root .outline-bottom > div.remove
+{
+  position: absolute;
+  right: 3px; /* = outline-bottom.padding */
+}
+
+.dglux_page_root .outline-top div.button,
+.dglux_page_root .outline-bottom div.dgToolsButton
+{
+  cursor: pointer;
+}
+
+.dglux_page_root .outline-bottom div.dgToolsButton
+{
+  width: 20px;
+  height: 20px;
+}
+
+.dglux_page_root .outline-bottom div.dgToolsButton > div
+{
+  position: absolute;
+  top: 1px;
+  left: 1px;
+}
+
+.dglux_page_root .welcomeDialogProjectsContent {
+  width: 717px;
+}
+
+.dglux_page_root .welcomeDialogBottomHightLight {
+  background-image: url('../../../assets/bottom_highlight.png');
+}
+
+.dglux_page_root .welcomeDialogVRule {
+  width: 5px;
+}
+
+.dglux_page_root .welcomeDialogResizeVRule {
+  cursor: col-resize;
+}
+
+.dglux_page_root .groupLayoutIcon {
+  margin-top: 4px;
+  margin-right: 3px;
+}
+
+.dglux_page_root .outline .openedGroup .outlineTreeTriangleNodeRoot {
+  padding-top: 10px;
+  padding-left: 4px;
+  height: 11px;
+  width: 11px;
+}
+
+.dglux_page_root .outline .closedGroup .outlineTreeTriangleNodeRoot {
+  padding-top: 6px;
+  padding-left: 8px;
+  height: 11px;
+  width: 11px;
+}
+
+.dglux_page_root .outline .openedGroup .outlineTreeTriangleNodeNormal {
+  padding-top: 10px;
+  padding-left: 13px;
+  height: 11px;
+  width: 11px;
+}
+
+.dglux_page_root .outline .closedGroup .outlineTreeTriangleNodeNormal {
+  padding-top: 6px;
+  padding-left: 17px;
+  height: 11px;
+  width: 11px;
+}
+
+.dglux_page_root .outline .openedGroup .outlineTreeTriangleNodeLast {
+  padding-top: 10px;
+  padding-left: 13px;
+  height: 11px;
+  width: 11px;
+}
+
+.dglux_page_root .outline .closedGroup .outlineTreeTriangleNodeLast {
+  padding-top: 6px;
+  padding-left: 17px;
+  height: 11px;
+  width: 11px;
+}
+
+.dglux_page_root .outline path.outlineTreeTrianglePath {
+  fill: #C5C5C5;
+}

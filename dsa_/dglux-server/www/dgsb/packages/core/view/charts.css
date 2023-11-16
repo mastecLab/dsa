@@ -1,0 +1,77 @@
+/*
+///////////////////////////////////////////////////////////////////
+//  Styles for charts
+//////////////////////////////////////////////////////////////////
+*/
+
+.dglux_page_root .chart
+{
+  position: absolute;
+  /*outline: red 1px solid;*/
+}
+
+.dglux_page_root .chart *
+{
+  position: absolute;
+}
+
+.dglux_page_root .axisRenderer
+{
+  font-size: 12px;
+  stroke: none;
+  fill: white;
+}
+
+.dglux_page_root .chartDataTip
+{
+  background-color: white;
+  border: red 2px solid;
+  border-radius: 7px;
+  color: black;
+  font-size: 12px;
+  padding: 3px;
+}
+
+.dglux_page_root .pieSeriesLabel,
+.dglux_page_root .axisDivLabel
+{
+  white-space: nowrap;
+}
+
+.dglux_page_root .chartDataTip *,
+.dglux_page_root .pieSeriesLabel *,
+.dglux_page_root .axisDivLabel *
+{
+  position: relative;
+  white-space: nowrap;
+}
+
+
+.dglux_page_root .chart text, .dglux_page_root .gauge-labels text
+{
+  pointer-events: auto;
+  text-anchor: start;
+}
+
+.dglux_page_root .chartElement
+{
+  pointer-events: none;
+}
+
+.dglux_page_root div.seriesHolder
+{
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.dglux_page_root .backgroundElementHolder, .dglux_page_root .annotationElementHolder
+{
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.dglux_page_root .dataTipOverlay, .dglux_page_root .allDataTipOverlay
+{
+  pointer-events: none;
+  /* overflow: hidden; this was removed on purpose in dg_chart_base.dart */
+}

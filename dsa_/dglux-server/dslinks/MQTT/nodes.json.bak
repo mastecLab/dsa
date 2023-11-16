@@ -1,0 +1,21 @@
+{
+  "brokerEnabled" : {
+    "$name" : "Broker Enabled",
+    "$is" : "node",
+    "$type" : "bool",
+    "?value" : true,
+    "$writable" : "config"
+  },
+  "MOSQUITTO" : {
+    "$is" : "node",
+    "$$password" : "94b72de8",
+    "$$clientId" : "lens_dE8ov5Rq535Q2R2PGH3SDB4Si7p",
+    "$$qos" : 0,
+    "$$user" : "jsgutierrez@up.edu.mx",
+    "$$url" : "tcp://mqtt.dioty.co:1883",
+    "subscriptions" : {
+      "$name" : "Subscriptions",
+      "$is" : "node"
+    }
+  }
+}

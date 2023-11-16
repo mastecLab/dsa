@@ -1,0 +1,9 @@
+{
+  "@@getHistory": {
+    "@": "merge",
+    "type": "paths",
+    "val": [
+      "/downstream/etsdb/db/Humedad/%2Fdownstream%2FWeather%2FAguascalientes- AG-Mexico%2FHumidity/getHistory"
+    ]
+  }
+}

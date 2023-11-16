@@ -1,0 +1,206 @@
+.dgGrid{
+  overflow:hidden;
+  background-color:#1b1b1b;
+  bottom: 8px;
+  right: 8px;
+}
+.dgGridHeaderScroller{
+  width:100%;
+  height:17px;
+  overflow:hidden;
+}
+.dgGridHeaderBox{
+}
+
+.dgGridHeader {
+  background-color: #333333;
+  color:#cecece;
+  height: 17px;
+  border-top-color: #444444;
+  border-top-width: 1px;
+  border-top-style: solid;
+  /*pointer: default;*/ 
+    
+  border-right-color: #141414;
+  border-right-width: 1px;
+  border-right-style: solid;
+    
+  /*margin-left: 0px;
+  margin-top: -1px;
+  overflow: hidden;*/
+  
+  border-bottom-color: #141414;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  
+  padding-left: 10px;
+  /*box-shadow: 0px 5px 20px #000;*/
+  
+}
+.dgGridHeader:hover {
+  color:#eeeeee;
+}
+
+.dgGridHeaderText {
+  color:#cecece;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.dgGridHeaderText:hover {
+  color:#eeeeee;
+}
+
+
+
+
+.dgGridBodyScroller{
+  -webkit-flex: 1 1 auto ;
+  flex: 1 1 auto;
+  overflow:auto;
+}
+.dgGridBodyBox{
+  
+}
+.dgGridRow{
+  height:20px;
+  position:absolute;
+}
+
+.dgGridRow:nth-child(even) {
+    background-color: #1e1e1e;
+}
+.dgGridRow:nth-child(odd) {
+    background-color: #191919;
+}
+
+.dgGridCell{
+  height:20px;
+  /*border-right: 1px dotted;
+  border-bottom: 1px dotted;
+  border-color:silver;*/
+  padding: 3px 3px 2px 10px;
+  text-overflow:ellipsis;
+  overflow:hidden;
+}
+
+
+/*
+  following styles are for the datagrid widget in dashboard, not the popup
+*/
+
+
+.dgDatagridRow{
+  border-color:rgba(0,0,0,0);
+  border-width:0;
+  min-width:100%;
+}
+.dgDatagridCell{
+  border-color:rgba(0,0,0,0);
+  border-width:0;
+}
+.dgDatagridCell > *{
+  left:0;
+  right:0;
+  top:0;
+  bottom:0;
+  position:absolute;
+}
+.dgDatagridHeaderScroller{
+  width:100%;
+  overflow:hidden; 
+   border-color:rgba(0,0,0,0);
+  border-width:0;
+}
+.dgDatagridHeaderBox{
+  min-width:100%;
+  height:100%;
+}
+.dgDatagridHeaderBoxSpacer{
+  width:11px;/*padding for the scrollbar*/
+}
+.dgDatagridHeader{
+  height:100%;
+  border-color:rgba(0,0,0,0);
+  border-width:0;
+}
+
+.dgDatagridHeaderLabel {
+  width:100%;
+  height:100%;
+  font-size:18px;
+  position:absolute;
+  overflow:hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  align-items: center;
+  display: block;
+}
+
+.dgDatagridHeaderWrapLabel {
+  white-space: normal;
+  display: -webkit-flex;
+  display: flex;
+}
+
+.dgDatagridHeaderLabel-Label {
+  position:relative;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.dgDatagridHeaderRenderer{
+  width:100%;
+  height:100%;
+  position:absolute;
+  overflow:hidden;
+  
+  display: -webkit-flex;
+  display: flex;
+
+  -webkit-flex-direction: row;
+  flex-direction: row;
+}
+
+.dgDatagridHeaderResizer{
+  right:0;
+  width:8px;
+  height:100%;
+  position:absolute; 
+  background: black;
+  opacity:0;
+  cursor:col-resize;
+}
+
+.dgDatagridSortingIndicator {
+  right: 10px;
+  /*
+  margin-top: auto;
+  margin-bottom: auto;
+  top: 0px;
+  bottom: 0px;*/
+  position: absolute;
+  width: 8px;
+  height: 100%;
+  display: -webkit-flex;
+  display: flex;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.dgGrid {
+  top: 16px;
+}
+
+.dgGridHeaderTopBar {
+  height: 16px;
+}

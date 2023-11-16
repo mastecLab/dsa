@@ -1,0 +1,206 @@
+.dglux_page_root .dgGrid{
+  overflow:hidden;
+  background-color:#1b1b1b;
+  bottom: 8px;
+  right: 8px;
+}
+.dglux_page_root .dgGridHeaderScroller{
+  width:100%;
+  height:17px;
+  overflow:hidden;
+}
+.dglux_page_root .dgGridHeaderBox{
+}
+
+.dglux_page_root .dgGridHeader {
+  background-color: #333333;
+  color:#cecece;
+  height: 17px;
+  border-top-color: #444444;
+  border-top-width: 1px;
+  border-top-style: solid;
+  /*pointer: default;*/ 
+    
+  border-right-color: #141414;
+  border-right-width: 1px;
+  border-right-style: solid;
+    
+  /*margin-left: 0px;
+  margin-top: -1px;
+  overflow: hidden;*/
+  
+  border-bottom-color: #141414;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  
+  padding-left: 10px;
+  /*box-shadow: 0px 5px 20px #000;*/
+  
+}
+.dglux_page_root .dgGridHeader:hover {
+  color:#eeeeee;
+}
+
+.dglux_page_root .dgGridHeaderText {
+  color:#cecece;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.dglux_page_root .dgGridHeaderText:hover {
+  color:#eeeeee;
+}
+
+
+
+
+.dglux_page_root .dgGridBodyScroller{
+  -webkit-flex: 1 1 auto ;
+  flex: 1 1 auto;
+  overflow:auto;
+}
+.dglux_page_root .dgGridBodyBox{
+  
+}
+.dglux_page_root .dgGridRow{
+  height:20px;
+  position:absolute;
+}
+
+.dglux_page_root .dgGridRow:nth-child(even) {
+    background-color: #1e1e1e;
+}
+.dglux_page_root .dgGridRow:nth-child(odd) {
+    background-color: #191919;
+}
+
+.dglux_page_root .dgGridCell{
+  height:20px;
+  /*border-right: 1px dotted;
+  border-bottom: 1px dotted;
+  border-color:silver;*/
+  padding: 3px 3px 2px 10px;
+  text-overflow:ellipsis;
+  overflow:hidden;
+}
+
+
+/*
+  following styles are for the datagrid widget in dashboard, not the popup
+*/
+
+
+.dglux_page_root .dgDatagridRow{
+  border-color:rgba(0,0,0,0);
+  border-width:0;
+  min-width:100%;
+}
+.dglux_page_root .dgDatagridCell{
+  border-color:rgba(0,0,0,0);
+  border-width:0;
+}
+.dglux_page_root .dgDatagridCell > *{
+  left:0;
+  right:0;
+  top:0;
+  bottom:0;
+  position:absolute;
+}
+.dglux_page_root .dgDatagridHeaderScroller{
+  width:100%;
+  overflow:hidden; 
+   border-color:rgba(0,0,0,0);
+  border-width:0;
+}
+.dglux_page_root .dgDatagridHeaderBox{
+  min-width:100%;
+  height:100%;
+}
+.dglux_page_root .dgDatagridHeaderBoxSpacer{
+  width:11px;/*padding for the scrollbar*/
+}
+.dglux_page_root .dgDatagridHeader{
+  height:100%;
+  border-color:rgba(0,0,0,0);
+  border-width:0;
+}
+
+.dglux_page_root .dgDatagridHeaderLabel {
+  width:100%;
+  height:100%;
+  font-size:18px;
+  position:absolute;
+  overflow:hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  align-items: center;
+  display: block;
+}
+
+.dglux_page_root .dgDatagridHeaderWrapLabel {
+  white-space: normal;
+  display: -webkit-flex;
+  display: flex;
+}
+
+.dglux_page_root .dgDatagridHeaderLabel-Label {
+  position:relative;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.dglux_page_root .dgDatagridHeaderRenderer{
+  width:100%;
+  height:100%;
+  position:absolute;
+  overflow:hidden;
+  
+  display: -webkit-flex;
+  display: flex;
+
+  -webkit-flex-direction: row;
+  flex-direction: row;
+}
+
+.dglux_page_root .dgDatagridHeaderResizer{
+  right:0;
+  width:8px;
+  height:100%;
+  position:absolute; 
+  background: black;
+  opacity:0;
+  cursor:col-resize;
+}
+
+.dglux_page_root .dgDatagridSortingIndicator {
+  right: 10px;
+  /*
+  margin-top: auto;
+  margin-bottom: auto;
+  top: 0px;
+  bottom: 0px;*/
+  position: absolute;
+  width: 8px;
+  height: 100%;
+  display: -webkit-flex;
+  display: flex;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.dglux_page_root .dgGrid {
+  top: 16px;
+}
+
+.dglux_page_root .dgGridHeaderTopBar {
+  height: 16px;
+}

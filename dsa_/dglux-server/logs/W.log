@@ -1,0 +1,6 @@
+[2019-02-07 20:16:23.055517] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WebCtrl, --log, info, --broker, http://127.0.0.1:59420/conn, --token, hFIkzzgqsOAIMcGC0vmlEEkPi1CD1nW5IrMcJML7QumyVFRt] (pid: 15064) ==
+[2019-02-07 20:16:24.144631] [INFO][DSA] Connecting to http://127.0.0.1:59420/conn
+[2019-02-07 20:16:24.272553] [INFO][DSA] Connected
+[2019-02-07 20:16:54.548053] == Exited with status 1 ==
+[2019-02-07 20:16:54.548053] == Exited with status 1 ==
+[2019-02-07 20:16:54.548053] == Exited with status 1 ==

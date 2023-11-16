@@ -1,0 +1,109 @@
+{
+  "salida": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "dynamic"
+  },
+  "Temperatura": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none",
+    "@@getHistory": {
+      "@": "merge",
+      "type": "paths",
+      "val": [
+        "/downstream/etsdb-G/db/Temp/%2Fdata%2FTemperatura/getHistory"
+      ]
+    }
+  },
+  "Humedad": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none"
+  },
+  "Director": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none"
+  },
+  "Temp 1": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none"
+  },
+  "HumedadR": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none"
+  },
+  "Value": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none"
+  },
+  "DanyTemp": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none",
+    "@@getHistory": {
+      "@": "merge",
+      "type": "paths",
+      "val": [
+        "/downstream/etsdb-G/db/temperatura/%2Fdata%2FDanyTemp/getHistory"
+      ]
+    }
+  },
+  "offset": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none"
+  },
+  "Temp 2": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none"
+  },
+  "Temp 3": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none"
+  },
+  "Temp 4": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none"
+  },
+  "Temp 5": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none"
+  },
+  "Temp 6": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "number",
+    "$editor": "none"
+  },
+  "Temp": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "dynamic"
+  },
+  "Temp2": {
+    "$is": "broker/dataNode",
+    "$writable": "write",
+    "$type": "dynamic"
+  }
+}

@@ -1,0 +1,117 @@
+[
+	{
+		"TICKET NAME":"AHU Fan Off and Cooling Valve Open",
+		"STATUS":"false",
+		"#":2000
+	},
+	{
+		"TICKET NAME":"AHU Fan Off and Cooling Valve Open",
+		"STATUS":false,
+		"#":1500
+	},
+	{
+		"TICKET NAME":"AHU Fan Off and Cooling Valve Open",
+		"STATUS":false,
+		"#":3000
+	},
+	{
+		"TICKET NAME":"Cooling Valve Heating (Cooling Valve Position)",
+		"STATUS":true,
+		"#":1000
+	},
+	{
+		"TICKET NAME":"AHU Fan Off and Cooling Valve Open",
+		"STATUS":false,
+		"#":500
+	},
+	{
+		"TICKET NAME":"Cooling Valve Heating (Cooling Valve Position)",
+		"STATUS":true,
+		"#":1000
+	},
+	{
+		"TICKET NAME":"Cooling Valve Heating (Cooling Valve Position)",
+		"STATUS":true,
+		"#":2000
+	},
+	{
+		"TICKET NAME":"AHU Fan Off and Cooling Valve Open",
+		"STATUS":false,
+		"#":2500
+	},
+	{
+		"TICKET NAME":"AHU Fan Off and Cooling Valve Open",
+		"STATUS":false,
+		"#":1000
+	},
+	{
+		"TICKET NAME":"Cooling Valve Heating (Cooling Valve Position)",
+		"STATUS":true,
+		"#":3500
+	},
+	{
+		"TICKET NAME":"Cooling Valve Heating (Cooling Valve Position)",
+		"STATUS":false,
+		"#":1000
+	},
+	{
+		"TICKET NAME":"Cooling Valve Heating (Cooling Valve Position)",
+		"STATUS":true,
+		"#":1000
+	},
+	{
+		"TICKET NAME":"AHU Fan Off and Cooling Valve Open",
+		"STATUS":true,
+		"#":1000
+	},
+	{
+		"TICKET NAME":"Cooling Valve Heating (Cooling Valve Position)",
+		"STATUS":true,
+		"#":3000
+	},
+	{
+		"TICKET NAME":"AHU Fan Off and Cooling Valve Open",
+		"STATUS":true,
+		"#":4000
+	},
+	{
+		"TICKET NAME":"Cooling Valve Heating (Cooling Valve Position)",
+		"STATUS":false,
+		"#":1000
+	},
+	{
+		"TICKET NAME":"Cooling Valve Heating (Cooling Valve Position)",
+		"STATUS":false,
+		"#":1000
+	},
+	{
+		"TICKET NAME":"AHU Fan Off and Cooling Valve Open",
+		"STATUS":false,
+		"#":500
+	},
+	{
+		"TICKET NAME":"Cooling Valve Heating (Cooling Valve Position)",
+		"STATUS":true,
+		"#":2000
+	},
+	{
+		"TICKET NAME":"Cooling Valve Heating (Cooling Valve Position)",
+		"STATUS":false,
+		"#":2000
+	},
+	{
+		"TICKET NAME":"Cooling Valve Heating (Cooling Valve Position)",
+		"STATUS":false,
+		"#":3000
+	},
+	{
+		"TICKET NAME":"AHU Fan Off and Cooling Valve Open",
+		"STATUS":false,
+		"#":1000
+	},
+	{
+		"TICKET NAME":"AHU Fan Off and Cooling Valve Open",
+		"STATUS":true,
+		"#":1500
+	}
+]

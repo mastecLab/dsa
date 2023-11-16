@@ -1,0 +1,284 @@
+.dataflowBlock {
+  font-size: 12px;
+}
+
+.blockHeader {
+  height: 20px;
+}
+
+div.blockTitle {
+  position: absolute;
+  text-align: left;
+  color: #DDDDDD;
+  cursor: move;
+  left: 5px;
+  right: 16px;
+  line-height: 20px;
+  text-shadow: 1px 1px 1px #000000;
+}
+
+input.blockTitleInput {
+  position: absolute;
+  text-align: left;
+  color: #DDDDDD;
+  left: 4px;
+  right: 16px;
+  font-size: 12px;
+  line-height: 15px;
+  display: none;
+  background: transparent;
+  border: none;
+  text-shadow: 1px 1px 1px #000000;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+div.blockAddParamBtn {
+  position: absolute;
+  display: none;
+  width: 8px;
+  height: 8px;
+  top: 22px;
+  right: 2px;
+  cursor: pointer;
+}
+
+div.blockRemoveParamBtn {
+  position: absolute;
+  display: none;
+  width: 8px;
+  height: 8px;
+  top: 22px;
+  left: 3px;
+  cursor: pointer;
+}
+
+div.wsParameter {
+  padding-left: 16px;
+  padding-right: 10px;
+  width: 100%;
+  display: -webkit-flex;
+  -webkit-flex-direction: row;
+  display: flex;
+  flex-direction: row;
+}
+
+div.wsParamLabel {
+  text-align: left;
+  color: #DDDDDD;
+  line-height: 16px;
+  flex: 1 1 auto;
+  -webkit-flex: 1 1 auto;
+  white-space: nowrap;
+}
+
+div.wsParamValue {
+  text-align: right;
+  color: #DDDDDD;
+  line-height: 16px;
+  flex: 1 1 auto;
+  -webkit-flex: 1 1 auto;
+}
+
+svg.wireLayer {
+  position: absolute;
+  pointer-events: none;
+  width:100%;
+  height:100%;
+  overflow: visible;
+}
+
+svg.selectionLayer {
+  position: absolute;
+  pointer-events: none;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+path.selectionPath {
+  stroke: #2aaee2;
+/*  stroke-dasharray: 4 1;*/
+  fill: none;
+}
+
+svg.blockBg {
+  position: absolute;
+  pointer-events: none;
+  overflow: visible;
+}
+
+path.blockBg {
+  stroke: #666666;
+}
+
+path.selectedBlockBg {
+  stroke: #008faf;
+  stroke-width: 2px;
+}
+
+text {
+  pointer-events: none;
+  text-anchor: middle;
+}
+
+svg.pinOut {
+  position: absolute;
+}
+
+svg.pinIn {
+  position: absolute;
+  /*  pointer-events: none;*/
+}
+
+path.pin {
+  stroke: #666666;
+}
+
+svg.fromOutsideCircleVisible {
+  position: absolute;
+  visibility: visible;
+}
+
+svg.fromOutsideCircleHidden {
+  position: absolute;
+  visibility: hidden;
+}
+
+circle.bindingFromOutsideCircle {
+  stroke: #666666;
+}
+
+.ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+}
+
+path.wire {
+  stroke-width: 2px;
+  fill: none;
+}
+
+div.wsContainer {
+  overflow: hidden;
+}
+
+div.wsScroller {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+}
+
+div.wsContent {
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  transform-origin: 0px 0px 0px;
+}
+
+div.wsBlockResizeHandler {
+  position: absolute;
+  cursor: e-resize;
+  right: 1px;
+  bottom: 1px;
+  width: 8px;
+  height: 8px;
+}
+
+div.blockNullColorHolder {
+  color: #999999;
+}
+
+div.blockDefaultColorHolder {
+  color: #FF9900;
+}
+
+div.blockComponentColorHolder {
+  color: #0099FF;
+}
+
+div.blockVariableColorHolder {
+  color: #00DE00;
+}
+
+div.blockPointColorHolder {
+  color: #FF665D;
+}
+
+div.gradientCoefficientHolder {
+  color: #000003;
+}
+
+div.blockLogicColorHolder {
+  color: #FF9900;
+}
+
+div.blockDatetimeColorHolder {
+  color: #FF9900;
+}
+
+div.blockTableColorHolder {
+  color: #FF9900;
+}
+
+div.blockStringColorHolder {
+  color: #FF9900;
+}
+
+div.blockDataservicesColorHolder {
+  color: #FF665D;
+}
+
+div.blockMathColorHolder {
+  color: #FF9900;
+}
+
+div.blockNumberColorHolder {
+  color: #FF9900;
+}
+
+div.blockStatisticalColorHolder {
+  color: #FF9900;
+}
+
+div.blockTrigonometricColorHolder {
+  color: #FF9900;
+}
+
+.blocksTreeSearchDiv {
+  height: 30px;
+}
+
+.blocksTreeSectionHeader {
+  position: absolute; 
+  display: none;
+}
+
+.blocksTreeClosedSectionSvg {
+  display: none;
+}
+
+.blocksTreeOpenedSectionSvg {
+  display: none;
+}
+
+.dataflowNavigator {
+  height: 22px;
+}
+
+.dataflowMenuParamButton {
+  width: 130px;
+  height: 20px;
+  padding: 0px;
+  margin: 2px 4px 2px 4px;
+}
+
+.blockNameDiv {
+  display: inline-block;
+}
+
+.remoteDFPanel {
+  background-color: #2d2d2d;
+}

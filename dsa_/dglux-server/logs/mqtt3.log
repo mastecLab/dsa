@@ -1,0 +1,12 @@
+[2018-02-19 16:55:38.821089] == Executing C:\dsa\dglux-server\dslinks\mqtt3\bin\dslink-java-mqtt.bat with arguments [--name, mqtt, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:56736/conn, --token, xFHv7x7wiq6UXSruQYckYXwCvFtPD7VkkEg8GQpyhkI0S5Dx] (pid: 18392) ==
+[2018-02-19 16:55:39.133108] == Executing C:\dsa\dglux-server\dslinks\mqtt3\bin\dslink-java-mqtt.bat with arguments [--name, mqtt, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:56736/conn, --token, xFHv7x7wiq6UXSruQYckYXwCvFtPD7VkkEg8GQpyhkI0S5Dx] (pid: 15364) ==
+[2018-02-19 16:55:40.232282] 2018-02-19 16:55:40.230 [Thread-2] INFO org.dsa.iot.mqtt.Main - Initialized
+[2018-02-19 16:55:40.285330] 2018-02-19 16:55:40.285 [nioEventLoopGroup-2-2] INFO org.dsa.iot.mqtt.Main - Connected
+[2018-02-19 16:55:40.470502] 2018-02-19 16:55:40.468 [Thread-2] INFO org.dsa.iot.mqtt.Main - Initialized
+[2018-02-19 16:55:40.546559] 2018-02-19 16:55:40.546 [nioEventLoopGroup-2-2] INFO org.dsa.iot.mqtt.Main - Connected
+[2018-02-19 17:01:16.559119] == Executing C:\dsa\dglux-server\dslinks\mqtt3\bin\dslink-java-mqtt.bat with arguments [--name, mqtt, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:56903/conn, --token, JxmAU3VlpVZjlaBmzWUjU2eeVNZyl5cFY8b9Hz7dI9qL7X4T] (pid: 3148) ==
+[2018-02-19 17:01:19.125222] 2018-02-19 17:01:19.123 [Thread-2] INFO org.dsa.iot.mqtt.Main - Initialized
+[2018-02-19 17:01:19.190280] 2018-02-19 17:01:19.189 [nioEventLoopGroup-2-2] INFO org.dsa.iot.mqtt.Main - Connected
+[2018-02-19 17:02:30.342013] == Exited with status 1 ==
+[2018-02-19 17:02:30.342013] == Exited with status 1 ==
+[2018-02-19 17:02:30.342013] == Exited with status 1 ==

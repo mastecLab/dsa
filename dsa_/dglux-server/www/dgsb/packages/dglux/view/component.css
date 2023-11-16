@@ -1,0 +1,201 @@
+.componentsLayer > .dgGroup{
+  width:100%;
+  height:100%;
+}
+.dgLabel{
+  display: -webkit-flex;
+  -webkit-flex-direction: row;
+  -webkit-align-items:center;
+  -webkit-align-content:center;
+  -webkit-justify-content:center;
+
+  display: flex;
+  flex-direction: row;
+  align-items:center;
+  align-content:center;
+  justify-content:center; 
+}
+
+.user-selectable {
+   -moz-user-select: text;
+   -khtml-user-select: text;
+   -webkit-user-select: text;
+   -o-user-select: text;
+   -ms-user-select: text;
+   user-select: text;
+}
+
+.user-selectable-disable {
+  -moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -o-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+
+div.dgLabelBlock {
+  display: block;
+}
+
+.dgHeatMap{
+  overflow: hidden;
+}
+
+div.dgRelativeSymbol > div, div.dgRelativeSymbol > img, div.dgRelativeSymbol > svg{
+  min-width:100%;
+  min-height:100%;
+  position:relative;
+}
+div.dgAbsoluteSymbol > div, div.dgAbsoluteSymbol > img, div.dgAbsoluteSymbol > svg{
+  width:100%;
+  height:100%;
+  position:absolute;
+}
+
+div.dgViewDeck > div, div.dgViewDeck > img, div.dgViewDeck > svg{
+  width:100%;
+  height:100%;
+  position:absolute;
+}
+
+div.dgImage{
+  overflow:hidden;
+}
+div.dgImageContent{
+  left:0;
+  top:0;
+  right:0;
+  bottom:0;
+  position:absolute;
+  pointer-events: none;
+}
+div.dgPage{
+  /*-webkit-transform:translateZ(0px);/*fix the webkit renderering bug caused by mutiple 3D transform content*/
+}
+
+.dgCalendarContent {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+.divCalendarCell {
+  display: flex;
+  align-content: center;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  position: relative;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  border-style: solid;
+}
+
+.dgNotSelectable {
+ -webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+
+text.dgSvgText {
+  pointer-events: none;
+  text-anchor: start;
+}
+
+.editorTooltipDiv {
+  opacity: 0;
+  pointer-events: none;
+  font-size: 11px;
+  padding: 4px;
+  color: #000000;
+  background-color: #ffffff;
+  -moz-box-shadow: 1px 1px 4px #222222;
+  -webkit-box-shadow: 1px 1px 4px #222222;
+  box-shadow: 1px 1px 4px #222222;
+}
+
+.editorHelpTooltipDiv {
+  pointer-events: auto;
+  cursor: move;
+}
+
+div.mapLatitudeHolder {
+  content: '37.77493';
+}
+
+div.mapLongitudeHolder {
+  content: '-122.41942';
+}
+
+div.divTreeRenderContainer {
+  cursor: default;
+  height: 100%;
+}
+
+svg.divTreeTriangleSvg {
+  width: 16px;
+  height: 16px;
+}
+
+.gm-style > :first-child > :last-child {
+  height: 100%;
+}
+
+.gm-style > :first-child > :last-child > :first-child {
+  height: 100%;
+}
+
+div.panDiv {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+svg.panBackground {
+  position: absolute;
+  pointer-events: none;
+}
+
+path.panBackground {
+  fill: #d6d6d6;
+  fill-opacity: 0.1;
+}
+
+path.panForeground {
+  fill: #d6d6d6;
+  fill-opacity: 0;
+}
+
+path.panHandler {
+  fill-opacity: 0;
+  stroke: #2ebed7;
+  stroke-width: 2;
+}
+
+path.scaleHandler {
+  fill: #2ebed7;
+}
+
+svg.panHandlers {
+  position: absolute;
+  overflow: visible;
+}
+
+.alwaysShowSpinner > input::-webkit-inner-spin-button {
+    opacity: 1;
+}
+
+input[type=text].TimeNumberInput-dgResultInput {
+  line-height: normal;
+}

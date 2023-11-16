@@ -1,0 +1,11 @@
+[2018-02-19 17:16:08.678082] == Executing C:\dsa\dglux-server\dslinks\Mosquitto\bin\dslink-java-mqtt.bat with arguments [--name, mqtt, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:57404/conn, --token, nCux9w9Val0AkWyNmCArJA7e4drNOtUPcEL8B9RBX38RVPSL] (pid: 11888) ==
+[2018-02-19 17:16:09.809372] 2018-02-19 17:16:09.806 [Thread-2] INFO org.dsa.iot.mqtt.Main - Initialized
+[2018-02-19 17:16:09.863429] 2018-02-19 17:16:09.863 [nioEventLoopGroup-2-2] INFO org.dsa.iot.mqtt.Main - Connected
+[2018-02-19 17:17:19.463796] 2018-02-19 17:17:19.463 [Thread-25] INFO io.moquette.server.Server - Persistent store file: C:\dsa\dglux-server\dslinks\Mosquitto\moquette_store.mapdb
+[2018-02-19 17:17:19.469800] 2018-02-19 17:17:19.469 [Thread-25] INFO io.moquette.spi.persistence.MapDBPersistentStore - Starting with fresh [C:\dsa\dglux-server\dslinks\Mosquitto\moquette_store.mapdb] db file
+[2018-02-19 17:17:19.852496] 2018-02-19 17:17:19.852 [Thread-25] INFO io.moquette.spi.impl.SimpleMessaging - Starting without ACL definition
+[2018-02-19 17:17:19.967726] 2018-02-19 17:17:19.966 [Thread-25] INFO io.moquette.server.netty.NettyAcceptor - Server binded host: 0.0.0.0, port: 1883
+[2018-02-19 17:17:19.968727] 2018-02-19 17:17:19.968 [Thread-25] INFO io.moquette.server.netty.NettyAcceptor - Server binded host: 0.0.0.0, port: 8000
+[2018-02-19 17:17:46.971077] == Exited with status 1 ==
+[2018-02-19 17:17:46.971077] == Exited with status 1 ==
+[2018-02-19 17:17:46.971077] == Exited with status 1 ==

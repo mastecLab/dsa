@@ -1,0 +1,232 @@
+.dglux_page_root .componentsLayer > .dgGroup{
+  width:100%;
+  height:100%;
+}
+.dglux_page_root .dgLabel{
+  display: -webkit-flex;
+  -webkit-flex-direction: row;
+  -webkit-align-items:center;
+  -webkit-align-content:center;
+  -webkit-justify-content:center;
+
+  display: flex;
+  flex-direction: row;
+  align-items:center;
+  align-content:center;
+  justify-content:center; 
+}
+
+.dglux_page_root .user-selectable {
+   -moz-user-select: text;
+   -khtml-user-select: text;
+   -webkit-user-select: text;
+   -o-user-select: text;
+   -ms-user-select: text;
+   user-select: text;
+}
+
+.dglux_page_root .user-selectable-disable {
+  -moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -o-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+
+.dglux_page_root div.dgLabelBlock {
+  display: block;
+}
+
+.dglux_page_root .dgHeatMap{
+  overflow: hidden;
+}
+
+.dglux_page_root div.dgRelativeSymbol > div, .dglux_page_root div.dgRelativeSymbol > img, .dglux_page_root div.dgRelativeSymbol > svg{
+  min-width:100%;
+  min-height:100%;
+  position:relative;
+}
+.dglux_page_root div.dgAbsoluteSymbol > div, .dglux_page_root div.dgAbsoluteSymbol > img, .dglux_page_root div.dgAbsoluteSymbol > svg{
+  width:100%;
+  height:100%;
+  position:absolute;
+}
+
+.dglux_page_root div.dgViewDeck > div, .dglux_page_root div.dgViewDeck > img, .dglux_page_root div.dgViewDeck > svg{
+  width:100%;
+  height:100%;
+  position:absolute;
+}
+
+.dglux_page_root div.dgImage{
+  overflow:hidden;
+}
+.dglux_page_root div.dgImageContent{
+  left:0;
+  top:0;
+  right:0;
+  bottom:0;
+  position:absolute;
+  pointer-events: none;
+}
+.dglux_page_root div.dgPage{
+  /*-webkit-transform:translateZ(0px);/*fix the webkit renderering bug caused by mutiple 3D transform content*/
+}
+
+.dglux_page_root .dgCalendarContent {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+.dglux_page_root .divCalendarCell {
+  display: flex;
+  align-content: center;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  position: relative;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  border-style: solid;
+}
+
+.dglux_page_root .dgNotSelectable {
+ -webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+
+.dglux_page_root text.dgSvgText {
+  pointer-events: none;
+  text-anchor: start;
+}
+
+.dglux_page_root .editorTooltipDiv {
+  opacity: 0;
+  pointer-events: none;
+  font-size: 11px;
+  padding: 4px;
+  color: #000000;
+  background-color: #ffffff;
+  -moz-box-shadow: 1px 1px 4px #222222;
+  -webkit-box-shadow: 1px 1px 4px #222222;
+  box-shadow: 1px 1px 4px #222222;
+}
+
+.dglux_page_root .editorHelpTooltipDiv {
+  pointer-events: auto;
+  cursor: move;
+}
+
+.dglux_page_root div.mapLatitudeHolder {
+  content: '37.77493';
+}
+
+.dglux_page_root div.mapLongitudeHolder {
+  content: '-122.41942';
+}
+
+.dglux_page_root div.divTreeRenderContainer {
+  cursor: default;
+  height: 100%;
+}
+
+.dglux_page_root svg.divTreeTriangleSvg {
+  width: 16px;
+  height: 16px;
+}
+
+.dglux_page_root .gm-style > :first-child > :last-child {
+  height: 100%;
+}
+
+.dglux_page_root .gm-style > :first-child > :last-child > :first-child {
+  height: 100%;
+}
+
+.dglux_page_root div.panDiv {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.dglux_page_root svg.panBackground {
+  position: absolute;
+  pointer-events: none;
+}
+
+.dglux_page_root path.panBackground {
+  fill: #d6d6d6;
+  fill-opacity: 0.1;
+}
+
+.dglux_page_root path.panForeground {
+  fill: #d6d6d6;
+  fill-opacity: 0;
+}
+
+.dglux_page_root path.panHandler {
+  fill-opacity: 0;
+  stroke: #2ebed7;
+  stroke-width: 2;
+}
+
+.dglux_page_root path.scaleHandler {
+  fill: #2ebed7;
+}
+
+.dglux_page_root svg.panHandlers {
+  position: absolute;
+  overflow: visible;
+}
+
+.dglux_page_root .alwaysShowSpinner > input::-webkit-inner-spin-button {
+    opacity: 1;
+}
+
+.dglux_page_root input[type=text].TimeNumberInput-dgResultInput {
+  line-height: normal;
+}
+
+.dglux_page_root select.TimeNumberInput-dgResultInput {
+  line-height: normal;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+}
+
+.dglux_page_root .snapKnob {
+  border-radius:99px;
+  -moz-border-radius:99px;
+  -webkit-border-radius:99px;
+
+  border-color: green;
+  border:2px #fff solid;
+  background-color: green;
+
+
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#e7676d', EndColorStr='#b7070a');
+  -webkit-box-shadow: 0px 2px 4px #000000; /* Saf3-4 */
+  -moz-box-shadow: 0px 2px 4px #000000; /* FF3.5 - 3.6 */
+  box-shadow: 0px 2px 4px #000000; /* Opera 10.5, IE9, FF4+, Chrome 10+ */
+  display:inline-block;
+  margin:5px;
+  font-family:arial;
+  font-weight:bold;
+}
+
+/* They relied on pointer-events is inherited, but our cool .dglux_page_root div,img selector kills this possibility */
+.dglux_page_root .esri-ui div {
+  pointer-events: inherit;
+}

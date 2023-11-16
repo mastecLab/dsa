@@ -1,0 +1,42 @@
+.dgTreeExpand{
+  width:16px;
+  height:16px;
+  visibility:hidden;
+}
+.dgTreeIcon{
+  width:16px;
+  height:16px;
+}
+.dgTreeLabel{
+  cursor:default;
+  height:16px;
+  line-height:16px;
+  white-space: nowrap;
+}
+.dgTreeItemSpacer {
+  width: 2px;
+}
+.dgIcon-TreeOpenIcon{
+  visibility:visible !important;
+}
+.dgIcon-TreeClosedIcon{
+  visibility:visible !important;
+}
+.dgTreeSelectedBg{
+  background-color: rgba(48,161,184,0.5);
+}
+
+/*.dgTreeTrendIcon{
+   width:16px;
+   height:16px;
+   background:url(resources/chart-up.png);
+}*/
+
+.dgTreeLoadingIcon{
+   background:url(resources/loading.gif) no-repeat 50% 50%;
+   width: 100%;
+}
+
+.dgTreeItemRenderer #dataflowButton {
+  margin-top: 1px; 
+}

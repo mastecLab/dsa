@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <base href="/">
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TLS Error</title>
+    <style>
+      body {
+        background: #333e48;
+        font-family: "Lucida Sans Unicode", tahoma, serif;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      .container {
+        max-width: 450px;
+        margin: 150px auto 0 auto;
+        padding-bottom: 100px;
+      }
+
+      .main-box {
+        max-width: 400px;
+        margin: 0 auto 0 auto;
+        text-align: center;
+        background: #242c33;
+        overflow: hidden;
+      }
+
+      .error-message {
+        /*font-size: 14px; */
+        color: #ff0000;
+        letter-spacing: 1px;
+      }
+
+      .logo-holder {
+        padding-top: 11px;
+        padding-bottom: 11px;
+      }
+
+      .message-holder {
+        width: 100%;
+        padding: 1px 0 1px 0;
+        background: #fff;
+
+      }
+
+      .message-holder > p {
+        font-size: 12px;
+        margin: 10px 20px 10px 20px;
+      }
+
+      a {
+        color: #00aaff;
+        font-size: 14px;
+        text-decoration: none;
+        letter-spacing: 0;
+      }
+
+      @media (max-width: 500px) {
+        .container {
+          margin: 20px auto 0 auto;
+        }
+      }
+
+      @media (max-width: 768px) {
+        .container {
+          margin: 20px auto 0 auto;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="main-box">
+        <div class="logo-holder"><img src="images/logo.png" alt="logo"/></div>
+        <div id="invalid" class="message-holder"><p class="error-message">
+          The browser you are using does not support TLS 1.2<br />
+          Please ensure you are using the latest version of your browser.<br />
+          <a href="http://wiki.dglux.com/dglux5_wiki:installation:dsa-dglux5">Learn More</a>
+        </p></div>
+      </div>
+    </div>
+  </body>
+</html>

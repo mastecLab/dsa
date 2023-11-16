@@ -1,0 +1,11 @@
+{
+  "name": "HVAC",
+  "owner": "dgSuper",
+  "canRead": [
+    "all"
+  ],
+  "canWrite": [],
+  "isTemplate": false,
+  "category": null,
+  "description": ""
+}

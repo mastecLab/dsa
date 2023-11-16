@@ -1,0 +1,42 @@
+.dglux_page_root .dgTreeExpand{
+  width:16px;
+  height:16px;
+  visibility:hidden;
+}
+.dglux_page_root .dgTreeIcon{
+  width:16px;
+  height:16px;
+}
+.dglux_page_root .dgTreeLabel{
+  cursor:default;
+  height:16px;
+  line-height:16px;
+  white-space: nowrap;
+}
+.dglux_page_root .dgTreeItemSpacer {
+  width: 2px;
+}
+.dglux_page_root .dgIcon-TreeOpenIcon{
+  visibility:visible !important;
+}
+.dglux_page_root .dgIcon-TreeClosedIcon{
+  visibility:visible !important;
+}
+.dglux_page_root .dgTreeSelectedBg{
+  background-color: rgba(48,161,184,0.5);
+}
+
+/*.dgTreeTrendIcon{
+   width:16px;
+   height:16px;
+   background:url(resources/chart-up.png);
+}*/
+
+.dglux_page_root .dgTreeLoadingIcon{
+   background:url(resources/loading.gif) no-repeat 50% 50%;
+   width: 100%;
+}
+
+.dglux_page_root .dgTreeItemRenderer #dataflowButton {
+  margin-top: 1px; 
+}

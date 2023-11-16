@@ -1,0 +1,1680 @@
+.dgEditorLabel {
+line-height: 23px;  
+}
+
+.dgEditorBox{
+  padding-right:14px;
+}
+
+.alignItemsBaseLine > .dgEditorBox[data-dg-type="number"], 
+.alignItemsBaseLine > .dgEditorBox[data-dg-type="enum"], 
+.alignItemsBaseLine > .dgEditorBox[data-dg-type="fill"], 
+.alignItemsBaseLine > .dgEditorBox[data-dg-type="percentSliderEditor"], 
+.alignItemsBaseLine > .dgEditorBox[data-dg-type="percentSliderEditor"] #percentNumberSlider , 
+.alignItemsBaseLine > .dgEditorBox[data-dg-type="position"], 
+.alignItemsBaseLine > .dgEditorBox[data-dg-type="string"], 
+.alignItemsBaseLine > .dgEditorBox[data-dg-type="tweenProps"], 
+.alignItemsBaseLine > .dgEditorBox[data-dg-type="tweenProps"] #durationEditor, 
+.alignItemsBaseLine > .horizontal > .dgEditorBox[data-dg-type="toggle"] > .dgToggleEditor, 
+.alignItemsBaseLine > .dgEditorBox[data-dg-type="labelEditor"] {
+  display: inline-flex;
+}
+
+.dgEditorBox > div:first-child:not(.dgBindingMask){
+  left:0;
+  right:0;
+  top:0;
+  bottom:0;
+}
+
+.alignItemsBaseLine > .dgEditorBox[data-dg-type="enum"] > div:first-child:not(.dgBindingMask), 
+.alignItemsBaseLine > .dgEditorBox[data-dg-type="string"] > div:first-child:not(.dgBindingMask), 
+.alignItemsBaseLine > .dgEditorBox[data-dg-type="labelEditor"] > div:first-child:not(.dgBindingMask) {
+  width: 100%;
+}
+
+.dgBindingMask{
+  position:absolute;
+  left:0;
+  right:0;
+  top:0;
+  bottom:0;
+  -moz-box-shadow: inset 0 0 2px 2px DodgerBlue;
+  -webkit-box-shadow: inset 0 0 2px 2px DodgerBlue;
+  box-shadow: inset 0 0 2px 2px DodgerBlue;
+}
+.dgBindingDot{
+  cursor: pointer;
+  position:absolute;
+  background: DodgerBlue;
+  border: DodgerBlue 2px solid;
+  border-radius: 50%;
+  height: 8px;
+  width: 8px;
+  right:4px;
+  top:0;
+  bottom:0;
+  margin-top:auto;
+  margin-bottom:auto;
+  /*-webkit-transition: opacity .1s ease-in-out;
+     -moz-transition: opacity .1s ease-in-out;
+      -ms-transition: opacity .1s ease-in-out;
+       -o-transition: opacity .1s ease-in-out;
+          transition: opacity .1s ease-in-out;*/
+  filter: alpha(opacity=0);
+  opacity: 0;
+}
+
+.dgBindingDot-null {
+  background: transparent;
+}
+
+.dgEditorBox:hover > .dgBindingDot, .dgBindingDotShowAlways {
+  filter: alpha(opacity=100);
+  opacity: 1;
+}
+
+.dgMenuPopupWithoutHover {
+  font-size: 13px;
+  
+  background: #333333;
+
+  border:solid 1px #282828;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  border-radius: 0px;
+  
+  -moz-box-shadow: 1px 1px 4px #222222;
+  -webkit-box-shadow: 1px 1px 4px #222222;
+  box-shadow: 1px 1px 4px #222222;
+  padding: 2px;
+}
+
+.dgMenuPopup,
+.dgMainMenuPopup {
+  font-size: 13px;
+  
+  background: #333333;
+
+  border:solid 1px #282828;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  border-radius: 0px;
+  
+  -moz-box-shadow: 1px 1px 4px #222222;
+  -webkit-box-shadow: 1px 1px 4px #222222;
+  box-shadow: 1px 1px 4px #222222;
+  padding: 2px;
+}
+
+.dgMenuPopup > div, 
+.dgMainMenu > div,
+.dgMainMenuPopup > div {
+  cursor: pointer;
+  padding: 4px;
+}
+
+.dgMenuPopup > div:hover{
+  background-color: rgba(48,161,184,0.5);
+}
+
+.dgMenuPopup > div.disabled, 
+.dgMainMenu > div.disabled, 
+.dgMenuPopup > div.disabled:hover,
+.dgMainMenu > div.disabled:hover {
+  background: #333333;
+  color: #999999;
+  pointer-events: none;
+  cursor: default;
+}
+
+.dgMainMenuPopup > div.disabled, 
+.dgMainMenuPopup > div.disabled:hover {
+  background: #333333;
+  color: #999999;
+  cursor: default;
+  display: none;
+}
+
+/* Menu item separator */
+.dgMenuPopup > div.menuItemSeparator,
+.dgMainMenuPopup > div.menuItemSeparator {
+  width: 100%; 
+  height: 2px; 
+  padding: 0;
+  margin: 2px 0 2px 0;
+  cursor: default; 
+  background-color: #6A6A6A;
+}
+
+.dgMainMenu > div.rootMenuItem {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.dgMainMenu{
+  font-size: 13px;
+  padding: 2px;
+}
+
+.dgMenuHightlight {
+  background-color: rgba(48,161,184,0.5);
+}
+
+.dgButton {
+  cursor:default;
+  -moz-box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  -webkit-box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #424242), color-stop(1, #373737) );
+  background:-moz-linear-gradient( center top, #424242 5%, #373737 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#424242', endColorstr='#373737');
+  background-color:#424242;
+  -webkit-border-top-left-radius:3px;
+  -moz-border-radius-topleft:3px;
+  border-top-left-radius:3px;
+  -webkit-border-top-right-radius:3px;
+  -moz-border-radius-topright:3px;
+  border-top-right-radius:3px;
+  -webkit-border-bottom-right-radius:3px;
+  -moz-border-radius-bottomright:3px;
+  border-bottom-right-radius:3px;
+  -webkit-border-bottom-left-radius:3px;
+  -moz-border-radius-bottomleft:3px;
+  border-bottom-left-radius:3px;
+  text-indent:0;
+  border:1px solid #1a1a1a;
+  display:inline-block;
+  color:#dddddd;
+  font-family:arial;
+  font-size:11px;
+  font-weight:normal;
+  font-style:normal;
+  /*height:18px;
+  width:50px;
+  line-height:18px;*/
+  text-decoration:none;
+  text-align:center;
+  white-space: nowrap;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.dgButton:hover {
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #373737), color-stop(1, #424242) );
+  background:-moz-linear-gradient( center top, #373737 5%, #424242 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#373737', endColorstr='#424242');
+  background-color:#373737;
+}
+.dgButton:active, .dgButtonSelected {
+  -moz-box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  -webkit-box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #252525), color-stop(1, #1d1d1d) );
+  background:-moz-linear-gradient( center top, #252525 5%, #1d1d1d 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#252525', endColorstr='#1d1d1d');
+
+  background-color:#252525;
+}
+
+.dgTransparentButton {
+  cursor:default;
+  -moz-box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  -webkit-box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+/*  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #424242), color-stop(1, #373737) );
+  background:-moz-linear-gradient( center top, #424242 5%, #373737 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#424242', endColorstr='#373737');
+  background-color:#424242;*/
+  -webkit-border-top-left-radius:3px;
+  -moz-border-radius-topleft:3px;
+  border-top-left-radius:3px;
+  -webkit-border-top-right-radius:3px;
+  -moz-border-radius-topright:3px;
+  border-top-right-radius:3px;
+  -webkit-border-bottom-right-radius:3px;
+  -moz-border-radius-bottomright:3px;
+  border-bottom-right-radius:3px;
+  -webkit-border-bottom-left-radius:3px;
+  -moz-border-radius-bottomleft:3px;
+  border-bottom-left-radius:3px;
+  text-indent:0;
+  border:1px solid #1a1a1a;
+  display:inline-block;
+  color:#dddddd;
+  font-family:arial;
+  font-size:11px;
+  font-weight:normal;
+  font-style:normal;
+  /*height:18px;
+  width:50px;
+  line-height:18px;*/
+  text-decoration:none;
+  text-align:center;
+  white-space: nowrap;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.dgTransparentButton:hover {
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #373737), color-stop(1, #424242) );
+  background:-moz-linear-gradient( center top, #373737 5%, #424242 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#373737', endColorstr='#424242');
+  background-color:#373737;
+}
+.dgTransparentButton:hover:active, .dgTransparentButtonSelected {
+  -moz-box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  -webkit-box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #252525), color-stop(1, #1d1d1d) );
+  background:-moz-linear-gradient( center top, #252525 5%, #1d1d1d 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#252525', endColorstr='#1d1d1d');
+
+  background-color:#252525;
+}
+
+.standardBtnPadding 
+{
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-left: 10px;
+  margin-right: 10px;
+}
+
+.dgIconButtonSize
+{
+    width: 20px;
+    height: 20px;
+    line-height:17px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.triangleOpened {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  margin-top: -1px;
+  margin-left: -5px;
+  
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid #c5c5c5;
+  
+}
+
+/* Closed disclosure icon*/
+.triangleClosed {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  margin-top: -5px;
+  margin-left: -1px;
+  
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid #c5c5c5;
+}
+
+.dgToolsButton, .dgPrimitivesButton, .dgZoomToolButton {
+  cursor:default;
+  -webkit-border-top-left-radius:3px;
+  -moz-border-radius-topleft:3px;
+  border-top-left-radius:3px;
+  -webkit-border-top-right-radius:3px;
+  -moz-border-radius-topright:3px;
+  border-top-right-radius:3px;
+  -webkit-border-bottom-right-radius:3px;
+  -moz-border-radius-bottomright:3px;
+  border-bottom-right-radius:3px;
+  -webkit-border-bottom-left-radius:3px;
+  -moz-border-radius-bottomleft:3px;
+  border-bottom-left-radius:3px;
+  text-indent:0;
+  border:1px solid rgba(0,0,0,0);
+  display:inline-block;
+  color:#dddddd;
+  font-family:arial;
+  font-size:11px;
+  font-weight:normal;
+  font-style:normal;
+  /*height:18px;
+  width:50px;
+  line-height:18px;*/
+  text-decoration:none;
+  text-align:center;
+  white-space: nowrap;
+}
+.dgToolsButton:hover, .dgPrimitivesButton:hover, .dgZoomToolButton:hover {
+  border:1px solid #1a1a1a;
+  -moz-box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  -webkit-box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #373737), color-stop(1, #424242) );
+  background:-moz-linear-gradient( center top, #373737 5%, #424242 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#373737', endColorstr='#424242');
+  background-color:#373737;
+}
+.dgToolsButton:active, .dgToolsButtonSelected, .dgPrimitivesButton:active, .dgZoomToolButton:active {
+  -moz-box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  -webkit-box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #252525), color-stop(1, #1d1d1d) );
+  background:-moz-linear-gradient( center top, #252525 5%, #1d1d1d 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#252525', endColorstr='#1d1d1d');
+
+  background-color:#252525;
+}
+
+
+.welcomeWindowButtonFunction {
+  left:10px;
+  font-size:14px;
+  pointer-events:none;
+  width:10px;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.75);
+  color: #c3c3c3;
+}
+
+.welcomeWindowButtonDesc {
+  left:40px;
+  font-size:11px;
+  pointer-events:none;
+  width:10px;
+  color:#727272
+}
+
+.welcomeWindowButtonSelection .welcomeWindowButtonDesc {
+  color:#ebebeb
+}
+
+.welcomeWindowButtonSelection .welcomeWindowButtonFunction {
+  color:#fbfbfb
+}
+
+.welcomeWindowButton {
+  cursor:default;
+  text-indent:0;
+  border:1px solid rgba(0,0,0,0);
+  display:inline-block;
+  color:#dddddd;
+  font-family:arial;
+  font-size:11px;
+  font-weight:normal;
+  font-style:normal;
+  /*height:18px;
+  width:50px;
+  line-height:18px;*/
+  text-decoration:none;
+  text-align:center;
+  white-space: nowrap;
+  background:#333333;
+}
+
+.welcomeWindowButton:hover {
+  border:1px solid #1a1a1a;
+  -moz-box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  -webkit-box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #373737), color-stop(1, #424242) );
+  background:-moz-linear-gradient( center top, #373737 5%, #424242 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#373737', endColorstr='#424242');
+  background-color:#373737;
+}
+.welcomeWindowButton:active {
+  -moz-box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  -webkit-box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #252525), color-stop(1, #1d1d1d) );
+  background:-moz-linear-gradient( center top, #252525 5%, #1d1d1d 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#252525', endColorstr='#1d1d1d');
+
+  background-color:#252525;
+}
+
+.welcomeWindowButtonSelection
+{
+  cursor:default;
+  text-indent:0;
+  display:inline-block;
+  color:#dddddd;
+  font-family:arial;
+  font-size:11px;
+  font-weight:normal;
+  font-style:normal;
+  /*height:18px;
+  width:50px;
+  line-height:18px;*/
+  text-decoration:none;
+  text-align:center;
+  white-space: nowrap;
+  
+  opacity: 1; 
+  background: #0189a2; /* Old browsers */
+  background: -moz-linear-gradient(left,  #0189a2 0%, #015d63 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%,#0189a2), color-stop(100%,#015d63)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left,  #0189a2 0%,#015d63 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left,  #0189a2 0%,#015d63 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(left,  #0189a2 0%,#015d63 100%); /* IE10+ */
+  background: linear-gradient(to right,  #0189a2 0%,#015d63 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0189a2', endColorstr='#015d63',GradientType=1 ); /* IE6-9 */
+  
+  border: #ffffff;
+  border-width: 1px;
+  border-style: solid none solid none;
+}
+
+.projectsList .label, .projectLabel {
+  font-size: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.75);
+}
+
+.dashboard-preview-button {
+  width: 48px;
+  height: 48px;
+  cursor: pointer;
+  fill: #181818;
+}
+
+.dashboard-preview-button:hover {
+    fill: #6F6F6F; 
+ }
+
+.dgAdvancedButton {
+  cursor:default;
+  -moz-box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  -webkit-box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #424242), color-stop(1, #373737) );
+  background:-moz-linear-gradient( center top, #424242 5%, #373737 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#424242', endColorstr='#373737');
+  background-color:#424242;
+  -webkit-border-top-left-radius:3px;
+  -moz-border-radius-topleft:3px;
+  border-top-left-radius:3px;
+  -webkit-border-top-right-radius:3px;
+  -moz-border-radius-topright:3px;
+  border-top-right-radius:3px;
+  text-indent:0;
+  border:1px solid #1a1a1a;
+  display:inline-block;
+  color:#dddddd;
+  font-family:arial;
+  font-size:11px;
+  font-weight:normal;
+  font-style:normal;
+  /*height:18px;
+  width:50px;
+  line-height:18px;*/
+  text-decoration:none;
+  text-align:center;
+  white-space: nowrap;
+  margin-left: -1px;
+  height: 13px;
+}
+
+.advancedButtonLabel {
+  padding-left: 5px;
+  font-size: 10px;
+}
+
+.dgAdvancedButton:active {
+  -moz-box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  -webkit-box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #252525), color-stop(1, #1d1d1d) );
+  background:-moz-linear-gradient( center top, #252525 5%, #1d1d1d 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#252525', endColorstr='#1d1d1d');
+
+  background-color:#252525;
+}
+
+.dgRoundedCornersDiv {
+  pointer-events: none;
+  cursor:default;
+  border-top-left-radius:7px;
+  border-top-right-radius:7px;
+  border-bottom-right-radius:7px;
+  border-bottom-left-radius:7px;
+  border:1px solid #CCCCCC;
+  left: 8px;
+  top: 8px;
+  height:28px;
+  width:28px;
+}
+
+.tabIcon {
+  vertical-align: top;
+}
+
+.color-picker-slider-container, .color-picker-slider-container > * + * {
+  margin-top:5px;
+}
+
+#web_palette {
+margin-left: 22px;
+margin-top: 12px;
+}
+
+#gradient-picker-handlebar {
+  cursor: pointer;  
+}
+
+#pickerRightDiv {
+  margin-left: 10px;
+}
+
+.color-picker-slider-input {
+  -webkit-appearance: none;
+  height: 10px;
+  /*
+  border-radius: 5px;
+  box-shadow: inset 1px 1px 3px rgba(0,0,0,0.9);*/
+}
+
+.color-display {
+  cursor: pointer;
+}
+
+input[type=text],input[type=password],input[type=number],textarea
+{
+  -moz-box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  -webkit-box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  box-shadow: 0px 1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #252525), color-stop(1, #1d1d1d) );
+  background:-moz-linear-gradient( center top, #252525 5%, #1d1d1d 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#252525', endColorstr='#1d1d1d');
+
+  background-color:#252525;
+  
+  text-indent:0;
+  border:1px solid #1a1a1a;
+  display:inline-block;
+  color:#dddddd;
+  font-family:arial;
+  font-size:11px;
+  font-weight:normal;
+  font-style:normal;
+  height:18px;
+  line-height:18px;
+  text-decoration:none;
+}
+
+input:focus,textarea:focus
+{
+  outline: none;
+}
+
+/*
+.dgEnumEditor, .dgEnumEditor > select
+{
+    -webkit-flex: 1 1 auto ;
+    flex: 1 1 auto;
+}
+*/
+
+select::-ms-expand {
+  display: none;
+}
+
+.selectShowDropdownArrow::-ms-expand {
+  display: inline-block;
+}
+
+
+.dgEnumEditor select{
+    cursor:default;
+  -moz-box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  -webkit-box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #424242), color-stop(1, #373737) );
+  background:-moz-linear-gradient( center top, #424242 5%, #373737 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#424242', endColorstr='#373737');
+  
+  background-color: #424242;
+  
+  -webkit-border-top-left-radius:3px;
+  -moz-border-radius-topleft:3px;
+  border-top-left-radius:3px;
+  -webkit-border-top-right-radius:3px;
+  -moz-border-radius-topright:3px;
+  border-top-right-radius:3px;
+  -webkit-border-bottom-right-radius:3px;
+  -moz-border-radius-bottomright:3px;
+  border-bottom-right-radius:3px;
+  -webkit-border-bottom-left-radius:3px;
+  -moz-border-radius-bottomleft:3px;
+  border-bottom-left-radius:3px;
+  text-indent:5px;
+  border:1px solid #1a1a1a;
+
+  color:#dddddd;
+  font-family:arial;
+  font-size:11px;
+  font-weight:normal;
+  font-style:normal;
+
+  width:100%;
+  text-decoration:none;
+  text-align:center;
+  
+  padding-left: 5px;
+  
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+   
+   -webkit-appearance: none;
+  display: -webkit-flex;
+  -webkit-flex-direction: row;
+  
+  display: flex;
+  flex-direction: row;   
+ 
+  height: 18px;
+}
+
+.dgEnumEditorBlue select{
+    cursor:default;
+  background:#333333;
+  
+  text-indent:5px;
+  border:none;
+
+  color:#2C8DDE;
+  font-family:arial;
+  font-size:11px;
+  font-weight:normal;
+  font-style:normal;
+
+  width:100%;
+  text-decoration:none;
+  text-align:center;
+  
+  padding-left: 5px;
+  
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+   
+   -webkit-appearance: none;
+  display: -webkit-flex;
+  -webkit-flex-direction: row;
+  
+  display: flex;
+  flex-direction: row;   
+  
+  height: 18px;
+}
+
+.enumEditableDiv {
+  height: 22px;
+}
+
+.categoryBox #categoryDiv {
+  height: 100%;
+}
+
+::-webkit-input-placeholder {
+   color: #666666;
+}
+
+::-moz-placeholder { 
+   color: #666666;
+}
+
+.dgSelectPopup select {
+  cursor:default;
+  -moz-box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  -webkit-box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #424242), color-stop(1, #424242) );
+  background:-moz-linear-gradient( center top, #424242 5%, #424242 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#424242', endColorstr='#424242');
+  
+  background-color: #424242;
+  
+  -webkit-border-top-left-radius:3px;
+  -moz-border-radius-topleft:3px;
+  border-top-left-radius:3px;
+  -webkit-border-top-right-radius:3px;
+  -moz-border-radius-topright:3px;
+  border-top-right-radius:3px;
+  -webkit-border-bottom-right-radius:3px;
+  -moz-border-radius-bottomright:3px;
+  border-bottom-right-radius:3px;
+  -webkit-border-bottom-left-radius:3px;
+  -moz-border-radius-bottomleft:3px;
+  border-bottom-left-radius:3px;
+  text-indent:5px;
+  border:1px solid #1a1a1a;
+
+  color:#dddddd;
+  font-family:arial;
+  font-size:11px;
+  font-weight:normal;
+  font-style:normal;
+
+  text-decoration:none;
+  
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+   
+   -webkit-appearance: none;
+  display: -webkit-flex;
+  -webkit-flex-direction: row;
+  
+  display: flex;
+  flex-direction: row;  
+}
+
+.dgTextEditor, .dglabelEditor, .dgTextAreaEditor{
+  display: -webkit-flex;
+  -webkit-flex-direction: row;
+  
+  display: flex;
+  flex-direction: row;
+
+  min-width: 2px;
+}
+.dgTextEditor > input, .dglabelEditor > input, .dgTextAreaEditor > textarea {
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+  min-width: 2px;
+}
+ 
+.labelEditorDiv {
+  height: 18px;
+}
+
+.labelEditorDiv .dglabelEditor {
+  height: 18px;
+}
+
+.dgNumberSliderEditor{
+  display: -webkit-flex;
+  -webkit-flex-direction: row;
+  
+  display: flex;
+  flex-direction: row;
+  min-width: 2px;
+}
+
+.dgNumberSliderEditor > .number-input-label{
+  cursor: ns-resize;
+  line-height: 16px;
+  border-bottom-style: dashed;
+  border-bottom-width: 1px;
+  border-bottom-color:#00A2C8;
+  font-size: 12px;
+  padding-top: 3px;
+  min-width: 2px;
+}
+
+.dgNumberSliderEditor > input{
+  margin-left: 2px;
+  font-size: 12px;
+  flex: 1 1 auto;
+  -webkit-flex: 1 1 auto;
+  width: 25px;
+}
+
+.dgPercentSliderEditor {
+   display: -webkit-flex;
+  -webkit-flex-direction: row;
+  -webkit-align-items: center;
+  
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.percent-slider-hit {
+  cursor: pointer;
+  align-items: center;
+  justify-content: flex-start;
+  
+  -webkit-align-items: center;
+  -webkit-justify-content: flex-start;
+
+  padding-left:3px;
+}
+      
+.percent-slider-label {
+  flex:0 1 auto;
+  -webkit-flex:0 1 auto;
+  line-height: 22px;
+  text-align: left;
+  font-size: 12px;
+}
+          
+.percent-slider-thumb {
+  width: 10px;
+  height: 20px;
+}
+
+.bool-editor-container {
+  padding-left: 0px;
+}
+
+/********************** Color Picker ************************/
+
+.color-picker-hsv-gradient {
+  cursor: crosshair;
+}
+
+.color-picker-slider-container {
+ /*
+  flex:1 1 auto;
+  display: -webkit-flex;
+  -webkit-flex-direction: column;
+  display: flex;
+  flex-direction: column;
+  display: -ms-flexbox;
+  -ms-flex-direction: column;*/
+}
+
+.color-picker-slider {
+  flex:1 1 auto;
+  -webkit-flex:1 1 auto;
+  display: -webkit-flex;
+  -webkit-flex-direction: row;
+  display: flex;
+  flex-direction: row;
+  display: -ms-flexbox;
+  -ms-flex-direction: row;
+}
+
+.color-picker-slider-input {
+  position: absolute;
+  border: none;
+  background: none;
+}
+
+.color-picker-slider-label {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 10px;
+  border: none;
+  background: none;
+}
+
+.color-picker-hue-wheel{
+  background-repeat: no-repeat;
+  background-image: url('colorwheel2.png');
+  cursor: pointer;
+}
+
+
+
+/********************** Util ************************/
+.color-picker-unselectable {
+   -moz-user-select: -moz-none;
+   -khtml-user-select: none;
+   -webkit-user-select: none;
+
+   /*
+     Introduced in IE 10.
+     See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+   */
+   -ms-user-select: none;
+   user-select: none;
+}
+
+.dgPiPopupWindow {
+ background-color: #333333;
+ /*
+  background: -webkit-linear-gradient(rgb(24,24,24), rgb(20,20,20))
+ */
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border:solid 1px #282828; 
+  -moz-box-shadow: 1px 1px 4px #222222;
+  -webkit-box-shadow: 1px 1px 4px #222222;
+  box-shadow: 1px 1px 4px #222222;
+}
+
+.color-display
+{
+  width: 20px;
+  height: 20px;
+}
+
+.color-types-button
+{
+  border-width: 0px;
+  border-style: solid;
+  margin: 0px;
+  width:  13px;
+  height: 13px;
+}
+
+.color-types-selected-button
+{
+  outline-color: rgba(48,161,184,0.5);
+  outline-width: 2px;
+  outline-style: solid;
+  margin: 0px;
+  margin: 0px;
+}
+.colorTypesLinearGradient
+{
+  background:-webkit-linear-gradient (#000000,#ffffff);
+  width:20px;
+  height:20px;
+}
+
+.colorTypesRadialGradient
+{
+  background:-webkit-radial-gradient (#000000,#ffffff);
+  width:20px;
+  height:20px;
+}
+
+.hRule {
+  width: 100%;
+  border-width: 1px;
+  border-style: solid none;
+  border-color: #262626 #000000 #404040;
+}
+
+.vRule {
+  height: 100%;
+  border-width: 1px;
+  border-style: none solid;
+  border-color: #000000 #404040 #000000 #262626;
+}
+
+.piSectionHeader {
+  cursor:default;
+  height: 18px;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  background: #232323;
+  border-width: 1px;
+  border-style: none none solid;
+  border-color: #232323 #232323 #101010;
+  align-items: center;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.piSectionHeaderItem {
+  cursor:default;
+  height: 18px;
+  overflow-y: hidden;
+  border-style: none;
+  align-items: center;
+}
+
+
+.piSectionHeaderTriangle {
+  fill: #bfbebf;
+}
+
+ .dgBorderButton > svg {
+  stroke: #1A1A1A;
+  fill: #424242;
+  }
+
+.dgBorderButtonHover > svg {
+  stroke: #1A1A1A;
+  fill: #373737;
+  }
+  
+.dgBorderButtonSelected  > svg {
+  stroke: #1A1A1A;
+  fill: #252525;
+  }
+
+
+.constraintEditor .verticalButton {
+  width:80px;
+  height:16px;
+  top:32px;
+  left:0px;
+  position:absolute;
+  background: none;
+  border-top:1px solid #777777; 
+  border-bottom:solid 1px  #777777;
+}
+
+.constraintEditor .verticalButton > svg {
+  display: none;
+ }
+
+.constraintEditor .verticalButtonSelected {
+  background-color: #262626;
+  }
+.constraintEditor .verticalButtonSelected > svg {
+  display: inline;
+}
+
+.constraintEditor .horizontalButton{
+  height:80px;
+  width:16px; 
+  left:32px; 
+  top:0px;
+  position:absolute;
+  background: none;
+  border-left:1px solid #777777; 
+  border-right:solid 1px  #777777;
+}
+.constraintEditor .horizontalButton > svg{
+  display: none;
+}
+.constraintEditor .horizontalButtonSelected{
+  background-color: #262626;
+}
+.constraintEditor .horizontalButtonSelected > svg{
+  display: inline;
+}
+
+.constraintEditor .dgConstraintButton {
+  cursor:default;
+  text-indent:0;
+  display:inline-block;
+  color:#dddddd;
+  font-family:arial;
+  font-size:11px;
+  font-weight:normal;
+  font-style:normal;
+  text-decoration:none;
+  text-align:center;
+  white-space: nowrap;
+}
+
+.constraintEditor .dgConstraintButton > svg {
+  stroke: #1A1A1A;
+  fill: #373737;
+  }
+
+.constraintEditor .dgConstraintButtonSelected > svg {
+  stroke: #1A1A1A;
+  fill: #262626;
+  }
+  
+.constraintEditor {
+  height: 120px;
+}
+
+.constraintEditorsHolder {
+  height: 24px;
+}
+
+.leftConstraintsSection, .rightConstraintsSection {
+  margin-top: -8px;
+}
+
+#flexGrowEditor, #flexShrinkEditor {
+  height: 22px;
+}
+
+.dgCornerButton {
+  cursor:default;
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #424242), color-stop(1, #373737) );
+  background:-moz-linear-gradient( center top, #424242 5%, #373737 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#424242', endColorstr='#373737');
+  background-color:#424242;
+  text-indent:0;
+  border:1px transparent #1a1a1a;
+  display:inline-block;
+  color:#dddddd;
+  font-family:arial;
+  font-size:11px;
+  font-weight:normal;
+  font-style:normal;
+  text-decoration:none;
+  text-align:center;
+  white-space: nowrap;
+}
+
+.dgCornerButton:hover {
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #373737), color-stop(1, #424242) );
+  background:-moz-linear-gradient( center top, #373737 5%, #424242 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#373737', endColorstr='#424242');
+  background-color:#373737;
+}
+.dgCornerButton:active, .dgCornerButtonSelected {
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #252525), color-stop(1, #1d1d1d) );
+  background:-moz-linear-gradient( center top, #252525 5%, #1d1d1d 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#252525', endColorstr='#1d1d1d');
+  background-color:#252525;
+}
+
+.constraintButtonsContainerSvg {
+  stroke:#1A1A1A;
+  fill:none;
+}
+
+/*remove 'blank first' line in form list element*/
+.dgFormListElement > select > optgroup[label] {
+    display:none;
+}
+
+
+input[type=text].ignoreDefaultStyle
+,input[type=password].ignoreDefaultStyle
+,input[type=number].ignoreDefaultStyle
+,input[type=date].ignoreDefaultStyle
+,input[type=month].ignoreDefaultStyle
+,input[type=week].ignoreDefaultStyle
+,input[type=color].ignoreDefaultStyle
+,input[type=email].ignoreDefaultStyle
+,input[type=url].ignoreDefaultStyle
+,input[type=tel].ignoreDefaultStyle
+,input[type=search].ignoreDefaultStyle
+,select.ignoreDefaultStyle
+,option.ignoreDefaultStyle
+,textArea.ignoreDefaultStyle {
+  -webkit-box-shadow: none;
+  box-shadow:none;
+  -moz-box-shadow:none;
+  background:rgba(0,0,0,0);
+  border:0;
+}
+
+#keepEqualPaddingsEditor {
+  margin-top: -9px;
+  margin-left: 14px;
+  height: 16px;
+}
+
+#equalPaddingsButton {
+  width:100%; 
+  height:10px;
+  padding-left:20px; 
+  padding-right:39px;
+}
+
+.listEditorWithGap > * {
+  margin-top: 5px;
+}
+
+.listEditorWithGap > *:first-child {
+  margin-top: 0px;
+}
+
+.fillStrokeSvgDiv {
+  box-shadow:3px 3px 2px #222222;
+  border-radius: 8px;
+}
+
+.fillStrokeSvgDivShadow {
+  box-shadow: -3px -3px 3px #222222; 
+  border-radius: 4px;
+  margin-top: 8px; 
+  margin-left: 8px;
+  position:absolute; 
+  width: 28px; 
+  height: 28px;
+}
+
+.smallFillDiv {
+  box-shadow:3px 3px 2px #222222; 
+  border-radius: 3px;
+}
+
+.colorDisplayDiv {
+  box-shadow: 3px 3px 2px #222222;
+}
+
+.helpContent > h1, .helpContent > p {
+color: #dddddd;
+}
+
+.fontFamilyEditor {
+  height: 18px;
+}
+
+div.piSectionHeaderTriangleClosedHolder {
+  content: 'M 0 0 V 8 L 8 4 L 0 0 Z';
+}
+
+div.piSectionHeaderTriangleOpenedHolder {
+  content: 'M 0 0 H 8 L 4 8 L 0 0 Z';
+}
+
+.dgIcon-icn-advanced-collapsed, .dgIcon-icn-advanced-opened {
+  left: 3px;
+  top: 1px;
+}
+
+#mainGroup, #normalMainGroup, #selectedMainGroup, #highlightedMainGroup, #titleMainGroup, #dowMainGroup, #weekendMainGroup, #outOfMonthMainGroup, #todayMainGroup,
+.piMainGroup {
+  margin-left: 5px;
+  padding-top: 6px;
+}
+
+.advancedPIContainer {
+  top: 23px;
+}
+
+div.advancedPIContainerTopHolder {
+  content: '23';
+}
+
+.piSectionHeader > .piSectionHeader {
+  padding-left: 0px;
+}
+
+.dropDownArrow {
+  margin-left: -12px;
+  margin-top: 4px;
+}
+
+.calloutEditorVRule {
+   border-left: 1px #A0A0A0 solid;
+}
+
+.calloutPositionPath {
+  stroke: #888888;
+}
+
+#centerButton {
+  border:1px solid #777777;
+}
+
+.paddingsBorders {
+  border-left: #999999 1px solid;
+}
+
+.paddingsBordersBottom {
+  border-top: solid 1px #999999;
+}
+
+.aspectRatioLineLeft {
+  border-left: solid 1px #999999; 
+  border-bottom: solid 1px #999999;
+}
+
+.aspectRatioLineRight {
+  border-right: solid 1px #999999; 
+  border-bottom: solid 1px #999999;
+}
+
+.gradientParametersDiv {
+  height: 22px;
+}
+
+svg.symbolPropertiesSectionSvg {
+  height: 100%;
+  width: 8px;
+  top: 5px;
+}
+
+.favoritesPopupDiv {
+  height: 217px;
+}
+
+.leftRadiusEditorsDiv, .rightRadiusEditorsDiv, .cornerRadiusEditorDiv {
+  margin-top: -1px;
+}
+
+.cornerRadiusEditor, .cornerRadiusUnitEditor, .topLeftRadiusEditor, .topLeftRadiusUnitEditor, .bottomLeftRadiusEditor, .bottomLeftRadiusUnitEditor,
+.topRightRadiusEditor, .topRightRadiusUnitEditor, .bottomRightRadiusEditor, .bottomRightRadiusUnitEditor {
+  height: 22px;
+}
+
+#calShowEditor, #calHideEditor {
+  height: 22px;
+}
+
+.pi_vertical_spacer {
+  height: 5px;
+}
+
+.dgShadowEditor {
+  height: 20px;
+}
+
+.editableEnumDiv {
+  color:#dddddd;
+  font-family:arial;
+  font-size:11px;
+  font-weight:normal;
+  font-style:normal;
+  text-decoration:none;
+  height: 18px;
+}
+
+.editableEnumDiv #dropButton {
+  width: 0px;
+  height: 16px;
+  right: 12px;
+}
+
+.editableEnumDiv input {
+  -moz-box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  -webkit-box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  box-shadow: 0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #424242), color-stop(1, #373737) );
+  background:-moz-linear-gradient( center top, #424242 5%, #373737 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#424242', endColorstr='#373737');
+  
+  background-color: #424242;
+  
+  -webkit-border-top-left-radius:3px;
+  -moz-border-radius-topleft:3px;
+  border-top-left-radius:3px;
+  -webkit-border-top-right-radius:3px;
+  -moz-border-radius-topright:3px;
+  border-top-right-radius:3px;
+  -webkit-border-bottom-right-radius:3px;
+  -moz-border-radius-bottomright:3px;
+  border-bottom-right-radius:3px;
+  -webkit-border-bottom-left-radius:3px;
+  -moz-border-radius-bottomleft:3px;
+  border-bottom-left-radius:3px;
+  
+  text-indent: 14px; 
+  border:1px solid #1a1a1a;
+
+  padding-top: 0px;
+  padding-bottom:0px;
+  
+  height: 16px;
+}
+
+.dgIcon-icn-pi-padding-left, .dgIcon-icn-pi-padding-right, .dgIcon-icn-pi-padding-top, .dgIcon-icn-pi-padding-bottom {
+  margin-top: 5px;
+}
+
+.cursorEditorDiv {
+  width: 30px; 
+  height: 25px;
+}
+
+.cursorEditorDiv > div {
+  width: 30px; 
+  height: 25px;
+}
+
+.dgTableEditor {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.actionParamsBox {
+  padding: 10px;
+  padding-left: 20px;
+  border-radius: 3px;
+  border: 1px solid #262626;
+}
+
+#findComponentButton {
+  height: 20px;
+}
+
+.color-picker-slider-canvas {
+  margin-top: 2px;
+}
+
+#rgbColorDiv, #hsvColorDiv {
+  height: 70px;
+}
+
+#sliderDiv {
+  height: 100px;
+}
+
+.dgTextEditor > .simpleTextEditor {
+  height: 100%;
+  width: 100%;
+}
+
+.dgTweenPropsEditorEditor > div {
+  height: 20px;
+}
+
+.dgToggleEditor #optionsContainer {
+  height: 30px;
+}
+
+#deleteColumnBtn {
+  display: flex; 
+  min-height: 20px; 
+  width: 100%; 
+  height: 100%;
+}
+
+.changeStateListGroup {
+  text-align: center;
+}
+
+.changeStateValueGroupLabel {
+  width: 30%;
+}
+
+.actionLabelDiv {
+  width: 60px;
+}
+
+.dgStateValueGroupEditor .stateValueRenderer {
+  height: auto;
+}
+
+#listGroup > .dgStateValueGroupEditor {
+  padding-bottom: 5px;
+}
+
+.dgRelativizeEditor {
+  height: 100%;
+}
+
+.dgBindingMapGrid {
+  height: 100%;
+  width: 100%;
+  overflow-x: visible;
+  overflow-y: auto;
+  margin-right: -1px;
+  margin-bottom: 25px;
+}
+
+.dgBindingMapGridBox {
+  height: 100%;
+  width: 280px;
+  margin: 10px 10px 0px 10px;
+  display: none;
+  padding-top: 34px;
+}
+
+.dgBindingMapOptions {
+  padding-top: 18px;
+}
+
+.selectAllBtnRelativizeDialog {
+  width: 60px;
+  margin-right: 4px;
+}
+
+.selectAbsoluteBtnRelativizeDialog {
+  width: 100px;
+  margin-right: 4px;
+}
+
+.relativizeBtnRelativizeDialog {
+  width: 60px;
+  margin-right: 4px;
+}
+
+.unrelativizeBtnRelativizeDialog {
+  width: 80px;
+  margin-right: 4px;
+}
+
+.relativizeDialogToolBar {
+  height: 24px;
+  padding: 2px;
+}
+
+.dgDateRangeValueEditor .daterangeButton {
+  display: flex; 
+  min-height: 22px; 
+  width: 100%;
+}
+
+.addEffectMenu > div {
+  white-space: pre;
+}
+
+#gradientRepeatEditor {
+  width: 60px;
+}
+
+.gradientShapeEditorContent {
+  overflow: hidden;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-top: 6px;
+  padding-bottom: 0px;
+}
+
+#favoritesBitmapButton {
+  top:-5px;
+  width:17px;
+  height:17px;
+}
+
+
+.favoritesListHolder {
+  overflow-x: hidden;
+  background-color: #333333; 
+}
+
+.favoritesList {
+  flex-wrap: wrap;
+}
+
+.favoritesListHolder div.itemRenderer,
+.favoritesListHolder div.itemRenderer.selected
+{
+  padding: 2px;
+  width: 24px;
+  height:24px;
+  color: #DDDDDD;
+}
+
+.favoritesListHolder div.textItemRenderer,
+.favoritesListHolder div.textItemRenderer.selected
+{
+  padding: 2px;
+  width: 44px;
+  height:24px;
+  color: #DDDDDD;
+  overflow: hidden;
+}
+
+.favoritesListHolder div.bitmapFavoritesItemRenderer,
+.favoritesListHolder div.bitmapFavoritesItemRenderer.selected
+{
+  padding: 2px;
+  width: 44px;
+  height:44px;
+  color: #DDDDDD;
+  overflow: hidden;
+}
+
+.favoritesListHolder div.scrollingFavoritesItemRenderer,
+.favoritesListHolder div.scrollingFavoritesItemRenderer.selected
+{
+  padding: 2px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+  width: 44px;
+  height:44px;
+  border: solid 1px #1a1a1a;
+}
+
+.favoritesListHolder .favoritesScrollingPreviewDivContent
+{
+  width: 88px;
+  height:88px;
+}
+
+.favoritesListHolder div.itemRenderer.selected,
+.favoritesListHolder div.bitmapFavoritesItemRenderer.selected,
+.favoritesListHolder div.textItemRenderer.selected,
+.favoritesListHolder div.scrollingFavoritesItemRenderer.selected
+{
+  padding: 2px;
+  background-color: rgba(48,161,184,0.5);
+  color: #FFFFFF;
+}
+
+.dgFavoritesDialogButton {
+  width: 16px;
+  height: 16px;
+}
+
+.dgStateEditor #recordButton {
+  width: 16px;
+}
+
+.dgStateEditor #enabledEditor {
+  width: 30px;
+}
+
+.bottomLeftRadiusEditorsDiv {
+  top: 22px;
+}
+
+.bottomRightRadiusEditorsDiv {
+  top: 22px;
+}
+
+.cornerEditorsDiv {
+  top: 5px;
+}
+
+.cornerRadiusEditorDiv .cornerRadiusEditor, .cornerRadiusEditorDiv .cornerRadiusUnitEditor {
+  top: 11px;
+}
+
+.showExtendedEditorButton {
+  cursor: pointer;
+  position: absolute;
+  opacity: 0.5;
+  visibility: hidden;
+}
+
+.showExtendedTextEditorButton {
+  width: 16px;
+  height: 16px;
+  top: 2px;
+  right: 17px;
+  bottom: auto;
+  left: auto;
+}
+
+.showExtendedTextAreaEditorButton {
+  width: 17px;
+  height: 17px;
+  top: auto;
+  right: auto;
+  bottom: 4px;
+  left: 1px;
+}
+
+.showExtendedTextEditorButtonChrome {
+  top: 0px;
+  margin-top: -1px;
+}
+
+.labelEditorDiv .showExtendedTextEditorButtonChrome {
+  top: 2px;
+}

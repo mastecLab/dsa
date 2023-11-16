@@ -1,0 +1,19 @@
+[2018-02-19 11:44:56.639433] == Executing C:\dsa\dglux-server\dslinks\Bacnet\bin\dslink-java-bacnet2.bat with arguments [--name, BACnet, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:64268/conn, --token, DiX8YX63cgXG1LVqWwOcDxM0Xy81GHx6QVbeMWlVkV0tChMT] (pid: 16160) ==
+[2018-02-19 11:44:57.797918] 2018-02-19 11:44:57.796 [Thread-2] WARN org.dsa.iot.dslink.serializer.SerializationManager - Unable to deserialize a configuration database
+[2018-02-19 11:44:57.797918] 2018-02-19 11:44:57.797 [Thread-2] INFO bacnet.Main - Initialized
+[2018-02-19 11:44:57.875966] 2018-02-19 11:44:57.874 [nioEventLoopGroup-2-2] INFO bacnet.Main - Connected
+[2018-02-19 11:45:22.668774] 2018-02-19 11:45:22.667 [Thread-16] INFO bacnet.BacnetConn - sent IAm - 1212
+[2018-02-19 11:45:52.478893] 2018-02-19 11:45:52.477 [pool-1-thread-1] WARN com.serotonin.bacnet4j.service.unconfirmed.IAmRequest - Error in device 1212 while discovering extended device information from 364001 at Address [networkNumber=0, macAddress=[1]]
+[2018-02-19 11:50:10.184571] 2018-02-19 11:50:10.183 [Thread-6] INFO bacnet.BacnetConn - sent IAm - 1212
+[2018-02-19 11:56:38.661263] 2018-02-19 11:56:38.661 [pool-2-thread-1] WARN com.serotonin.bacnet4j.service.unconfirmed.IAmRequest - Error in device 1212 while discovering extended device information from 364001 at Address [networkNumber=0, macAddress=[1]]
+[2018-02-19 11:59:46.984820] 2018-02-19 11:59:46.983 [Thread-30] INFO bacnet.BacnetConn - sent IAm - 1212
+[2018-02-19 12:03:45.160826] == Exited with status 1 ==
+[2018-02-19 12:03:45.160826] == Exited with status 1 ==
+[2018-02-19 12:03:45.160826] == Exited with status 1 ==
+[2018-02-19 12:05:01.225273] == Executing C:\dsa\dglux-server\dslinks\Bacnet\bin\dslink-java-bacnet.bat with arguments [--name, BACnet, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:64268/conn, --token, zwifA0j0HeN8rPeLiGsu9dFiddSMs4jnYX1ZQNX0v6i2zhv1] (pid: 20016) ==
+[2018-02-19 12:05:02.304037] 2018-02-19 12:05:02.303 [Thread-2] WARN org.dsa.iot.dslink.serializer.SerializationManager - Unable to deserialize a configuration database
+[2018-02-19 12:05:02.304037] 2018-02-19 12:05:02.304 [Thread-2] INFO bacnet.Main - Initialized
+[2018-02-19 12:05:02.367082] 2018-02-19 12:05:02.367 [nioEventLoopGroup-2-2] INFO bacnet.Main - Connected
+[2018-02-19 12:13:11.014506] == Exited with status 1 ==
+[2018-02-19 12:13:11.014506] == Exited with status 1 ==
+[2018-02-19 12:13:11.014506] == Exited with status 1 ==

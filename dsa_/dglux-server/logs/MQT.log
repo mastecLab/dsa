@@ -1,0 +1,5 @@
+[2019-03-09 09:37:13.660854] == Executing C:\dsa\dglux-server\dslinks\MQT\bin\dslink-java-mqtt.bat with arguments [--name, mqtt, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:63036/conn, --token, U5OHpycwBQTDOBboK6o0rAhuuEtmZli3l8tG68lBgewEtOPa] (pid: 13056) ==
+[2019-03-09 09:37:17.512492] 2019-03-09 09:37:17.510 [Thread-2] WARN org.dsa.iot.dslink.serializer.SerializationManager - Unable to deserialize a configuration database
+[2019-03-09 09:37:17.528482] 2019-03-09 09:37:17.528 [Thread-2] INFO org.dsa.iot.mqtt.Main - Initialized
+[2019-03-09 09:37:17.572457] 2019-03-09 09:37:17.571 [nioEventLoopGroup-2-2] INFO org.dsa.iot.mqtt.Main - Connected
+[2019-03-09 11:36:39.026742] == Exited with status 1 ==

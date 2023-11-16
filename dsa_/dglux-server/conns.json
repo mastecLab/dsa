@@ -1,0 +1,34 @@
+{
+  "Earthquakes": {
+    "$is": "dsa/link",
+    "$$dsId": "Earthquakes-NkeJGxFxZnw0_iGPI592HCjyBbgwT597p_uCA--FbMo"
+  },
+  "Mailer": {
+    "$is": "dsa/link",
+    "$$dsId": "Mailer-SP9-o0UadK_g4vAboTNCD-RjD_n9mvpeaaD9w7xxa6k"
+  },
+  "enOcean": {
+    "$is": "dsa/link",
+    "$$dsId": "enOcean-R0_-0QfVkzM0fqf7g6wEFILi6z-mHZc2sNs3iULu_ws"
+  },
+  "Weather": {
+    "$is": "dsa/link",
+    "$$dsId": "Weather-SsNgsaf098woevNVqAXx7UWxK4Hz7n_Oh5Mra9t1YLc"
+  },
+  "etsdb-G": {
+    "$is": "dsa/link",
+    "$$dsId": "etsdb-GTMoXTLVH4MhOy0Jm9cprKyjEbjKGLgdAVA8tBbE-_s"
+  },
+  "mqtt-H": {
+    "$is": "dsa/link",
+    "$$dsId": "mqtt-H1qQSKA4GsloaX23zpS_ntStzG0w7GpiyE6I-ChqSfw"
+  },
+  "WeMo": {
+    "$is": "dsa/link",
+    "$$dsId": "WeMo-76VF9yAtjJxNTAci1yYTdVbqJ_wDNmBVq3bmuUzua-Y"
+  },
+  "dataflow": {
+    "$is": "dsa/link",
+    "$$dsId": "dataflow-5vq1jjAwoaeZCPJY2lqA9ODcHrOCzoZzK4cP_MSKh6E"
+  }
+}

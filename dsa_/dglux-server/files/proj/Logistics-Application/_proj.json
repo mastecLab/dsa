@@ -1,0 +1,13 @@
+{
+  "name": "Logistics Application",
+  "owner": "dgSuper",
+  "canRead": [
+    "dgjulian",
+    "guest"
+  ],
+  "canWrite": [],
+  "isTemplate": false,
+  "category": null,
+  "description": "",
+  "version": ""
+}

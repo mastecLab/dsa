@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+</head>
+<body>
+<script>
+    var CLIENT_ID = "{{ID}}";
+    var SESSION_STATE = "{{SS}}";
+    var TARGET_ORIGIN = "{{TO}}";
+
+    function SessionManager(cid, state) {
+        this.clientId = cid;
+        this.sessionState = state;
+        var frame = window.parent.document.getElementById("oidcSession");
+        if (frame !== null) {
+            this.win = frame.contentWindow;
+        } else {
+            this.win = null;
+        }
+
+        this.receive = function(e) {
+            if (e.origin !== TARGET_ORIGIN) {
+                console.warn("Origin: '" + e.origin + "' does not match expected. Discarding message");
+                return;
+            }
+
+            var state = e.data;
+            if (state === "changed" || state === "error") {
+                window.parent.location.href = "/logout";
+            }
+        };
+
+        this.timer = function() {
+            var that = this;
+            that.timerId = setInterval(function() { that.postSession(); }, 10000);
+        };
+
+        this.postSession = function() {
+            if (this.win === null) {
+                console.warn("Unable to locate oidc session frame. Can't check status.");
+                if (this.timerId !== null && this.timerId !== undefined) {
+                    clearInterval(this.timerId);
+                    this.timerId = null;
+                }
+                return;
+            }
+
+            var mess = this.clientId + " " + this.sessionState;
+            this.win.postMessage(mess, TARGET_ORIGIN);
+        };
+    }
+
+    var sm = new SessionManager(CLIENT_ID, SESSION_STATE);
+    sm.timer();
+
+    window.addEventListener("message", sm.receive);
+</script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "dist": "dglux_server",
+  "platform": "windows-x64",
+  "platformType": "windows",
+  "links": [
+    {
+      "name": "dslink-java-bacnet",
+      "language": "Java",
+      "category": "Data Acquisition",
+      "revision": "633c225b5967d63faafd5cc037911aba2ec2f557"
+    }
+  ],
+  "revision": 1082,
+  "checked": true
+}

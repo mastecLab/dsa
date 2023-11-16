@@ -1,0 +1,431 @@
+[2020-03-10 21:13:28.306771] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:51769/conn, --token, YiKV0NhcPDBYTNj5RX5dbU8RisGZ8TzCaDKr059XzGEi1Vrl] (pid: 15152) ==
+[2020-03-10 21:13:31.124314] [INFO][DSA] Connecting to http://127.0.0.1:51769/conn
+[2020-03-10 21:13:31.812140] [INFO][DSA] Connected
+[2020-03-10 21:13:40.002918] Updating Devices...
+[2020-03-10 21:13:41.538588] Discovered Device: Sala
+[2020-03-10 21:13:41.550585] Added Device Socket-1_0-221229K01006CD
+[2020-03-10 21:13:51.041468] Devices Updated.
+[2020-08-18 15:33:50.132827] == Executing D:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:56807/conn, --token, F5qeMwjAb1jRiZUPSI957B35lLKaEKpKmLLs1o55Zle49VfO] (pid: 11328) ==
+[2020-08-18 15:33:51.358693] [INFO][DSA] Connecting to http://127.0.0.1:56807/conn
+[2020-08-18 15:33:51.524812] [INFO][DSA] Connected
+[2020-08-18 15:36:32.110964] == Exited with status -1073741510 ==
+[2020-08-18 15:36:32.110964] == Exited with status -1073741510 ==
+[2020-08-18 15:36:43.970448] == Executing D:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:56879/conn, --token, qTyFhJZ2KTMHqzpl92jqGvfKospEwFfhqNQz973HENisTKOc] (pid: 12340) ==
+[2020-08-18 15:36:44.443781] [INFO][DSA] Connecting to http://127.0.0.1:56879/conn
+[2020-08-18 15:36:44.767010] [INFO][DSA] Connected
+[2020-08-18 15:37:11.344504] == Executing D:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:56909/conn, --token, 086dEAp2BrPm7CBxC9ctsri3KN56sZSeLa46T9bz5EatorAd] (pid: 10808) ==
+[2020-08-18 15:37:11.926915] [INFO][DSA] Connecting to http://127.0.0.1:56909/conn
+[2020-08-18 15:37:12.246141] [INFO][DSA] Connected
+[2020-08-18 15:45:25.863906] == Executing D:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:57204/conn, --token, JfxA1NgeJFGq6NyoaePJs2sMo8ChKPyznrYCNYLOoviEVEy7] (pid: 7636) ==
+[2020-08-18 15:45:26.427304] [INFO][DSA] Connecting to http://127.0.0.1:57204/conn
+[2020-08-18 15:45:26.756537] [INFO][DSA] Connected
+[2020-08-18 15:51:23.572515] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:57370/conn, --token, DYSXRpwTgKJica7jNpkk2OBFFuPOtE3jJLoGj75hOCtmsGAk] (pid: 6676) ==
+[2020-08-18 15:51:24.163488] [INFO][DSA] Connecting to http://127.0.0.1:57370/conn
+[2020-08-18 15:51:24.642826] [INFO][DSA] Connected
+[2020-08-18 15:54:29.264750] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:57502/conn, --token, lNUlnDF7rs8XIqtH7LiiBFYud67YXkh9RwhiUhIXe20HRubD] (pid: 684) ==
+[2020-08-18 15:54:29.864751] [INFO][DSA] Connecting to http://127.0.0.1:57502/conn
+[2020-08-18 15:54:30.479686] [INFO][DSA] Connected
+[2020-08-18 15:55:59.971680] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:57610/conn, --token, 3crQOSkD3GQ9Oinkw0HGkQaM5Mp8BF1ZBcqlxS9zmhhaPlKO] (pid: 11716) ==
+[2020-08-18 15:56:00.562647] [INFO][DSA] Connecting to http://127.0.0.1:57610/conn
+[2020-08-18 15:56:01.145059] [INFO][DSA] Connected
+[2020-08-18 17:02:58.546409] [INFO][DSA] Disconnected
+[2020-08-18 17:02:58.751055] [INFO][DSA] Connected
+[2020-08-19 00:07:05.562913] [INFO][DSA] Disconnected
+[2020-08-19 00:07:05.907163] [INFO][DSA] Connected
+[2020-08-25 18:51:27.697089] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:50550/conn, --token, kX92CEaYWstfG8ZwLD2mvLKIXO8GOWjzslrjmYTjpUbwozdx] (pid: 13924) ==
+[2020-08-25 18:51:30.908358] [INFO][DSA] Connecting to http://127.0.0.1:50550/conn
+[2020-08-25 18:51:31.172544] [INFO][DSA] Connected
+[2020-08-26 00:20:08.828962] [INFO][DSA] Disconnected
+[2020-08-26 00:20:12.763743] [INFO][DSA] Connected
+[2020-08-31 16:14:34.138138] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:54415/conn, --token, 6KTekxD444No3IQWACbl8H3T5pXyF3OcFLCRPWht3vyDQbi7] (pid: 10924) ==
+[2020-08-31 16:14:35.513110] [INFO][DSA] Connecting to http://127.0.0.1:54415/conn
+[2020-08-31 16:14:35.660215] [INFO][DSA] Connected
+[2020-09-01 15:25:18.955169] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:52934/conn, --token, S3A4AwYlu6kDcyVNds08g68jEHKIYwKM4O7lYK0jYkGtLA7k] (pid: 5596) ==
+[2020-09-01 15:25:20.270096] [INFO][DSA] Connecting to http://127.0.0.1:52934/conn
+[2020-09-01 15:25:20.407193] [INFO][DSA] Connected
+[2020-09-01 18:13:45.632237] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:57585/conn, --token, yPNuYAnGI66YhR8net1XBzMWNU0YCL9qjMML3yNpW9evlD4J] (pid: 9904) ==
+[2020-09-01 18:13:46.659963] [INFO][DSA] Connecting to http://127.0.0.1:57585/conn
+[2020-09-01 18:13:47.580612] [INFO][DSA] Connected
+[2020-09-01 18:13:53.767978] == Exited with status -1073741510 ==
+[2020-09-01 18:13:53.767978] == Exited with status -1073741510 ==
+[2020-09-01 18:14:00.089440] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:57720/conn, --token, il91Uo0XmZ5fdCa8OpuJwyiZBnhH3IYccc3j69WTslKwXdPb] (pid: 13440) ==
+[2020-09-01 18:14:01.026103] [INFO][DSA] Connecting to http://127.0.0.1:57720/conn
+[2020-09-01 18:14:01.425383] [INFO][DSA] Connected
+[2020-09-01 18:14:29.659308] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:57845/conn, --token, PB58eqhyfbo1HUO6lbpay1YRJOOYvCwPBgMrcVStcMASQdce] (pid: 11992) ==
+[2020-09-01 18:14:30.480887] [INFO][DSA] Connecting to http://127.0.0.1:57845/conn
+[2020-09-01 18:14:31.629698] [INFO][DSA] Connected
+[2020-09-02 18:20:10.700781] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:50028/conn, --token, JMAup8RaL4EbhM7LxLtpcHGH73qUsjGaliykZ7EL7UlUTBY5] (pid: 6704) ==
+[2020-09-02 18:20:12.094766] [INFO][DSA] Connecting to http://127.0.0.1:50028/conn
+[2020-09-02 18:20:12.291905] [INFO][DSA] Connected
+[2020-09-02 23:13:33.921376] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:53012/conn, --token, faymGDmfQdUj8EkfZVAIf3Yg0XOGwK23X1Sb3yn7DMw7Zf69] (pid: 10928) ==
+[2020-09-02 23:13:35.504101] [INFO][DSA] Connecting to http://127.0.0.1:53012/conn
+[2020-09-02 23:13:35.681226] [INFO][DSA] Connected
+[2020-09-03 04:30:06.577821] [INFO][DSA] Disconnected
+[2020-09-03 04:30:06.893588] [INFO][DSA] Connected
+[2020-09-03 08:39:36.950061] [INFO][DSA] Disconnected
+[2020-09-03 08:40:11.046775] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:61336/conn, --token, xCqLL6aYf66RUkVuwxfzQTAV92G5aAHXHQC3QPUguEMqH7L8] (pid: 6960) ==
+[2020-09-03 08:40:12.366707] [INFO][DSA] Connecting to http://127.0.0.1:61336/conn
+[2020-09-03 08:40:12.495798] [INFO][DSA] Connected
+[2020-09-03 20:26:17.661272] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:52677/conn, --token, uxj2iDpEHmJYeLTtQW6nGUdXcYPOUWN1HnXL159FY82gvkKX] (pid: 18448) ==
+[2020-09-03 20:26:18.851126] [INFO][DSA] Connecting to http://127.0.0.1:52677/conn
+[2020-09-03 20:26:19.040246] [INFO][DSA] Connected
+[2020-09-04 13:37:51.374353] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:51394/conn, --token, OjYjztCiX7M7SNu7sI8KERFM5g50oRYpvbO49J9QwEFdOfr3] (pid: 408) ==
+[2020-09-04 13:37:52.366051] [INFO][DSA] Connecting to http://127.0.0.1:51394/conn
+[2020-09-04 13:37:52.525162] [INFO][DSA] Connected
+[2020-09-04 15:20:52.599776] [INFO][DSA] Disconnected
+[2020-09-04 15:20:52.787913] [INFO][DSA] Connected
+[2020-09-04 21:35:19.934418] [INFO][DSA] Disconnected
+[2020-09-04 21:35:20.047498] [INFO][DSA] Connected
+[2020-09-04 22:28:16.541473] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:60156/conn, --token, Ox2jMHeatuqdShDrd2vAIq1ZGnF3ic6lXnizzjiELCm0lXBL] (pid: 10640) ==
+[2020-09-04 22:28:17.201939] [INFO][DSA] Connecting to http://127.0.0.1:60156/conn
+[2020-09-04 22:28:17.431100] [INFO][DSA] Connected
+[2020-09-04 22:29:38.845524] Updating Devices...
+[2020-09-04 22:29:49.866298] Devices Updated.
+[2020-09-04 22:29:51.151205] Updating Devices...
+[2020-09-04 22:30:01.153259] Devices Updated.
+[2020-09-04 22:30:02.877474] Updating Devices...
+[2020-09-04 22:30:12.715417] Discovery tick made, but we are still discovering.
+[2020-09-04 22:30:12.879528] Devices Updated.
+[2020-09-04 22:30:17.227609] Updating Devices...
+[2020-09-04 22:30:27.229651] Devices Updated.
+[2020-09-04 22:30:57.231812] Updating Devices...
+[2020-09-04 22:31:07.233867] Devices Updated.
+[2020-09-04 22:31:37.234171] Updating Devices...
+[2020-09-04 22:31:47.236226] Devices Updated.
+[2020-09-04 22:32:17.238387] Updating Devices...
+[2020-09-04 22:32:27.240459] Devices Updated.
+[2020-09-04 22:32:57.242603] Updating Devices...
+[2020-09-04 22:33:01.190388] Discovery tick made, but we are still discovering.
+[2020-09-04 22:33:07.243657] Devices Updated.
+[2020-09-04 22:33:28.883922] Updating Devices...
+[2020-09-04 22:33:38.884974] Devices Updated.
+[2020-09-04 22:34:00.310085] == Exited with status 1 ==
+[2020-09-04 22:34:00.310085] == Exited with status 1 ==
+[2020-09-04 22:34:00.310085] == Exited with status 1 ==
+[2020-09-04 22:34:05.012404] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:60156/conn, --token, Ox2jMHeatuqdShDrd2vAIq1ZGnF3ic6lXnizzjiELCm0lXBL] (pid: 2368) ==
+[2020-09-04 22:34:05.286596] [INFO][DSA] Connecting to http://127.0.0.1:60156/conn
+[2020-09-04 22:34:05.405680] [INFO][DSA] Connected
+[2020-09-04 22:34:25.371763] Updating Devices...
+[2020-09-04 22:34:35.300767] Discovery tick made, but we are still discovering.
+[2020-09-04 22:34:36.401543] Devices Updated.
+[2020-09-04 22:34:40.082155] Updating Devices...
+[2020-09-04 22:34:50.085223] Devices Updated.
+[2020-09-04 22:35:05.302957] Updating Devices...
+[2020-09-04 22:35:15.306012] Devices Updated.
+[2020-09-04 22:35:45.308174] Updating Devices...
+[2020-09-04 22:35:55.310228] Devices Updated.
+[2020-09-04 22:35:56.032733] Updating Devices...
+[2020-09-04 22:36:06.034792] Devices Updated.
+[2020-09-04 22:36:25.311389] Updating Devices...
+[2020-09-04 22:36:28.216427] Discovery tick made, but we are still discovering.
+[2020-09-04 22:36:35.312443] Devices Updated.
+[2020-09-04 22:36:57.009735] Updating Devices...
+[2020-09-04 22:37:05.314605] Discovery tick made, but we are still discovering.
+[2020-09-04 22:37:07.010800] Devices Updated.
+[2020-09-04 22:37:12.465647] == Exited with status 1 ==
+[2020-09-04 22:37:12.465647] == Exited with status 1 ==
+[2020-09-04 22:37:12.465647] == Exited with status 1 ==
+[2020-09-09 21:11:48.493727] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:55229/conn, --token, 5C0Fw4mSBQFzPJmJhLLBbkQMhMGJikqUFDUI2Puf5pKlHV3P] (pid: 20180) ==
+[2020-09-09 21:11:49.991770] [INFO][DSA] Connecting to http://127.0.0.1:55229/conn
+[2020-09-09 21:11:50.112855] [INFO][DSA] Connected
+[2020-09-09 21:11:57.803279] Updating Devices...
+[2020-09-09 21:11:59.225297] Discovered Device: Sala
+[2020-09-09 21:11:59.227284] Added Device Socket-1_0-221229K01006CD
+[2020-09-09 21:11:59.444449] Discovered Device: Comedor
+[2020-09-09 21:11:59.444449] Added Device Socket-1_0-221247K01018FC
+[2020-09-09 21:12:08.837069] Devices Updated.
+[2020-09-10 00:06:04.845486] == Exited with status -1073741510 ==
+[2020-09-10 00:06:04.845486] == Exited with status -1073741510 ==
+[2020-09-10 00:06:04.845486] == Exited with status -1073741510 ==
+[2020-09-10 00:06:15.312003] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:59846/conn, --token, OeHlipD3xWLQV2agHcOXgLJS6IDYak4EdglpZ7RqLbqKe5i2] (pid: 19748) ==
+[2020-09-10 00:06:18.788455] [INFO][DSA] Connecting to http://127.0.0.1:59846/conn
+[2020-09-10 00:06:19.048638] [INFO][DSA] Connected
+[2020-09-10 00:06:25.018849] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:59903/conn, --token, hOQN4cT7yVRmhnBdbsk358SnIJktiDVLHrEVDRecUo94tvtm] (pid: 26440) ==
+[2020-09-10 00:06:25.599829] [INFO][DSA] Connecting to http://127.0.0.1:59903/conn
+[2020-09-10 00:06:26.229773] [INFO][DSA] Connected
+[2020-09-10 00:17:35.581874] [INFO][DSA] Disconnected
+[2020-09-10 00:17:35.729978] [INFO][DSA] Connected
+[2020-09-10 00:23:00.470638] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:56702/conn, --token, rQp4Ac3VktHzvZHz2mLWwIo8D1PJarCwuXBJwkbD8E6rE5gM] (pid: 25304) ==
+[2020-09-10 00:23:01.237733] [INFO][DSA] Connecting to http://127.0.0.1:56702/conn
+[2020-09-10 00:23:01.856170] [INFO][DSA] Connected
+[2020-09-10 00:27:50.512800] Updating Devices...
+[2020-09-10 00:27:51.857735] Discovered Device: Sala
+[2020-09-10 00:27:51.859737] Added Device Socket-1_0-221229K01006CD
+[2020-09-10 00:27:52.076892] Discovered Device: Comedor
+[2020-09-10 00:27:52.076892] Added Device Socket-1_0-221247K01018FC
+[2020-09-10 00:28:01.534561] Devices Updated.
+[2020-09-10 00:29:01.857395] [INFO][DSA] Disconnected
+[2020-09-10 00:29:31.985569] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:59643/conn, --token, tLtxmFup5BFUJQXOS9jvR9Y4FXrdZMN2dXLLhW7fpLev5aZL] (pid: 18584) ==
+[2020-09-10 00:29:32.985327] [INFO][DSA] Connecting to http://127.0.0.1:59643/conn
+[2020-09-10 00:29:33.782390] [INFO][DSA] Connected
+[2020-09-10 21:35:29.702054] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:54636/conn, --token, Uq2X0FPYLPEknDxN2rRhiKhzAh8jXPTrjcY8rwOYAmrEnFTt] (pid: 11440) ==
+[2020-09-10 21:35:30.680744] [INFO][DSA] Connecting to http://127.0.0.1:54636/conn
+[2020-09-10 21:35:30.954937] [INFO][DSA] Connected
+[2020-09-10 21:59:40.874583] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:58990/conn, --token, 9MHF6TQgM3xwRyE2R1rBzwWDw89vqTC1jpq2sfBk2fCjlobo] (pid: 2684) ==
+[2020-09-10 21:59:41.715733] [INFO][DSA] Connecting to http://127.0.0.1:58990/conn
+[2020-09-10 21:59:42.900069] [INFO][DSA] Connected
+[2020-09-10 22:27:41.820616] Updating Devices...
+[2020-09-10 22:27:50.846703] Discovery tick made, but we are still discovering.
+[2020-09-10 22:27:52.843110] Devices Updated.
+[2020-09-10 22:28:23.902457] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:63123/conn, --token, Pxc7J5CmrGUq3U9MoeCKHnyD9tvXy9csnvWXvCn1ynaSWnxh] (pid: 4156) ==
+[2020-09-10 22:28:24.539456] [INFO][DSA] Connecting to http://127.0.0.1:63123/conn
+[2020-09-10 22:28:24.559471] Updating Devices...
+[2020-09-10 22:28:25.230444] [INFO][DSA] Connected
+[2020-09-10 22:28:35.644399] Devices Updated.
+[2020-09-10 22:28:45.450345] Updating Devices...
+[2020-09-10 22:28:54.565075] Discovery tick made, but we are still discovering.
+[2020-09-10 22:28:55.450697] Devices Updated.
+[2020-09-10 22:29:04.268266] Updating Devices...
+[2020-09-10 22:29:14.269123] Devices Updated.
+[2020-09-10 22:29:24.567104] Updating Devices...
+[2020-09-10 22:29:30.044349] Discovery tick made, but we are still discovering.
+[2020-09-10 22:29:34.567539] Devices Updated.
+[2020-09-10 22:30:04.568932] Updating Devices...
+[2020-09-10 22:30:12.405530] Discovery tick made, but we are still discovering.
+[2020-09-10 22:30:14.570567] Devices Updated.
+[2020-09-10 22:31:29.093937] == Exited with status -1073741510 ==
+[2020-09-10 22:31:29.093937] == Exited with status -1073741510 ==
+[2020-09-10 22:31:34.550494] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:63373/conn, --token, 7YRyLWw1aY3LirqCYfhWcWOrPCYGVurr7ZktAOuWjdnu1Fwe] (pid: 14240) ==
+[2020-09-10 22:31:35.171484] [INFO][DSA] Connecting to http://127.0.0.1:63373/conn
+[2020-09-10 22:31:35.854466] [INFO][DSA] Connected
+[2020-09-15 16:03:08.236728] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:52692/conn, --token, tytcjPvIoj5T6Y4WniWz5M59ZZmYHtlKFhPEdhySM1SyaFs5] (pid: 11784) ==
+[2020-09-15 16:03:09.656731] [INFO][DSA] Connecting to http://127.0.0.1:52692/conn
+[2020-09-15 16:03:09.800833] [INFO][DSA] Connected
+[2020-09-15 17:44:27.169574] Updating Devices...
+[2020-09-15 17:44:29.261039] Discovered Device: Sala
+[2020-09-15 17:44:29.263039] Added Device Socket-1_0-221229K01006CD
+[2020-09-15 17:44:29.504211] Discovered Device: Comedor
+[2020-09-15 17:44:29.504211] Added Device Socket-1_0-221247K01018FC
+[2020-09-15 17:44:38.454820] Devices Updated.
+[2020-09-15 17:51:41.478939] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 17:51:46.484474] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 18:02:54.051581] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 18:02:55.522635] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 18:02:59.056116] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 18:03:00.527153] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 18:14:35.313753] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 18:14:35.369793] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 18:14:40.317286] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 18:14:40.374327] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 18:14:48.168831] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 18:14:49.582828] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 18:14:53.172363] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 18:14:54.588363] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 18:19:34.369929] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 18:19:39.328430] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 18:52:52.293520] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 18:52:52.481654] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 18:52:57.298054] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 18:52:57.485186] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 18:53:03.487425] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 18:53:05.170613] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 18:53:08.490958] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 18:53:10.172143] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 18:53:30.690634] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 18:53:34.678449] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 18:53:35.695167] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 18:53:39.681981] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 18:53:41.698406] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 18:53:45.684220] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 18:53:46.703939] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 18:53:50.686755] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 18:53:52.707178] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 18:53:56.688990] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 18:53:57.709710] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 18:54:01.693628] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 19:13:54.482880] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 19:13:54.483880] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 19:13:59.486401] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 19:13:59.486401] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 19:21:10.578800] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 19:21:10.585806] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 19:21:15.583348] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 19:21:15.590353] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 19:21:21.587574] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 19:21:21.594579] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 19:21:26.594109] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 19:21:26.598112] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 19:21:32.598348] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 19:21:33.640087] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 19:21:37.600895] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 19:21:38.642630] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 19:21:43.603120] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 19:21:48.605653] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 19:23:37.557586] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 19:23:37.681672] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 19:23:42.562117] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 19:23:42.685218] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 19:24:02.215997] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 19:24:03.772097] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 19:24:07.220529] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 19:24:08.776630] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 19:24:19.017859] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 19:24:19.526219] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 19:24:24.021394] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 19:24:24.529752] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 19:25:14.891312] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 19:25:17.046835] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 19:25:19.904866] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 19:25:22.050368] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 19:29:41.510222] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 19:29:42.337794] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 19:29:46.513755] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 19:29:47.341330] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 19:30:10.738849] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 19:30:10.778877] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 19:30:15.742381] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 19:30:15.782415] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 19:30:43.259823] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 19:30:45.675518] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 19:30:48.263357] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 19:30:50.680061] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 19:38:44.241588] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 19:38:44.559825] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 19:38:49.245122] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 19:38:49.564345] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 19:43:31.713773] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 19:43:32.690479] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 19:43:36.717319] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 19:43:37.692995] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 19:43:42.720558] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 19:43:43.695232] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 19:43:47.723158] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 19:43:48.698393] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 19:49:50.626091] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 19:49:55.629629] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 19:50:55.636997] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 19:50:57.618396] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 19:51:00.640529] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 19:51:02.622931] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 23:33:24.876068] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 23:33:25.110234] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 23:33:30.524205] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 23:33:30.524205] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 23:38:53.344440] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 23:38:53.352445] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 23:38:58.362996] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 23:38:58.366998] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 23:39:16.565081] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 23:39:16.581093] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-15 23:39:21.576633] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-15 23:39:21.583638] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-15 23:39:48.424587] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-15 23:39:53.428124] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-16 04:02:28.472411] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-16 04:02:29.129656] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-16 04:02:45.134076] [INFO][DSA] Disconnected
+[2020-09-16 04:02:51.563583] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-16 04:02:51.563583] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-16 04:03:00.168896] [INFO][DSA] Connected
+[2020-09-16 08:14:07.818678] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-16 08:14:12.183887] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-16 08:14:12.183887] [INFO][DSA] Disconnected
+[2020-09-16 08:14:12.183887] [INFO][DSA] Connected
+[2020-09-16 08:14:12.184878] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-16 08:14:12.184878] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-16 08:14:18.868172] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-16 08:14:19.228427] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-16 08:14:23.871648] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-16 08:14:24.231902] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-16 08:14:29.874328] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-16 08:14:30.233831] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-16 08:14:34.895795] Reconnection Failed for Socket-1_0-221229K01006CD
+[2020-09-16 08:14:42.088886] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-16 11:20:37.369501] Attempting Reconnection to Socket-1_0-221247K01018FC
+[2020-09-16 11:20:37.372504] Attempting Reconnection to Socket-1_0-221229K01006CD
+[2020-09-16 11:20:37.372504] [INFO][DSA] Disconnected
+[2020-09-16 11:20:45.634182] Reconnection Failed for Socket-1_0-221247K01018FC
+[2020-09-16 11:20:45.634182] Reconnection Failed for Socket-1_0-221229K01006CD
+                                                                                                                                                                    [2020-09-18 09:23:13.288997] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:55271/conn, --token, aM0ELMA6ErQB059vm9kVUcgbpdN4ayZYzUAI9HJ96SL6JXqg] (pid: 13608) ==
+[2020-09-18 09:23:14.498866] [INFO][DSA] Connecting to http://127.0.0.1:55271/conn
+[2020-09-18 09:23:14.638966] [INFO][DSA] Connected
+[2020-09-21 09:58:59.680808] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:56845/conn, --token, 11tPToa4YGdmLwjWA1F2oOWT2mQ3fc4vNVMJZzZ2PfCTEriB] (pid: 5072) ==
+[2020-09-21 09:59:02.325681] [INFO][DSA] Connecting to http://127.0.0.1:56845/conn
+[2020-09-21 09:59:02.516817] [INFO][DSA] Connected
+[2020-09-22 18:08:01.485054] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:54278/conn, --token, 3iRJBKg8VMUXq2THWnQllb1QY9NdBxNFpb5jeE7V3SsT4OH2] (pid: 4480) ==
+[2020-09-22 18:08:03.190259] [INFO][DSA] Connecting to http://127.0.0.1:54278/conn
+[2020-09-22 18:08:03.461452] [INFO][DSA] Connected
+[2020-09-30 13:41:26.150565] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:53562/conn, --token, YyDdHSsIg3IdeGIDPIZp77GXjtHKuR3OWqsoDGwO2CYuV4Ee] (pid: 12200) ==
+[2020-09-30 13:41:27.306380] [INFO][DSA] Connecting to http://127.0.0.1:53562/conn
+[2020-09-30 13:41:27.511524] [INFO][DSA] Connected
+[2020-09-30 15:41:11.574784] [INFO][DSA] Disconnected
+[2020-09-30 15:41:11.706876] [INFO][DSA] Connected
+[2020-10-06 16:36:52.271651] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:53033/conn, --token, xCkZXFFAWpUJ4yNJrUurHguu4FTqM9MaVpNfVTC0uBRyGZqc] (pid: 14948) ==
+[2020-10-06 16:36:54.262056] [INFO][DSA] Connecting to http://127.0.0.1:53033/conn
+[2020-10-06 16:36:54.462198] [INFO][DSA] Connected
+[2020-10-06 18:13:56.467394] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:49934/conn, --token, JxwOb4hSzdrKRmwrZpA5eKiwkaGwGYCgRkmCQUs0nYme4o7W] (pid: 12652) ==
+[2020-10-06 18:13:57.481109] [INFO][DSA] Connecting to http://127.0.0.1:49934/conn
+[2020-10-06 18:13:57.796331] [INFO][DSA] Connected
+[2020-10-06 18:16:51.723528] == Exited with status -1073741510 ==
+[2020-10-06 18:16:51.723528] == Exited with status -1073741510 ==
+[2020-10-06 18:16:57.796812] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:50192/conn, --token, KJOt0ww4QvhqlYdTfbHGRuWgPRAx0dhqMdL2quqs70Naj0gB] (pid: 4700) ==
+[2020-10-06 18:16:58.550344] [INFO][DSA] Connecting to http://127.0.0.1:50192/conn
+[2020-10-06 18:16:59.092726] [INFO][DSA] Connected
+[2020-10-06 18:19:21.126333] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:50391/conn, --token, SU7KzfiR1AVeGis6dqROrPVlK6g3jX0lI3gy2ahNCc2bP8Kp] (pid: 13808) ==
+[2020-10-06 18:19:21.998949] [INFO][DSA] Connecting to http://127.0.0.1:50391/conn
+[2020-10-06 18:19:22.980640] [INFO][DSA] Connected
+[2020-10-06 19:54:24.321541] Updating Devices...
+[2020-10-06 19:54:35.343467] Devices Updated.
+[2020-10-06 19:54:37.131727] Updating Devices...
+[2020-10-06 19:54:47.133801] Devices Updated.
+[2020-10-06 21:19:03.864894] Updating Devices...
+[2020-10-06 21:19:13.866951] Devices Updated.
+[2020-10-06 21:21:06.001040] == Exited with status 1 ==
+[2020-10-06 21:21:06.001040] == Exited with status 1 ==
+[2020-10-06 21:21:06.001040] == Exited with status 1 ==
+[2020-10-06 21:21:08.322678] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:50391/conn, --token, SU7KzfiR1AVeGis6dqROrPVlK6g3jX0lI3gy2ahNCc2bP8Kp] (pid: 8628) ==
+[2020-10-06 21:21:08.876068] [INFO][DSA] Connecting to http://127.0.0.1:50391/conn
+[2020-10-06 21:21:09.108232] [INFO][DSA] Connected
+[2020-10-06 21:21:24.829320] Updating Devices...
+[2020-10-06 21:21:35.868106] Devices Updated.
+[2020-10-06 21:21:38.899245] Updating Devices...
+[2020-10-06 21:21:41.113809] Discovery tick made, but we are still discovering.
+[2020-10-06 21:21:48.900298] Devices Updated.
+[2020-10-06 21:21:58.565115] Updating Devices...
+[2020-10-06 21:22:08.566169] Devices Updated.
+[2020-10-06 21:58:09.905856] Updating Devices...
+[2020-10-06 21:58:19.907910] Devices Updated.
+[2020-10-07 15:01:55.324285] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:60037/conn, --token, xiyqkUR6LuYtGdJBAKp5W1YcGguzSy9nRTYkxYwTG6FjgTiU] (pid: 11372) ==
+[2020-10-07 15:01:55.812628] [INFO][DSA] Connecting to http://127.0.0.1:60037/conn
+[2020-10-07 15:01:55.978745] [INFO][DSA] Connected
+[2020-10-07 18:04:04.524878] [INFO][DSA] Disconnected
+[2020-10-07 18:04:04.740030] [INFO][DSA] Connected
+[2020-10-07 20:37:21.525764] [INFO][DSA] Disconnected
+[2020-10-07 20:37:21.632839] [INFO][DSA] Connected
+[2020-10-08 00:54:53.543896] [INFO][DSA] Disconnected
+[2020-10-08 00:54:53.662980] [INFO][DSA] Connected
+[2020-10-13 10:52:37.814316] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:50584/conn, --token, 6Y55XSZs5bmFPdBDHBzrdVFzqn6Ig98G0aB39eAbaf0rmId3] (pid: 9520) ==
+[2020-10-13 10:52:38.490794] [INFO][DSA] Connecting to http://127.0.0.1:50584/conn
+[2020-10-13 10:52:38.676926] [INFO][DSA] Connected
+[2020-10-13 13:34:05.094012] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:54874/conn, --token, mqKb4aZeTiAiy3QCHoecARw0qy28U6lRO6v1L1EMbAwY5PTP] (pid: 5564) ==
+[2020-10-13 13:34:05.776556] [INFO][DSA] Connecting to http://127.0.0.1:54874/conn
+[2020-10-13 13:34:06.259397] [INFO][DSA] Connected
+[2020-10-20 18:23:40.106095] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:56488/conn, --token, 0M4DQEzC1g3vchWvLM7cRvmTUK2AIKjBP60CrLm9fBxtDKFV] (pid: 13564) ==
+[2020-10-20 18:23:42.225591] [INFO][DSA] Connecting to http://127.0.0.1:56488/conn
+[2020-10-20 18:23:42.631877] [INFO][DSA] Connected
+[2020-10-21 08:55:51.520632] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:55337/conn, --token, 7XdevVwlm7Q1GrdutsKrB19diuMjnnluDhDIBY5Yhov2xeJo] (pid: 15224) ==
+[2020-10-21 08:55:55.548993] [INFO][DSA] Connecting to http://127.0.0.1:55337/conn
+[2020-10-21 08:55:57.040453] [INFO][DSA] Connected
+[2020-10-27 18:28:21.858997] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:50874/conn, --token, jXiB17FegAqrUybrxmjZhh73wzW3OnyKLNu1mV5MbztUt742] (pid: 10184) ==
+[2020-10-27 18:28:23.905438] [INFO][DSA] Connecting to http://127.0.0.1:50874/conn
+[2020-10-27 18:28:24.071557] [INFO][DSA] Connected
+[2020-10-28 08:32:40.905161] [INFO][DSA] Disconnected
+[2020-10-28 08:34:11.689369] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:51583/conn, --token, uI2YZk7IcSa5RfnChiwax4ollVBUTLVcHK8u81x9p9MvxnDr] (pid: 17296) ==
+[2020-10-28 08:34:14.613431] [INFO][DSA] Connecting to http://127.0.0.1:51583/conn
+[2020-10-28 08:34:14.743523] [INFO][DSA] Connected
+[2020-11-10 18:08:49.098572] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:52587/conn, --token, LdDSd7t9NuxN6UkdyRhwDDk22cX4GA9QNIVG2s0NRZda4P24] (pid: 12792) ==
+[2020-11-10 18:08:49.907147] [INFO][DSA] Connecting to http://127.0.0.1:52587/conn
+[2020-11-10 18:08:50.204360] [INFO][DSA] Connected
+[2020-11-10 20:41:56.144074] == Exited with status -1073741510 ==
+[2020-11-10 20:42:06.368057] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:55579/conn, --token, NXLPP82s1PD9AArcSSjuN0s27uBtvEXRmkXVwrTK6CUHVYoE] (pid: 15196) ==
+[2020-11-13 18:20:05.671671] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:52722/conn, --token, U5Zuv816U5bizkPfRT0LQtRkxk6qUcK8Hc8rz0lU8oEjlAc2] (pid: 12392) ==
+[2020-11-13 18:20:07.034635] [INFO][DSA] Connecting to http://127.0.0.1:52722/conn
+[2020-11-13 18:20:07.258793] [INFO][DSA] Connected
+[2020-11-13 18:20:29.752703] == Exited with status -1073741510 ==
+[2020-11-13 18:20:29.752703] == Exited with status -1073741510 ==
+[2020-11-13 18:20:36.984819] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:52925/conn, --token, uH4oe7P77Ku49Hn0i5eIMAWxgIfpwck3ntTDZGGJGv8w1ouI] (pid: 1928) ==
+[2020-11-13 18:20:37.881453] [INFO][DSA] Connecting to http://127.0.0.1:52925/conn
+[2020-11-13 18:20:39.008250] [INFO][DSA] Connected
+[2020-12-10 11:50:25.884507] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, WeMo, --broker, http://127.0.0.1:56375/conn, --token, 0QIlWnkouvEhJ3X9fw87MgoiW14pVpxhnczvpKcTmqdFszK7] (pid: 11620) ==
+[2020-12-10 11:50:27.133400] [INFO][DSA] Connecting to http://127.0.0.1:56375/conn
+[2020-12-10 11:50:27.441614] [INFO][DSA] Connected

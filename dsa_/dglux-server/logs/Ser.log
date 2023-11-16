@@ -1,0 +1,2589 @@
+[2020-09-10 22:10:24.537755] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 3268) ==
+[2020-09-10 22:10:25.516993] 2020-09-10 22:10:25.516 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:10:25.638078] 2020-09-10 22:10:25.638 [nioEventLoopGroup-2-2] INFO serial.Main - Connected
+[2020-09-10 22:10:40.033917] #
+[2020-09-10 22:10:40.033917] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:10:40.033917] #
+[2020-09-10 22:10:40.033917] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=10744, tid=0x0000000000003568
+[2020-09-10 22:10:40.033917] #
+[2020-09-10 22:10:40.033917] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:10:40.033917] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:10:40.033917] # Problematic frame:
+[2020-09-10 22:10:40.039921] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:10:40.039921] #
+[2020-09-10 22:10:40.039921] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:10:40.039921] #
+[2020-09-10 22:10:40.039921] # An error report file with more information is saved as:
+[2020-09-10 22:10:40.039921] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid10744.log
+[2020-09-10 22:10:40.056932] #
+[2020-09-10 22:10:40.056932] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:10:40.056932] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:10:40.056932] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:10:40.056932] # See problematic frame for where to report the bug.
+[2020-09-10 22:10:40.056932] #
+[2020-09-10 22:10:40.092958] == Exited with status 1 ==
+[2020-09-10 22:10:40.039921] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:10:40.039921] #
+[2020-09-10 22:10:40.039921] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:10:40.039921] #
+[2020-09-10 22:10:40.039921] # An error report file with more information is saved as:
+[2020-09-10 22:10:40.039921] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid10744.log
+[2020-09-10 22:10:40.056932] #
+[2020-09-10 22:10:40.056932] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:10:40.056932] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:10:40.056932] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:10:40.056932] # See problematic frame for where to report the bug.
+[2020-09-10 22:10:40.056932] #
+[2020-09-10 22:10:40.092958] == Exited with status 1 ==
+[2020-09-10 22:10:40.039921] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:10:40.039921] #
+[2020-09-10 22:10:40.039921] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:10:40.039921] #
+[2020-09-10 22:10:40.039921] # An error report file with more information is saved as:
+[2020-09-10 22:10:40.039921] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid10744.log
+[2020-09-10 22:10:40.056932] #
+[2020-09-10 22:10:40.056932] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:10:40.056932] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:10:40.056932] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:10:40.056932] # See problematic frame for where to report the bug.
+[2020-09-10 22:10:40.056932] #
+[2020-09-10 22:10:40.092958] == Exited with status 1 ==
+[2020-09-10 22:10:41.190422] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 13684) ==
+[2020-09-10 22:10:42.003048] 2020-09-10 22:10:42.002 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:10:42.116696] 2020-09-10 22:10:42.116 [nioEventLoopGroup-2-2] INFO serial.Main - Connected
+[2020-09-10 22:11:27.318734] #
+[2020-09-10 22:11:27.318734] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:11:27.318734] #
+[2020-09-10 22:11:27.318734] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=7156, tid=0x0000000000003578
+[2020-09-10 22:11:27.318734] #
+[2020-09-10 22:11:27.318734] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:11:27.318734] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:11:27.318734] # Problematic frame:
+[2020-09-10 22:11:27.323737] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:11:27.323737] #
+[2020-09-10 22:11:27.323737] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:11:27.323737] #
+[2020-09-10 22:11:27.323737] # An error report file with more information is saved as:
+[2020-09-10 22:11:27.323737] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid7156.log
+[2020-09-10 22:11:27.339248] #
+[2020-09-10 22:11:27.339248] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:11:27.339248] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:11:27.339248] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:11:27.339248] # See problematic frame for where to report the bug.
+[2020-09-10 22:11:27.339248] #
+[2020-09-10 22:11:27.373361] == Exited with status 1 ==
+[2020-09-10 22:11:27.318734] #
+[2020-09-10 22:11:27.318734] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:11:27.318734] #
+[2020-09-10 22:11:27.318734] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=7156, tid=0x0000000000003578
+[2020-09-10 22:11:27.318734] #
+[2020-09-10 22:11:27.318734] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:11:27.318734] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:11:27.318734] # Problematic frame:
+[2020-09-10 22:11:27.323737] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:11:27.323737] #
+[2020-09-10 22:11:27.323737] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:11:27.323737] #
+[2020-09-10 22:11:27.323737] # An error report file with more information is saved as:
+[2020-09-10 22:11:27.323737] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid7156.log
+[2020-09-10 22:11:27.339248] #
+[2020-09-10 22:11:27.339248] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:11:27.339248] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:11:27.339248] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:11:27.339248] # See problematic frame for where to report the bug.
+[2020-09-10 22:11:27.339248] #
+[2020-09-10 22:11:27.373361] == Exited with status 1 ==
+[2020-09-10 22:11:27.318734] #
+[2020-09-10 22:11:27.318734] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:11:27.318734] #
+[2020-09-10 22:11:27.318734] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=7156, tid=0x0000000000003578
+[2020-09-10 22:11:27.318734] #
+[2020-09-10 22:11:27.318734] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:11:27.318734] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:11:27.318734] # Problematic frame:
+[2020-09-10 22:11:27.323737] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:11:27.323737] #
+[2020-09-10 22:11:27.323737] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:11:27.323737] #
+[2020-09-10 22:11:27.323737] # An error report file with more information is saved as:
+[2020-09-10 22:11:27.323737] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid7156.log
+[2020-09-10 22:11:27.339248] #
+[2020-09-10 22:11:27.339248] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:11:27.339248] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:11:27.339248] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:11:27.339248] # See problematic frame for where to report the bug.
+[2020-09-10 22:11:27.339248] #
+[2020-09-10 22:11:27.373361] == Exited with status 1 ==
+[2020-09-10 22:11:28.473697] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 11328) ==
+[2020-09-10 22:11:29.314850] 2020-09-10 22:11:29.314 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:11:29.420911] 2020-09-10 22:11:29.420 [nioEventLoopGroup-2-2] INFO serial.Main - Connected
+[2020-09-10 22:11:57.346672] #
+[2020-09-10 22:11:57.346672] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:11:57.346672] #
+[2020-09-10 22:11:57.346672] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13516, tid=0x0000000000001dd0
+[2020-09-10 22:11:57.346672] #
+[2020-09-10 22:11:57.346672] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:11:57.346672] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:11:57.346672] # Problematic frame:
+[2020-09-10 22:11:57.352675] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:11:57.352675] #
+[2020-09-10 22:11:57.352675] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:11:57.352675] #
+[2020-09-10 22:11:57.352675] # An error report file with more information is saved as:
+[2020-09-10 22:11:57.352675] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13516.log
+[2020-09-10 22:11:57.375691] #
+[2020-09-10 22:11:57.375691] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:11:57.375691] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:11:57.375691] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:11:57.375691] # See problematic frame for where to report the bug.
+[2020-09-10 22:11:57.375691] #
+[2020-09-10 22:11:57.409215] == Exited with status 1 ==
+[2020-09-10 22:11:57.346672] #
+[2020-09-10 22:11:57.346672] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:11:57.346672] #
+[2020-09-10 22:11:57.346672] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13516, tid=0x0000000000001dd0
+[2020-09-10 22:11:57.346672] #
+[2020-09-10 22:11:57.346672] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:11:57.346672] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:11:57.346672] # Problematic frame:
+[2020-09-10 22:11:57.352675] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:11:57.352675] #
+[2020-09-10 22:11:57.352675] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:11:57.352675] #
+[2020-09-10 22:11:57.352675] # An error report file with more information is saved as:
+[2020-09-10 22:11:57.352675] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13516.log
+[2020-09-10 22:11:57.375691] #
+[2020-09-10 22:11:57.375691] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:11:57.375691] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:11:57.375691] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:11:57.375691] # See problematic frame for where to report the bug.
+[2020-09-10 22:11:57.375691] #
+[2020-09-10 22:11:57.409215] == Exited with status 1 ==
+[2020-09-10 22:11:57.346672] #
+[2020-09-10 22:11:57.346672] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:11:57.346672] #
+[2020-09-10 22:11:57.346672] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13516, tid=0x0000000000001dd0
+[2020-09-10 22:11:57.346672] #
+[2020-09-10 22:11:57.346672] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:11:57.346672] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:11:57.346672] # Problematic frame:
+[2020-09-10 22:11:57.352675] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:11:57.352675] #
+[2020-09-10 22:11:57.352675] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:11:57.352675] #
+[2020-09-10 22:11:57.352675] # An error report file with more information is saved as:
+[2020-09-10 22:11:57.352675] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13516.log
+[2020-09-10 22:11:57.375691] #
+[2020-09-10 22:11:57.375691] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:11:57.375691] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:11:57.375691] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:11:57.375691] # See problematic frame for where to report the bug.
+[2020-09-10 22:11:57.375691] #
+[2020-09-10 22:11:57.409215] == Exited with status 1 ==
+[2020-09-10 22:11:58.509611] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 14116) ==
+[2020-09-10 22:11:59.394280] 2020-09-10 22:11:59.393 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:11:59.471345] #
+[2020-09-10 22:11:59.471345] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:11:59.471345] #
+[2020-09-10 22:11:59.471345] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13492, tid=0x000000000000327c
+[2020-09-10 22:11:59.471345] #
+[2020-09-10 22:11:59.471345] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:11:59.471345] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:11:59.471345] # Problematic frame:
+[2020-09-10 22:11:59.476344] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:11:59.476344] #
+[2020-09-10 22:11:59.476344] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:11:59.476344] #
+[2020-09-10 22:11:59.476344] # An error report file with more information is saved as:
+[2020-09-10 22:11:59.476344] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13492.log
+[2020-09-10 22:11:59.492360] #
+[2020-09-10 22:11:59.492360] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:11:59.492360] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:11:59.492360] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:11:59.492360] # See problematic frame for where to report the bug.
+[2020-09-10 22:11:59.492360] #
+[2020-09-10 22:11:59.519366] == Exited with status 1 ==
+[2020-09-10 22:11:59.394280] 2020-09-10 22:11:59.393 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:11:59.471345] #
+[2020-09-10 22:11:59.471345] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:11:59.471345] #
+[2020-09-10 22:11:59.471345] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13492, tid=0x000000000000327c
+[2020-09-10 22:11:59.471345] #
+[2020-09-10 22:11:59.471345] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:11:59.471345] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:11:59.471345] # Problematic frame:
+[2020-09-10 22:11:59.476344] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:11:59.476344] #
+[2020-09-10 22:11:59.476344] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:11:59.476344] #
+[2020-09-10 22:11:59.476344] # An error report file with more information is saved as:
+[2020-09-10 22:11:59.476344] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13492.log
+[2020-09-10 22:11:59.492360] #
+[2020-09-10 22:11:59.492360] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:11:59.492360] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:11:59.492360] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:11:59.492360] # See problematic frame for where to report the bug.
+[2020-09-10 22:11:59.492360] #
+[2020-09-10 22:11:59.519366] == Exited with status 1 ==
+[2020-09-10 22:12:00.605699] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 11364) ==
+[2020-09-10 22:12:01.461879] 2020-09-10 22:12:01.460 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:01.538920] #
+[2020-09-10 22:12:01.538920] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:01.538920] #
+[2020-09-10 22:12:01.538920] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=7460, tid=0x000000000000365c
+[2020-09-10 22:12:01.538920] #
+[2020-09-10 22:12:01.538920] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:01.538920] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:01.538920] # Problematic frame:
+[2020-09-10 22:12:01.543923] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:01.543923] #
+[2020-09-10 22:12:01.543923] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:01.543923] #
+[2020-09-10 22:12:01.543923] # An error report file with more information is saved as:
+[2020-09-10 22:12:01.543923] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid7460.log
+[2020-09-10 22:12:01.557934] #
+[2020-09-10 22:12:01.557934] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:01.557934] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:01.557934] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:01.558934] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:01.558934] #
+[2020-09-10 22:12:01.583952] == Exited with status 1 ==
+[2020-09-10 22:12:01.461879] 2020-09-10 22:12:01.460 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:01.538920] #
+[2020-09-10 22:12:01.538920] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:01.538920] #
+[2020-09-10 22:12:01.538920] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=7460, tid=0x000000000000365c
+[2020-09-10 22:12:01.538920] #
+[2020-09-10 22:12:01.538920] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:01.538920] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:01.538920] # Problematic frame:
+[2020-09-10 22:12:01.543923] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:01.543923] #
+[2020-09-10 22:12:01.543923] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:01.543923] #
+[2020-09-10 22:12:01.543923] # An error report file with more information is saved as:
+[2020-09-10 22:12:01.543923] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid7460.log
+[2020-09-10 22:12:01.557934] #
+[2020-09-10 22:12:01.557934] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:01.557934] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:01.557934] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:01.558934] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:01.558934] #
+[2020-09-10 22:12:01.583952] == Exited with status 1 ==
+[2020-09-10 22:12:01.461879] 2020-09-10 22:12:01.460 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:01.538920] #
+[2020-09-10 22:12:01.538920] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:01.538920] #
+[2020-09-10 22:12:01.538920] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=7460, tid=0x000000000000365c
+[2020-09-10 22:12:01.538920] #
+[2020-09-10 22:12:01.538920] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:01.538920] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:01.538920] # Problematic frame:
+[2020-09-10 22:12:01.543923] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:01.543923] #
+[2020-09-10 22:12:01.543923] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:01.543923] #
+[2020-09-10 22:12:01.543923] # An error report file with more information is saved as:
+[2020-09-10 22:12:01.543923] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid7460.log
+[2020-09-10 22:12:01.557934] #
+[2020-09-10 22:12:01.557934] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:01.557934] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:01.557934] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:01.558934] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:01.558934] #
+[2020-09-10 22:12:01.583952] == Exited with status 1 ==
+[2020-09-10 22:12:02.695854] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 14220) ==
+[2020-09-10 22:12:03.523030] 2020-09-10 22:12:03.522 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:03.633108] 2020-09-10 22:12:03.632 [nioEventLoopGroup-2-2] INFO serial.Main - Connected
+[2020-09-10 22:12:18.581256] #
+[2020-09-10 22:12:18.582256] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:18.582256] #
+[2020-09-10 22:12:18.582256] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=10212, tid=0x0000000000002d24
+[2020-09-10 22:12:18.582256] #
+[2020-09-10 22:12:18.582256] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:18.582256] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:18.582256] # Problematic frame:
+[2020-09-10 22:12:18.586259] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:18.586259] #
+[2020-09-10 22:12:18.587259] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:18.587259] #
+[2020-09-10 22:12:18.587259] # An error report file with more information is saved as:
+[2020-09-10 22:12:18.587259] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid10212.log
+[2020-09-10 22:12:18.605273] #
+[2020-09-10 22:12:18.605273] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:18.605273] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:18.605273] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:18.605273] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:18.606273] #
+[2020-09-10 22:12:18.638295] == Exited with status 1 ==
+[2020-09-10 22:12:18.605273] #
+[2020-09-10 22:12:18.605273] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:18.605273] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:18.605273] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:18.605273] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:18.606273] #
+[2020-09-10 22:12:18.638295] == Exited with status 1 ==
+[2020-09-10 22:12:18.605273] #
+[2020-09-10 22:12:18.605273] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:18.605273] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:18.605273] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:18.605273] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:18.606273] #
+[2020-09-10 22:12:18.638295] == Exited with status 1 ==
+[2020-09-10 22:12:19.737634] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 10468) ==
+[2020-09-10 22:12:20.600306] 2020-09-10 22:12:20.599 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:20.681363] #
+[2020-09-10 22:12:20.681363] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:20.681363] #
+[2020-09-10 22:12:20.681363] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11828, tid=0x0000000000002138
+[2020-09-10 22:12:20.681363] #
+[2020-09-10 22:12:20.681363] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:20.681363] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:20.681363] # Problematic frame:
+[2020-09-10 22:12:20.685366] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:20.685366] #
+[2020-09-10 22:12:20.685366] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:20.685366] #
+[2020-09-10 22:12:20.685366] # An error report file with more information is saved as:
+[2020-09-10 22:12:20.685366] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11828.log
+[2020-09-10 22:12:20.701377] #
+[2020-09-10 22:12:20.701377] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:20.701377] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:20.701377] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:20.701377] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:20.701377] #
+[2020-09-10 22:12:20.728396] == Exited with status 1 ==
+[2020-09-10 22:12:20.600306] 2020-09-10 22:12:20.599 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:20.681363] #
+[2020-09-10 22:12:20.681363] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:20.681363] #
+[2020-09-10 22:12:20.681363] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11828, tid=0x0000000000002138
+[2020-09-10 22:12:20.681363] #
+[2020-09-10 22:12:20.681363] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:20.681363] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:20.681363] # Problematic frame:
+[2020-09-10 22:12:20.685366] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:20.685366] #
+[2020-09-10 22:12:20.685366] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:20.685366] #
+[2020-09-10 22:12:20.685366] # An error report file with more information is saved as:
+[2020-09-10 22:12:20.685366] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11828.log
+[2020-09-10 22:12:20.701377] #
+[2020-09-10 22:12:20.701377] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:20.701377] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:20.701377] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:20.701377] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:20.701377] #
+[2020-09-10 22:12:20.728396] == Exited with status 1 ==
+[2020-09-10 22:12:20.600306] 2020-09-10 22:12:20.599 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:20.681363] #
+[2020-09-10 22:12:20.681363] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:20.681363] #
+[2020-09-10 22:12:20.681363] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11828, tid=0x0000000000002138
+[2020-09-10 22:12:20.681363] #
+[2020-09-10 22:12:20.681363] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:20.681363] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:20.681363] # Problematic frame:
+[2020-09-10 22:12:20.685366] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:20.685366] #
+[2020-09-10 22:12:20.685366] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:20.685366] #
+[2020-09-10 22:12:20.685366] # An error report file with more information is saved as:
+[2020-09-10 22:12:20.685366] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11828.log
+[2020-09-10 22:12:20.701377] #
+[2020-09-10 22:12:20.701377] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:20.701377] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:20.701377] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:20.701377] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:20.701377] #
+[2020-09-10 22:12:20.728396] == Exited with status 1 ==
+[2020-09-10 22:12:21.822270] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 5736) ==
+[2020-09-10 22:12:22.656860] 2020-09-10 22:12:22.655 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:22.735928] #
+[2020-09-10 22:12:22.735928] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:22.735928] #
+[2020-09-10 22:12:22.735928] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=12136, tid=0x0000000000002cf8
+[2020-09-10 22:12:22.735928] #
+[2020-09-10 22:12:22.735928] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:22.735928] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:22.735928] # Problematic frame:
+[2020-09-10 22:12:22.740932] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:22.740932] #
+[2020-09-10 22:12:22.740932] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:22.740932] #
+[2020-09-10 22:12:22.740932] # An error report file with more information is saved as:
+[2020-09-10 22:12:22.740932] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid12136.log
+[2020-09-10 22:12:22.756942] #
+[2020-09-10 22:12:22.756942] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:22.756942] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:22.756942] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:22.756942] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:22.756942] #
+[2020-09-10 22:12:22.786960] == Exited with status 1 ==
+[2020-09-10 22:12:22.656860] 2020-09-10 22:12:22.655 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:22.735928] #
+[2020-09-10 22:12:22.735928] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:22.735928] #
+[2020-09-10 22:12:22.735928] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=12136, tid=0x0000000000002cf8
+[2020-09-10 22:12:22.735928] #
+[2020-09-10 22:12:22.735928] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:22.735928] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:22.735928] # Problematic frame:
+[2020-09-10 22:12:22.740932] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:22.740932] #
+[2020-09-10 22:12:22.740932] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:22.740932] #
+[2020-09-10 22:12:22.740932] # An error report file with more information is saved as:
+[2020-09-10 22:12:22.740932] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid12136.log
+[2020-09-10 22:12:22.756942] #
+[2020-09-10 22:12:22.756942] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:22.756942] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:22.756942] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:22.756942] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:22.756942] #
+[2020-09-10 22:12:22.786960] == Exited with status 1 ==
+[2020-09-10 22:12:22.656860] 2020-09-10 22:12:22.655 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:22.735928] #
+[2020-09-10 22:12:22.735928] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:22.735928] #
+[2020-09-10 22:12:22.735928] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=12136, tid=0x0000000000002cf8
+[2020-09-10 22:12:22.735928] #
+[2020-09-10 22:12:22.735928] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:22.735928] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:22.735928] # Problematic frame:
+[2020-09-10 22:12:22.740932] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:22.740932] #
+[2020-09-10 22:12:22.740932] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:22.740932] #
+[2020-09-10 22:12:22.740932] # An error report file with more information is saved as:
+[2020-09-10 22:12:22.740932] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid12136.log
+[2020-09-10 22:12:22.756942] #
+[2020-09-10 22:12:22.756942] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:22.756942] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:22.756942] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:22.756942] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:22.756942] #
+[2020-09-10 22:12:22.786960] == Exited with status 1 ==
+[2020-09-10 22:12:23.885784] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 2292) ==
+[2020-09-10 22:12:24.744390] 2020-09-10 22:12:24.743 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:24.825447] #
+[2020-09-10 22:12:24.825447] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:24.825447] #
+[2020-09-10 22:12:24.825447] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=8620, tid=0x00000000000001d0
+[2020-09-10 22:12:24.825447] #
+[2020-09-10 22:12:24.825447] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:24.825447] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:24.825447] # Problematic frame:
+[2020-09-10 22:12:24.830451] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:24.830451] #
+[2020-09-10 22:12:24.830451] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:24.830451] #
+[2020-09-10 22:12:24.830451] # An error report file with more information is saved as:
+[2020-09-10 22:12:24.830451] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid8620.log
+[2020-09-10 22:12:24.846962] #
+[2020-09-10 22:12:24.846962] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:24.846962] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:24.846962] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:24.846962] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:24.846962] #
+[2020-09-10 22:12:24.872979] == Exited with status 1 ==
+[2020-09-10 22:12:24.744390] 2020-09-10 22:12:24.743 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:24.825447] #
+[2020-09-10 22:12:24.825447] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:24.825447] #
+[2020-09-10 22:12:24.825447] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=8620, tid=0x00000000000001d0
+[2020-09-10 22:12:24.825447] #
+[2020-09-10 22:12:24.825447] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:24.825447] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:24.825447] # Problematic frame:
+[2020-09-10 22:12:24.830451] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:24.830451] #
+[2020-09-10 22:12:24.830451] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:24.830451] #
+[2020-09-10 22:12:24.830451] # An error report file with more information is saved as:
+[2020-09-10 22:12:24.830451] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid8620.log
+[2020-09-10 22:12:24.846962] #
+[2020-09-10 22:12:24.846962] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:24.846962] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:24.846962] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:24.846962] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:24.846962] #
+[2020-09-10 22:12:24.872979] == Exited with status 1 ==
+[2020-09-10 22:12:24.744390] 2020-09-10 22:12:24.743 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:24.825447] #
+[2020-09-10 22:12:24.825447] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:24.825447] #
+[2020-09-10 22:12:24.825447] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=8620, tid=0x00000000000001d0
+[2020-09-10 22:12:24.825447] #
+[2020-09-10 22:12:24.825447] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:24.825447] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:24.825447] # Problematic frame:
+[2020-09-10 22:12:24.830451] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:24.830451] #
+[2020-09-10 22:12:24.830451] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:24.830451] #
+[2020-09-10 22:12:24.830451] # An error report file with more information is saved as:
+[2020-09-10 22:12:24.830451] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid8620.log
+[2020-09-10 22:12:24.846962] #
+[2020-09-10 22:12:24.846962] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:24.846962] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:24.846962] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:24.846962] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:24.846962] #
+[2020-09-10 22:12:24.872979] == Exited with status 1 ==
+[2020-09-10 22:12:25.974898] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 11824) ==
+[2020-09-10 22:12:26.835055] 2020-09-10 22:12:26.834 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:26.953138] 2020-09-10 22:12:26.953 [nioEventLoopGroup-2-2] INFO serial.Main - Connected
+[2020-09-10 22:12:30.273438] #
+[2020-09-10 22:12:30.273438] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:30.273438] #
+[2020-09-10 22:12:30.273438] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13528, tid=0x00000000000023b8
+[2020-09-10 22:12:30.273438] #
+[2020-09-10 22:12:30.273438] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:30.273438] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:30.273438] # Problematic frame:
+[2020-09-10 22:12:30.277941] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:30.277941] #
+[2020-09-10 22:12:30.277941] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:30.277941] #
+[2020-09-10 22:12:30.277941] # An error report file with more information is saved as:
+[2020-09-10 22:12:30.277941] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13528.log
+[2020-09-10 22:12:30.293465] #
+[2020-09-10 22:12:30.293465] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:30.293465] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:30.293465] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:30.293465] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:30.293465] #
+[2020-09-10 22:12:30.328488] == Exited with status 1 ==
+[2020-09-10 22:12:30.273438] #
+[2020-09-10 22:12:30.273438] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:30.273438] #
+[2020-09-10 22:12:30.273438] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13528, tid=0x00000000000023b8
+[2020-09-10 22:12:30.273438] #
+[2020-09-10 22:12:30.273438] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:30.273438] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:30.273438] # Problematic frame:
+[2020-09-10 22:12:30.277941] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:30.277941] #
+[2020-09-10 22:12:30.277941] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:30.277941] #
+[2020-09-10 22:12:30.277941] # An error report file with more information is saved as:
+[2020-09-10 22:12:30.277941] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13528.log
+[2020-09-10 22:12:30.293465] #
+[2020-09-10 22:12:30.293465] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:30.293465] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:30.293465] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:30.293465] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:30.293465] #
+[2020-09-10 22:12:30.328488] == Exited with status 1 ==
+[2020-09-10 22:12:30.273438] #
+[2020-09-10 22:12:30.273438] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:30.273438] #
+[2020-09-10 22:12:30.273438] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13528, tid=0x00000000000023b8
+[2020-09-10 22:12:30.273438] #
+[2020-09-10 22:12:30.273438] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:30.273438] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:30.273438] # Problematic frame:
+[2020-09-10 22:12:30.277941] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:30.277941] #
+[2020-09-10 22:12:30.277941] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:30.277941] #
+[2020-09-10 22:12:30.277941] # An error report file with more information is saved as:
+[2020-09-10 22:12:30.277941] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13528.log
+[2020-09-10 22:12:30.293465] #
+[2020-09-10 22:12:30.293465] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:30.293465] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:30.293465] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:30.293465] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:30.293465] #
+[2020-09-10 22:12:30.328488] == Exited with status 1 ==
+[2020-09-10 22:12:31.422749] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 9980) ==
+[2020-09-10 22:12:32.269426] 2020-09-10 22:12:32.268 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:32.347482] #
+[2020-09-10 22:12:32.347482] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:32.347482] #
+[2020-09-10 22:12:32.347482] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=9156, tid=0x0000000000002424
+[2020-09-10 22:12:32.347482] #
+[2020-09-10 22:12:32.347482] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:32.347482] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:32.347482] # Problematic frame:
+[2020-09-10 22:12:32.352471] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:32.352471] #
+[2020-09-10 22:12:32.352471] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:32.352471] #
+[2020-09-10 22:12:32.352471] # An error report file with more information is saved as:
+[2020-09-10 22:12:32.352471] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid9156.log
+[2020-09-10 22:12:32.368483] #
+[2020-09-10 22:12:32.368483] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:32.368483] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:32.368483] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:32.368483] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:32.368483] #
+[2020-09-10 22:12:32.397503] == Exited with status 1 ==
+[2020-09-10 22:12:32.269426] 2020-09-10 22:12:32.268 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:32.347482] #
+[2020-09-10 22:12:32.347482] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:32.347482] #
+[2020-09-10 22:12:32.347482] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=9156, tid=0x0000000000002424
+[2020-09-10 22:12:32.347482] #
+[2020-09-10 22:12:32.347482] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:32.347482] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:32.347482] # Problematic frame:
+[2020-09-10 22:12:32.352471] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:32.352471] #
+[2020-09-10 22:12:32.352471] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:32.352471] #
+[2020-09-10 22:12:32.352471] # An error report file with more information is saved as:
+[2020-09-10 22:12:32.352471] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid9156.log
+[2020-09-10 22:12:32.368483] #
+[2020-09-10 22:12:32.368483] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:32.368483] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:32.368483] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:32.368483] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:32.368483] #
+[2020-09-10 22:12:32.397503] == Exited with status 1 ==
+[2020-09-10 22:12:32.269426] 2020-09-10 22:12:32.268 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:32.347482] #
+[2020-09-10 22:12:32.347482] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:32.347482] #
+[2020-09-10 22:12:32.347482] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=9156, tid=0x0000000000002424
+[2020-09-10 22:12:32.347482] #
+[2020-09-10 22:12:32.347482] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:32.347482] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:32.347482] # Problematic frame:
+[2020-09-10 22:12:32.352471] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:32.352471] #
+[2020-09-10 22:12:32.352471] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:32.352471] #
+[2020-09-10 22:12:32.352471] # An error report file with more information is saved as:
+[2020-09-10 22:12:32.352471] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid9156.log
+[2020-09-10 22:12:32.368483] #
+[2020-09-10 22:12:32.368483] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:32.368483] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:32.368483] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:32.368483] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:32.368483] #
+[2020-09-10 22:12:32.397503] == Exited with status 1 ==
+[2020-09-10 22:12:33.500849] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 14120) ==
+[2020-09-10 22:12:34.362004] 2020-09-10 22:12:34.361 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:34.442060] #
+[2020-09-10 22:12:34.442060] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:34.442060] #
+[2020-09-10 22:12:34.442060] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11228, tid=0x0000000000002efc
+[2020-09-10 22:12:34.442060] #
+[2020-09-10 22:12:34.442060] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:34.442060] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:34.442060] # Problematic frame:
+[2020-09-10 22:12:34.447064] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:34.447064] #
+[2020-09-10 22:12:34.447064] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:34.447064] #
+[2020-09-10 22:12:34.447064] # An error report file with more information is saved as:
+[2020-09-10 22:12:34.447064] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11228.log
+[2020-09-10 22:12:34.464076] #
+[2020-09-10 22:12:34.464076] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:34.464076] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:34.464076] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:34.464076] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:34.464076] #
+[2020-09-10 22:12:34.491095] == Exited with status 1 ==
+[2020-09-10 22:12:34.362004] 2020-09-10 22:12:34.361 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:34.442060] #
+[2020-09-10 22:12:34.442060] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:34.442060] #
+[2020-09-10 22:12:34.442060] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11228, tid=0x0000000000002efc
+[2020-09-10 22:12:34.442060] #
+[2020-09-10 22:12:34.442060] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:34.442060] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:34.442060] # Problematic frame:
+[2020-09-10 22:12:34.447064] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:34.447064] #
+[2020-09-10 22:12:34.447064] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:34.447064] #
+[2020-09-10 22:12:34.447064] # An error report file with more information is saved as:
+[2020-09-10 22:12:34.447064] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11228.log
+[2020-09-10 22:12:34.464076] #
+[2020-09-10 22:12:34.464076] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:34.464076] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:34.464076] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:34.464076] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:34.464076] #
+[2020-09-10 22:12:34.491095] == Exited with status 1 ==
+[2020-09-10 22:12:34.362004] 2020-09-10 22:12:34.361 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:34.442060] #
+[2020-09-10 22:12:34.442060] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:34.442060] #
+[2020-09-10 22:12:34.442060] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11228, tid=0x0000000000002efc
+[2020-09-10 22:12:34.442060] #
+[2020-09-10 22:12:34.442060] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:34.442060] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:34.442060] # Problematic frame:
+[2020-09-10 22:12:34.447064] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:34.447064] #
+[2020-09-10 22:12:34.447064] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:34.447064] #
+[2020-09-10 22:12:34.447064] # An error report file with more information is saved as:
+[2020-09-10 22:12:34.447064] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11228.log
+[2020-09-10 22:12:34.464076] #
+[2020-09-10 22:12:34.464076] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:34.464076] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:34.464076] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:34.464076] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:34.464076] #
+[2020-09-10 22:12:34.491095] == Exited with status 1 ==
+[2020-09-10 22:12:35.593505] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 1764) ==
+[2020-09-10 22:12:36.546177] 2020-09-10 22:12:36.545 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:36.633238] #
+[2020-09-10 22:12:36.633238] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:36.633238] #
+[2020-09-10 22:12:36.633238] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11828, tid=0x00000000000027b0
+[2020-09-10 22:12:36.633238] #
+[2020-09-10 22:12:36.633238] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:36.633238] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:36.633238] # Problematic frame:
+[2020-09-10 22:12:36.639242] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:36.639242] #
+[2020-09-10 22:12:36.639242] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:36.639242] #
+[2020-09-10 22:12:36.639242] # An error report file with more information is saved as:
+[2020-09-10 22:12:36.639242] # C:\Users\SEBAST~1\AppData\Local\Temp\\hs_err_pid11828.log
+[2020-09-10 22:12:36.658256] #
+[2020-09-10 22:12:36.658256] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:36.658256] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:36.658256] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:36.658256] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:36.658256] #
+[2020-09-10 22:12:36.686275] == Exited with status 1 ==
+[2020-09-10 22:12:36.633238] #
+[2020-09-10 22:12:36.633238] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:36.633238] #
+[2020-09-10 22:12:36.633238] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11828, tid=0x00000000000027b0
+[2020-09-10 22:12:36.633238] #
+[2020-09-10 22:12:36.633238] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:36.633238] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:36.633238] # Problematic frame:
+[2020-09-10 22:12:36.639242] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:36.639242] #
+[2020-09-10 22:12:36.639242] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:36.639242] #
+[2020-09-10 22:12:36.639242] # An error report file with more information is saved as:
+[2020-09-10 22:12:36.639242] # C:\Users\SEBAST~1\AppData\Local\Temp\\hs_err_pid11828.log
+[2020-09-10 22:12:36.658256] #
+[2020-09-10 22:12:36.658256] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:36.658256] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:36.658256] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:36.658256] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:36.658256] #
+[2020-09-10 22:12:36.686275] == Exited with status 1 ==
+[2020-09-10 22:12:36.633238] #
+[2020-09-10 22:12:36.633238] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:36.633238] #
+[2020-09-10 22:12:36.633238] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11828, tid=0x00000000000027b0
+[2020-09-10 22:12:36.633238] #
+[2020-09-10 22:12:36.633238] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:36.633238] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:36.633238] # Problematic frame:
+[2020-09-10 22:12:36.639242] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:36.639242] #
+[2020-09-10 22:12:36.639242] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:36.639242] #
+[2020-09-10 22:12:36.639242] # An error report file with more information is saved as:
+[2020-09-10 22:12:36.639242] # C:\Users\SEBAST~1\AppData\Local\Temp\\hs_err_pid11828.log
+[2020-09-10 22:12:36.658256] #
+[2020-09-10 22:12:36.658256] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:36.658256] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:36.658256] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:36.658256] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:36.658256] #
+[2020-09-10 22:12:36.686275] == Exited with status 1 ==
+[2020-09-10 22:12:37.777667] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 6768) ==
+[2020-09-10 22:12:38.608789] 2020-09-10 22:12:38.607 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:38.689414] #
+[2020-09-10 22:12:38.689414] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:38.689414] #
+[2020-09-10 22:12:38.689414] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=840, tid=0x00000000000034a4
+[2020-09-10 22:12:38.689414] #
+[2020-09-10 22:12:38.689414] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:38.689414] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:38.689414] # Problematic frame:
+[2020-09-10 22:12:38.694417] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:38.694417] #
+[2020-09-10 22:12:38.694417] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:38.694417] #
+[2020-09-10 22:12:38.695405] # An error report file with more information is saved as:
+[2020-09-10 22:12:38.695405] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid840.log
+[2020-09-10 22:12:38.710416] #
+[2020-09-10 22:12:38.710416] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:38.710416] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:38.710416] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:38.710416] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:38.710416] #
+[2020-09-10 22:12:38.735446] == Exited with status 1 ==
+[2020-09-10 22:12:38.608789] 2020-09-10 22:12:38.607 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:38.689414] #
+[2020-09-10 22:12:38.689414] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:38.689414] #
+[2020-09-10 22:12:38.689414] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=840, tid=0x00000000000034a4
+[2020-09-10 22:12:38.689414] #
+[2020-09-10 22:12:38.689414] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:38.689414] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:38.689414] # Problematic frame:
+[2020-09-10 22:12:38.694417] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:38.694417] #
+[2020-09-10 22:12:38.694417] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:38.694417] #
+[2020-09-10 22:12:38.695405] # An error report file with more information is saved as:
+[2020-09-10 22:12:38.695405] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid840.log
+[2020-09-10 22:12:38.710416] #
+[2020-09-10 22:12:38.710416] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:38.710416] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:38.710416] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:38.710416] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:38.710416] #
+[2020-09-10 22:12:38.735446] == Exited with status 1 ==
+[2020-09-10 22:12:38.608789] 2020-09-10 22:12:38.607 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:38.689414] #
+[2020-09-10 22:12:38.689414] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:38.689414] #
+[2020-09-10 22:12:38.689414] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=840, tid=0x00000000000034a4
+[2020-09-10 22:12:38.689414] #
+[2020-09-10 22:12:38.689414] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:38.689414] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:38.689414] # Problematic frame:
+[2020-09-10 22:12:38.694417] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:38.694417] #
+[2020-09-10 22:12:38.694417] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:38.694417] #
+[2020-09-10 22:12:38.695405] # An error report file with more information is saved as:
+[2020-09-10 22:12:38.695405] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid840.log
+[2020-09-10 22:12:38.710416] #
+[2020-09-10 22:12:38.710416] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:38.710416] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:38.710416] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:38.710416] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:38.710416] #
+[2020-09-10 22:12:38.735446] == Exited with status 1 ==
+[2020-09-10 22:12:39.834268] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 10252) ==
+[2020-09-10 22:12:40.693898] 2020-09-10 22:12:40.692 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:40.772954] #
+[2020-09-10 22:12:40.772954] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:40.772954] #
+[2020-09-10 22:12:40.772954] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=464, tid=0x000000000000304c
+[2020-09-10 22:12:40.772954] #
+[2020-09-10 22:12:40.772954] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:40.772954] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:40.772954] # Problematic frame:
+[2020-09-10 22:12:40.778971] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:40.778971] #
+[2020-09-10 22:12:40.778971] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:40.778971] #
+[2020-09-10 22:12:40.779972] # An error report file with more information is saved as:
+[2020-09-10 22:12:40.779972] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid464.log
+[2020-09-10 22:12:40.795983] #
+[2020-09-10 22:12:40.795983] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:40.795983] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:40.795983] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:40.795983] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:40.795983] #
+[2020-09-10 22:12:40.821] == Exited with status 1 ==
+[2020-09-10 22:12:40.693898] 2020-09-10 22:12:40.692 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:40.772954] #
+[2020-09-10 22:12:40.772954] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:40.772954] #
+[2020-09-10 22:12:40.772954] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=464, tid=0x000000000000304c
+[2020-09-10 22:12:40.772954] #
+[2020-09-10 22:12:40.772954] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:40.772954] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:40.772954] # Problematic frame:
+[2020-09-10 22:12:40.778971] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:40.778971] #
+[2020-09-10 22:12:40.778971] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:40.778971] #
+[2020-09-10 22:12:40.779972] # An error report file with more information is saved as:
+[2020-09-10 22:12:40.779972] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid464.log
+[2020-09-10 22:12:40.795983] #
+[2020-09-10 22:12:40.795983] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:40.795983] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:40.795983] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:40.795983] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:40.795983] #
+[2020-09-10 22:12:40.821] == Exited with status 1 ==
+[2020-09-10 22:12:40.693898] 2020-09-10 22:12:40.692 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:40.772954] #
+[2020-09-10 22:12:40.772954] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:40.772954] #
+[2020-09-10 22:12:40.772954] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=464, tid=0x000000000000304c
+[2020-09-10 22:12:40.772954] #
+[2020-09-10 22:12:40.772954] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:40.772954] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:40.772954] # Problematic frame:
+[2020-09-10 22:12:40.778971] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:40.778971] #
+[2020-09-10 22:12:40.778971] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:40.778971] #
+[2020-09-10 22:12:40.779972] # An error report file with more information is saved as:
+[2020-09-10 22:12:40.779972] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid464.log
+[2020-09-10 22:12:40.795983] #
+[2020-09-10 22:12:40.795983] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:40.795983] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:40.795983] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:40.795983] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:40.795983] #
+[2020-09-10 22:12:40.821] == Exited with status 1 ==
+[2020-09-10 22:12:41.913846] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 4272) ==
+[2020-09-10 22:12:42.899541] 2020-09-10 22:12:42.898 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:42.992605] #
+[2020-09-10 22:12:42.992605] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:42.992605] #
+[2020-09-10 22:12:42.992605] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=7876, tid=0x0000000000003488
+[2020-09-10 22:12:42.992605] #
+[2020-09-10 22:12:42.992605] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:42.992605] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:42.992605] # Problematic frame:
+[2020-09-10 22:12:42.999610] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:42.999610] #
+[2020-09-10 22:12:42.999610] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:42.999610] #
+[2020-09-10 22:12:42.999610] # An error report file with more information is saved as:
+[2020-09-10 22:12:42.999610] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid7876.log
+[2020-09-10 22:12:43.019626] #
+[2020-09-10 22:12:43.019626] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:43.019626] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:43.019626] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:43.019626] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:43.019626] #
+[2020-09-10 22:12:43.049647] == Exited with status 1 ==
+[2020-09-10 22:12:42.992605] #
+[2020-09-10 22:12:42.992605] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:42.992605] #
+[2020-09-10 22:12:42.992605] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=7876, tid=0x0000000000003488
+[2020-09-10 22:12:42.992605] #
+[2020-09-10 22:12:42.992605] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:42.992605] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:42.992605] # Problematic frame:
+[2020-09-10 22:12:42.999610] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:42.999610] #
+[2020-09-10 22:12:42.999610] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:42.999610] #
+[2020-09-10 22:12:42.999610] # An error report file with more information is saved as:
+[2020-09-10 22:12:42.999610] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid7876.log
+[2020-09-10 22:12:43.019626] #
+[2020-09-10 22:12:43.019626] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:43.019626] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:43.019626] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:43.019626] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:43.019626] #
+[2020-09-10 22:12:43.049647] == Exited with status 1 ==
+[2020-09-10 22:12:42.992605] #
+[2020-09-10 22:12:42.992605] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:12:42.992605] #
+[2020-09-10 22:12:42.992605] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=7876, tid=0x0000000000003488
+[2020-09-10 22:12:42.992605] #
+[2020-09-10 22:12:42.992605] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:12:42.992605] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:12:42.992605] # Problematic frame:
+[2020-09-10 22:12:42.999610] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:12:42.999610] #
+[2020-09-10 22:12:42.999610] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:12:42.999610] #
+[2020-09-10 22:12:42.999610] # An error report file with more information is saved as:
+[2020-09-10 22:12:42.999610] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid7876.log
+[2020-09-10 22:12:43.019626] #
+[2020-09-10 22:12:43.019626] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:12:43.019626] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:12:43.019626] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:12:43.019626] # See problematic frame for where to report the bug.
+[2020-09-10 22:12:43.019626] #
+[2020-09-10 22:12:43.049647] == Exited with status 1 ==
+[2020-09-10 22:12:44.169999] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 8056) ==
+[2020-09-10 22:12:45.053713] 2020-09-10 22:12:45.052 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:12:45.165791] 2020-09-10 22:12:45.164 [nioEventLoopGroup-2-2] INFO serial.Main - Connected
+[2020-09-10 22:13:06.588769] #
+[2020-09-10 22:13:06.588769] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:13:06.588769] #
+[2020-09-10 22:13:06.588769] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13660, tid=0x00000000000026d4
+[2020-09-10 22:13:06.588769] #
+[2020-09-10 22:13:06.588769] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:13:06.588769] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:13:06.588769] # Problematic frame:
+[2020-09-10 22:13:06.593272] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:13:06.593272] #
+[2020-09-10 22:13:06.593272] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:13:06.593272] #
+[2020-09-10 22:13:06.593272] # An error report file with more information is saved as:
+[2020-09-10 22:13:06.593272] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13660.log
+[2020-09-10 22:13:06.608282] #
+[2020-09-10 22:13:06.608282] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:13:06.608282] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:13:06.608282] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:13:06.608282] # See problematic frame for where to report the bug.
+[2020-09-10 22:13:06.608282] #
+[2020-09-10 22:13:06.642320] == Exited with status 1 ==
+[2020-09-10 22:13:06.588769] #
+[2020-09-10 22:13:06.588769] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:13:06.588769] #
+[2020-09-10 22:13:06.588769] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13660, tid=0x00000000000026d4
+[2020-09-10 22:13:06.588769] #
+[2020-09-10 22:13:06.588769] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:13:06.588769] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:13:06.588769] # Problematic frame:
+[2020-09-10 22:13:06.593272] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:13:06.593272] #
+[2020-09-10 22:13:06.593272] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:13:06.593272] #
+[2020-09-10 22:13:06.593272] # An error report file with more information is saved as:
+[2020-09-10 22:13:06.593272] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13660.log
+[2020-09-10 22:13:06.608282] #
+[2020-09-10 22:13:06.608282] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:13:06.608282] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:13:06.608282] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:13:06.608282] # See problematic frame for where to report the bug.
+[2020-09-10 22:13:06.608282] #
+[2020-09-10 22:13:06.642320] == Exited with status 1 ==
+[2020-09-10 22:13:06.588769] #
+[2020-09-10 22:13:06.588769] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:13:06.588769] #
+[2020-09-10 22:13:06.588769] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13660, tid=0x00000000000026d4
+[2020-09-10 22:13:06.588769] #
+[2020-09-10 22:13:06.588769] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:13:06.588769] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:13:06.588769] # Problematic frame:
+[2020-09-10 22:13:06.593272] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:13:06.593272] #
+[2020-09-10 22:13:06.593272] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:13:06.593272] #
+[2020-09-10 22:13:06.593272] # An error report file with more information is saved as:
+[2020-09-10 22:13:06.593272] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13660.log
+[2020-09-10 22:13:06.608282] #
+[2020-09-10 22:13:06.608282] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:13:06.608282] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:13:06.608282] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:13:06.608282] # See problematic frame for where to report the bug.
+[2020-09-10 22:13:06.608282] #
+[2020-09-10 22:13:06.642320] == Exited with status 1 ==
+[2020-09-10 22:13:07.736204] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 13828) ==
+[2020-09-10 22:13:08.602881] 2020-09-10 22:13:08.602 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:13:08.689941] #
+[2020-09-10 22:13:08.689941] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:13:08.689941] #
+[2020-09-10 22:13:08.689941] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=6736, tid=0x0000000000002164
+[2020-09-10 22:13:08.689941] #
+[2020-09-10 22:13:08.689941] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:13:08.689941] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:13:08.689941] # Problematic frame:
+[2020-09-10 22:13:08.693944] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:13:08.693944] #
+[2020-09-10 22:13:08.693944] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:13:08.693944] #
+[2020-09-10 22:13:08.699948] # An error report file with more information is saved as:
+[2020-09-10 22:13:08.699948] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid6736.log
+[2020-09-10 22:13:08.708954] #
+[2020-09-10 22:13:08.708954] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:13:08.708954] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:13:08.708954] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:13:08.708954] # See problematic frame for where to report the bug.
+[2020-09-10 22:13:08.708954] #
+[2020-09-10 22:13:08.733973] == Exited with status 1 ==
+[2020-09-10 22:13:08.602881] 2020-09-10 22:13:08.602 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:13:08.689941] #
+[2020-09-10 22:13:08.689941] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:13:08.689941] #
+[2020-09-10 22:13:08.689941] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=6736, tid=0x0000000000002164
+[2020-09-10 22:13:08.689941] #
+[2020-09-10 22:13:08.689941] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:13:08.689941] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:13:08.689941] # Problematic frame:
+[2020-09-10 22:13:08.693944] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:13:08.693944] #
+[2020-09-10 22:13:08.693944] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:13:08.693944] #
+[2020-09-10 22:13:08.699948] # An error report file with more information is saved as:
+[2020-09-10 22:13:08.699948] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid6736.log
+[2020-09-10 22:13:08.708954] #
+[2020-09-10 22:13:08.708954] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:13:08.708954] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:13:08.708954] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:13:08.708954] # See problematic frame for where to report the bug.
+[2020-09-10 22:13:08.708954] #
+[2020-09-10 22:13:08.733973] == Exited with status 1 ==
+[2020-09-10 22:13:08.602881] 2020-09-10 22:13:08.602 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:13:08.689941] #
+[2020-09-10 22:13:08.689941] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:13:08.689941] #
+[2020-09-10 22:13:08.689941] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=6736, tid=0x0000000000002164
+[2020-09-10 22:13:08.689941] #
+[2020-09-10 22:13:08.689941] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:13:08.689941] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:13:08.689941] # Problematic frame:
+[2020-09-10 22:13:08.693944] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:13:08.693944] #
+[2020-09-10 22:13:08.693944] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:13:08.693944] #
+[2020-09-10 22:13:08.699948] # An error report file with more information is saved as:
+[2020-09-10 22:13:08.699948] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid6736.log
+[2020-09-10 22:13:08.708954] #
+[2020-09-10 22:13:08.708954] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:13:08.708954] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:13:08.708954] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:13:08.708954] # See problematic frame for where to report the bug.
+[2020-09-10 22:13:08.708954] #
+[2020-09-10 22:13:08.733973] == Exited with status 1 ==
+[2020-09-10 22:13:09.834364] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 9180) ==
+[2020-09-10 22:13:10.677958] 2020-09-10 22:13:10.676 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:13:10.752023] #
+[2020-09-10 22:13:10.752023] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:13:10.752023] #
+[2020-09-10 22:13:10.752023] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=8556, tid=0x0000000000002448
+[2020-09-10 22:13:10.752023] #
+[2020-09-10 22:13:10.752023] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:13:10.752023] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:13:10.752023] # Problematic frame:
+[2020-09-10 22:13:10.756026] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:13:10.756026] #
+[2020-09-10 22:13:10.756026] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:13:10.756026] #
+[2020-09-10 22:13:10.756026] # An error report file with more information is saved as:
+[2020-09-10 22:13:10.756026] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid8556.log
+[2020-09-10 22:13:10.772024] #
+[2020-09-10 22:13:10.772024] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:13:10.772024] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:13:10.772024] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:13:10.772024] # See problematic frame for where to report the bug.
+[2020-09-10 22:13:10.772024] #
+[2020-09-10 22:13:10.798055] == Exited with status 1 ==
+[2020-09-10 22:13:10.677958] 2020-09-10 22:13:10.676 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:13:10.752023] #
+[2020-09-10 22:13:10.752023] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:13:10.752023] #
+[2020-09-10 22:13:10.752023] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=8556, tid=0x0000000000002448
+[2020-09-10 22:13:10.752023] #
+[2020-09-10 22:13:10.752023] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:13:10.752023] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:13:10.752023] # Problematic frame:
+[2020-09-10 22:13:10.756026] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:13:10.756026] #
+[2020-09-10 22:13:10.756026] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:13:10.756026] #
+[2020-09-10 22:13:10.756026] # An error report file with more information is saved as:
+[2020-09-10 22:13:10.756026] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid8556.log
+[2020-09-10 22:13:10.772024] #
+[2020-09-10 22:13:10.772024] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:13:10.772024] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:13:10.772024] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:13:10.772024] # See problematic frame for where to report the bug.
+[2020-09-10 22:13:10.772024] #
+[2020-09-10 22:13:10.798055] == Exited with status 1 ==
+[2020-09-10 22:13:10.677958] 2020-09-10 22:13:10.676 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:13:10.752023] #
+[2020-09-10 22:13:10.752023] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:13:10.752023] #
+[2020-09-10 22:13:10.752023] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=8556, tid=0x0000000000002448
+[2020-09-10 22:13:10.752023] #
+[2020-09-10 22:13:10.752023] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:13:10.752023] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:13:10.752023] # Problematic frame:
+[2020-09-10 22:13:10.756026] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:13:10.756026] #
+[2020-09-10 22:13:10.756026] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:13:10.756026] #
+[2020-09-10 22:13:10.756026] # An error report file with more information is saved as:
+[2020-09-10 22:13:10.756026] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid8556.log
+[2020-09-10 22:13:10.772024] #
+[2020-09-10 22:13:10.772024] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:13:10.772024] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:13:10.772024] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:13:10.772024] # See problematic frame for where to report the bug.
+[2020-09-10 22:13:10.772024] #
+[2020-09-10 22:13:10.798055] == Exited with status 1 ==
+[2020-09-10 22:13:11.890917] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 5492) ==
+[2020-09-10 22:13:12.801560] 2020-09-10 22:13:12.800 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:13:12.885620] #
+[2020-09-10 22:13:12.885620] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:13:12.885620] #
+[2020-09-10 22:13:12.885620] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=14044, tid=0x0000000000003538
+[2020-09-10 22:13:12.885620] #
+[2020-09-10 22:13:12.885620] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:13:12.885620] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:13:12.885620] # Problematic frame:
+[2020-09-10 22:13:12.891626] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:13:12.891626] #
+[2020-09-10 22:13:12.891626] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:13:12.891626] #
+[2020-09-10 22:13:12.891626] # An error report file with more information is saved as:
+[2020-09-10 22:13:12.891626] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid14044.log
+[2020-09-10 22:13:12.909636] #
+[2020-09-10 22:13:12.910637] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:13:12.910637] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:13:12.910637] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:13:12.910637] # See problematic frame for where to report the bug.
+[2020-09-10 22:13:12.910637] #
+[2020-09-10 22:13:12.937656] == Exited with status 1 ==
+[2020-09-10 22:13:12.909636] #
+[2020-09-10 22:13:12.910637] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:13:12.910637] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:13:12.910637] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:13:12.910637] # See problematic frame for where to report the bug.
+[2020-09-10 22:13:12.910637] #
+[2020-09-10 22:13:12.937656] == Exited with status 1 ==
+[2020-09-10 22:13:12.909636] #
+[2020-09-10 22:13:12.910637] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:13:12.910637] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:13:12.910637] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:13:12.910637] # See problematic frame for where to report the bug.
+[2020-09-10 22:13:12.910637] #
+[2020-09-10 22:13:12.937656] == Exited with status 1 ==
+[2020-09-10 22:13:14.039993] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 8504) ==
+[2020-09-10 22:13:14.913159] 2020-09-10 22:13:14.912 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:13:14.987213] #
+[2020-09-10 22:13:14.987213] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:13:14.987213] #
+[2020-09-10 22:13:14.987213] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11656, tid=0x00000000000032a4
+[2020-09-10 22:13:14.987213] #
+[2020-09-10 22:13:14.987213] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:13:14.987213] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:13:14.987213] # Problematic frame:
+[2020-09-10 22:13:14.992216] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:13:14.992216] #
+[2020-09-10 22:13:14.992216] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:13:14.992216] #
+[2020-09-10 22:13:14.992216] # An error report file with more information is saved as:
+[2020-09-10 22:13:14.992216] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11656.log
+[2020-09-10 22:13:15.010229] #
+[2020-09-10 22:13:15.010229] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:13:15.010229] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:13:15.010229] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:13:15.010229] # See problematic frame for where to report the bug.
+[2020-09-10 22:13:15.010229] #
+[2020-09-10 22:13:15.037247] == Exited with status 1 ==
+[2020-09-10 22:13:14.913159] 2020-09-10 22:13:14.912 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:13:14.987213] #
+[2020-09-10 22:13:14.987213] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:13:14.987213] #
+[2020-09-10 22:13:14.987213] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11656, tid=0x00000000000032a4
+[2020-09-10 22:13:14.987213] #
+[2020-09-10 22:13:14.987213] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:13:14.987213] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:13:14.987213] # Problematic frame:
+[2020-09-10 22:13:14.992216] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:13:14.992216] #
+[2020-09-10 22:13:14.992216] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:13:14.992216] #
+[2020-09-10 22:13:14.992216] # An error report file with more information is saved as:
+[2020-09-10 22:13:14.992216] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11656.log
+[2020-09-10 22:13:15.010229] #
+[2020-09-10 22:13:15.010229] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:13:15.010229] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:13:15.010229] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:13:15.010229] # See problematic frame for where to report the bug.
+[2020-09-10 22:13:15.010229] #
+[2020-09-10 22:13:15.037247] == Exited with status 1 ==
+[2020-09-10 22:13:14.913159] 2020-09-10 22:13:14.912 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:13:14.987213] #
+[2020-09-10 22:13:14.987213] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:13:14.987213] #
+[2020-09-10 22:13:14.987213] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11656, tid=0x00000000000032a4
+[2020-09-10 22:13:14.987213] #
+[2020-09-10 22:13:14.987213] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:13:14.987213] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:13:14.987213] # Problematic frame:
+[2020-09-10 22:13:14.992216] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:13:14.992216] #
+[2020-09-10 22:13:14.992216] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:13:14.992216] #
+[2020-09-10 22:13:14.992216] # An error report file with more information is saved as:
+[2020-09-10 22:13:14.992216] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11656.log
+[2020-09-10 22:13:15.010229] #
+[2020-09-10 22:13:15.010229] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:13:15.010229] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:13:15.010229] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:13:15.010229] # See problematic frame for where to report the bug.
+[2020-09-10 22:13:15.010229] #
+[2020-09-10 22:13:15.037247] == Exited with status 1 ==
+[2020-09-10 22:13:16.132585] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 7952) ==
+[2020-09-10 22:13:16.996985] 2020-09-10 22:13:16.995 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:13:17.103060] 2020-09-10 22:13:17.103 [nioEventLoopGroup-2-2] INFO serial.Main - Connected
+[2020-09-10 22:15:20.803697] #
+[2020-09-10 22:15:20.803697] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:20.803697] #
+[2020-09-10 22:15:20.803697] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11900, tid=0x0000000000002934
+[2020-09-10 22:15:20.803697] #
+[2020-09-10 22:15:20.803697] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:20.803697] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:20.803697] # Problematic frame:
+[2020-09-10 22:15:20.808714] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:20.808714] #
+[2020-09-10 22:15:20.808714] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:20.808714] #
+[2020-09-10 22:15:20.808714] # An error report file with more information is saved as:
+[2020-09-10 22:15:20.808714] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11900.log
+[2020-09-10 22:15:20.825714] #
+[2020-09-10 22:15:20.825714] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:20.825714] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:20.825714] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:20.825714] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:20.825714] #
+[2020-09-10 22:15:20.861739] == Exited with status 1 ==
+[2020-09-10 22:15:20.803697] #
+[2020-09-10 22:15:20.803697] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:20.803697] #
+[2020-09-10 22:15:20.803697] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11900, tid=0x0000000000002934
+[2020-09-10 22:15:20.803697] #
+[2020-09-10 22:15:20.803697] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:20.803697] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:20.803697] # Problematic frame:
+[2020-09-10 22:15:20.808714] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:20.808714] #
+[2020-09-10 22:15:20.808714] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:20.808714] #
+[2020-09-10 22:15:20.808714] # An error report file with more information is saved as:
+[2020-09-10 22:15:20.808714] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11900.log
+[2020-09-10 22:15:20.825714] #
+[2020-09-10 22:15:20.825714] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:20.825714] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:20.825714] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:20.825714] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:20.825714] #
+[2020-09-10 22:15:20.861739] == Exited with status 1 ==
+[2020-09-10 22:15:20.803697] #
+[2020-09-10 22:15:20.803697] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:20.803697] #
+[2020-09-10 22:15:20.803697] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11900, tid=0x0000000000002934
+[2020-09-10 22:15:20.803697] #
+[2020-09-10 22:15:20.803697] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:20.803697] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:20.803697] # Problematic frame:
+[2020-09-10 22:15:20.808714] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:20.808714] #
+[2020-09-10 22:15:20.808714] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:20.808714] #
+[2020-09-10 22:15:20.808714] # An error report file with more information is saved as:
+[2020-09-10 22:15:20.808714] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11900.log
+[2020-09-10 22:15:20.825714] #
+[2020-09-10 22:15:20.825714] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:20.825714] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:20.825714] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:20.825714] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:20.825714] #
+[2020-09-10 22:15:20.861739] == Exited with status 1 ==
+[2020-09-10 22:15:21.972640] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 3588) ==
+[2020-09-10 22:15:22.829243] 2020-09-10 22:15:22.828 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:22.913301] #
+[2020-09-10 22:15:22.913301] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:22.913301] #
+[2020-09-10 22:15:22.913301] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=10152, tid=0x0000000000001ee0
+[2020-09-10 22:15:22.913301] #
+[2020-09-10 22:15:22.913301] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:22.913301] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:22.913301] # Problematic frame:
+[2020-09-10 22:15:22.917304] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:22.917304] #
+[2020-09-10 22:15:22.917304] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:22.917304] #
+[2020-09-10 22:15:22.917304] # An error report file with more information is saved as:
+[2020-09-10 22:15:22.917304] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid10152.log
+[2020-09-10 22:15:22.932314] #
+[2020-09-10 22:15:22.932314] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:22.932314] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:22.932314] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:22.932314] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:22.932314] #
+[2020-09-10 22:15:22.959333] == Exited with status 1 ==
+[2020-09-10 22:15:22.829243] 2020-09-10 22:15:22.828 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:22.913301] #
+[2020-09-10 22:15:22.913301] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:22.913301] #
+[2020-09-10 22:15:22.913301] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=10152, tid=0x0000000000001ee0
+[2020-09-10 22:15:22.913301] #
+[2020-09-10 22:15:22.913301] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:22.913301] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:22.913301] # Problematic frame:
+[2020-09-10 22:15:22.917304] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:22.917304] #
+[2020-09-10 22:15:22.917304] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:22.917304] #
+[2020-09-10 22:15:22.917304] # An error report file with more information is saved as:
+[2020-09-10 22:15:22.917304] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid10152.log
+[2020-09-10 22:15:22.932314] #
+[2020-09-10 22:15:22.932314] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:22.932314] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:22.932314] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:22.932314] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:22.932314] #
+[2020-09-10 22:15:22.959333] == Exited with status 1 ==
+[2020-09-10 22:15:22.829243] 2020-09-10 22:15:22.828 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:22.913301] #
+[2020-09-10 22:15:22.913301] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:22.913301] #
+[2020-09-10 22:15:22.913301] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=10152, tid=0x0000000000001ee0
+[2020-09-10 22:15:22.913301] #
+[2020-09-10 22:15:22.913301] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:22.913301] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:22.913301] # Problematic frame:
+[2020-09-10 22:15:22.917304] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:22.917304] #
+[2020-09-10 22:15:22.917304] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:22.917304] #
+[2020-09-10 22:15:22.917304] # An error report file with more information is saved as:
+[2020-09-10 22:15:22.917304] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid10152.log
+[2020-09-10 22:15:22.932314] #
+[2020-09-10 22:15:22.932314] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:22.932314] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:22.932314] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:22.932314] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:22.932314] #
+[2020-09-10 22:15:22.959333] == Exited with status 1 ==
+[2020-09-10 22:15:24.056192] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 8648) ==
+[2020-09-10 22:15:24.889823] 2020-09-10 22:15:24.888 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:24.966878] #
+[2020-09-10 22:15:24.966878] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:24.966878] #
+[2020-09-10 22:15:24.966878] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=12596, tid=0x000000000000226c
+[2020-09-10 22:15:24.966878] #
+[2020-09-10 22:15:24.966878] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:24.966878] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:24.966878] # Problematic frame:
+[2020-09-10 22:15:24.970880] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:24.970880] #
+[2020-09-10 22:15:24.970880] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:24.970880] #
+[2020-09-10 22:15:24.970880] # An error report file with more information is saved as:
+[2020-09-10 22:15:24.970880] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid12596.log
+[2020-09-10 22:15:24.984890] #
+[2020-09-10 22:15:24.984890] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:24.984890] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:24.984890] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:24.984890] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:24.984890] #
+[2020-09-10 22:15:25.009908] == Exited with status 1 ==
+[2020-09-10 22:15:24.889823] 2020-09-10 22:15:24.888 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:24.966878] #
+[2020-09-10 22:15:24.966878] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:24.966878] #
+[2020-09-10 22:15:24.966878] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=12596, tid=0x000000000000226c
+[2020-09-10 22:15:24.966878] #
+[2020-09-10 22:15:24.966878] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:24.966878] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:24.966878] # Problematic frame:
+[2020-09-10 22:15:24.970880] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:24.970880] #
+[2020-09-10 22:15:24.970880] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:24.970880] #
+[2020-09-10 22:15:24.970880] # An error report file with more information is saved as:
+[2020-09-10 22:15:24.970880] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid12596.log
+[2020-09-10 22:15:24.984890] #
+[2020-09-10 22:15:24.984890] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:24.984890] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:24.984890] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:24.984890] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:24.984890] #
+[2020-09-10 22:15:25.009908] == Exited with status 1 ==
+[2020-09-10 22:15:24.889823] 2020-09-10 22:15:24.888 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:24.966878] #
+[2020-09-10 22:15:24.966878] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:24.966878] #
+[2020-09-10 22:15:24.966878] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=12596, tid=0x000000000000226c
+[2020-09-10 22:15:24.966878] #
+[2020-09-10 22:15:24.966878] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:24.966878] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:24.966878] # Problematic frame:
+[2020-09-10 22:15:24.970880] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:24.970880] #
+[2020-09-10 22:15:24.970880] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:24.970880] #
+[2020-09-10 22:15:24.970880] # An error report file with more information is saved as:
+[2020-09-10 22:15:24.970880] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid12596.log
+[2020-09-10 22:15:24.984890] #
+[2020-09-10 22:15:24.984890] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:24.984890] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:24.984890] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:24.984890] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:24.984890] #
+[2020-09-10 22:15:25.009908] == Exited with status 1 ==
+[2020-09-10 22:15:26.108890] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 14264) ==
+[2020-09-10 22:15:26.950516] 2020-09-10 22:15:26.950 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:27.027571] #
+[2020-09-10 22:15:27.027571] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:27.027571] #
+[2020-09-10 22:15:27.027571] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11124, tid=0x0000000000002834
+[2020-09-10 22:15:27.027571] #
+[2020-09-10 22:15:27.027571] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:27.027571] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:27.027571] # Problematic frame:
+[2020-09-10 22:15:27.031573] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:27.031573] #
+[2020-09-10 22:15:27.031573] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:27.031573] #
+[2020-09-10 22:15:27.031573] # An error report file with more information is saved as:
+[2020-09-10 22:15:27.032574] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11124.log
+[2020-09-10 22:15:27.046582] #
+[2020-09-10 22:15:27.046582] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:27.046582] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:27.046582] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:27.046582] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:27.046582] #
+[2020-09-10 22:15:27.073600] == Exited with status 1 ==
+[2020-09-10 22:15:26.950516] 2020-09-10 22:15:26.950 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:27.027571] #
+[2020-09-10 22:15:27.027571] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:27.027571] #
+[2020-09-10 22:15:27.027571] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11124, tid=0x0000000000002834
+[2020-09-10 22:15:27.027571] #
+[2020-09-10 22:15:27.027571] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:27.027571] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:27.027571] # Problematic frame:
+[2020-09-10 22:15:27.031573] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:27.031573] #
+[2020-09-10 22:15:27.031573] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:27.031573] #
+[2020-09-10 22:15:27.031573] # An error report file with more information is saved as:
+[2020-09-10 22:15:27.032574] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11124.log
+[2020-09-10 22:15:27.046582] #
+[2020-09-10 22:15:27.046582] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:27.046582] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:27.046582] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:27.046582] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:27.046582] #
+[2020-09-10 22:15:27.073600] == Exited with status 1 ==
+[2020-09-10 22:15:26.950516] 2020-09-10 22:15:26.950 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:27.027571] #
+[2020-09-10 22:15:27.027571] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:27.027571] #
+[2020-09-10 22:15:27.027571] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11124, tid=0x0000000000002834
+[2020-09-10 22:15:27.027571] #
+[2020-09-10 22:15:27.027571] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:27.027571] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:27.027571] # Problematic frame:
+[2020-09-10 22:15:27.031573] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:27.031573] #
+[2020-09-10 22:15:27.031573] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:27.031573] #
+[2020-09-10 22:15:27.031573] # An error report file with more information is saved as:
+[2020-09-10 22:15:27.032574] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11124.log
+[2020-09-10 22:15:27.046582] #
+[2020-09-10 22:15:27.046582] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:27.046582] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:27.046582] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:27.046582] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:27.046582] #
+[2020-09-10 22:15:27.073600] == Exited with status 1 ==
+[2020-09-10 22:15:28.175378] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 7924) ==
+[2020-09-10 22:15:29.044005] 2020-09-10 22:15:29.042 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:29.133054] #
+[2020-09-10 22:15:29.133054] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:29.133054] #
+[2020-09-10 22:15:29.133054] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11336, tid=0x00000000000019c8
+[2020-09-10 22:15:29.133054] #
+[2020-09-10 22:15:29.134055] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:29.134055] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:29.134055] # Problematic frame:
+[2020-09-10 22:15:29.138057] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:29.139057] #
+[2020-09-10 22:15:29.139057] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:29.139057] #
+[2020-09-10 22:15:29.139057] # An error report file with more information is saved as:
+[2020-09-10 22:15:29.139057] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11336.log
+[2020-09-10 22:15:29.160091] #
+[2020-09-10 22:15:29.160091] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:29.160091] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:29.160091] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:29.160091] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:29.160091] #
+[2020-09-10 22:15:29.189094] == Exited with status 1 ==
+[2020-09-10 22:15:29.189094] == Exited with status 1 ==
+[2020-09-10 22:15:30.289870] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 13740) ==
+[2020-09-10 22:15:31.400653] 2020-09-10 22:15:31.399 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:31.501723] #
+[2020-09-10 22:15:31.501723] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:31.501723] #
+[2020-09-10 22:15:31.501723] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11640, tid=0x0000000000001a8c
+[2020-09-10 22:15:31.501723] #
+[2020-09-10 22:15:31.501723] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:31.501723] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:31.501723] # Problematic frame:
+[2020-09-10 22:15:31.506728] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:31.506728] #
+[2020-09-10 22:15:31.506728] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:31.506728] #
+[2020-09-10 22:15:31.506728] # An error report file with more information is saved as:
+[2020-09-10 22:15:31.507728] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11640.log
+[2020-09-10 22:15:31.521738] #
+[2020-09-10 22:15:31.521738] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:31.521738] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:31.521738] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:31.521738] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:31.521738] #
+[2020-09-10 22:15:31.549758] == Exited with status 1 ==
+[2020-09-10 22:15:31.501723] #
+[2020-09-10 22:15:31.501723] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:31.501723] #
+[2020-09-10 22:15:31.501723] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11640, tid=0x0000000000001a8c
+[2020-09-10 22:15:31.501723] #
+[2020-09-10 22:15:31.501723] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:31.501723] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:31.501723] # Problematic frame:
+[2020-09-10 22:15:31.506728] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:31.506728] #
+[2020-09-10 22:15:31.506728] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:31.506728] #
+[2020-09-10 22:15:31.506728] # An error report file with more information is saved as:
+[2020-09-10 22:15:31.507728] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11640.log
+[2020-09-10 22:15:31.521738] #
+[2020-09-10 22:15:31.521738] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:31.521738] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:31.521738] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:31.521738] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:31.521738] #
+[2020-09-10 22:15:31.549758] == Exited with status 1 ==
+[2020-09-10 22:15:31.501723] #
+[2020-09-10 22:15:31.501723] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:31.501723] #
+[2020-09-10 22:15:31.501723] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11640, tid=0x0000000000001a8c
+[2020-09-10 22:15:31.501723] #
+[2020-09-10 22:15:31.501723] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:31.501723] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:31.501723] # Problematic frame:
+[2020-09-10 22:15:31.506728] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:31.506728] #
+[2020-09-10 22:15:31.506728] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:31.506728] #
+[2020-09-10 22:15:31.506728] # An error report file with more information is saved as:
+[2020-09-10 22:15:31.507728] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11640.log
+[2020-09-10 22:15:31.521738] #
+[2020-09-10 22:15:31.521738] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:31.521738] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:31.521738] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:31.521738] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:31.521738] #
+[2020-09-10 22:15:31.549758] == Exited with status 1 ==
+[2020-09-10 22:15:32.651537] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 13760) ==
+[2020-09-10 22:15:33.697272] 2020-09-10 22:15:33.696 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:33.789337] #
+[2020-09-10 22:15:33.789337] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:33.789337] #
+[2020-09-10 22:15:33.789337] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=4364, tid=0x0000000000003698
+[2020-09-10 22:15:33.789337] #
+[2020-09-10 22:15:33.789337] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:33.789337] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:33.789337] # Problematic frame:
+[2020-09-10 22:15:33.794341] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:33.794341] #
+[2020-09-10 22:15:33.794341] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:33.794341] #
+[2020-09-10 22:15:33.794341] # An error report file with more information is saved as:
+[2020-09-10 22:15:33.794341] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid4364.log
+[2020-09-10 22:15:33.809351] #
+[2020-09-10 22:15:33.809351] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:33.809351] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:33.809351] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:33.810352] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:33.810352] #
+[2020-09-10 22:15:33.835370] == Exited with status 1 ==
+[2020-09-10 22:15:33.697272] 2020-09-10 22:15:33.696 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:33.789337] #
+[2020-09-10 22:15:33.789337] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:33.789337] #
+[2020-09-10 22:15:33.789337] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=4364, tid=0x0000000000003698
+[2020-09-10 22:15:33.789337] #
+[2020-09-10 22:15:33.789337] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:33.789337] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:33.789337] # Problematic frame:
+[2020-09-10 22:15:33.794341] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:33.794341] #
+[2020-09-10 22:15:33.794341] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:33.794341] #
+[2020-09-10 22:15:33.794341] # An error report file with more information is saved as:
+[2020-09-10 22:15:33.794341] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid4364.log
+[2020-09-10 22:15:33.809351] #
+[2020-09-10 22:15:33.809351] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:33.809351] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:33.809351] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:33.810352] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:33.810352] #
+[2020-09-10 22:15:33.835370] == Exited with status 1 ==
+[2020-09-10 22:15:33.697272] 2020-09-10 22:15:33.696 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:33.789337] #
+[2020-09-10 22:15:33.789337] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:33.789337] #
+[2020-09-10 22:15:33.789337] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=4364, tid=0x0000000000003698
+[2020-09-10 22:15:33.789337] #
+[2020-09-10 22:15:33.789337] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:33.789337] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:33.789337] # Problematic frame:
+[2020-09-10 22:15:33.794341] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:33.794341] #
+[2020-09-10 22:15:33.794341] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:33.794341] #
+[2020-09-10 22:15:33.794341] # An error report file with more information is saved as:
+[2020-09-10 22:15:33.794341] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid4364.log
+[2020-09-10 22:15:33.809351] #
+[2020-09-10 22:15:33.809351] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:33.809351] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:33.809351] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:33.810352] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:33.810352] #
+[2020-09-10 22:15:33.835370] == Exited with status 1 ==
+[2020-09-10 22:15:34.945792] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 6480) ==
+[2020-09-10 22:15:35.952517] 2020-09-10 22:15:35.951 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:36.050572] #
+[2020-09-10 22:15:36.050572] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:36.050572] #
+[2020-09-10 22:15:36.050572] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=8812, tid=0x0000000000000e7c
+[2020-09-10 22:15:36.050572] #
+[2020-09-10 22:15:36.050572] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:36.050572] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:36.050572] # Problematic frame:
+[2020-09-10 22:15:36.057577] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:36.057577] #
+[2020-09-10 22:15:36.057577] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:36.057577] #
+[2020-09-10 22:15:36.057577] # An error report file with more information is saved as:
+[2020-09-10 22:15:36.057577] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid8812.log
+[2020-09-10 22:15:36.073588] #
+[2020-09-10 22:15:36.073588] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:36.073588] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:36.073588] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:36.073588] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:36.073588] #
+[2020-09-10 22:15:36.103626] == Exited with status 1 ==
+[2020-09-10 22:15:36.050572] #
+[2020-09-10 22:15:36.050572] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:36.050572] #
+[2020-09-10 22:15:36.050572] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=8812, tid=0x0000000000000e7c
+[2020-09-10 22:15:36.050572] #
+[2020-09-10 22:15:36.050572] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:36.050572] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:36.050572] # Problematic frame:
+[2020-09-10 22:15:36.057577] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:36.057577] #
+[2020-09-10 22:15:36.057577] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:36.057577] #
+[2020-09-10 22:15:36.057577] # An error report file with more information is saved as:
+[2020-09-10 22:15:36.057577] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid8812.log
+[2020-09-10 22:15:36.073588] #
+[2020-09-10 22:15:36.073588] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:36.073588] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:36.073588] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:36.073588] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:36.073588] #
+[2020-09-10 22:15:36.103626] == Exited with status 1 ==
+[2020-09-10 22:15:36.050572] #
+[2020-09-10 22:15:36.050572] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:36.050572] #
+[2020-09-10 22:15:36.050572] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=8812, tid=0x0000000000000e7c
+[2020-09-10 22:15:36.050572] #
+[2020-09-10 22:15:36.050572] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:36.050572] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:36.050572] # Problematic frame:
+[2020-09-10 22:15:36.057577] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:36.057577] #
+[2020-09-10 22:15:36.057577] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:36.057577] #
+[2020-09-10 22:15:36.057577] # An error report file with more information is saved as:
+[2020-09-10 22:15:36.057577] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid8812.log
+[2020-09-10 22:15:36.073588] #
+[2020-09-10 22:15:36.073588] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:36.073588] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:36.073588] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:36.073588] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:36.073588] #
+[2020-09-10 22:15:36.103626] == Exited with status 1 ==
+[2020-09-10 22:15:37.203954] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 13932) ==
+[2020-09-10 22:15:38.120653] 2020-09-10 22:15:38.119 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:38.205714] #
+[2020-09-10 22:15:38.205714] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:38.205714] #
+[2020-09-10 22:15:38.205714] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13600, tid=0x00000000000022b8
+[2020-09-10 22:15:38.205714] #
+[2020-09-10 22:15:38.205714] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:38.205714] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:38.205714] # Problematic frame:
+[2020-09-10 22:15:38.211718] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:38.212719] #
+[2020-09-10 22:15:38.212719] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:38.212719] #
+[2020-09-10 22:15:38.212719] # An error report file with more information is saved as:
+[2020-09-10 22:15:38.212719] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13600.log
+[2020-09-10 22:15:38.228744] #
+[2020-09-10 22:15:38.228744] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:38.228744] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:38.228744] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:38.228744] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:38.228744] #
+[2020-09-10 22:15:38.253748] == Exited with status 1 ==
+[2020-09-10 22:15:38.228744] #
+[2020-09-10 22:15:38.228744] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:38.228744] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:38.228744] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:38.228744] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:38.228744] #
+[2020-09-10 22:15:38.253748] == Exited with status 1 ==
+[2020-09-10 22:15:38.228744] #
+[2020-09-10 22:15:38.228744] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:38.228744] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:38.228744] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:38.228744] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:38.228744] #
+[2020-09-10 22:15:38.253748] == Exited with status 1 ==
+[2020-09-10 22:15:39.367546] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 7604) ==
+[2020-09-10 22:15:40.233144] 2020-09-10 22:15:40.232 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:40.312200] #
+[2020-09-10 22:15:40.312200] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:40.312200] #
+[2020-09-10 22:15:40.312200] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=12976, tid=0x0000000000002f6c
+[2020-09-10 22:15:40.312200] #
+[2020-09-10 22:15:40.312200] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:40.312200] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:40.312200] # Problematic frame:
+[2020-09-10 22:15:40.316204] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:40.316204] #
+[2020-09-10 22:15:40.316204] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:40.316204] #
+[2020-09-10 22:15:40.316204] # An error report file with more information is saved as:
+[2020-09-10 22:15:40.316204] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid12976.log
+[2020-09-10 22:15:40.335216] #
+[2020-09-10 22:15:40.335216] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:40.335216] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:40.335216] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:40.335216] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:40.335216] #
+[2020-09-10 22:15:40.367248] == Exited with status 1 ==
+[2020-09-10 22:15:40.233144] 2020-09-10 22:15:40.232 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:40.312200] #
+[2020-09-10 22:15:40.312200] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:40.312200] #
+[2020-09-10 22:15:40.312200] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=12976, tid=0x0000000000002f6c
+[2020-09-10 22:15:40.312200] #
+[2020-09-10 22:15:40.312200] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:40.312200] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:40.312200] # Problematic frame:
+[2020-09-10 22:15:40.316204] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:40.316204] #
+[2020-09-10 22:15:40.316204] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:40.316204] #
+[2020-09-10 22:15:40.316204] # An error report file with more information is saved as:
+[2020-09-10 22:15:40.316204] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid12976.log
+[2020-09-10 22:15:40.335216] #
+[2020-09-10 22:15:40.335216] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:40.335216] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:40.335216] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:40.335216] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:40.335216] #
+[2020-09-10 22:15:40.367248] == Exited with status 1 ==
+[2020-09-10 22:15:40.233144] 2020-09-10 22:15:40.232 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:40.312200] #
+[2020-09-10 22:15:40.312200] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:40.312200] #
+[2020-09-10 22:15:40.312200] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=12976, tid=0x0000000000002f6c
+[2020-09-10 22:15:40.312200] #
+[2020-09-10 22:15:40.312200] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:40.312200] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:40.312200] # Problematic frame:
+[2020-09-10 22:15:40.316204] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:40.316204] #
+[2020-09-10 22:15:40.316204] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:40.316204] #
+[2020-09-10 22:15:40.316204] # An error report file with more information is saved as:
+[2020-09-10 22:15:40.316204] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid12976.log
+[2020-09-10 22:15:40.335216] #
+[2020-09-10 22:15:40.335216] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:40.335216] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:40.335216] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:40.335216] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:40.335216] #
+[2020-09-10 22:15:40.367248] == Exited with status 1 ==
+[2020-09-10 22:15:41.489061] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 9940) ==
+[2020-09-10 22:15:42.665944] 2020-09-10 22:15:42.664 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:42.759009] #
+[2020-09-10 22:15:42.759009] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:42.759009] #
+[2020-09-10 22:15:42.759009] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13620, tid=0x0000000000002ac0
+[2020-09-10 22:15:42.759009] #
+[2020-09-10 22:15:42.759009] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:42.759009] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:42.759009] # Problematic frame:
+[2020-09-10 22:15:42.764012] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:42.764012] #
+[2020-09-10 22:15:42.764012] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:42.764012] #
+[2020-09-10 22:15:42.764012] # An error report file with more information is saved as:
+[2020-09-10 22:15:42.764012] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13620.log
+[2020-09-10 22:15:42.781024] #
+[2020-09-10 22:15:42.781024] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:42.781024] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:42.781024] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:42.781024] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:42.781024] #
+[2020-09-10 22:15:42.809058] == Exited with status 1 ==
+[2020-09-10 22:15:42.759009] #
+[2020-09-10 22:15:42.759009] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:42.759009] #
+[2020-09-10 22:15:42.759009] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13620, tid=0x0000000000002ac0
+[2020-09-10 22:15:42.759009] #
+[2020-09-10 22:15:42.759009] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:42.759009] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:42.759009] # Problematic frame:
+[2020-09-10 22:15:42.764012] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:42.764012] #
+[2020-09-10 22:15:42.764012] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:42.764012] #
+[2020-09-10 22:15:42.764012] # An error report file with more information is saved as:
+[2020-09-10 22:15:42.764012] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13620.log
+[2020-09-10 22:15:42.781024] #
+[2020-09-10 22:15:42.781024] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:42.781024] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:42.781024] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:42.781024] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:42.781024] #
+[2020-09-10 22:15:42.809058] == Exited with status 1 ==
+[2020-09-10 22:15:42.759009] #
+[2020-09-10 22:15:42.759009] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:42.759009] #
+[2020-09-10 22:15:42.759009] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13620, tid=0x0000000000002ac0
+[2020-09-10 22:15:42.759009] #
+[2020-09-10 22:15:42.759009] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:42.759009] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:42.759009] # Problematic frame:
+[2020-09-10 22:15:42.764012] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:42.764012] #
+[2020-09-10 22:15:42.764012] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:42.764012] #
+[2020-09-10 22:15:42.764012] # An error report file with more information is saved as:
+[2020-09-10 22:15:42.764012] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13620.log
+[2020-09-10 22:15:42.781024] #
+[2020-09-10 22:15:42.781024] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:42.781024] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:42.781024] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:42.781024] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:42.781024] #
+[2020-09-10 22:15:42.809058] == Exited with status 1 ==
+[2020-09-10 22:15:43.903955] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 13768) ==
+[2020-09-10 22:15:44.784577] 2020-09-10 22:15:44.783 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:44.864633] #
+[2020-09-10 22:15:44.864633] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:44.864633] #
+[2020-09-10 22:15:44.864633] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13848, tid=0x0000000000003624
+[2020-09-10 22:15:44.864633] #
+[2020-09-10 22:15:44.864633] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:44.864633] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:44.864633] # Problematic frame:
+[2020-09-10 22:15:44.868635] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:44.868635] #
+[2020-09-10 22:15:44.868635] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:44.868635] #
+[2020-09-10 22:15:44.869636] # An error report file with more information is saved as:
+[2020-09-10 22:15:44.869636] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13848.log
+[2020-09-10 22:15:44.883646] #
+[2020-09-10 22:15:44.883646] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:44.883646] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:44.883646] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:44.883646] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:44.883646] #
+[2020-09-10 22:15:44.911665] == Exited with status 1 ==
+[2020-09-10 22:15:44.784577] 2020-09-10 22:15:44.783 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:44.864633] #
+[2020-09-10 22:15:44.864633] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:44.864633] #
+[2020-09-10 22:15:44.864633] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13848, tid=0x0000000000003624
+[2020-09-10 22:15:44.864633] #
+[2020-09-10 22:15:44.864633] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:44.864633] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:44.864633] # Problematic frame:
+[2020-09-10 22:15:44.868635] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:44.868635] #
+[2020-09-10 22:15:44.868635] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:44.868635] #
+[2020-09-10 22:15:44.869636] # An error report file with more information is saved as:
+[2020-09-10 22:15:44.869636] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13848.log
+[2020-09-10 22:15:44.883646] #
+[2020-09-10 22:15:44.883646] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:44.883646] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:44.883646] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:44.883646] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:44.883646] #
+[2020-09-10 22:15:44.911665] == Exited with status 1 ==
+[2020-09-10 22:15:46.003555] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 11032) ==
+[2020-09-10 22:15:46.865165] 2020-09-10 22:15:46.864 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:46.944218] #
+[2020-09-10 22:15:46.944218] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:46.944218] #
+[2020-09-10 22:15:46.944218] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=14208, tid=0x0000000000002fec
+[2020-09-10 22:15:46.944218] #
+[2020-09-10 22:15:46.944218] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:46.944218] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:46.944218] # Problematic frame:
+[2020-09-10 22:15:46.949222] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:46.949222] #
+[2020-09-10 22:15:46.949222] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:46.949222] #
+[2020-09-10 22:15:46.949222] # An error report file with more information is saved as:
+[2020-09-10 22:15:46.949222] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid14208.log
+[2020-09-10 22:15:46.966248] #
+[2020-09-10 22:15:46.966248] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:46.966248] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:46.966248] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:46.966248] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:46.966248] #
+[2020-09-10 22:15:46.996269] == Exited with status 1 ==
+[2020-09-10 22:15:46.865165] 2020-09-10 22:15:46.864 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:46.944218] #
+[2020-09-10 22:15:46.944218] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:46.944218] #
+[2020-09-10 22:15:46.944218] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=14208, tid=0x0000000000002fec
+[2020-09-10 22:15:46.944218] #
+[2020-09-10 22:15:46.944218] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:46.944218] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:46.944218] # Problematic frame:
+[2020-09-10 22:15:46.949222] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:46.949222] #
+[2020-09-10 22:15:46.949222] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:46.949222] #
+[2020-09-10 22:15:46.949222] # An error report file with more information is saved as:
+[2020-09-10 22:15:46.949222] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid14208.log
+[2020-09-10 22:15:46.966248] #
+[2020-09-10 22:15:46.966248] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:46.966248] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:46.966248] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:46.966248] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:46.966248] #
+[2020-09-10 22:15:46.996269] == Exited with status 1 ==
+[2020-09-10 22:15:46.865165] 2020-09-10 22:15:46.864 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:46.944218] #
+[2020-09-10 22:15:46.944218] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:46.944218] #
+[2020-09-10 22:15:46.944218] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=14208, tid=0x0000000000002fec
+[2020-09-10 22:15:46.944218] #
+[2020-09-10 22:15:46.944218] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:46.944218] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:46.944218] # Problematic frame:
+[2020-09-10 22:15:46.949222] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:46.949222] #
+[2020-09-10 22:15:46.949222] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:46.949222] #
+[2020-09-10 22:15:46.949222] # An error report file with more information is saved as:
+[2020-09-10 22:15:46.949222] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid14208.log
+[2020-09-10 22:15:46.966248] #
+[2020-09-10 22:15:46.966248] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:46.966248] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:46.966248] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:46.966248] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:46.966248] #
+[2020-09-10 22:15:46.996269] == Exited with status 1 ==
+[2020-09-10 22:15:48.095030] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 10696) ==
+[2020-09-10 22:15:49.061712] 2020-09-10 22:15:49.061 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:49.142769] #
+[2020-09-10 22:15:49.142769] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:49.142769] #
+[2020-09-10 22:15:49.142769] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13540, tid=0x0000000000002a34
+[2020-09-10 22:15:49.142769] #
+[2020-09-10 22:15:49.142769] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:49.142769] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:49.142769] # Problematic frame:
+[2020-09-10 22:15:49.147772] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:49.147772] #
+[2020-09-10 22:15:49.147772] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:49.147772] #
+[2020-09-10 22:15:49.147772] # An error report file with more information is saved as:
+[2020-09-10 22:15:49.147772] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13540.log
+[2020-09-10 22:15:49.162783] #
+[2020-09-10 22:15:49.162783] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:49.162783] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:49.162783] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:49.162783] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:49.162783] #
+[2020-09-10 22:15:49.191818] == Exited with status 1 ==
+[2020-09-10 22:15:49.142769] #
+[2020-09-10 22:15:49.142769] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:49.142769] #
+[2020-09-10 22:15:49.142769] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13540, tid=0x0000000000002a34
+[2020-09-10 22:15:49.142769] #
+[2020-09-10 22:15:49.142769] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:49.142769] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:49.142769] # Problematic frame:
+[2020-09-10 22:15:49.147772] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:49.147772] #
+[2020-09-10 22:15:49.147772] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:49.147772] #
+[2020-09-10 22:15:49.147772] # An error report file with more information is saved as:
+[2020-09-10 22:15:49.147772] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13540.log
+[2020-09-10 22:15:49.162783] #
+[2020-09-10 22:15:49.162783] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:49.162783] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:49.162783] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:49.162783] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:49.162783] #
+[2020-09-10 22:15:49.191818] == Exited with status 1 ==
+[2020-09-10 22:15:49.142769] #
+[2020-09-10 22:15:49.142769] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:49.142769] #
+[2020-09-10 22:15:49.142769] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13540, tid=0x0000000000002a34
+[2020-09-10 22:15:49.142769] #
+[2020-09-10 22:15:49.142769] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:49.142769] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:49.142769] # Problematic frame:
+[2020-09-10 22:15:49.147772] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:49.147772] #
+[2020-09-10 22:15:49.147772] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:49.147772] #
+[2020-09-10 22:15:49.147772] # An error report file with more information is saved as:
+[2020-09-10 22:15:49.147772] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid13540.log
+[2020-09-10 22:15:49.162783] #
+[2020-09-10 22:15:49.162783] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:49.162783] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:49.162783] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:49.162783] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:49.162783] #
+[2020-09-10 22:15:49.191818] == Exited with status 1 ==
+[2020-09-10 22:15:50.290578] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 7924) ==
+[2020-09-10 22:15:51.181207] 2020-09-10 22:15:51.180 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:51.259263] #
+[2020-09-10 22:15:51.259263] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:51.259263] #
+[2020-09-10 22:15:51.259263] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=7820, tid=0x0000000000002a40
+[2020-09-10 22:15:51.259263] #
+[2020-09-10 22:15:51.259263] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:51.259263] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:51.259263] # Problematic frame:
+[2020-09-10 22:15:51.264266] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:51.264266] #
+[2020-09-10 22:15:51.264266] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:51.264266] #
+[2020-09-10 22:15:51.264266] # An error report file with more information is saved as:
+[2020-09-10 22:15:51.264266] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid7820.log
+[2020-09-10 22:15:51.281278] #
+[2020-09-10 22:15:51.281278] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:51.281278] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:51.281278] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:51.281278] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:51.281278] #
+[2020-09-10 22:15:51.308296] == Exited with status 1 ==
+[2020-09-10 22:15:51.308296] == Exited with status 1 ==
+[2020-09-10 22:15:51.308296] == Exited with status 1 ==
+[2020-09-10 22:15:52.402636] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 8744) ==
+[2020-09-10 22:15:53.261294] 2020-09-10 22:15:53.260 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:53.343352] #
+[2020-09-10 22:15:53.343352] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:53.343352] #
+[2020-09-10 22:15:53.343352] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=6584, tid=0x00000000000037f4
+[2020-09-10 22:15:53.343352] #
+[2020-09-10 22:15:53.343352] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:53.343352] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:53.343352] # Problematic frame:
+[2020-09-10 22:15:53.348343] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:53.348343] #
+[2020-09-10 22:15:53.348343] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:53.348343] #
+[2020-09-10 22:15:53.348343] # An error report file with more information is saved as:
+[2020-09-10 22:15:53.348343] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid6584.log
+[2020-09-10 22:15:53.362352] #
+[2020-09-10 22:15:53.362352] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:53.362352] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:53.362352] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:53.362352] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:53.362352] #
+[2020-09-10 22:15:53.391388] == Exited with status 1 ==
+[2020-09-10 22:15:53.261294] 2020-09-10 22:15:53.260 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:53.343352] #
+[2020-09-10 22:15:53.343352] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:53.343352] #
+[2020-09-10 22:15:53.343352] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=6584, tid=0x00000000000037f4
+[2020-09-10 22:15:53.343352] #
+[2020-09-10 22:15:53.343352] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:53.343352] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:53.343352] # Problematic frame:
+[2020-09-10 22:15:53.348343] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:53.348343] #
+[2020-09-10 22:15:53.348343] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:53.348343] #
+[2020-09-10 22:15:53.348343] # An error report file with more information is saved as:
+[2020-09-10 22:15:53.348343] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid6584.log
+[2020-09-10 22:15:53.362352] #
+[2020-09-10 22:15:53.362352] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:53.362352] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:53.362352] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:53.362352] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:53.362352] #
+[2020-09-10 22:15:53.391388] == Exited with status 1 ==
+[2020-09-10 22:15:53.261294] 2020-09-10 22:15:53.260 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:53.343352] #
+[2020-09-10 22:15:53.343352] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:53.343352] #
+[2020-09-10 22:15:53.343352] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=6584, tid=0x00000000000037f4
+[2020-09-10 22:15:53.343352] #
+[2020-09-10 22:15:53.343352] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:53.343352] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:53.343352] # Problematic frame:
+[2020-09-10 22:15:53.348343] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:53.348343] #
+[2020-09-10 22:15:53.348343] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:53.348343] #
+[2020-09-10 22:15:53.348343] # An error report file with more information is saved as:
+[2020-09-10 22:15:53.348343] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid6584.log
+[2020-09-10 22:15:53.362352] #
+[2020-09-10 22:15:53.362352] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:53.362352] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:53.362352] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:53.362352] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:53.362352] #
+[2020-09-10 22:15:53.391388] == Exited with status 1 ==
+[2020-09-10 22:15:54.484818] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 12468) ==
+[2020-09-10 22:15:55.347985] 2020-09-10 22:15:55.346 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:55.426030] #
+[2020-09-10 22:15:55.426030] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:55.426030] #
+[2020-09-10 22:15:55.426030] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13848, tid=0x00000000000037c0
+[2020-09-10 22:15:55.426030] #
+[2020-09-10 22:15:55.426030] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:55.426030] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:55.426030] # Problematic frame:
+[2020-09-10 22:15:55.431031] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:55.431031] #
+[2020-09-10 22:15:55.431031] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:55.431031] #
+[2020-09-10 22:15:55.431031] # An error report file with more information is saved as:
+[2020-09-10 22:15:55.431031] # C:\Users\SEBAST~1\AppData\Local\Temp\\hs_err_pid13848.log
+[2020-09-10 22:15:55.448044] #
+[2020-09-10 22:15:55.448044] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:55.448044] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:55.448044] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:55.448044] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:55.448044] #
+[2020-09-10 22:15:55.477063] == Exited with status 1 ==
+[2020-09-10 22:15:55.347985] 2020-09-10 22:15:55.346 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:55.426030] #
+[2020-09-10 22:15:55.426030] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:55.426030] #
+[2020-09-10 22:15:55.426030] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13848, tid=0x00000000000037c0
+[2020-09-10 22:15:55.426030] #
+[2020-09-10 22:15:55.426030] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:55.426030] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:55.426030] # Problematic frame:
+[2020-09-10 22:15:55.431031] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:55.431031] #
+[2020-09-10 22:15:55.431031] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:55.431031] #
+[2020-09-10 22:15:55.431031] # An error report file with more information is saved as:
+[2020-09-10 22:15:55.431031] # C:\Users\SEBAST~1\AppData\Local\Temp\\hs_err_pid13848.log
+[2020-09-10 22:15:55.448044] #
+[2020-09-10 22:15:55.448044] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:55.448044] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:55.448044] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:55.448044] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:55.448044] #
+[2020-09-10 22:15:55.477063] == Exited with status 1 ==
+[2020-09-10 22:15:55.347985] 2020-09-10 22:15:55.346 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:55.426030] #
+[2020-09-10 22:15:55.426030] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:55.426030] #
+[2020-09-10 22:15:55.426030] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=13848, tid=0x00000000000037c0
+[2020-09-10 22:15:55.426030] #
+[2020-09-10 22:15:55.426030] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:55.426030] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:55.426030] # Problematic frame:
+[2020-09-10 22:15:55.431031] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:55.431031] #
+[2020-09-10 22:15:55.431031] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:55.431031] #
+[2020-09-10 22:15:55.431031] # An error report file with more information is saved as:
+[2020-09-10 22:15:55.431031] # C:\Users\SEBAST~1\AppData\Local\Temp\\hs_err_pid13848.log
+[2020-09-10 22:15:55.448044] #
+[2020-09-10 22:15:55.448044] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:55.448044] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:55.448044] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:55.448044] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:55.448044] #
+[2020-09-10 22:15:55.477063] == Exited with status 1 ==
+[2020-09-10 22:15:56.569901] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 3824) ==
+[2020-09-10 22:15:57.410056] 2020-09-10 22:15:57.409 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:57.490113] #
+[2020-09-10 22:15:57.490113] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:57.490113] #
+[2020-09-10 22:15:57.490113] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11032, tid=0x00000000000021a0
+[2020-09-10 22:15:57.490113] #
+[2020-09-10 22:15:57.490113] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:57.490113] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:57.490113] # Problematic frame:
+[2020-09-10 22:15:57.495116] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:57.495116] #
+[2020-09-10 22:15:57.495116] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:57.495116] #
+[2020-09-10 22:15:57.495116] # An error report file with more information is saved as:
+[2020-09-10 22:15:57.495116] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11032.log
+[2020-09-10 22:15:57.513114] #
+[2020-09-10 22:15:57.513114] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:57.513114] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:57.513114] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:57.513114] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:57.513114] #
+[2020-09-10 22:15:57.539134] == Exited with status 1 ==
+[2020-09-10 22:15:57.410056] 2020-09-10 22:15:57.409 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:57.490113] #
+[2020-09-10 22:15:57.490113] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:57.490113] #
+[2020-09-10 22:15:57.490113] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11032, tid=0x00000000000021a0
+[2020-09-10 22:15:57.490113] #
+[2020-09-10 22:15:57.490113] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:57.490113] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:57.490113] # Problematic frame:
+[2020-09-10 22:15:57.495116] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:57.495116] #
+[2020-09-10 22:15:57.495116] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:57.495116] #
+[2020-09-10 22:15:57.495116] # An error report file with more information is saved as:
+[2020-09-10 22:15:57.495116] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11032.log
+[2020-09-10 22:15:57.513114] #
+[2020-09-10 22:15:57.513114] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:57.513114] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:57.513114] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:57.513114] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:57.513114] #
+[2020-09-10 22:15:57.539134] == Exited with status 1 ==
+[2020-09-10 22:15:57.410056] 2020-09-10 22:15:57.409 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:57.490113] #
+[2020-09-10 22:15:57.490113] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:57.490113] #
+[2020-09-10 22:15:57.490113] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=11032, tid=0x00000000000021a0
+[2020-09-10 22:15:57.490113] #
+[2020-09-10 22:15:57.490113] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:57.490113] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:57.490113] # Problematic frame:
+[2020-09-10 22:15:57.495116] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:57.495116] #
+[2020-09-10 22:15:57.495116] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:57.495116] #
+[2020-09-10 22:15:57.495116] # An error report file with more information is saved as:
+[2020-09-10 22:15:57.495116] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid11032.log
+[2020-09-10 22:15:57.513114] #
+[2020-09-10 22:15:57.513114] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:57.513114] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:57.513114] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:57.513114] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:57.513114] #
+[2020-09-10 22:15:57.539134] == Exited with status 1 ==
+[2020-09-10 22:15:58.645489] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 13828) ==
+[2020-09-10 22:15:59.502650] 2020-09-10 22:15:59.501 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:59.582706] #
+[2020-09-10 22:15:59.582706] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:59.582706] #
+[2020-09-10 22:15:59.582706] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=5472, tid=0x000000000000377c
+[2020-09-10 22:15:59.582706] #
+[2020-09-10 22:15:59.582706] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:59.582706] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:59.582706] # Problematic frame:
+[2020-09-10 22:15:59.587710] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:59.587710] #
+[2020-09-10 22:15:59.587710] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:59.587710] #
+[2020-09-10 22:15:59.588710] # An error report file with more information is saved as:
+[2020-09-10 22:15:59.588710] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid5472.log
+[2020-09-10 22:15:59.604723] #
+[2020-09-10 22:15:59.604723] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:59.604723] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:59.604723] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:59.604723] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:59.604723] #
+[2020-09-10 22:15:59.632741] == Exited with status 1 ==
+[2020-09-10 22:15:59.502650] 2020-09-10 22:15:59.501 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:59.582706] #
+[2020-09-10 22:15:59.582706] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:59.582706] #
+[2020-09-10 22:15:59.582706] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=5472, tid=0x000000000000377c
+[2020-09-10 22:15:59.582706] #
+[2020-09-10 22:15:59.582706] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:59.582706] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:59.582706] # Problematic frame:
+[2020-09-10 22:15:59.587710] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:59.587710] #
+[2020-09-10 22:15:59.587710] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:59.587710] #
+[2020-09-10 22:15:59.588710] # An error report file with more information is saved as:
+[2020-09-10 22:15:59.588710] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid5472.log
+[2020-09-10 22:15:59.604723] #
+[2020-09-10 22:15:59.604723] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:59.604723] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:59.604723] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:59.604723] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:59.604723] #
+[2020-09-10 22:15:59.632741] == Exited with status 1 ==
+[2020-09-10 22:15:59.502650] 2020-09-10 22:15:59.501 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:15:59.582706] #
+[2020-09-10 22:15:59.582706] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:15:59.582706] #
+[2020-09-10 22:15:59.582706] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=5472, tid=0x000000000000377c
+[2020-09-10 22:15:59.582706] #
+[2020-09-10 22:15:59.582706] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:15:59.582706] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:15:59.582706] # Problematic frame:
+[2020-09-10 22:15:59.587710] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:15:59.587710] #
+[2020-09-10 22:15:59.587710] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:15:59.587710] #
+[2020-09-10 22:15:59.588710] # An error report file with more information is saved as:
+[2020-09-10 22:15:59.588710] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid5472.log
+[2020-09-10 22:15:59.604723] #
+[2020-09-10 22:15:59.604723] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:15:59.604723] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:15:59.604723] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:15:59.604723] # See problematic frame for where to report the bug.
+[2020-09-10 22:15:59.604723] #
+[2020-09-10 22:15:59.632741] == Exited with status 1 ==
+[2020-09-10 22:16:00.747528] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 4492) ==
+[2020-09-10 22:16:01.614140] 2020-09-10 22:16:01.613 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:16:01.692196] #
+[2020-09-10 22:16:01.692196] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:16:01.692196] #
+[2020-09-10 22:16:01.692196] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=9804, tid=0x00000000000028bc
+[2020-09-10 22:16:01.692196] #
+[2020-09-10 22:16:01.692196] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:16:01.692196] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:16:01.692196] # Problematic frame:
+[2020-09-10 22:16:01.696198] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:16:01.696198] #
+[2020-09-10 22:16:01.696198] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:16:01.696198] #
+[2020-09-10 22:16:01.696198] # An error report file with more information is saved as:
+[2020-09-10 22:16:01.696198] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid9804.log
+[2020-09-10 22:16:01.710207] #
+[2020-09-10 22:16:01.710207] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:16:01.710207] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:16:01.710207] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:16:01.710207] # See problematic frame for where to report the bug.
+[2020-09-10 22:16:01.710207] #
+[2020-09-10 22:16:01.736225] == Exited with status 1 ==
+[2020-09-10 22:16:01.614140] 2020-09-10 22:16:01.613 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:16:01.692196] #
+[2020-09-10 22:16:01.692196] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:16:01.692196] #
+[2020-09-10 22:16:01.692196] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=9804, tid=0x00000000000028bc
+[2020-09-10 22:16:01.692196] #
+[2020-09-10 22:16:01.692196] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:16:01.692196] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:16:01.692196] # Problematic frame:
+[2020-09-10 22:16:01.696198] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:16:01.696198] #
+[2020-09-10 22:16:01.696198] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:16:01.696198] #
+[2020-09-10 22:16:01.696198] # An error report file with more information is saved as:
+[2020-09-10 22:16:01.696198] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid9804.log
+[2020-09-10 22:16:01.710207] #
+[2020-09-10 22:16:01.710207] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:16:01.710207] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:16:01.710207] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:16:01.710207] # See problematic frame for where to report the bug.
+[2020-09-10 22:16:01.710207] #
+[2020-09-10 22:16:01.736225] == Exited with status 1 ==
+[2020-09-10 22:16:01.614140] 2020-09-10 22:16:01.613 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:16:01.692196] #
+[2020-09-10 22:16:01.692196] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:16:01.692196] #
+[2020-09-10 22:16:01.692196] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=9804, tid=0x00000000000028bc
+[2020-09-10 22:16:01.692196] #
+[2020-09-10 22:16:01.692196] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:16:01.692196] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:16:01.692196] # Problematic frame:
+[2020-09-10 22:16:01.696198] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:16:01.696198] #
+[2020-09-10 22:16:01.696198] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:16:01.696198] #
+[2020-09-10 22:16:01.696198] # An error report file with more information is saved as:
+[2020-09-10 22:16:01.696198] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid9804.log
+[2020-09-10 22:16:01.710207] #
+[2020-09-10 22:16:01.710207] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:16:01.710207] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:16:01.710207] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:16:01.710207] # See problematic frame for where to report the bug.
+[2020-09-10 22:16:01.710207] #
+[2020-09-10 22:16:01.736225] == Exited with status 1 ==
+[2020-09-10 22:16:02.842624] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 8760) ==
+[2020-09-10 22:16:03.726246] 2020-09-10 22:16:03.726 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:16:03.810306] #
+[2020-09-10 22:16:03.810306] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:16:03.810306] #
+[2020-09-10 22:16:03.810306] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=10992, tid=0x00000000000034a4
+[2020-09-10 22:16:03.810306] #
+[2020-09-10 22:16:03.810306] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:16:03.810306] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:16:03.810306] # Problematic frame:
+[2020-09-10 22:16:03.814308] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:16:03.814308] #
+[2020-09-10 22:16:03.814308] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:16:03.814308] #
+[2020-09-10 22:16:03.815309] # An error report file with more information is saved as:
+[2020-09-10 22:16:03.815309] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid10992.log
+[2020-09-10 22:16:03.829318] #
+[2020-09-10 22:16:03.829318] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:16:03.829318] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:16:03.829318] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:16:03.829318] # See problematic frame for where to report the bug.
+[2020-09-10 22:16:03.829318] #
+[2020-09-10 22:16:03.856338] == Exited with status 1 ==
+[2020-09-10 22:16:03.856338] == Exited with status 1 ==
+[2020-09-10 22:16:03.954409] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 7852) ==
+[2020-09-10 22:16:04.852040] 2020-09-10 22:16:04.852 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:16:04.925093] #
+[2020-09-10 22:16:04.925093] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:16:04.925093] #
+[2020-09-10 22:16:04.925093] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=4236, tid=0x0000000000002390
+[2020-09-10 22:16:04.925093] #
+[2020-09-10 22:16:04.925093] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:16:04.925093] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:16:04.925093] # Problematic frame:
+[2020-09-10 22:16:04.929095] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:16:04.929095] #
+[2020-09-10 22:16:04.929095] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:16:04.929095] #
+[2020-09-10 22:16:04.929095] # An error report file with more information is saved as:
+[2020-09-10 22:16:04.929095] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid4236.log
+[2020-09-10 22:16:04.945107] #
+[2020-09-10 22:16:04.945107] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:16:04.945107] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:16:04.945107] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:16:04.945107] # See problematic frame for where to report the bug.
+[2020-09-10 22:16:04.945107] #
+[2020-09-10 22:16:04.973126] == Exited with status 1 ==
+[2020-09-10 22:16:04.973126] == Exited with status 1 ==
+[2020-09-10 22:16:04.973126] == Exited with status 1 ==
+[2020-09-10 22:16:06.071461] == Executing C:\dsa\dglux-server\dslinks\Ser\bin\dslink-java-serial.bat with arguments [--name, Serial, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:58990/conn, --token, JhyVBonpjwrJoSEptKIagvdREOTrNApKGnfwpWw7aZt6AjU4] (pid: 13032) ==
+[2020-09-10 22:16:06.943625] 2020-09-10 22:16:06.942 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:16:07.027684] #
+[2020-09-10 22:16:07.027684] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:16:07.027684] #
+[2020-09-10 22:16:07.027684] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=3824, tid=0x00000000000032c8
+[2020-09-10 22:16:07.027684] #
+[2020-09-10 22:16:07.027684] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:16:07.027684] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:16:07.027684] # Problematic frame:
+[2020-09-10 22:16:07.032687] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:16:07.032687] #
+[2020-09-10 22:16:07.032687] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:16:07.032687] #
+[2020-09-10 22:16:07.032687] # An error report file with more information is saved as:
+[2020-09-10 22:16:07.032687] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid3824.log
+[2020-09-10 22:16:07.048698] #
+[2020-09-10 22:16:07.048698] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:16:07.048698] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:16:07.048698] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:16:07.048698] # See problematic frame for where to report the bug.
+[2020-09-10 22:16:07.048698] #
+[2020-09-10 22:16:07.078718] == Exited with status 1 ==
+[2020-09-10 22:16:06.943625] 2020-09-10 22:16:06.942 [Thread-2] INFO serial.Main - Initialized
+[2020-09-10 22:16:07.027684] #
+[2020-09-10 22:16:07.027684] # A fatal error has been detected by the Java Runtime Environment:
+[2020-09-10 22:16:07.027684] #
+[2020-09-10 22:16:07.027684] #  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x000000007110b5db, pid=3824, tid=0x00000000000032c8
+[2020-09-10 22:16:07.027684] #
+[2020-09-10 22:16:07.027684] # JRE version: Java(TM) SE Runtime Environment (8.0_261-b12) (build 1.8.0_261-b12)
+[2020-09-10 22:16:07.027684] # Java VM: Java HotSpot(TM) 64-Bit Server VM (25.261-b12 mixed mode windows-amd64 compressed oops)
+[2020-09-10 22:16:07.027684] # Problematic frame:
+[2020-09-10 22:16:07.032687] # C  [jSSC-2.8_x86_64.dll+0xb5db]
+[2020-09-10 22:16:07.032687] #
+[2020-09-10 22:16:07.032687] # Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+[2020-09-10 22:16:07.032687] #
+[2020-09-10 22:16:07.032687] # An error report file with more information is saved as:
+[2020-09-10 22:16:07.032687] # C:\dsa\dglux-server\dslinks\Ser\hs_err_pid3824.log
+[2020-09-10 22:16:07.048698] #
+[2020-09-10 22:16:07.048698] # If you would like to submit a bug report, please visit:
+[2020-09-10 22:16:07.048698] #   http://bugreport.java.com/bugreport/crash.jsp
+[2020-09-10 22:16:07.048698] # The crash happened outside the Java Virtual Machine in native code.
+[2020-09-10 22:16:07.048698] # See problematic frame for where to report the bug.
+[2020-09-10 22:16:07.048698] #
+[2020-09-10 22:16:07.078718] == Exited with status 1 ==

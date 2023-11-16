@@ -1,0 +1,32 @@
+.dglux_page_background {
+  background-color: #2d2d2d;
+}
+
+div.isDefaultThemeHolder {
+  content: 'true';
+}
+
+div.dataflowBlockDefaultBgHolder {
+  content: 'true';
+}
+
+.dglux_page_root .dgWidgetButtonCountDiv {
+  border: #347690 solid;
+  background: #347690;
+}
+
+div.viewerBodyColorHolder {
+  content: '#dddddd';
+}
+
+.dglux_page_root .relativizeDialog .dgDatagridCell .dgTextEditor input {
+  height: 20px;
+}
+
+[class^="dgIcon-"], [class*=" dgIcon-"] {
+  width: 16px;
+  height: 16px;
+  font-size: 16px;
+  display: inline-block;
+  vertical-align: middle;
+}

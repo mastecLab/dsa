@@ -1,0 +1,35 @@
+[2018-02-19 16:51:32.436823] == Executing C:\Program Files (x86)\Git\cmd/git.exe with arguments [clone, https://github.com/IOT-DSA/dslink-java-mqtt, dslinks\6d7b6310-15c7-11e8-b731-1cb72c1ccec4] (pid: 17720) ==
+[2018-02-19 16:51:33.342441] Cloning into 'dslinks\6d7b6310-15c7-11e8-b731-1cb72c1ccec4'...
+[2018-02-19 16:51:37.137310] == Exited with status 0 ==
+[2018-02-19 16:51:37.137310] == Exited with status 0 ==
+[2018-02-19 16:51:37.137310] == Exited with status 0 ==
+[2018-02-19 16:51:40.459079] == Executing C:\Program Files (x86)\Git\cmd/git.exe with arguments [clone, https://github.com/IOT-DSA/dslink-java-mqtt, dslinks\6d7b6313-15c7-11e8-b731-1cb72c1ccec4] (pid: 8576) ==
+[2018-02-19 16:51:40.547146] Cloning into 'dslinks\6d7b6313-15c7-11e8-b731-1cb72c1ccec4'...
+[2018-02-19 16:51:42.680379] == Exited with status 0 ==
+[2018-02-19 16:51:42.680379] == Exited with status 0 ==
+[2018-02-19 16:51:42.680379] == Exited with status 0 ==
+[2018-02-19 16:52:36.547160] == Executing C:\Program Files (x86)\Git\cmd/git.exe with arguments [clone, https://github.com/IOT-DSA/dslink-java-mqtt.git, dslinks\93b29ca0-15c7-11e8-b731-1cb72c1ccec4] (pid: 16932) ==
+[2018-02-19 16:52:36.640569] Cloning into 'dslinks\93b29ca0-15c7-11e8-b731-1cb72c1ccec4'...
+[2018-02-19 16:52:39.214526] == Exited with status 0 ==
+[2018-02-19 16:52:39.214526] == Exited with status 0 ==
+[2018-02-19 16:52:39.214526] == Exited with status 0 ==
+[2018-02-19 16:52:50.056935] == Executing C:\Program Files (x86)\Git\cmd/git.exe with arguments [clone, https://github.com/IOT-DSA/dslink-java-mqtt.git, dslinks\9bc00a3a-15c7-11e8-b731-1cb72c1ccec4] (pid: 6432) ==
+[2018-02-19 16:52:50.153009] Cloning into 'dslinks\9bc00a3a-15c7-11e8-b731-1cb72c1ccec4'...
+[2018-02-19 16:52:52.302306] == Exited with status 0 ==
+[2018-02-19 16:52:52.302306] == Exited with status 0 ==
+[2018-02-19 16:52:52.302306] == Exited with status 0 ==
+[2018-02-19 16:52:54.802516] == Executing C:\Program Files (x86)\Git\cmd/git.exe with arguments [clone, https://github.com/IOT-DSA/dslink-java-mqtt.git, dslinks\9bc00a3d-15c7-11e8-b731-1cb72c1ccec4] (pid: 15576) ==
+[2018-02-19 16:52:54.894100] Cloning into 'dslinks\9bc00a3d-15c7-11e8-b731-1cb72c1ccec4'...
+[2018-02-19 16:52:56.742132] == Exited with status 0 ==
+[2018-02-19 16:52:56.742132] == Exited with status 0 ==
+[2018-02-19 16:52:56.742132] == Exited with status 0 ==
+[2018-02-19 16:53:17.441693] == Executing C:\Program Files (x86)\Git\cmd/git.exe with arguments [clone, https://github.com/IOT-DSA/dslink-java-mqtt.git, dslinks\ac123d9c-15c7-11e8-b731-1cb72c1ccec4] (pid: 14220) ==
+[2018-02-19 16:53:17.540637] Cloning into 'dslinks\ac123d9c-15c7-11e8-b731-1cb72c1ccec4'...
+[2018-02-19 16:53:19.835030] == Exited with status 0 ==
+[2018-02-19 16:53:19.835030] == Exited with status 0 ==
+[2018-02-19 16:53:19.835030] == Exited with status 0 ==
+[2019-02-19 12:59:58.768731] == Executing C:\Program Files (x86)\Git\cmd/git.exe with arguments [clone, https://github.com/IOT-DSA/dslink-java-etsdb, dslinks\8cfc0576-3478-11e9-b787-dc85def8b2e6] (pid: 11188) ==
+[2019-02-19 13:00:00.180918] Cloning into 'dslinks\8cfc0576-3478-11e9-b787-dc85def8b2e6'...
+[2019-02-19 13:00:11.936152] == Exited with status 0 ==
+[2019-02-19 13:00:11.936152] == Exited with status 0 ==
+[2019-02-19 13:00:11.936152] == Exited with status 0 ==

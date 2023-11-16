@@ -1,0 +1,8 @@
+[2019-02-22 20:24:51.669803] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, System, --linux_use_free_command, true, --offset_memory_disk_cache, true, --lmsensors_raw_mode, false, --lmsensors_fahrenheit_mode, false, --broker, http://127.0.0.1:52787/conn, --token, YKrxAsRmJdDJXK8eeEuglVVdO3x2UKhPWJNZyNAvNnQBTKiK] (pid: 13496) ==
+[2019-02-22 20:25:05.978719] [INFO][DSA] Connecting to http://127.0.0.1:52787/conn
+[2019-02-22 20:25:06.088657] [INFO][DSA] Connected
+[2019-02-22 22:55:47.518849] [INFO][DSA] Disconnected
+[2019-02-22 22:55:51.146103] [INFO][DSA] Connected
+[2019-02-22 23:23:11.455434] == Exited with status 1 ==
+[2019-02-22 23:23:11.455434] == Exited with status 1 ==
+[2019-02-22 23:23:11.455434] == Exited with status 1 ==

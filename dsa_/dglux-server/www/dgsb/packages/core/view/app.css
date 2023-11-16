@@ -1,0 +1,44 @@
+html {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  cursor:default;
+  -webkit-print-color-adjust: exact;
+}
+
+body
+{
+ 
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  
+  color: #dddddd;
+  background-color: #2d2d2d;
+  font-size: 11px;
+
+ 
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+  margin: 0;
+
+  overflow: hidden;
+
+  
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media print {
+  body, html {
+    position: static;
+  }
+}

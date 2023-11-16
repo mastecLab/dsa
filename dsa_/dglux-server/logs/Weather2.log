@@ -1,0 +1,6 @@
+[2019-02-14 16:54:59.336030] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Weather, --broker, http://127.0.0.1:64919/conn, --token, uO81hekVuiTyanz5OTEvR2oYOAIonx8GfmpJXMfVLXbVzb3Y] (pid: 8976) ==
+[2019-02-14 16:55:02.237355] [INFO][DSA] Connecting to http://127.0.0.1:64919/conn
+[2019-02-14 16:55:02.511196] [INFO][DSA] Connected
+[2019-02-14 16:55:26.856593] == Exited with status 1 ==
+[2019-02-14 16:55:26.856593] == Exited with status 1 ==
+[2019-02-14 16:55:26.856593] == Exited with status 1 ==

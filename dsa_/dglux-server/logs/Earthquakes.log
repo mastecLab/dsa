@@ -1,0 +1,630 @@
+[2017-11-10 23:26:02.120113] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:55114/conn, --token, FQjVupEKpJg8BSc6YNT05SdRcfZTrZxcJwrzujL9Yx2F8iZI] (pid: 328) ==
+[2017-11-10 23:26:03.407352] [INFO][DSA] Connecting to http://127.0.0.1:55114/conn
+[2017-11-10 23:26:03.592177] [INFO][DSA] Connected
+[2017-11-11 09:30:42.731009] [INFO][DSA] Disconnected
+[2017-11-11 09:30:42.742016] [INFO][DSA] Connected
+[2017-11-11 15:04:16.609287] [INFO][DSA] Disconnected
+[2017-11-11 15:04:16.685841] [INFO][DSA] Connected
+[2017-11-11 15:41:14.856146] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:64133/conn, --token, XGuPjz5JOLfmcEvpO7ObkVUkAYIPpKKETU7Jex3U9KlReGsh] (pid: 18412) ==
+[2017-11-11 15:41:15.134362] [INFO][DSA] Connecting to http://127.0.0.1:64133/conn
+[2017-11-11 15:41:15.345043] [INFO][DSA] Connected
+[2017-11-16 18:56:38.588479] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:60510/conn, --token, wnXhzrvvInz6wuVH6nQbymE4zwbUKmNz4sJ5F5VriJwrIcTJ] (pid: 1892) ==
+[2017-11-16 18:56:39.025999] [INFO][DSA] Connecting to http://127.0.0.1:60510/conn
+[2017-11-16 18:56:39.244734] [INFO][DSA] Connected
+[2018-01-20 09:48:25.408634] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:52991/conn, --token, eZ3oGLjeKwKFH0xKbqGDzjYHcRNUvq04ySonHyW31xeABmdq] (pid: 20004) ==
+[2018-01-20 09:48:25.836937] [INFO][DSA] Connecting to http://127.0.0.1:52991/conn
+[2018-01-20 09:48:26.091116] [INFO][DSA] Connected
+[2018-01-20 23:33:24.507744] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:55911/conn, --token, YkwKV6AWNi9G1F1zE5HhT54bhAqQLznkGJDqH7ZEKysNuDnk] (pid: 10164) ==
+[2018-01-20 23:33:24.931097] [INFO][DSA] Connecting to http://127.0.0.1:55911/conn
+[2018-01-20 23:33:25.293372] [INFO][DSA] Connected
+[2018-01-20 23:36:58.272242] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:56126/conn, --token, pljwMGZwCQ1psdN1II6vkFGHO15AlY3RmbanWzdfODJka7Wb] (pid: 5380) ==
+[2018-01-20 23:36:58.726583] [INFO][DSA] Connecting to http://127.0.0.1:56126/conn
+[2018-01-20 23:36:59.164393] [INFO][DSA] Connected
+[2018-01-20 23:39:55.174379] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:56288/conn, --token, AGLKfP1Ye8YUHVSRxTDMtwslsp2flLQpBK4ivfengUxJhSyc] (pid: 20160) ==
+[2018-01-20 23:39:55.632222] [INFO][DSA] Connecting to http://127.0.0.1:56288/conn
+[2018-01-20 23:39:56.317246] [INFO][DSA] Connected
+[2018-01-22 16:17:51.920608] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:53646/conn, --token, vI8vQ8XUnfA7YWJO6PyTUCslMACFkl93NQTnTe2hd6cjmijh] (pid: 9792) ==
+[2018-01-22 16:17:52.342906] [INFO][DSA] Connecting to http://127.0.0.1:53646/conn
+[2018-01-22 16:17:52.646854] [INFO][DSA] Connected
+[2018-01-22 18:47:52.845839] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57047/conn, --token, cRv8xerrDqzTAT4PPprdJmdd7MuOKgSQ14dHKAwQDMg8RPMQ] (pid: 16548) ==
+[2018-01-22 18:47:53.264135] [INFO][DSA] Connecting to http://127.0.0.1:57047/conn
+[2018-01-22 18:47:53.595370] [INFO][DSA] Connected
+[2018-01-22 19:20:09.547854] [INFO][DSA] Disconnected
+[2018-01-22 19:20:09.593886] [INFO][DSA] Connected
+[2018-01-23 10:31:10.557239] [INFO][DSA] Disconnected
+[2018-01-23 10:31:12.037185] [INFO][DSA] Connected
+[2018-01-23 13:01:40.251709] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:61534/conn, --token, lYqAoU4o9rsPRloFDrChgA3A8DdIqUOVunsuON9utBoXgpMV] (pid: 556) ==
+[2018-01-23 13:01:40.690019] [INFO][DSA] Connecting to http://127.0.0.1:61534/conn
+[2018-01-23 13:01:40.940209] [INFO][DSA] Connected
+[2018-01-23 15:41:32.030802] == Exited with status -1073741510 ==
+[2018-01-23 15:41:38.480250] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:63807/conn, --token, q2yYreKpuAGV1Fkajnxf96bE2pEMXMobATdbWhkeSVSAMEVU] (pid: 1812) ==
+[2018-01-23 15:41:38.945580] [INFO][DSA] Connecting to http://127.0.0.1:63807/conn
+[2018-01-23 15:41:39.200760] [INFO][DSA] Connected
+[2018-01-29 18:38:23.055092] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:50259/conn, --token, MTNB9bvZKhJuD7AIrLBsd3BmKugw3BUaI3OeLgV1UOmyLGxd] (pid: 7448) ==
+[2018-01-29 18:38:23.412478] [INFO][DSA] Connecting to http://127.0.0.1:50259/conn
+[2018-01-29 18:38:23.615604] [INFO][DSA] Connected
+[2018-01-29 19:36:37.557864] [INFO][DSA] Disconnected
+[2018-01-29 19:36:37.606898] [INFO][DSA] Connected
+[2018-02-01 01:19:36.923009] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:54730/conn, --token, WfZOMuXRNjhz1SVSdaMn6EyY5dZnH5KlxQcLAqz7E64gsJhb] (pid: 7344) ==
+[2018-02-01 01:19:37.387337] [INFO][DSA] Connecting to http://127.0.0.1:54730/conn
+[2018-02-01 01:19:37.693553] [INFO][DSA] Connected
+[2018-02-01 01:23:46.471733] == Exited with status -1073741510 ==
+[2018-02-01 01:23:51.901295] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:54921/conn, --token, PMcg1WTWTHTHaBWJ1YkPr7ODID32Cc0mRbXv0PNZwgxPP3oq] (pid: 16472) ==
+[2018-02-01 01:23:52.203508] == Exited with status -1073741510 ==
+[2018-02-01 01:23:52.203508] == Exited with status -1073741510 ==
+[2018-02-01 01:23:57.704976] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:54925/conn, --token, gcH05vzquaCy7ku7xg4CAuOBwKGg0FGujEAz84Z87feMyaih] (pid: 9020) ==
+[2018-02-01 01:23:58.174309] [INFO][DSA] Connecting to http://127.0.0.1:54925/conn
+[2018-02-01 01:23:58.678665] [INFO][DSA] Connected
+[2018-02-01 23:31:35.470574] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:63501/conn, --token, IAFkxIe0YwdMP6WsurwSdUQFqYcIXu7OBfcaPnVlvD8Xo92D] (pid: 15260) ==
+[2018-02-01 23:31:35.930898] [INFO][DSA] Connecting to http://127.0.0.1:63501/conn
+[2018-02-01 23:31:36.545346] [INFO][DSA] Connected
+[2018-02-12 18:08:28.218935] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:59031/conn, --token, EVAMlNwtPsfsOrzrgrMLbK0KoqHr1VpB2b5H1wxss42pEl1R] (pid: 22920) ==
+[2018-02-12 18:08:28.628392] [INFO][DSA] Connecting to http://127.0.0.1:59031/conn
+[2018-02-12 18:08:28.946591] [INFO][DSA] Connected
+[2018-02-12 19:41:14.625830] [INFO][DSA] Disconnected
+[2018-02-12 19:41:18.058494] [INFO][DSA] Connected
+[2018-02-12 20:14:52.341898] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:60752/conn, --token, aDRL6czZO8076YT7QaY2xMmLV9KMqP3jf2hkS2GK9JvwZuz3] (pid: 23448) ==
+[2018-02-12 20:14:52.794214] [INFO][DSA] Connecting to http://127.0.0.1:60752/conn
+[2018-02-12 20:14:52.974342] [INFO][DSA] Connected
+[2018-02-12 21:57:24.611344] [INFO][DSA] Disconnected
+[2018-02-12 21:57:24.847026] [INFO][DSA] Connected
+[2018-02-13 09:19:09.572310] [INFO][DSA] Disconnected
+[2018-02-13 09:19:09.871029] [INFO][DSA] Connected
+[2018-02-13 20:40:50.712604] [INFO][DSA] Disconnected
+[2018-02-13 20:40:51.324067] [INFO][DSA] Connected
+[2018-02-14 10:04:54.609255] [INFO][DSA] Disconnected
+[2018-02-14 10:04:55.708695] [INFO][DSA] Connected
+[2018-02-19 10:55:19.386962] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:64268/conn, --token, YrhDYe5ZC3wvZfioHYS1s3By5ZiDT3CrO8ds1nLadKUGwFS1] (pid: 11408) ==
+[2018-02-19 10:55:19.800256] [INFO][DSA] Connecting to http://127.0.0.1:64268/conn
+[2018-02-19 10:55:20.118482] [INFO][DSA] Connected
+[2018-02-19 16:47:40.123990] [INFO][DSA] Disconnected
+[2018-02-19 16:50:22.779888] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:56528/conn, --token, D4ZwpBgeji8Ul8tWWQYiGUtYB5BrXrFKGJoRcxetrd9IbduF] (pid: 15696) ==
+[2018-02-19 16:50:23.402092] [INFO][DSA] Connecting to http://127.0.0.1:56528/conn
+[2018-02-19 16:50:23.666304] [INFO][DSA] Connected
+[2018-02-19 17:01:16.446532] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:56903/conn, --token, I0Y37EpJ502PiiYlOuPTuKEKPV8jxhZ40LqQraDv7kmljtCo] (pid: 20388) ==
+[2018-02-19 17:01:17.018456] [INFO][DSA] Connecting to http://127.0.0.1:56903/conn
+[2018-02-19 17:01:17.474279] [INFO][DSA] Connected
+[2018-02-19 17:13:31.269946] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57404/conn, --token, tu3fBggkn0MRpk8IjnRexb5862j74Vg3RPhFXkI2uEHepFiD] (pid: 3580) ==
+[2018-02-19 17:13:31.806350] [INFO][DSA] Connecting to http://127.0.0.1:57404/conn
+[2018-02-19 17:13:32.286190] [INFO][DSA] Connected
+[2018-02-19 18:07:48.635773] [INFO][DSA] Disconnected
+[2018-02-19 18:07:48.659791] [INFO][DSA] Connected
+[2018-02-19 21:41:26.910819] [INFO][DSA] Disconnected
+[2018-02-26 18:09:16.168439] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:53934/conn, --token, Juu64Jpd9iRIYzcQ6jjO9EMxPpIKSmD5s4dBzTn0GEFKc5OM] (pid: 17664) ==
+[2018-02-26 18:09:16.685804] [INFO][DSA] Connecting to http://127.0.0.1:53934/conn
+[2018-02-26 18:09:16.905960] [INFO][DSA] Connected
+[2018-02-26 21:49:55.605427] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:58315/conn, --token, 6QtvJ8SrF78WBhZxiGfL9SnGB28BQQNFDBbfAykJQP1OJrCq] (pid: 1972) ==
+[2018-02-26 21:49:56.085768] [INFO][DSA] Connecting to http://127.0.0.1:58315/conn
+[2018-02-26 21:49:56.582118] [INFO][DSA] Connected
+[2018-02-27 19:57:53.607941] [INFO][DSA] Disconnected
+[2018-02-27 19:57:53.670986] [INFO][DSA] Connected
+[2018-02-28 09:06:24.625754] [INFO][DSA] Disconnected
+[2018-02-28 09:06:25.180657] [INFO][DSA] Connected
+[2018-02-28 13:26:18.665854] [INFO][DSA] Disconnected
+[2018-02-28 13:26:22.040074] [INFO][DSA] Connected
+[2018-02-28 15:08:34.593194] [INFO][DSA] Disconnected
+[2018-02-28 15:08:34.670260] [INFO][DSA] Connected
+[2018-02-28 16:59:59.537767] [INFO][DSA] Disconnected
+[2018-02-28 17:00:03.119831] [INFO][DSA] Connected
+[2018-02-28 21:18:48.764902] [INFO][DSA] Disconnected
+[2018-02-28 21:18:48.885986] [INFO][DSA] Connected
+[2018-03-01 11:34:49.657890] [INFO][DSA] Disconnected
+[2018-03-01 11:34:50.081690] [INFO][DSA] Connected
+[2018-03-02 09:33:15.668362] [INFO][DSA] Disconnected
+[2018-03-02 09:33:16.582510] [INFO][DSA] Connected
+[2018-03-02 12:47:01.676815] [INFO][DSA] Disconnected
+[2018-03-02 12:47:01.703334] [INFO][DSA] Connected
+[2018-03-03 19:50:36.330471] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57853/conn, --token, LYjnpKou2omgrZiIAhldBYsr3DNbR6UuXzvgTXCiSl9AAAhX] (pid: 17796) ==
+[2018-03-03 19:50:36.934898] [INFO][DSA] Connecting to http://127.0.0.1:57853/conn
+[2018-03-03 19:50:37.236113] [INFO][DSA] Connected
+[2018-03-05 18:30:38.202106] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:62768/conn, --token, WFtmlt40O7FlC14a0NlvxxbrEffkAgdhXScdeXX8WjLunlPZ] (pid: 14676) ==
+[2018-03-05 18:30:38.629602] [INFO][DSA] Connecting to http://127.0.0.1:62768/conn
+[2018-03-05 18:30:38.857817] [INFO][DSA] Connected
+[2018-03-06 09:44:03.828985] [INFO][DSA] Disconnected
+[2018-03-06 09:44:04.075660] [INFO][DSA] Connected
+[2018-04-09 14:08:48.134537] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:64479/conn, --token, ICt58I6K7hoPWxuAWvQ0cmRf7HYMY83cFHd6u4I6OdyMxgYS] (pid: 20056) ==
+[2018-04-09 14:08:48.813802] [INFO][DSA] Connecting to http://127.0.0.1:64479/conn
+[2018-04-09 14:08:49.076650] [INFO][DSA] Connected
+[2018-04-09 18:01:22.541766] [INFO][DSA] Disconnected
+[2018-04-09 18:01:22.654374] [INFO][DSA] Connected
+[2018-04-10 11:12:29.721851] [INFO][DSA] Disconnected
+[2018-04-10 11:12:30.828676] [INFO][DSA] Connected
+[2018-04-10 18:22:04.615283] [INFO][DSA] Disconnected
+[2018-04-10 18:22:05.159718] [INFO][DSA] Connected
+[2018-04-10 20:12:01.550191] == Exited with status 1073807364 ==
+[2018-04-10 20:12:07.108210] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:64479/conn, --token, ICt58I6K7hoPWxuAWvQ0cmRf7HYMY83cFHd6u4I6OdyMxgYS] (pid: 29068) ==
+[2018-04-10 20:12:07.130225] == Exited with status -1073741205 ==
+[2018-04-10 20:12:07.130225] == Exited with status -1073741205 ==
+[2018-04-10 20:12:07.130225] == Exited with status -1073741205 ==
+[2018-04-10 20:12:08.182744] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:64479/conn, --token, ICt58I6K7hoPWxuAWvQ0cmRf7HYMY83cFHd6u4I6OdyMxgYS] (pid: 25812) ==
+[2018-04-10 20:12:08.256797] == Exited with status -1073741205 ==
+[2018-04-10 20:12:08.182744] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:64479/conn, --token, ICt58I6K7hoPWxuAWvQ0cmRf7HYMY83cFHd6u4I6OdyMxgYS] (pid: 25812) ==
+[2018-04-10 20:12:08.256797] == Exited with status -1073741205 ==
+[2018-04-10 21:31:03.658852] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:50524/conn, --token, JxgsS1ZX0xfRgDbVqUDkEJZUXtCddrdI7OyB7bk3wcK8u2zP] (pid: 14536) ==
+[2018-04-10 21:31:04.229275] [INFO][DSA] Connecting to http://127.0.0.1:50524/conn
+[2018-04-10 21:31:04.561184] [INFO][DSA] Connected
+[2018-04-11 16:22:33.141748] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:56960/conn, --token, lDVFzcrK4bXiWqeecIzzQ8KkwR9LuPDY8EBSDRgV3Fyxzato] (pid: 18464) ==
+[2018-04-11 16:22:33.689754] [INFO][DSA] Connecting to http://127.0.0.1:56960/conn
+[2018-04-11 16:22:33.983280] [INFO][DSA] Connected
+[2018-08-10 13:58:45.532623] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:64475/conn, --token, 5jKaPTH7jGfbCKr1TA1DssCB7MqVabls7hHTueRSvaahwjIQ] (pid: 38636) ==
+[2018-08-10 13:58:45.868475] [INFO][DSA] Connecting to http://127.0.0.1:64475/conn
+[2018-08-10 13:58:46.034380] [INFO][DSA] Connected
+[2018-08-10 17:20:16.559626] [INFO][DSA] Disconnected
+[2018-08-10 17:20:17.330181] [INFO][DSA] Connected
+[2018-08-10 20:38:02.632049] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:56377/conn, --token, zmvY5q2E4alhSanFRIVNz5EUsYwIA718ch45AIRvBCYDUKBv] (pid: 18380) ==
+[2018-08-10 20:38:03.014830] [INFO][DSA] Connecting to http://127.0.0.1:56377/conn
+[2018-08-10 20:38:03.256690] [INFO][DSA] Connected
+[2018-08-11 11:22:12.624602] [INFO][DSA] Disconnected
+[2018-08-11 11:22:14.007802] [INFO][DSA] Connected
+[2018-08-11 13:06:31.634592] [INFO][DSA] Disconnected
+[2018-08-11 13:06:35.315582] [INFO][DSA] Connected
+[2018-08-11 16:28:56.780428] [INFO][DSA] Disconnected
+[2018-08-11 16:29:00.202578] [INFO][DSA] Connected
+[2018-11-10 13:46:04.786655] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:50440/conn, --token, sdVGK63YWD0pjUcDzUs3wHQ4ce0JDdrORxrJv6cVWtQIjMrY] (pid: 16004) ==
+[2018-11-10 13:46:05.322413] [INFO][DSA] Connecting to http://127.0.0.1:50440/conn
+[2018-11-10 13:46:05.621243] [INFO][DSA] Connected
+[2018-11-10 14:55:26.911600] [INFO][DSA] Disconnected
+[2018-11-10 14:55:26.916598] [INFO][DSA] Connected
+[2018-11-10 15:13:00.846949] == Exited with status -1073741510 ==
+[2018-11-10 15:13:00.846949] == Exited with status -1073741510 ==
+[2018-11-10 15:13:00.846949] == Exited with status -1073741510 ==
+[2018-11-10 15:13:15.396432] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:52637/conn, --token, y4ctirs9aR4GYfLBHtZ0GdSuTVTuEngN4H3vVfFEJ9bx5319] (pid: 5084) ==
+[2018-11-11 09:58:12.161299] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:52809/conn, --token, O0OGfZlopWZQ4DlDXgaelhluOeychd65x23kuYIe9idFGP1P] (pid: 18680) ==
+[2018-11-11 09:58:14.147600] [INFO][DSA] Connecting to http://127.0.0.1:52809/conn
+[2018-11-11 09:58:15.397880] [INFO][DSA] Connected
+[2018-11-11 09:59:21.352372] == Exited with status -1073741510 ==
+[2018-11-11 09:59:21.352372] == Exited with status -1073741510 ==
+[2018-11-11 09:59:40.872898] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:52979/conn, --token, LLceBI9Be9TppOwiRK0615I7MAIt1MervwxeHhxYEJFn5RbT] (pid: 14964) ==
+[2018-11-11 09:59:42.684847] [INFO][DSA] Connecting to http://127.0.0.1:52979/conn
+[2018-11-11 09:59:44.740664] [INFO][DSA] Connected
+[2018-11-11 19:40:59.750684] [INFO][DSA] Disconnected
+[2018-11-11 19:41:00.057508] [INFO][DSA] Connected
+[2018-11-11 20:18:14.308818] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:54652/conn, --token, yqVu60QrvYdxzLXV0iFNt4xwvOoYVRvTrwYpFYjNvnaxOuSP] (pid: 3592) ==
+[2018-11-11 20:18:16.387621] [INFO][DSA] Connecting to http://127.0.0.1:54652/conn
+[2018-11-11 20:18:18.567369] [INFO][DSA] Connected
+[2018-11-12 10:48:18.871527] [INFO][DSA] Disconnected
+[2018-11-12 10:48:20.405306] [INFO][DSA] Connected
+[2018-11-12 15:49:05.007371] [INFO][DSA] Disconnected
+[2018-11-12 15:49:05.408497] [INFO][DSA] Connected
+[2018-11-12 17:05:31.661711] [INFO][DSA] Disconnected
+[2018-11-12 17:05:31.783641] [INFO][DSA] Connected
+[2018-11-12 21:59:09.797658] [INFO][DSA] Disconnected
+[2018-11-12 21:59:09.951567] [INFO][DSA] Connected
+[2019-01-24 18:59:03.334548] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:51353/conn, --token, BM1KO2VShzGrNhV4u9ADbeszB2YfT9oNHprRSZYWtcBeWpr0] (pid: 15152) ==
+[2019-01-24 18:59:04.370959] [INFO][DSA] Connecting to http://127.0.0.1:51353/conn
+[2019-01-24 18:59:04.763732] [INFO][DSA] Connected
+[2019-01-24 19:39:05.597845] [INFO][DSA] Disconnected
+[2019-01-24 19:39:05.632825] [INFO][DSA] Connected
+[2019-01-25 11:10:10.881582] [INFO][DSA] Disconnected
+[2019-01-25 11:10:11.144433] [INFO][DSA] Connected
+[2019-01-25 12:46:19.577791] [INFO][DSA] Disconnected
+[2019-01-25 12:46:19.734701] [INFO][DSA] Connected
+[2019-02-07 16:50:37.162634] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:50861/conn, --token, 0Hc1ENzpVkr3J2mgZK76kIVA9AksE6DfAs8jk0u7NU44IUMe] (pid: 9004) ==
+[2019-02-07 16:50:38.043278] [INFO][DSA] Connecting to http://127.0.0.1:50861/conn
+[2019-02-07 16:50:38.341157] [INFO][DSA] Connected
+[2019-02-07 18:31:58.142617] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57610/conn, --token, 5FLmibNHANAcmLQX7JHroAKQsiCN1mPEjQTGid3mYSyohGIc] (pid: 3344) ==
+[2019-02-07 18:31:58.633350] [INFO][DSA] Connecting to http://127.0.0.1:57610/conn
+[2019-02-07 18:31:58.888202] [INFO][DSA] Connected
+[2019-02-07 19:54:03.237570] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:58896/conn, --token, xoXkEwNfvKK8UbZW6NPoJiVulg4vTAM40Ksef8ygc8FKsRaa] (pid: 2132) ==
+[2019-02-07 19:54:03.788252] [INFO][DSA] Connecting to http://127.0.0.1:58896/conn
+[2019-02-07 19:54:04.368917] [INFO][DSA] Connected
+[2019-02-07 20:08:52.563020] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:59233/conn, --token, cVD0qRLQb8RPKphoFSK0KbMd05Q0CJWmzGbN2nDizPXfna4W] (pid: 7488) ==
+[2019-02-07 20:08:53.135707] [INFO][DSA] Connecting to http://127.0.0.1:59233/conn
+[2019-02-07 20:08:53.904263] [INFO][DSA] Connected
+[2019-02-07 20:12:45.255794] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:59420/conn, --token, usE8arPyOofLY91ad02HrBnRYHftUEi1uKaX6EqhsIIpgHYV] (pid: 14980) ==
+[2019-02-07 20:12:45.783490] [INFO][DSA] Connecting to http://127.0.0.1:59420/conn
+[2019-02-07 20:12:46.322180] [INFO][DSA] Connected
+[2019-02-07 20:25:20.021691] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:59876/conn, --token, CtLluUrJhz5sEzjLJ9qg5b9QnAV3xT05FS8ZWNW7mmd0Aalb] (pid: 15284) ==
+[2019-02-07 20:25:20.551385] [INFO][DSA] Connecting to http://127.0.0.1:59876/conn
+[2019-02-07 20:25:21.091074] [INFO][DSA] Connected
+[2019-02-08 15:34:41.606807] [INFO][DSA] Disconnected
+[2019-02-08 15:34:43.029579] [INFO][DSA] Connected
+[2019-02-08 16:12:19.537802] [INFO][DSA] Disconnected
+[2019-02-08 16:12:19.577780] [INFO][DSA] Connected
+[2019-02-09 00:29:01.740639] [INFO][DSA] Disconnected
+[2019-02-09 00:29:02.514191] [INFO][DSA] Connected
+[2019-02-09 09:02:37.795652] [INFO][DSA] Disconnected
+[2019-02-09 09:02:39.375980] [INFO][DSA] Connected
+[2019-02-11 12:58:18.646795] [INFO][DSA] Disconnected
+[2019-02-11 12:58:22.996023] [INFO][DSA] Connected
+[2019-02-14 16:25:13.939061] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:64178/conn, --token, EZhrtBOiNhI8CpxnJtVeczg1iks2ZrTwQjJEDNuVFdBItd3d] (pid: 12692) ==
+[2019-02-14 16:25:14.397796] [INFO][DSA] Connecting to http://127.0.0.1:64178/conn
+[2019-02-14 16:25:14.736600] [INFO][DSA] Connected
+[2019-02-14 16:45:34.745910] [INFO][DSA] Disconnected
+[2019-02-14 16:54:59.285059] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:64919/conn, --token, 8TRS0WpDUjm5Xj9ZRwyI92XNrCzK2DkAtxilMtE79rkmfnLB] (pid: 14660) ==
+[2019-02-14 16:54:59.962668] [INFO][DSA] Connecting to http://127.0.0.1:64919/conn
+[2019-02-14 16:55:00.695245] [INFO][DSA] Connected
+[2019-02-14 17:11:49.520236] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:65469/conn, --token, QsYnTaAAMDYjC191FozFbj2vWo8wBn9C1MxLAGYPTQvqKWIp] (pid: 12724) ==
+[2019-02-14 17:11:50.141877] [INFO][DSA] Connecting to http://127.0.0.1:65469/conn
+[2019-02-14 17:11:50.662577] [INFO][DSA] Connected
+[2019-02-14 18:07:42.505188] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:50068/conn, --token, kQxcKR07JWZzaKiDn8XEeQYgbTThsbhAmrY406tfGS03fD3S] (pid: 15808) ==
+[2019-02-14 18:07:43.094848] [INFO][DSA] Connecting to http://127.0.0.1:50068/conn
+[2019-02-14 18:07:43.545588] [INFO][DSA] Connected
+[2019-02-14 19:10:15.324113] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:51154/conn, --token, ZUFa3F5anwWz7qlqRgdtg5en7u9OCD4fJXa10eUS6nfxbzBB] (pid: 15260) ==
+[2019-02-14 19:10:15.919771] [INFO][DSA] Connecting to http://127.0.0.1:51154/conn
+[2019-02-14 19:10:16.446469] [INFO][DSA] Connected
+[2019-02-14 20:27:18.164112] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:54915/conn, --token, OHX5b8xAjljScfUT0KdlO87ccwFuDkYVxy9511XecD0h7eUn] (pid: 3048) ==
+[2019-02-14 20:27:20.461012] [INFO][DSA] Connecting to http://127.0.0.1:54915/conn
+[2019-02-14 20:27:20.461012] [INFO][DSA] Connected
+[2019-02-14 20:49:24.140816] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:55659/conn, --token, kmi9FstrYoHxxqJjPWPvASCEYUwX5FDx9yqMyokTiPxdC9To] (pid: 14348) ==
+[2019-02-14 20:49:24.601551] [INFO][DSA] Connecting to http://127.0.0.1:55659/conn
+[2019-02-14 20:49:24.822425] [INFO][DSA] Connected
+[2019-02-14 23:12:56.643773] [INFO][DSA] Disconnected
+[2019-02-14 23:12:56.767744] [INFO][DSA] Connected
+[2019-02-14 23:44:15.580993] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:56608/conn, --token, VMog3T7gIEvngBIseRbuwDglwZutt5Og9JXCgZ72OewJqAFa] (pid: 10740) ==
+[2019-02-14 23:44:20.773440] [INFO][DSA] Connecting to http://127.0.0.1:56608/conn
+[2019-02-14 23:44:22.008729] [INFO][DSA] Connected
+[2019-02-15 00:07:11.023929] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57150/conn, --token, DGHd5Skdf9bU9ZBqqM4NCiMnuNuXfwVFWCUtrRkt32Zi2j7H] (pid: 2864) ==
+[2019-02-15 00:07:12.861273] [INFO][DSA] Connecting to http://127.0.0.1:57150/conn
+[2019-02-15 00:07:15.205627] [INFO][DSA] Connected
+[2019-02-15 00:10:38.843305] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57309/conn, --token, zKX9XEBe0G6FL0TrxE4xPFBa2y5DMePyzV2MC96oVuXyTraA] (pid: 10408) ==
+[2019-02-15 00:10:40.977136] [INFO][DSA] Connecting to http://127.0.0.1:57309/conn
+[2019-02-15 00:10:43.004230] [INFO][DSA] Connected
+[2019-02-15 00:14:51.757172] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57636/conn, --token, 5suL0CkFFuqT2AW2FN0fjPWRycchDIRRb1VcpQjE9JZjh0AI] (pid: 10784) ==
+[2019-02-15 00:14:53.417224] [INFO][DSA] Connecting to http://127.0.0.1:57636/conn
+[2019-02-15 00:14:54.933748] [INFO][DSA] Connected
+[2019-02-15 00:56:20.594678] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:58474/conn, --token, KXLAEc1zH9gfQQLNjLH2RwpihTnysB9bTZOwfpuI8l0nKW8Z] (pid: 9336) ==
+[2019-02-15 00:56:21.120363] [INFO][DSA] Connecting to http://127.0.0.1:58474/conn
+[2019-02-15 00:56:21.632069] [INFO][DSA] Connected
+[2019-02-15 13:21:58.911825] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:65199/conn, --token, mdy1Q2mjD80bDNt4QvvXCB39drRH35KeDPWR5X04UV6K0XRK] (pid: 13460) ==
+[2019-02-15 13:21:59.336579] [INFO][DSA] Connecting to http://127.0.0.1:65199/conn
+[2019-02-15 13:21:59.965217] [INFO][DSA] Connected
+[2019-02-15 16:06:49.906118] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:50394/conn, --token, O8CV1OoB8wDL2u3j6OVNHIkwpb6T3jTC3HQntSAiD6zHIGhr] (pid: 16512) ==
+[2019-02-15 16:06:50.419821] [INFO][DSA] Connecting to http://127.0.0.1:50394/conn
+[2019-02-15 16:06:50.939521] [INFO][DSA] Connected
+[2019-02-15 21:36:13.541758] [INFO][DSA] Disconnected
+[2019-02-15 21:36:17.096130] [INFO][DSA] Connected
+[2019-02-16 09:17:21.584872] [INFO][DSA] Disconnected
+[2019-02-16 09:17:22.053601] [INFO][DSA] Connected
+[2019-02-16 12:49:21.815156] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:62471/conn, --token, zOE84UKR8xuuEoObhoum6i1hZWtlrFn0iOTu7voQc41jSw51] (pid: 20984) ==
+[2019-02-16 12:49:22.607699] [INFO][DSA] Connecting to http://127.0.0.1:62471/conn
+[2019-02-16 12:49:22.914523] [INFO][DSA] Connected
+[2019-02-16 12:52:00.697638] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:62602/conn, --token, jaROrukCE5KixlIRRkEIqO5kveJYOkKpngh6UfHNPzho09n0] (pid: 17580) ==
+[2019-02-16 12:52:01.300289] [INFO][DSA] Connecting to http://127.0.0.1:62602/conn
+[2019-02-16 12:52:01.880956] [INFO][DSA] Connected
+[2019-02-17 16:29:57.630829] [INFO][DSA] Disconnected
+[2019-02-17 16:30:01.088425] [INFO][DSA] Connected
+[2019-02-17 22:38:23.199328] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:56261/conn, --token, MCo3XHBuv7RvcXTWwX062gedq3rO6SiMI6rLUrEiOQvuc13D] (pid: 19584) ==
+[2019-02-17 22:38:23.732009] [INFO][DSA] Connecting to http://127.0.0.1:56261/conn
+[2019-02-17 22:38:24.004865] [INFO][DSA] Connected
+[2019-02-18 10:02:16.393090] [INFO][DSA] Disconnected
+[2019-02-18 10:02:17.216797] [INFO][DSA] Connected
+[2019-02-18 18:55:47.671916] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:64893/conn, --token, EX02XNbm29hM3mhEmHXFs2Jazq0LUtfYt9OQz6pEp3ZpEJss] (pid: 8884) ==
+[2019-02-18 18:55:48.872225] [INFO][DSA] Connecting to http://127.0.0.1:64893/conn
+[2019-02-18 18:55:49.180048] [INFO][DSA] Connected
+[2019-02-19 10:50:02.715975] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:51830/conn, --token, VG6Zn8m1yy8syXDU1EOfOobo8DEwqtbUVoUtQ9t0R4ORJPDG] (pid: 10528) ==
+[2019-02-19 10:50:03.390598] [INFO][DSA] Connecting to http://127.0.0.1:51830/conn
+[2019-02-19 10:50:03.982247] [INFO][DSA] Connected
+[2019-02-19 13:07:03.997499] [INFO][DSA] Disconnected
+[2019-02-20 10:30:26.740913] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:55101/conn, --token, ItTiHgpmqcVXJC3KBXPjdOHVas9FHcP8bVTlEghAi4NYjzIN] (pid: 16464) ==
+[2019-02-20 10:30:27.479489] [INFO][DSA] Connecting to http://127.0.0.1:55101/conn
+[2019-02-20 10:30:27.842281] [INFO][DSA] Connected
+[2019-02-20 10:32:00.444515] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:55225/conn, --token, MnqQS9kXjiL7x7eJyPykHy2uhd6HGdP11kCEJNoXFrS7n30a] (pid: 17700) ==
+[2019-02-20 10:32:01.368982] [INFO][DSA] Connecting to http://127.0.0.1:55225/conn
+[2019-02-20 10:32:01.954645] [INFO][DSA] Connected
+[2019-02-21 10:04:09.295344] [INFO][DSA] Disconnected
+[2019-02-21 10:04:10.762123] [INFO][DSA] Connected
+[2019-02-21 13:41:42.121976] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:54996/conn, --token, MKEVIXpdOeDsNQdHszjbeyfTZJiLcxtJgnj3pS0idUmEhhve] (pid: 5372) ==
+[2019-02-21 13:41:42.559724] [INFO][DSA] Connecting to http://127.0.0.1:54996/conn
+[2019-02-21 13:41:42.965491] [INFO][DSA] Connected
+[2019-02-21 13:42:18.328659] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:55055/conn, --token, MnbDc1OnAsmpeHDhpimsUx6pImi9utkPIaaD9WFHyMAbaFLQ] (pid: 11416) ==
+[2019-02-21 13:42:18.837353] [INFO][DSA] Connecting to http://127.0.0.1:55055/conn
+[2019-02-21 13:42:19.321076] [INFO][DSA] Connected
+[2019-02-21 17:16:10.135418] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57661/conn, --token, guILWXUis6rchjCzb8hfW1aIx0eWWhayFdp4PtpGBlcUiiXa] (pid: 17972) ==
+[2019-02-21 17:16:11.150851] [INFO][DSA] Connecting to http://127.0.0.1:57661/conn
+[2019-02-21 17:16:11.408687] [INFO][DSA] Connected
+[2019-02-21 17:22:23.308435] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57845/conn, --token, NOpcBMptWEXWjxwlt0YYeXPp9Ohhu24ETiP73Z09ONgajwNR] (pid: 16724) ==
+[2019-02-21 17:22:23.953064] [INFO][DSA] Connecting to http://127.0.0.1:57845/conn
+[2019-02-21 17:22:24.473764] [INFO][DSA] Connected
+[2019-02-21 18:10:53.752440] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:60904/conn, --token, b0RvdNJX9zd17eeIBIxV2ItbvqtCG8g9cCbpepVZOVgB0nzM] (pid: 5924) ==
+[2019-02-21 18:10:55.052704] [INFO][DSA] Connecting to http://127.0.0.1:60904/conn
+[2019-02-21 18:10:55.369522] [INFO][DSA] Connected
+[2019-02-22 09:54:08.583741] [INFO][DSA] Disconnected
+[2019-02-22 09:54:12.867503] [INFO][DSA] Connected
+[2019-02-22 11:05:05.742169] [INFO][DSA] Disconnected
+[2019-02-22 11:05:05.792141] [INFO][DSA] Connected
+[2019-02-22 12:46:51.589828] [INFO][DSA] Disconnected
+[2019-02-22 12:46:51.591826] [INFO][DSA] Connected
+[2019-02-22 18:16:46.636743] [INFO][DSA] Disconnected
+[2019-02-22 18:16:46.766669] [INFO][DSA] Connected
+[2019-02-22 20:00:45.523933] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:52787/conn, --token, By7YTaPbV6jGz2fgRgUzH1iMaVvlxAs6QaIPv56eBgfzwzP3] (pid: 13380) ==
+[2019-02-22 20:00:46.078613] [INFO][DSA] Connecting to http://127.0.0.1:52787/conn
+[2019-02-22 20:00:46.357607] [INFO][DSA] Connected
+[2019-02-22 22:55:47.551830] [INFO][DSA] Disconnected
+[2019-02-22 22:55:51.076143] [INFO][DSA] Connected
+[2019-02-23 08:59:20.590740] [INFO][DSA] Disconnected
+[2019-02-23 08:59:20.917553] [INFO][DSA] Connected
+[2019-02-23 11:24:27.384877] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:52260/conn, --token, dRTgkEH8hYYr7FxINbD2cC8FuuNmEE4M4McfwrL97JNBCMpH] (pid: 440) ==
+[2019-02-23 11:24:28.685128] [INFO][DSA] Connecting to http://127.0.0.1:52260/conn
+[2019-02-23 11:24:28.685128] [INFO][DSA] Connected
+[2019-02-23 14:46:55.557792] [INFO][DSA] Disconnected
+[2019-02-23 14:46:55.807648] [INFO][DSA] Connected
+[2019-02-23 15:18:39.046298] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:60814/conn, --token, Bo3DcQxmUoRKkzH9IJep4ek1xcq8HczWBf3wum0RWQI9eJHF] (pid: 17404) ==
+[2019-02-23 15:18:39.737900] [INFO][DSA] Connecting to http://127.0.0.1:60814/conn
+[2019-02-23 15:18:40.239610] [INFO][DSA] Connected
+[2019-02-23 21:05:23.525844] [INFO][DSA] Disconnected
+[2019-02-23 21:05:23.597803] [INFO][DSA] Connected
+[2019-02-24 23:39:50.995988] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57095/conn, --token, nErNzNTik61pzXsglKj0M2h896xJYk6w0IbhbznqiaLlZEix] (pid: 9096) ==
+[2019-02-24 23:39:51.579638] [INFO][DSA] Connecting to http://127.0.0.1:57095/conn
+[2019-02-24 23:39:51.982406] [INFO][DSA] Connected
+[2019-02-25 12:53:09.773668] [INFO][DSA] Disconnected
+[2019-02-25 12:53:10.325348] [INFO][DSA] Connected
+[2019-02-26 08:22:40.749648] [INFO][DSA] Disconnected
+[2019-02-26 08:22:46.638177] [INFO][DSA] Connected
+[2019-02-26 20:43:16.272253] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:56170/conn, --token, faonrcbTIY64FGUorPsPCZolH1e84MIy0li9ElqN70FtuWTz] (pid: 3756) ==
+[2019-02-26 20:43:16.821937] [INFO][DSA] Connecting to http://127.0.0.1:56170/conn
+[2019-02-26 20:43:17.145750] [INFO][DSA] Connected
+[2019-02-27 10:03:54.618137] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:61501/conn, --token, GTEnua4gC5O6jOlYP9sprWkrfjZo3gsRx5HWiHaSr1rOvMLS] (pid: 17016) ==
+[2019-02-27 10:04:19.351507] [INFO][DSA] Connecting to http://127.0.0.1:61501/conn
+[2019-02-27 10:04:19.571378] [INFO][DSA] Connected
+[2019-02-28 11:11:58.561582] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57013/conn, --token, 7R17amKuyN3jfLiSiw3GeRaa8H2ealykSzp9TxaKDSaBroKC] (pid: 9348) ==
+[2019-02-28 11:11:59.227384] [INFO][DSA] Connecting to http://127.0.0.1:57013/conn
+[2019-02-28 11:11:59.473256] [INFO][DSA] Connected
+[2019-02-28 18:05:01.680019] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:49948/conn, --token, 2GIbZPY6ifhp7fbKjq9WMVfyQpceQoec3KX9ZCgFaCeyAj58] (pid: 9788) ==
+[2019-02-28 18:05:02.207783] [INFO][DSA] Connecting to http://127.0.0.1:49948/conn
+[2019-02-28 18:05:02.446647] [INFO][DSA] Connected
+[2019-03-02 15:31:14.287375] [INFO][DSA] Disconnected
+[2019-03-02 15:31:42.714627] [INFO][DSA] Connected
+[2019-03-04 22:30:58.253071] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:49652/conn, --token, 7vPuBWw6woXUoi6dxU0olKTr2ExpYLmBEX1dT2cT2nbt5ZZB] (pid: 6500) ==
+[2019-03-04 22:30:58.695816] [INFO][DSA] Connecting to http://127.0.0.1:49652/conn
+[2019-03-04 22:30:58.984649] [INFO][DSA] Connected
+[2019-03-04 23:54:43.572819] [INFO][DSA] Disconnected
+[2019-03-04 23:54:43.616794] [INFO][DSA] Connected
+[2019-03-05 09:10:43.919732] [INFO][DSA] Disconnected
+[2019-03-05 09:10:44.719521] [INFO][DSA] Connected
+[2019-03-05 09:18:30.937366] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:54960/conn, --token, kQeBKcfyx0bh1j24qa770ID6RecKNji16xsdl8Jz90ufpFp0] (pid: 8496) ==
+[2019-03-05 09:18:31.558057] [INFO][DSA] Connecting to http://127.0.0.1:54960/conn
+[2019-03-05 09:18:31.763936] [INFO][DSA] Connected
+[2019-03-05 13:45:40.593773] [INFO][DSA] Disconnected
+[2019-03-05 13:45:40.694715] [INFO][DSA] Connected
+[2019-03-05 17:30:42.737700] [INFO][DSA] Disconnected
+[2019-03-05 17:30:42.811655] [INFO][DSA] Connected
+[2019-03-05 17:39:12.301220] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:64909/conn, --token, tQzoMLuYe7VqeyTpwnfMMIuG5Eq15gyRkbr0zKWVBUd4ss70] (pid: 18888) ==
+[2019-03-05 17:39:12.826916] [INFO][DSA] Connecting to http://127.0.0.1:64909/conn
+[2019-03-05 17:39:13.068778] [INFO][DSA] Connected
+[2019-03-06 16:29:26.880718] [INFO][DSA] Disconnected
+[2019-03-06 16:29:41.953379] [INFO][DSA] Connected
+[2019-03-06 16:31:00.654276] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:65047/conn, --token, JYYusZIBDO5hsBW6jZEJf4FL2iDCpFEbfwBYko63SQl6tNg9] (pid: 22100) ==
+[2019-03-06 16:31:01.301977] [INFO][DSA] Connecting to http://127.0.0.1:65047/conn
+[2019-03-06 16:31:01.302975] [INFO][DSA] Connected
+[2019-03-09 08:58:36.775589] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:63036/conn, --token, NDE0JxD0xHlKYZY5q7J4LzSk7H7On0yKOXSXCFsxtO5YT2AT] (pid: 23024) ==
+[2019-03-09 08:58:37.984974] [INFO][DSA] Connecting to http://127.0.0.1:63036/conn
+[2019-03-09 08:58:38.305827] [INFO][DSA] Connected
+[2019-03-09 09:10:37.717676] [INFO][DSA] Disconnected
+[2019-03-09 09:10:37.720675] [INFO][DSA] Connected
+[2019-03-09 14:54:09.560761] [INFO][DSA] Disconnected
+[2019-03-09 14:54:09.804614] [INFO][DSA] Connected
+[2019-03-09 19:52:59.312786] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:62423/conn, --token, AL8K7jL19SOHr7isAHEJtRmeVMU5wnIpZlHa66wA8sY4u8Mt] (pid: 23880) ==
+[2019-03-09 19:52:59.913437] [INFO][DSA] Connecting to http://127.0.0.1:62423/conn
+[2019-03-09 19:53:00.135309] [INFO][DSA] Connected
+[2019-03-09 23:26:57.707679] [INFO][DSA] Disconnected
+[2019-03-09 23:26:57.981521] [INFO][DSA] Connected
+[2019-03-10 12:32:28.628749] [INFO][DSA] Disconnected
+[2019-03-10 12:32:29.647160] [INFO][DSA] Connected
+[2019-03-10 15:10:52.765580] [INFO][DSA] Disconnected
+[2019-03-10 15:10:55.308457] [INFO][DSA] Connected
+[2019-03-14 18:06:34.379938] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:55215/conn, --token, sxLURCw5vy0zQg5w9fjbsC3u5M4ItfcT9FrrHfnLh42n2lOh] (pid: 9296) ==
+[2019-03-14 18:06:34.958605] [INFO][DSA] Connecting to http://127.0.0.1:55215/conn
+[2019-03-14 18:06:35.312401] [INFO][DSA] Connected
+[2019-03-16 10:17:56.057456] [INFO][DSA] Disconnected
+[2019-03-16 10:17:56.409254] [INFO][DSA] Connected
+[2019-03-16 12:28:19.565843] [INFO][DSA] Disconnected
+[2019-03-16 12:28:19.631804] [INFO][DSA] Connected
+[2019-03-21 19:05:02.617506] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:65345/conn, --token, OeOpeCQm23eneOdxq6vGJsUOx7OdZAiLk8fYtqgiBHuo0gEw] (pid: 5468) ==
+[2019-03-21 19:05:03.233580] [INFO][DSA] Connecting to http://127.0.0.1:65345/conn
+[2019-03-21 19:05:03.550469] [INFO][DSA] Connected
+[2019-03-21 21:28:07.328046] [INFO][DSA] Disconnected
+[2019-03-21 21:28:08.439040] [INFO][DSA] Connected
+[2019-03-28 20:16:32.843857] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:54630/conn, --token, k733yIrI813IiY77SB2jGzQiPiceD79ViKaEOxVfpXHQDqWu] (pid: 14132) ==
+[2019-03-28 20:16:33.246676] [INFO][DSA] Connecting to http://127.0.0.1:54630/conn
+[2019-03-28 20:16:33.497533] [INFO][DSA] Connected
+[2019-03-28 21:55:19.658748] [INFO][DSA] Disconnected
+[2019-03-28 21:55:19.905604] [INFO][DSA] Connected
+[2020-03-10 20:00:13.035405] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:50315/conn, --token, UHiFixwhExlQ9B9dqplylnTDdpIQCRns64TVCcpgnbpUETCZ] (pid: 1768) ==
+[2020-03-10 20:00:13.923397] [INFO][DSA] Connecting to http://127.0.0.1:50315/conn
+[2020-03-10 20:00:14.607307] [INFO][DSA] Connected
+[2020-03-10 20:59:10.605057] [INFO][DSA] Disconnected
+[2020-03-10 20:59:10.807988] [INFO][DSA] Connected
+[2020-03-10 21:07:27.572841] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:51769/conn, --token, m89HsMO4qbMl6teZPa4ePCSJQtAe4UAvBJ7dwFJtBNjNqDtH] (pid: 13168) ==
+[2020-03-10 21:07:28.684978] [INFO][DSA] Connecting to http://127.0.0.1:51769/conn
+[2020-03-10 21:07:29.260825] [INFO][DSA] Connected
+[2020-08-18 15:33:49.987725] == Executing D:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:56807/conn, --token, rMK0ucwli9P3M19WA9EttBiu7WSahp648ShgeJzE9rqfAXsj] (pid: 16788) ==
+[2020-08-18 15:33:50.847345] [INFO][DSA] Connecting to http://127.0.0.1:56807/conn
+[2020-08-18 15:33:51.090504] [INFO][DSA] Connected
+[2020-08-18 15:36:32.142987] == Exited with status -1073741510 ==
+[2020-08-18 15:36:43.867375] == Executing D:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:56879/conn, --token, 5Xwz6BenK94eSjdVXyVrXZQKjHtN8VI8aKAufQQwBwtsE0Sr] (pid: 17520) ==
+[2020-08-18 15:36:44.297678] [INFO][DSA] Connecting to http://127.0.0.1:56879/conn
+[2020-08-18 15:36:44.702965] [INFO][DSA] Connected
+[2020-08-18 15:37:11.263447] == Executing D:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:56909/conn, --token, BQQhC0rXoLZ1lsxWDe8oiootx3bZgKZOd1EjNUeASVJwKm0X] (pid: 17432) ==
+[2020-08-18 15:37:11.802828] [INFO][DSA] Connecting to http://127.0.0.1:56909/conn
+[2020-08-18 15:37:12.182096] [INFO][DSA] Connected
+[2020-08-18 15:45:25.670770] == Executing D:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57204/conn, --token, b2e4CjhlUcaYf8PRA0L5J5rbbY2YGedj55ZmLLNTQl1v4xWe] (pid: 2332) ==
+[2020-08-18 15:45:26.099072] [INFO][DSA] Connecting to http://127.0.0.1:57204/conn
+[2020-08-18 15:45:26.526374] [INFO][DSA] Connected
+[2020-08-18 15:51:23.462436] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57370/conn, --token, rzMAoD9gpVdMQTIsiInk7lTFlmUjiD4R7nfg4irjN0zo5UzO] (pid: 8112) ==
+[2020-08-18 15:51:24.012381] [INFO][DSA] Connecting to http://127.0.0.1:57370/conn
+[2020-08-18 15:51:24.664842] [INFO][DSA] Connected
+[2020-08-18 15:54:29.237730] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57502/conn, --token, EQQSAuiREd9UdVEBuIuk4lp8nOBbqifc3sybk6ibqkrRMaYF] (pid: 16172) ==
+[2020-08-18 15:54:29.856745] [INFO][DSA] Connecting to http://127.0.0.1:57502/conn
+[2020-08-18 15:54:30.578756] [INFO][DSA] Connected
+[2020-08-18 15:55:59.948661] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57610/conn, --token, VJmVAqDweCjlIi1aHc1K2Qf3E1svjqWrVpZKPLYjrXp1xtRo] (pid: 15000) ==
+[2020-08-18 15:56:00.492097] [INFO][DSA] Connecting to http://127.0.0.1:57610/conn
+[2020-08-18 15:56:00.857355] [INFO][DSA] Connected
+[2020-08-18 17:02:58.543407] [INFO][DSA] Disconnected
+[2020-08-18 17:02:58.725035] [INFO][DSA] Connected
+[2020-08-19 00:07:05.556908] [INFO][DSA] Disconnected
+[2020-08-19 00:07:05.895154] [INFO][DSA] Connected
+[2020-08-25 18:51:27.398878] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:50550/conn, --token, TEdQsv6ZX4H9ynaBxD2OWVrlMcvaMtqRt1BuGcOAa76UwDD5] (pid: 8736) ==
+[2020-08-25 18:51:28.201446] [INFO][DSA] Connecting to http://127.0.0.1:50550/conn
+[2020-08-25 18:51:28.616738] [INFO][DSA] Connected
+[2020-08-26 00:20:06.535170] [INFO][DSA] Disconnected
+[2020-08-26 00:20:07.161738] [INFO][DSA] Connected
+[2020-08-31 16:14:33.988031] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:54415/conn, --token, LflD3QRfOdcgI3RPqli4x6gX9fXtNsv0wAcmrldKlVqTHytb] (pid: 13132) ==
+[2020-08-31 16:14:34.430344] [INFO][DSA] Connecting to http://127.0.0.1:54415/conn
+[2020-08-31 16:14:34.699535] [INFO][DSA] Connected
+[2020-09-01 15:25:18.811067] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:52934/conn, --token, jZDQktcIAlkga9goHxq4thFMOPVyFNROnTD41YOHaxCCZuRO] (pid: 9300) ==
+[2020-09-01 15:25:19.286402] [INFO][DSA] Connecting to http://127.0.0.1:52934/conn
+[2020-09-01 15:25:19.539581] [INFO][DSA] Connected
+[2020-09-01 18:13:45.508150] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57585/conn, --token, GCK0nk24fLHZlWH2EAxg1THK9I42ge3BPbQgkRYeBCaAO0k7] (pid: 13436) ==
+[2020-09-01 18:13:46.566899] [INFO][DSA] Connecting to http://127.0.0.1:57585/conn
+[2020-09-01 18:13:47.491549] [INFO][DSA] Connected
+[2020-09-01 18:13:53.812012] == Exited with status -1073741510 ==
+[2020-09-01 18:14:00.027395] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57720/conn, --token, StpIcdeffk231Xwb0vu4LGQRDyLhncqvJpOu9EV81kfyZrJV] (pid: 7520) ==
+[2020-09-01 18:14:00.687862] [INFO][DSA] Connecting to http://127.0.0.1:57720/conn
+[2020-09-01 18:14:01.150188] [INFO][DSA] Connected
+[2020-09-01 18:14:29.582253] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:57845/conn, --token, gzSTAA8Kdturb5Q2tEz5c1VBYqbvfOHXafpLvhDqzgIQ3dox] (pid: 13968) ==
+[2020-09-01 18:14:30.436856] [INFO][DSA] Connecting to http://127.0.0.1:57845/conn
+[2020-09-01 18:14:31.608683] [INFO][DSA] Connected
+[2020-09-02 18:20:10.548674] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:50028/conn, --token, p6zQXUrVMiY4QYGeGRuE3Yj6HhkoXTaYE4n0xUWXvUeJPrED] (pid: 10400) ==
+[2020-09-02 18:20:11.152099] [INFO][DSA] Connecting to http://127.0.0.1:50028/conn
+[2020-09-02 18:20:11.428295] [INFO][DSA] Connected
+[2020-09-02 23:13:33.788050] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:53012/conn, --token, zai1vjbvXjpOSxgWHpV3H9kTKSDhKFc1RNtHFnFdyrRnSbDj] (pid: 10556) ==
+[2020-09-02 23:13:35.330977] [INFO][DSA] Connecting to http://127.0.0.1:53012/conn
+[2020-09-02 23:13:35.546130] [INFO][DSA] Connected
+[2020-09-03 04:30:06.577821] [INFO][DSA] Disconnected
+[2020-09-03 04:30:06.818995] [INFO][DSA] Connected
+[2020-09-03 08:39:36.246875] [INFO][DSA] Disconnected
+[2020-09-03 08:40:06.497516] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:61336/conn, --token, 58cWxar4VBHPDe7GuBEnMYV8ZGu575cqqkgwcKMoLxt7HBbw] (pid: 10568) ==
+[2020-09-03 08:40:09.614765] [INFO][DSA] Connecting to http://127.0.0.1:61336/conn
+[2020-09-03 08:40:09.615766] [INFO][DSA] Connected
+[2020-09-03 20:26:15.539775] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:52677/conn, --token, 2z7hnHin5WiGWB92bXfxgNx7JJBDLdxvTE5YLORMxEZsdtJr] (pid: 18636) ==
+[2020-09-03 20:26:17.492153] [INFO][DSA] Connecting to http://127.0.0.1:52677/conn
+[2020-09-03 20:26:17.493153] [INFO][DSA] Connected
+[2020-09-04 13:37:50.982075] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:51394/conn, --token, y0LehHXE3SBqk0DA5FpQdvwulEPeDMaYbY2sqdlhkKBuOmaZ] (pid: 10868) ==
+[2020-09-04 13:37:51.884711] [INFO][DSA] Connecting to http://127.0.0.1:51394/conn
+[2020-09-04 13:37:52.123880] [INFO][DSA] Connected
+[2020-09-04 15:20:52.619790] [INFO][DSA] Disconnected
+[2020-09-04 15:20:52.774898] [INFO][DSA] Connected
+[2020-09-04 21:35:19.937420] [INFO][DSA] Disconnected
+[2020-09-04 21:35:20.058504] [INFO][DSA] Connected
+[2020-09-04 22:28:15.696877] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:60156/conn, --token, fSe5QUWU43KsPKBkp5I1HqLHqVYiVQpLIk6e5isnzNDjmWfj] (pid: 15152) ==
+[2020-09-04 22:28:16.330324] [INFO][DSA] Connecting to http://127.0.0.1:60156/conn
+[2020-09-04 22:28:16.534468] [INFO][DSA] Connected
+[2020-09-07 23:29:48.143787] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:58266/conn, --token, xwKjEzVtbdpWdf7IE8c9GqhwdrM5hCXHUQCtJ1nbiR9mFfFJ] (pid: 13184) ==
+[2020-09-07 23:29:49.172817] [INFO][DSA] Connecting to http://127.0.0.1:58266/conn
+[2020-09-07 23:29:49.520062] [INFO][DSA] Connected
+[2020-09-08 19:10:14.663159] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:65458/conn, --token, cVa35LI5zw2tdSwamCt4zEhoWO04KEvqbKuVr0V95tBMKzAP] (pid: 4380) ==
+[2020-09-08 19:10:15.444770] [INFO][DSA] Connecting to http://127.0.0.1:65458/conn
+[2020-09-08 19:10:15.972142] [INFO][DSA] Connected
+[2020-09-09 14:05:44.544862] [INFO][DSA] Disconnected
+[2020-09-09 14:05:45.022068] [INFO][DSA] Connected
+[2020-09-09 14:24:57.642807] [INFO][DSA] Disconnected
+[2020-09-09 14:24:57.995146] [INFO][DSA] Connected
+[2020-09-09 14:38:53.331993] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:53502/conn, --token, RliqdF7wIyY14j6bVL2g1JcKF24V0RZ2tcpW3erm8iys6bPs] (pid: 23760) ==
+[2020-09-09 14:38:55.266357] [INFO][DSA] Connecting to http://127.0.0.1:53502/conn
+[2020-09-09 14:38:55.446484] [INFO][DSA] Connected
+[2020-09-09 15:46:00.399331] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:55229/conn, --token, YxIw4ILvBXDguymiRAAtueBW5KBzVAjA8fy37Af3p6jKUQ8V] (pid: 11188) ==
+[2020-09-09 15:46:00.894285] [INFO][DSA] Connecting to http://127.0.0.1:55229/conn
+[2020-09-09 15:46:01.273553] [INFO][DSA] Connected
+[2020-09-09 20:24:11.543679] [INFO][DSA] Disconnected
+[2020-09-09 20:24:11.704807] [INFO][DSA] Connected
+[2020-09-10 00:06:05.841188] == Exited with status -1073741510 ==
+[2020-09-10 00:06:05.841188] == Exited with status -1073741510 ==
+[2020-09-10 00:06:14.054116] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:59846/conn, --token, vHxfyScsS82hmJGKVc6Tn8awJPYdpBkpkpAieSWztPao6yZj] (pid: 9296) ==
+[2020-09-10 00:06:15.534174] [INFO][DSA] Connecting to http://127.0.0.1:59846/conn
+[2020-09-10 00:06:15.722292] [INFO][DSA] Connected
+[2020-09-10 00:06:24.947799] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:59903/conn, --token, n45HPbyZAEdfoqCxYjZHJjiYDA1N3vuOYMRzOFeVIOKMQTX4] (pid: 23036) ==
+[2020-09-10 00:06:25.773452] [INFO][DSA] Connecting to http://127.0.0.1:59903/conn
+[2020-09-10 00:06:26.342854] [INFO][DSA] Connected
+[2020-09-10 00:17:35.581874] [INFO][DSA] Disconnected
+[2020-09-10 00:17:35.681944] [INFO][DSA] Connected
+[2020-09-10 00:23:00.425606] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:56702/conn, --token, 0Gt3xyVeJQ8ScFp3zLWOSoy9clBLtZcyPI4yultr9uLgotsX] (pid: 24124) ==
+[2020-09-10 00:23:01.158178] [INFO][DSA] Connecting to http://127.0.0.1:56702/conn
+[2020-09-10 00:23:01.958743] [INFO][DSA] Connected
+[2020-09-10 00:29:01.960481] [INFO][DSA] Disconnected
+[2020-09-10 00:29:31.953547] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:59643/conn, --token, 2HIBIxUd9wuVP6A001XsGsNWAUlnMzLJLiEJsivtAQeF6dBy] (pid: 22504) ==
+[2020-09-10 00:29:32.650591] [INFO][DSA] Connecting to http://127.0.0.1:59643/conn
+[2020-09-10 00:29:32.969816] [INFO][DSA] Connected
+[2020-09-10 21:35:29.350806] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:54636/conn, --token, 1RCbDuYNtkHMDzSWZiKUJ8Y25kKoMfkkz6j0pwgtcfC0HZ3h] (pid: 10520) ==
+[2020-09-10 21:35:30.087326] [INFO][DSA] Connecting to http://127.0.0.1:54636/conn
+[2020-09-10 21:35:30.336501] [INFO][DSA] Connected
+[2020-09-10 21:59:40.846562] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:58990/conn, --token, rAYzS6cfAZzs5BmQBsuo2BpmgFvY2kywiBBbbuxnDW0EbmvM] (pid: 7160) ==
+[2020-09-10 21:59:41.510589] [INFO][DSA] Connecting to http://127.0.0.1:58990/conn
+[2020-09-10 21:59:42.716440] [INFO][DSA] Connected
+[2020-09-10 22:28:23.850422] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:63123/conn, --token, v0LjcBk0YnUoCzQqe7IOVnYDNvljMu8uphobPkE2fsgfkMzB] (pid: 4032) ==
+[2020-09-10 22:28:24.388850] [INFO][DSA] Connecting to http://127.0.0.1:63123/conn
+[2020-09-10 22:28:25.112360] [INFO][DSA] Connected
+[2020-09-10 22:31:29.132464] == Exited with status -1073741510 ==
+[2020-09-10 22:31:34.520472] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:63373/conn, --token, Ofs3vGqU73CejCBYcgXmDWbO6S1uv6E0UnVOw8pgjvIdLHrm] (pid: 13784) ==
+[2020-09-10 22:31:35.113443] [INFO][DSA] Connecting to http://127.0.0.1:63373/conn
+[2020-09-10 22:31:35.697856] [INFO][DSA] Connected
+[2020-09-15 16:03:07.170976] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:52692/conn, --token, tZQ90rKj7sQTQ4TQjHOXCWc7bzLSXNB4wBd53f6119lQITsw] (pid: 16488) ==
+[2020-09-15 16:03:08.224721] [INFO][DSA] Connecting to http://127.0.0.1:52692/conn
+[2020-09-15 16:03:08.225721] [INFO][DSA] Connected
+[2020-09-16 04:02:29.129656] [INFO][DSA] Disconnected
+[2020-09-16 04:02:45.133091] [INFO][DSA] Connected
+[2020-09-16 08:14:13.360707] [INFO][DSA] Disconnected
+[2020-09-16 08:14:13.360707] [INFO][DSA] Connected
+[2020-09-16 11:20:41.779287] [INFO][DSA] Disconnected
+[2020-09-18 09:23:12.765626] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:55271/conn, --token, qbtQdnuE8PFH9jPcSyUs97rgcgPA7fLS8xhwHiNpo6TcixVv] (pid: 7388) ==
+[2020-09-18 09:23:13.408079] [INFO][DSA] Connecting to http://127.0.0.1:55271/conn
+[2020-09-18 09:23:13.606221] [INFO][DSA] Connected
+[2020-09-21 09:58:59.474662] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:56845/conn, --token, 9CJMFhHi5zt2jkSs1ZDaeSC4GvnidfnoAhZpqAsSKlQrShAc] (pid: 12200) ==
+[2020-09-21 09:59:00.176174] [INFO][DSA] Connecting to http://127.0.0.1:56845/conn
+[2020-09-21 09:59:00.394314] [INFO][DSA] Connected
+[2020-09-22 18:07:59.342533] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:54278/conn, --token, 33Z5TbTBDPVH4kQJ2hRXPxlgrs4uemqpd3FUTE15bH2jlldK] (pid: 16904) ==
+[2020-09-22 18:08:01.081765] [INFO][DSA] Connecting to http://127.0.0.1:54278/conn
+[2020-09-22 18:08:01.477046] [INFO][DSA] Connected
+[2020-09-30 13:41:26.031481] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:53562/conn, --token, uXFPvIPHkxEgEycI3e9ZD776G5kEoPqXSe6uRFPYmOzNwSaR] (pid: 12616) ==
+[2020-09-30 13:41:26.423757] [INFO][DSA] Connecting to http://127.0.0.1:53562/conn
+[2020-09-30 13:41:26.701953] [INFO][DSA] Connected
+[2020-09-30 15:41:11.539760] [INFO][DSA] Disconnected
+[2020-09-30 15:41:11.684864] [INFO][DSA] Connected
+[2020-10-06 16:36:51.893384] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:53033/conn, --token, syVtES8TbPRyUkw5LVtqd9gZFLJq1LsNDzDJA4kmOCqiiK55] (pid: 9624) ==
+[2020-10-06 16:36:52.535837] [INFO][DSA] Connecting to http://127.0.0.1:53033/conn
+[2020-10-06 16:36:53.170286] [INFO][DSA] Connected
+[2020-10-06 18:13:56.332299] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:49934/conn, --token, X7YObrRThlFBb1YUn45LJQDTviPRrhQ0vF0ooMLjTu8Dm9pb] (pid: 14096) ==
+[2020-10-06 18:13:56.934727] [INFO][DSA] Connecting to http://127.0.0.1:49934/conn
+[2020-10-06 18:13:57.484111] [INFO][DSA] Connected
+[2020-10-06 18:16:51.779568] == Exited with status -1073741510 ==
+[2020-10-06 18:16:57.763789] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:50192/conn, --token, C5ETJ6jRkxjGCIv3pY0jxYQuslGpzu8SnKLyYzEV0XpPWN68] (pid: 13852) ==
+[2020-10-06 18:16:58.365213] [INFO][DSA] Connecting to http://127.0.0.1:50192/conn
+[2020-10-06 18:16:59.084720] [INFO][DSA] Connected
+[2020-10-06 18:19:21.035268] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:50391/conn, --token, YpcALaGYZ5LDr70B0rE5Cb2AXDNPmjIWYENPhUD961MYwJsJ] (pid: 13540) ==
+[2020-10-06 18:19:21.800808] [INFO][DSA] Connecting to http://127.0.0.1:50391/conn
+[2020-10-06 18:19:22.503305] [INFO][DSA] Connected
+[2020-10-07 15:01:55.227215] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:60037/conn, --token, VMQUlQrlnNGYkWiLUdKFjvoaNZ1xkw4L5udVfY85hap4AKxM] (pid: 3272) ==
+[2020-10-07 15:01:55.612488] [INFO][DSA] Connecting to http://127.0.0.1:60037/conn
+[2020-10-07 15:01:55.917703] [INFO][DSA] Connected
+[2020-10-07 18:04:04.534887] [INFO][DSA] Disconnected
+[2020-10-07 18:04:08.503091] [INFO][DSA] Connected
+[2020-10-07 20:37:21.529767] [INFO][DSA] Disconnected
+[2020-10-07 20:37:21.653853] [INFO][DSA] Connected
+[2020-10-08 00:54:53.543896] [INFO][DSA] Disconnected
+[2020-10-08 00:54:53.698003] [INFO][DSA] Connected
+[2020-10-13 10:52:37.612174] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:50584/conn, --token, unMImPs2aNDqZXifiYyPEmYSAzsRQMTgWAVc32s8vfRyd06F] (pid: 13660) ==
+[2020-10-13 10:52:38.103521] [INFO][DSA] Connecting to http://127.0.0.1:50584/conn
+[2020-10-13 10:52:38.507805] [INFO][DSA] Connected
+[2020-10-13 13:34:05.048982] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:54874/conn, --token, mnOCCSu30M0XcTLUEjmMaBYo8clbJaxEwEKL1gyXMwlY3SeT] (pid: 13608) ==
+[2020-10-13 13:34:05.626450] [INFO][DSA] Connecting to http://127.0.0.1:54874/conn
+[2020-10-13 13:34:06.199354] [INFO][DSA] Connected
+[2020-10-20 18:23:39.541696] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:56488/conn, --token, wOw7NQIdo6pLFpF1xOAfqL5krkFS4WDDwioAMRUhHRentAjF] (pid: 13220) ==
+[2020-10-20 18:23:40.952693] [INFO][DSA] Connecting to http://127.0.0.1:56488/conn
+[2020-10-20 18:23:41.888354] [INFO][DSA] Connected
+[2020-10-21 08:55:50.550636] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:55337/conn, --token, 1UqeOydSHse9sJIWkd6SKtHMEAsDNzLkbCHdzOf4gNusHx1Y] (pid: 2240) ==
+[2020-10-21 08:55:53.668149] [INFO][DSA] Connecting to http://127.0.0.1:55337/conn
+[2020-10-21 08:55:55.065135] [INFO][DSA] Connected
+[2020-10-27 18:28:21.371652] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:50874/conn, --token, rlZb9phAibec2tETBfngWJ4lErOR0AsXacvLBDoaRB1edJiN] (pid: 10992) ==
+[2020-10-27 18:28:22.086157] [INFO][DSA] Connecting to http://127.0.0.1:50874/conn
+[2020-10-27 18:28:22.373359] [INFO][DSA] Connected
+[2020-10-28 08:32:35.487225] [INFO][DSA] Disconnected
+[2020-10-28 08:32:35.552271] [INFO][DSA] Connected
+[2020-10-28 08:34:09.991245] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:51583/conn, --token, ICgSuVeXDUrgSRIiCK6Imj6vqohREYGLvyC6nhhZLkq0Kmev] (pid: 11156) ==
+[2020-10-28 08:34:11.107959] [INFO][DSA] Connecting to http://127.0.0.1:51583/conn
+[2020-10-28 08:34:11.677360] [INFO][DSA] Connected
+[2020-11-10 18:08:48.986492] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:52587/conn, --token, TztdOjHYwuRRmjzcBSz2mpYVBvlUqlT8KpRfdYE8zTqjPhkj] (pid: 13868) ==
+[2020-11-10 18:08:49.538885] [INFO][DSA] Connecting to http://127.0.0.1:52587/conn
+[2020-11-10 18:08:49.993209] [INFO][DSA] Connected
+[2020-11-10 20:41:56.200114] == Exited with status -1073741510 ==
+[2020-11-10 20:42:05.192220] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:55579/conn, --token, jBwrRGdRgpOlJTCL3UUQsUU8YTL2d6YEMBkNIl236T1Pw9hD] (pid: 13704) ==
+[2020-11-10 20:42:06.311016] [INFO][DSA] Connecting to http://127.0.0.1:55579/conn
+[2020-11-10 20:42:06.312017] [INFO][DSA] Connected
+[2020-11-13 18:20:05.236363] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:52722/conn, --token, WiVhSgOO1yNrIovsABoJ4DkPGFpubJ02YgUZ3Ua09cYs43D5] (pid: 14332) ==
+[2020-11-13 18:20:06.182032] [INFO][DSA] Connecting to http://127.0.0.1:52722/conn
+[2020-11-13 18:20:06.709406] [INFO][DSA] Connected
+[2020-11-13 18:20:36.946792] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:52925/conn, --token, fv13kqqPK3aamo7ZbI6DAmYi4CHWEHxEtgIrj7MbYdqlg2Dw] (pid: 14956) ==
+[2020-11-13 18:20:37.655293] [INFO][DSA] Connecting to http://127.0.0.1:52925/conn
+[2020-11-13 18:20:38.402822] [INFO][DSA] Connected
+[2020-12-10 11:50:25.413173] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Earthquakes, --broker, http://127.0.0.1:56375/conn, --token, 0VYhNkPQr6NXzUSPLaVs2Kk1pf5PVTW38jkNX9BFn7eEQuYV] (pid: 10668) ==
+[2020-12-10 11:50:26.089666] [INFO][DSA] Connecting to http://127.0.0.1:56375/conn
+[2020-12-10 11:50:26.343834] [INFO][DSA] Connected

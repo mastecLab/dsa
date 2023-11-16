@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="8px" height="12px" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>delete</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Trigger-Schedule" sketch:type="MSArtboardGroup" transform="translate(-647.000000, -937.000000)" fill="#FFFFFF">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(0.000000, 430.000000)">
+                <g id="Rectangle-139-+-Imported-Layers-Copy-3" transform="translate(634.000000, 507.000000)" sketch:type="MSShapeGroup">
+                    <g id="delete" transform="translate(13.000000, 0.000000)">
+                        <path d="M8,10.5 L8,3 L0,3 L0,10.5 C0,11.460096 0.599893333,12 1.6,12 L6.4,12 C7.40010667,12 8,11.460096 8,10.5 L8,10.5 Z" id="Fill-1"></path>
+                        <path d="M0,1 L8,1 L8,2 L0,2 L0,1 Z" id="Fill-2"></path>
+                        <path d="M7,2 L5.2,0 L2.8,0 L1,2 L7,2 Z" id="Fill-3"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

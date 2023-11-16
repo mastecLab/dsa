@@ -1,0 +1,1061 @@
+.dglux_page_root .dgIcon-block-DGBoxPoint,
+.dglux_page_root .dgIcon-block-E,
+.dglux_page_root .dgIcon-block-LN10,
+.dglux_page_root .dgIcon-block-LN2,
+.dglux_page_root .dgIcon-block-LOG10E,
+.dglux_page_root .dgIcon-block-LOG2E,
+.dglux_page_root .dgIcon-block-NetWorkDays,
+.dglux_page_root .dgIcon-block-NumericUnitConverter,
+.dglux_page_root .dgIcon-block-PI,
+.dglux_page_root .dgIcon-block-RepeatOnRows,
+.dglux_page_root .dgIcon-block-SQRT2,
+.dglux_page_root .dgIcon-block-WeekNum,
+.dglux_page_root .dgIcon-block-Workday,
+.dglux_page_root .dgIcon-block-YearFrac,
+.dglux_page_root .dgIcon-block-abs,
+.dglux_page_root .dgIcon-block-acos,
+.dglux_page_root .dgIcon-block-add,
+.dglux_page_root .dgIcon-block-and,
+.dglux_page_root .dgIcon-block-asin,
+.dglux_page_root .dgIcon-block-atan,
+.dglux_page_root .dgIcon-block-average,
+.dglux_page_root .dgIcon-block-bind,
+.dglux_page_root .dgIcon-block-bool,
+.dglux_page_root .dgIcon-block-bound,
+.dglux_page_root .dgIcon-block-case,
+.dglux_page_root .dgIcon-block-color,
+.dglux_page_root .dgIcon-block-concat,
+.dglux_page_root .dgIcon-block-cos,
+.dglux_page_root .dgIcon-block-cot,
+.dglux_page_root .dgIcon-block-count,
+.dglux_page_root .dgIcon-block-cross-white-round,
+.dglux_page_root .dgIcon-block-csvParser,
+.dglux_page_root .dgIcon-block-date,
+.dglux_page_root .dgIcon-block-dateFormat,
+.dglux_page_root .dgIcon-block-dateMath,
+.dglux_page_root .dgIcon-block-dateRange,
+.dglux_page_root .dgIcon-block-datetime,
+.dglux_page_root .dgIcon-block-datetimetrigger,
+.dglux_page_root .dgIcon-block-days360,
+.dglux_page_root .dgIcon-block-divide-white-round,
+.dglux_page_root .dgIcon-block-divide,
+.dglux_page_root .dgIcon-block-dragPosition,
+.dglux_page_root .dgIcon-block-dragSize,
+.dglux_page_root .dgIcon-block-duration,
+.dglux_page_root .dgIcon-block-eomonth,
+.dglux_page_root .dgIcon-block-equal,
+.dglux_page_root .dgIcon-block-even,
+.dglux_page_root .dgIcon-block-eventGate,
+.dglux_page_root .dgIcon-block-exportHtml,
+.dglux_page_root .dgIcon-block-factorial,
+.dglux_page_root .dgIcon-block-fill,
+.dglux_page_root .dgIcon-block-filter,
+.dglux_page_root .dgIcon-block-findfirst,
+.dglux_page_root .dgIcon-block-findlast,
+.dglux_page_root .dgIcon-block-formatNumber,
+.dglux_page_root .dgIcon-block-formula,
+.dglux_page_root .dgIcon-block-frequency,
+.dglux_page_root .dgIcon-block-geoLocation,
+.dglux_page_root .dgIcon-block-getChildren,
+.dglux_page_root .dgIcon-block-getNode,
+.dglux_page_root .dgIcon-block-getViewProperty,
+.dglux_page_root .dgIcon-block-greaterthan-equalto,
+.dglux_page_root .dgIcon-block-greaterthan,
+.dglux_page_root .dgIcon-block-group,
+.dglux_page_root .dgIcon-block-groupBy,
+.dglux_page_root .dgIcon-block-hub,
+.dglux_page_root .dgIcon-block-if,
+.dglux_page_root .dgIcon-block-iframeMessage,
+.dglux_page_root .dgIcon-block-intervaltrigger,
+.dglux_page_root .dgIcon-block-join,
+.dglux_page_root .dgIcon-block-jsonParser,
+.dglux_page_root .dgIcon-block-jsonpLoader,
+.dglux_page_root .dgIcon-block-keyboardEventData,
+.dglux_page_root .dgIcon-block-left,
+.dglux_page_root .dgIcon-block-length,
+.dglux_page_root .dgIcon-block-lessthan-equalto,
+.dglux_page_root .dgIcon-block-lessthan,
+.dglux_page_root .dgIcon-block-limiter,
+.dglux_page_root .dgIcon-block-listFiles,
+.dglux_page_root .dgIcon-block-loadHistories,
+.dglux_page_root .dgIcon-block-localStorage,
+.dglux_page_root .dgIcon-block-log,
+.dglux_page_root .dgIcon-block-logicexpression,
+.dglux_page_root .dgIcon-block-lower,
+.dglux_page_root .dgIcon-block-max,
+.dglux_page_root .dgIcon-block-median,
+.dglux_page_root .dgIcon-block-min,
+.dglux_page_root .dgIcon-block-minus-white-round,
+.dglux_page_root .dgIcon-block-mode,
+.dglux_page_root .dgIcon-block-modulo,
+.dglux_page_root .dgIcon-block-multiply,
+.dglux_page_root .dgIcon-block-not,
+.dglux_page_root .dgIcon-block-notequal,
+.dglux_page_root .dgIcon-block-now,
+.dglux_page_root .dgIcon-block-number,
+.dglux_page_root .dgIcon-block-numerical-map,
+.dglux_page_root .dgIcon-block-odd,
+.dglux_page_root .dgIcon-block-or,
+.dglux_page_root .dgIcon-block-oreader,
+.dglux_page_root .dgIcon-block-paging,
+.dglux_page_root .dgIcon-block-parseDateTime,
+.dglux_page_root .dgIcon-block-parseNumber,
+.dglux_page_root .dgIcon-block-pid-loop,
+.dglux_page_root .dgIcon-block-plus-white-round,
+.dglux_page_root .dgIcon-block-power,
+.dglux_page_root .dgIcon-block-projectInfo,
+.dglux_page_root .dgIcon-block-proper,
+.dglux_page_root .dgIcon-block-random,
+.dglux_page_root .dgIcon-block-relativize,
+.dglux_page_root .dgIcon-block-repeat,
+.dglux_page_root .dgIcon-block-repeatwhile,
+.dglux_page_root .dgIcon-block-replace,
+.dglux_page_root .dgIcon-block-right,
+.dglux_page_root .dgIcon-block-root,
+.dglux_page_root .dgIcon-block-round,
+.dglux_page_root .dgIcon-block-roundDown,
+.dglux_page_root .dgIcon-block-roundUp,
+.dglux_page_root .dgIcon-block-scale,
+.dglux_page_root .dgIcon-block-script,
+.dglux_page_root .dgIcon-block-scrollEventData,
+.dglux_page_root .dgIcon-block-sin,
+.dglux_page_root .dgIcon-block-slice,
+.dglux_page_root .dgIcon-block-sort,
+.dglux_page_root .dgIcon-block-stdDeviation,
+.dglux_page_root .dgIcon-block-stopwatch,
+.dglux_page_root .dgIcon-block-str-builder,
+.dglux_page_root .dgIcon-block-strLoader,
+.dglux_page_root .dgIcon-block-strUploader,
+.dglux_page_root .dgIcon-block-string,
+.dglux_page_root .dgIcon-block-stroke,
+.dglux_page_root .dgIcon-block-substring,
+.dglux_page_root .dgIcon-block-subtract,
+.dglux_page_root .dgIcon-block-sys-properties,
+.dglux_page_root .dgIcon-block-table,
+.dglux_page_root .dgIcon-block-tableAggregation,
+.dglux_page_root .dgIcon-block-tableColumnMapping,
+.dglux_page_root .dgIcon-block-tableGetColumns,
+.dglux_page_root .dgIcon-block-tableRollup,
+.dglux_page_root .dgIcon-block-tableRowCells,
+.dglux_page_root .dgIcon-block-tableSelectRows,
+.dglux_page_root .dgIcon-block-tableTranspose,
+.dglux_page_root .dgIcon-block-tan,
+.dglux_page_root .dgIcon-block-timer,
+.dglux_page_root .dgIcon-block-toDegree,
+.dglux_page_root .dgIcon-block-toRadian,
+.dglux_page_root .dgIcon-block-triggerdelay,
+.dglux_page_root .dgIcon-block-trim,
+.dglux_page_root .dgIcon-block-truncate,
+.dglux_page_root .dgIcon-block-upper,
+.dglux_page_root .dgIcon-block-variance,
+.dglux_page_root .dgIcon-block-webDocument {
+  background-image: url('block_icons.png'); vertical-align: middle; display:  inline-block;
+  background-repeat: no-repeat;
+}
+
+.dglux_page_root .dgIcon-block-DGBoxPoint {
+  width: 16px;
+  height: 16px;
+  background-position: 0px 0px;
+}
+
+.dglux_page_root .dgIcon-block-E {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -16px;
+}
+
+.dglux_page_root .dgIcon-block-LN10 {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -32px;
+}
+
+.dglux_page_root .dgIcon-block-LN2 {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -48px;
+}
+
+.dglux_page_root .dgIcon-block-LOG10E {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -64px;
+}
+
+.dglux_page_root .dgIcon-block-LOG2E {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -80px;
+}
+
+.dglux_page_root .dgIcon-block-NetWorkDays {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -96px;
+}
+
+.dglux_page_root .dgIcon-block-NumericUnitConverter {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -112px;
+}
+
+.dglux_page_root .dgIcon-block-PI {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -128px;
+}
+
+.dglux_page_root .dgIcon-block-RepeatOnRows {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -144px;
+}
+
+.dglux_page_root .dgIcon-block-SQRT2 {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -160px;
+}
+
+.dglux_page_root .dgIcon-block-WeekNum {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -176px;
+}
+
+.dglux_page_root .dgIcon-block-Workday {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -192px;
+}
+
+.dglux_page_root .dgIcon-block-YearFrac {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -208px;
+}
+
+.dglux_page_root .dgIcon-block-abs {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -224px;
+}
+
+.dglux_page_root .dgIcon-block-acos {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -240px;
+}
+
+.dglux_page_root .dgIcon-block-add {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -256px;
+}
+
+.dglux_page_root .dgIcon-block-and {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -272px;
+}
+
+.dglux_page_root .dgIcon-block-asin {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -288px;
+}
+
+.dglux_page_root .dgIcon-block-atan {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -304px;
+}
+
+.dglux_page_root .dgIcon-block-average {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -320px;
+}
+
+.dglux_page_root .dgIcon-block-bind {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -336px;
+}
+
+.dglux_page_root .dgIcon-block-bool {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -352px;
+}
+
+.dglux_page_root .dgIcon-block-bound {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -368px;
+}
+
+.dglux_page_root .dgIcon-block-case {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -384px;
+}
+
+.dglux_page_root .dgIcon-block-color {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -400px;
+}
+
+.dglux_page_root .dgIcon-block-concat {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -416px;
+}
+
+.dglux_page_root .dgIcon-block-cos {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -432px;
+}
+
+.dglux_page_root .dgIcon-block-cot {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -448px;
+}
+
+.dglux_page_root .dgIcon-block-count {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -464px;
+}
+
+.dglux_page_root .dgIcon-block-cross-white-round {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -480px;
+}
+
+.dglux_page_root .dgIcon-block-csvParser {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -496px;
+}
+
+.dglux_page_root .dgIcon-block-date {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -512px;
+}
+
+.dglux_page_root .dgIcon-block-dateFormat {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -528px;
+}
+
+.dglux_page_root .dgIcon-block-dateMath {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -544px;
+}
+
+.dglux_page_root .dgIcon-block-dateRange {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -560px;
+}
+
+.dglux_page_root .dgIcon-block-datetime {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -576px;
+}
+
+.dglux_page_root .dgIcon-block-datetimetrigger {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -592px;
+}
+
+.dglux_page_root .dgIcon-block-days360 {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -608px;
+}
+
+.dglux_page_root .dgIcon-block-divide-white-round {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -624px;
+}
+
+.dglux_page_root .dgIcon-block-divide {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -640px;
+}
+
+.dglux_page_root .dgIcon-block-dragPosition {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -656px;
+}
+
+.dglux_page_root .dgIcon-block-dragSize {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -672px;
+}
+
+.dglux_page_root .dgIcon-block-duration {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -688px;
+}
+
+.dglux_page_root .dgIcon-block-eomonth {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -704px;
+}
+
+.dglux_page_root .dgIcon-block-equal {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -720px;
+}
+
+.dglux_page_root .dgIcon-block-even {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -736px;
+}
+
+.dglux_page_root .dgIcon-block-eventGate {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -752px;
+}
+
+.dglux_page_root .dgIcon-block-exportHtml {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -768px;
+}
+
+.dglux_page_root .dgIcon-block-factorial {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -784px;
+}
+
+.dglux_page_root .dgIcon-block-fill {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -800px;
+}
+
+.dglux_page_root .dgIcon-block-filter {
+  width: 15px;
+  height: 14px;
+  background-position: 0px -816px;
+}
+
+.dglux_page_root .dgIcon-block-findfirst {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -830px;
+}
+
+.dglux_page_root .dgIcon-block-findlast {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -846px;
+}
+
+.dglux_page_root .dgIcon-block-formatNumber {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -862px;
+}
+
+.dglux_page_root .dgIcon-block-formula {
+  width: 15px;
+  height: 14px;
+  background-position: 0px -878px;
+}
+
+.dglux_page_root .dgIcon-block-frequency {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -892px;
+}
+
+.dglux_page_root .dgIcon-block-geoLocation {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -908px;
+}
+
+.dglux_page_root .dgIcon-block-getChildren {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -924px;
+}
+
+.dglux_page_root .dgIcon-block-getNode {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -940px;
+}
+
+.dglux_page_root .dgIcon-block-getViewProperty {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -956px;
+}
+
+.dglux_page_root .dgIcon-block-greaterthan-equalto {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -972px;
+}
+
+.dglux_page_root .dgIcon-block-greaterthan {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -988px;
+}
+
+.dglux_page_root .dgIcon-block-group {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1004px;
+}
+
+.dglux_page_root .dgIcon-block-groupBy {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1020px;
+}
+
+.dglux_page_root .dgIcon-block-hub {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1036px;
+}
+
+.dglux_page_root .dgIcon-block-if {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1052px;
+}
+
+.dglux_page_root .dgIcon-block-iframeMessage {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1068px;
+}
+
+.dglux_page_root .dgIcon-block-intervaltrigger {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1084px;
+}
+
+.dglux_page_root .dgIcon-block-join {
+  width: 15px;
+  height: 14px;
+  background-position: 0px -1100px;
+}
+
+.dglux_page_root .dgIcon-block-jsonParser {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1114px;
+}
+
+.dglux_page_root .dgIcon-block-jsonpLoader {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1130px;
+}
+
+.dglux_page_root .dgIcon-block-keyboardEventData {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1146px;
+}
+
+.dglux_page_root .dgIcon-block-left {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1162px;
+}
+
+.dglux_page_root .dgIcon-block-length {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1178px;
+}
+
+.dglux_page_root .dgIcon-block-lessthan-equalto {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1194px;
+}
+
+.dglux_page_root .dgIcon-block-lessthan {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1210px;
+}
+
+.dglux_page_root .dgIcon-block-limiter {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1226px;
+}
+
+.dglux_page_root .dgIcon-block-listFiles {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1242px;
+}
+
+.dglux_page_root .dgIcon-block-loadHistories {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1258px;
+}
+
+.dglux_page_root .dgIcon-block-localStorage {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1274px;
+}
+
+.dglux_page_root .dgIcon-block-log {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1290px;
+}
+
+.dglux_page_root .dgIcon-block-logicexpression {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1306px;
+}
+
+.dglux_page_root .dgIcon-block-lower {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1322px;
+}
+
+.dglux_page_root .dgIcon-block-max {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1338px;
+}
+
+.dglux_page_root .dgIcon-block-median {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1354px;
+}
+
+.dglux_page_root .dgIcon-block-min {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1370px;
+}
+
+.dglux_page_root .dgIcon-block-minus-white-round {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1386px;
+}
+
+.dglux_page_root .dgIcon-block-mode {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1402px;
+}
+
+.dglux_page_root .dgIcon-block-modulo {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1418px;
+}
+
+.dglux_page_root .dgIcon-block-multiply {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1434px;
+}
+
+.dglux_page_root .dgIcon-block-not {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1450px;
+}
+
+.dglux_page_root .dgIcon-block-notequal {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1466px;
+}
+
+.dglux_page_root .dgIcon-block-now {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1482px;
+}
+
+.dglux_page_root .dgIcon-block-number {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1498px;
+}
+
+.dglux_page_root .dgIcon-block-numerical-map {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1514px;
+}
+
+.dglux_page_root .dgIcon-block-odd {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1530px;
+}
+
+.dglux_page_root .dgIcon-block-or {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1546px;
+}
+
+.dglux_page_root .dgIcon-block-oreader {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1562px;
+}
+
+.dglux_page_root .dgIcon-block-paging {
+  width: 15px;
+  height: 14px;
+  background-position: 0px -1578px;
+}
+
+.dglux_page_root .dgIcon-block-parseDateTime {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1592px;
+}
+
+.dglux_page_root .dgIcon-block-parseNumber {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1608px;
+}
+
+.dglux_page_root .dgIcon-block-pid-loop {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1624px;
+}
+
+.dglux_page_root .dgIcon-block-plus-white-round {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1640px;
+}
+
+.dglux_page_root .dgIcon-block-power {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1656px;
+}
+
+.dglux_page_root .dgIcon-block-projectInfo {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1672px;
+}
+
+.dglux_page_root .dgIcon-block-proper {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1688px;
+}
+
+.dglux_page_root .dgIcon-block-random {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1704px;
+}
+
+.dglux_page_root .dgIcon-block-relativize {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1720px;
+}
+
+.dglux_page_root .dgIcon-block-repeat {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1736px;
+}
+
+.dglux_page_root .dgIcon-block-repeatwhile {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1752px;
+}
+
+.dglux_page_root .dgIcon-block-replace {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1768px;
+}
+
+.dglux_page_root .dgIcon-block-right {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1784px;
+}
+
+.dglux_page_root .dgIcon-block-root {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1800px;
+}
+
+.dglux_page_root .dgIcon-block-round {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1816px;
+}
+
+.dglux_page_root .dgIcon-block-roundDown {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1832px;
+}
+
+.dglux_page_root .dgIcon-block-roundUp {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1848px;
+}
+
+.dglux_page_root .dgIcon-block-scale {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1864px;
+}
+
+.dglux_page_root .dgIcon-block-script {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1880px;
+}
+
+.dglux_page_root .dgIcon-block-scrollEventData {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1896px;
+}
+
+.dglux_page_root .dgIcon-block-sin {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1912px;
+}
+
+.dglux_page_root .dgIcon-block-slice {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1928px;
+}
+
+.dglux_page_root .dgIcon-block-sort {
+  width: 15px;
+  height: 14px;
+  background-position: 0px -1944px;
+}
+
+.dglux_page_root .dgIcon-block-stdDeviation {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1958px;
+}
+
+.dglux_page_root .dgIcon-block-stopwatch {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1974px;
+}
+
+.dglux_page_root .dgIcon-block-str-builder {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1990px;
+}
+
+.dglux_page_root .dgIcon-block-strLoader {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2006px;
+}
+
+.dglux_page_root .dgIcon-block-strUploader {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2022px;
+}
+
+.dglux_page_root .dgIcon-block-string {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2038px;
+}
+
+.dglux_page_root .dgIcon-block-stroke {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2054px;
+}
+
+.dglux_page_root .dgIcon-block-substring {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2070px;
+}
+
+.dglux_page_root .dgIcon-block-subtract {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2086px;
+}
+
+.dglux_page_root .dgIcon-block-sys-properties {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2102px;
+}
+
+.dglux_page_root .dgIcon-block-table {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2118px;
+}
+
+.dglux_page_root .dgIcon-block-tableAggregation {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2134px;
+}
+
+.dglux_page_root .dgIcon-block-tableColumnMapping {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2150px;
+}
+
+.dglux_page_root .dgIcon-block-tableGetColumns {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2166px;
+}
+
+.dglux_page_root .dgIcon-block-tableRollup {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2182px;
+}
+
+.dglux_page_root .dgIcon-block-tableRowCells {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2198px;
+}
+
+.dglux_page_root .dgIcon-block-tableSelectRows {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2214px;
+}
+
+.dglux_page_root .dgIcon-block-tableTranspose {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2230px;
+}
+
+.dglux_page_root .dgIcon-block-tan {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2246px;
+}
+
+.dglux_page_root .dgIcon-block-timer {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2262px;
+}
+
+.dglux_page_root .dgIcon-block-toDegree {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2278px;
+}
+
+.dglux_page_root .dgIcon-block-toRadian {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2294px;
+}
+
+.dglux_page_root .dgIcon-block-triggerdelay {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2310px;
+}
+
+.dglux_page_root .dgIcon-block-trim {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2326px;
+}
+
+.dglux_page_root .dgIcon-block-truncate {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2342px;
+}
+
+.dglux_page_root .dgIcon-block-upper {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2358px;
+}
+
+.dglux_page_root .dgIcon-block-variance {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2374px;
+}
+
+.dglux_page_root .dgIcon-block-webDocument {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2390px;
+}
+

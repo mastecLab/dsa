@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta charset="utf-8">
+    <title>DG Solution Builder</title>
+    <link rel="stylesheet" href="core.css">
+    <link rel="stylesheet" href="packages/core/dock_spawn/resources/css/dock-manager.css">
+    <link rel="stylesheet" href="packages/core/view/mapbox-gl.css">
+    <link rel="stylesheet" href="packages/core/view/mapbox-gl-draw.css">
+    <link rel="stylesheet" href="packages/core/view/view.css">
+    <link rel="stylesheet" href="packages/core/view/charts.css">
+    <link rel="stylesheet" href="packages/core/view/component.css">
+    <link rel="stylesheet" href="packages/core/view/editor.css">
+    <link rel="stylesheet" href="packages/core/view/app.css">
+    <link rel="stylesheet" href="packages/core/component_editor/datagrid/grid.css">
+    <link rel="stylesheet" href="packages/core/tree/tree.css">
+    <link rel="stylesheet" href="css_tree/_styles.css">
+    <link rel="stylesheet" href="assets/fonts/fonts.css">
+
+    <style>
+      body {
+        background-color: white;
+      }
+
+      #loader {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="rootDiv" class="absolute" style="display: none;width:100%; height:100%;">
+    </div>
+
+    <div id="loader">
+      <div style="margin-bottom: 60px;" id="loader-logo"></div>
+      <div id="loader-progress">
+        <svg version="1.1" x="0px" y="0px" viewBox="-269 216 100 50">
+          <path opacity="0.1" d="M-197.8,237.9L-197.8,237.9c-6-4.4-13.2-7.1-21.2-7.1
+					c-7.9,0-15.2,2.7-21.1,7.1l-0.1-0.1c-8.5,6.4-14,16.6-14,28.1h-14.6c0-27.4,22.3-49.8,49.8-49.8c0,0,0,0,0,0c0,0,0,0,0,0
+					c27.4,0,49.8,22.3,49.8,49.8h-14.6C-183.8,254.5-189.3,244.3-197.8,237.9z"></path>
+        </svg>
+        <svg id="meter-filled" version="1.1" x="0px" y="0px" viewBox="-269 216 100 50">
+          <path d="M-197.8,237.9L-197.8,237.9c-6-4.4-13.2-7.1-21.2-7.1
+					c-7.9,0-15.2,2.7-21.1,7.1l-0.1-0.1c-8.5,6.4-14,16.6-14,28.1h-14.6c0-27.4,22.3-49.8,49.8-49.8c0,0,0,0,0,0c0,0,0,0,0,0
+					c27.4,0,49.8,22.3,49.8,49.8h-14.6C-183.8,254.5-189.3,244.3-197.8,237.9z"></path>
+        </svg>
+      </div>
+      <div id="needle"></div>
+      <p id="load-percentage">Loading...</p>
+    </div>
+
+    <script type="application/javascript" src="core.patch.js"></script>
+    <script>
+        // theme loading:
+        // get current theme name from local storage
+        var themeName = 'dgsb_dark';
+        if (window.localStorage.hasOwnProperty('currentTheme')) {
+            themeName =  window.localStorage['currentTheme'];
+        }
+        // create new links for theme's css
+        var themesPrefix = 'themes/';
+        var styleNames = ['loader.css', 'skin.css', 'app_icons.css', 'block_icons.css', 'style.css', 'colored_icons.css'];
+        var i, link_tag;
+        for (i = 0; i < styleNames.length; i++) {
+            link_tag = document.createElement('link');
+            link_tag.setAttribute('rel', 'stylesheet');
+            link_tag.setAttribute('href', themesPrefix + themeName + '/' + styleNames[i]);
+            document.getElementsByTagName('head')[0].appendChild(link_tag);
+        }
+    </script>
+    <script>
+    var baseName = "viewer.dart";
+    var scriptName = baseName + ".js";
+    function load(){
+      if (!navigator.dartEnabled && (navigator.userAgent.indexOf('(Dart)') === -1)) {
+        if (document.querySelector("#loader") != null && window.URL && window.URL.createObjectURL && window.Blob) {
+          var meter = document.getElementById('meter-filled');
+          var needle = document.getElementById('needle');
+          var setLoadProgress = function(percentage) {
+            var needlePer = (200 * (percentage / 100)) - 140;
+            var meterPer = (180 * (percentage / 100)) - 180;
+            needle.style.transform = needle.style["-webkit-transform"] = needle.style["-ms-transform"] = "rotate(" + needlePer + "deg)";
+            meter.style.transform = meter.style["-webkit-transform"] = meter.style["-ms-transform"] = "rotate(" + meterPer + "deg)";
+            document.getElementById('load-percentage').innerHTML = percentage + '%';
+          };
+
+          function startTimer() {
+            if (iid == -1) {
+              iid = 1;
+              needle.setAttribute("class","bounce-rotate-needle");
+              meter.setAttribute("class","bounce-rotate-meter");
+            }
+          }
+
+          var req = new XMLHttpRequest();
+          var prog = 0;
+          var hasLoaded = false;
+          var iid = -1;
+
+          req.addEventListener("progress", function (event) {
+            var percentComplete = (event.loaded / event.total) * 100;
+
+            if (percentComplete != Infinity) {
+              console.log("Loading DG Solution Builder: " + percentComplete + "%");
+              setLoadProgress(parseInt(percentComplete.toFixed(0)));
+            } else {
+              startTimer();
+            }
+          });
+
+          req.onreadystatechange = function (event) {
+            if (req.readyState == 2) {
+              hasLoaded = true;
+
+              var length = req.getResponseHeader("Content-Length");
+              if (typeof length == "undefined" || length == null) {
+                startTimer();
+              }
+            }
+          };
+
+          req.addEventListener("load", function (event) {
+            if (window.URL && window.URL.createObjectURL) {
+              var blob = req.response;
+              var e = document.createElement("script");
+              e.src = window.URL.createObjectURL(blob);
+              document.body.appendChild(e);
+            } else {
+              var e = document.createElement("script");
+              e.src = scriptName;
+              document.body.appendChild(e);
+            }
+          });
+
+          req.open("GET", scriptName);
+          if (window.URL && window.URL.createObjectURL) {
+            req.responseType = 'blob';
+          }
+          req.send();
+
+          setTimeout(function () {
+            if (!hasLoaded) {
+              startTimer();
+            }
+          }, 500);
+        } else {
+          var e = document.createElement("script");
+          e.src = scriptName;
+          e.type = "application/javascript";
+          document.body.appendChild(e);
+        }
+      } else {
+        var e = document.createElement("script");
+        e.src = baseName;
+        e.type = "application/dart";
+        document.body.appendChild(e);
+      }
+    }
+    function checkLogin(loadCallback) {
+      // todo add your custom login logic here
+      loadCallback();
+    }
+    checkLogin(load);
+    </script>
+  </body>
+</html>

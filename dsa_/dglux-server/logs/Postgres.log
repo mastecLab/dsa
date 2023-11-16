@@ -1,0 +1,75 @@
+[2019-02-16 12:41:57.239347] == Executing C:\dsa\dglux-server\dslinks\Postgres\bin\dslink-java-v2-jdbc-postgres.bat with arguments [--main-node, org.iot.dsa.dslink.jdbc.postgres.MainNode] (pid: 17876) ==
+[2019-02-16 12:41:58.714230] [2019-02-16 12:41:58:683] INFO   [jdbc-postgres] Creating new database...
+[2019-02-16 12:41:58.714230] [2019-02-16 12:41:58:685] INFO   [jdbc-postgres] file:/C:/dsa/dglux-server/dslinks/Postgres/lib/dslink-v2-v0.48.0.jar
+[2019-02-16 12:41:58.714230] [2019-02-16 12:41:58:685] INFO   [jdbc-postgres] Starting nodes
+[2019-02-16 12:41:59.582405] [2019-02-16 12:41:59:582] INFO   [jdbc-postgres.sys] Keytool not available. Disabling keytool functionality and attempting to use existing keystore
+[2019-02-16 12:42:04.589801] [2019-02-16 12:42:04:589] INFO   [jdbc-postgres] Stabilizing nodes
+[2019-02-16 12:42:04.593799] [2019-02-16 12:42:04:592] INFO   [jdbc-postgres.sys] Saving node database C:\dsa\dglux-server\dslinks\Postgres\.\nodes.zip
+[2019-02-16 12:42:04.685745] [2019-02-16 12:42:04:685] INFO   [jdbc-postgres.sys] Node database saved: 92ms
+[2019-02-16 12:49:22.004046] == Executing C:\dsa\dglux-server\dslinks\Postgres\bin\dslink-java-v2-jdbc-postgres.bat with arguments [--main-node, org.iot.dsa.dslink.jdbc.postgres.MainNode] (pid: 19624) ==
+[2019-02-16 12:49:24.005416] feb 16, 2019 12:49:22 PM java.util.logging.LogManager$RootLogger log
+[2019-02-16 12:49:24.005416] INFORMACI�N: Loading node database C:\dsa\dglux-server\dslinks\Postgres\.\nodes.zip
+[2019-02-16 12:49:27.219592] [2019-02-16 12:49:27:218] INFO   [jdbc-postgres] Node database loaded: 3212ms
+[2019-02-16 12:49:27.219592] [2019-02-16 12:49:27:218] INFO   [jdbc-postgres] file:/C:/dsa/dglux-server/dslinks/Postgres/lib/dslink-v2-v0.48.0.jar
+[2019-02-16 12:49:27.219592] [2019-02-16 12:49:27:218] INFO   [jdbc-postgres] Starting nodes
+[2019-02-16 12:49:27.859224] [2019-02-16 12:49:27:857] INFO   [jdbc-postgres.sys] Keytool not available. Disabling keytool functionality and attempting to use existing keystore
+[2019-02-16 12:49:32.858620] [2019-02-16 12:49:32:858] INFO   [jdbc-postgres] Stabilizing nodes
+[2019-02-16 12:52:00.732616] == Executing C:\dsa\dglux-server\dslinks\Postgres\bin\dslink-java-v2-jdbc-postgres.bat with arguments [--main-node, org.iot.dsa.dslink.jdbc.postgres.MainNode] (pid: 16404) ==
+[2019-02-16 12:52:01.721048] feb 16, 2019 12:52:01 PM java.util.logging.LogManager$RootLogger log
+[2019-02-16 12:52:01.721048] INFORMACI�N: Loading node database C:\dsa\dglux-server\dslinks\Postgres\.\nodes.zip
+[2019-02-16 12:52:02.988319] [2019-02-16 12:52:02:987] INFO   [jdbc-postgres] Node database loaded: 1265ms
+[2019-02-16 12:52:02.988319] [2019-02-16 12:52:02:987] INFO   [jdbc-postgres] file:/C:/dsa/dglux-server/dslinks/Postgres/lib/dslink-v2-v0.48.0.jar
+[2019-02-16 12:52:02.988319] [2019-02-16 12:52:02:987] INFO   [jdbc-postgres] Starting nodes
+[2019-02-16 12:52:03.445056] [2019-02-16 12:52:03:444] INFO   [jdbc-postgres.sys] Keytool not available. Disabling keytool functionality and attempting to use existing keystore
+[2019-02-16 12:52:08.445220] [2019-02-16 12:52:08:445] INFO   [jdbc-postgres] Stabilizing nodes
+[2019-02-16 13:52:08.451919] [2019-02-16 13:52:08:448] INFO   [jdbc-postgres.sys] Backing up the node database...
+[2019-02-16 13:52:08.452918] [2019-02-16 13:52:08:451] INFO   [jdbc-postgres.sys] Saving node database C:\dsa\dglux-server\dslinks\Postgres\.\nodes.zip
+[2019-02-16 13:52:08.493894] [2019-02-16 13:52:08:493] INFO   [jdbc-postgres.sys] Node database saved: 42ms
+[2019-02-16 14:52:08.498385] [2019-02-16 14:52:08:495] INFO   [jdbc-postgres.sys] Backing up the node database...
+[2019-02-16 14:52:08.500375] [2019-02-16 14:52:08:498] INFO   [jdbc-postgres.sys] Saving node database C:\dsa\dglux-server\dslinks\Postgres\.\nodes.zip
+[2019-02-16 14:52:08.539366] [2019-02-16 14:52:08:539] INFO   [jdbc-postgres.sys] Node database saved: 41ms
+[2019-02-17 16:30:49.057325] [2019-02-17 16:30:49:057] INFO   [jdbc-postgres.sys] Backing up the node database...
+[2019-02-17 16:30:49.059326] [2019-02-17 16:30:49:059] INFO   [jdbc-postgres.sys] Saving node database C:\dsa\dglux-server\dslinks\Postgres\.\nodes.zip
+[2019-02-17 16:30:49.067321] [2019-02-17 16:30:49:066] INFO   [jdbc-postgres.sys] Node database saved: 7ms
+[2019-02-17 17:30:49.067623] [2019-02-17 17:30:49:067] INFO   [jdbc-postgres.sys] Backing up the node database...
+[2019-02-17 17:30:49.068610] [2019-02-17 17:30:49:068] INFO   [jdbc-postgres.sys] Saving node database C:\dsa\dglux-server\dslinks\Postgres\.\nodes.zip
+[2019-02-17 17:30:49.142581] [2019-02-17 17:30:49:141] INFO   [jdbc-postgres.sys] Node database saved: 73ms
+[2019-02-17 22:38:23.311251] == Executing C:\dsa\dglux-server\dslinks\Postgres\bin\dslink-java-v2-jdbc-postgres.bat with arguments [--main-node, org.iot.dsa.dslink.jdbc.postgres.MainNode] (pid: 9544) ==
+[2019-02-17 22:38:31.698271] feb 17, 2019 10:38:30 PM java.util.logging.LogManager$RootLogger log
+[2019-02-17 22:38:31.699270] INFORMACI�N: Loading node database C:\dsa\dglux-server\dslinks\Postgres\.\nodes.zip
+[2019-02-17 22:38:34.607765] [2019-02-17 22:38:34:606] INFO   [jdbc-postgres] Node database loaded: 2908ms
+[2019-02-17 22:38:34.607765] [2019-02-17 22:38:34:606] INFO   [jdbc-postgres] file:/C:/dsa/dglux-server/dslinks/Postgres/lib/dslink-v2-v0.48.0.jar
+[2019-02-17 22:38:34.607765] [2019-02-17 22:38:34:606] INFO   [jdbc-postgres] Starting nodes
+[2019-02-17 22:38:36.057459] [2019-02-17 22:38:36:056] INFO   [jdbc-postgres.sys] Keytool not available. Disabling keytool functionality and attempting to use existing keystore
+[2019-02-17 22:38:41.057712] [2019-02-17 22:38:41:057] INFO   [jdbc-postgres] Stabilizing nodes
+[2019-02-17 23:38:41.064032] [2019-02-17 23:38:41:061] INFO   [jdbc-postgres.sys] Backing up the node database...
+[2019-02-17 23:38:41.065032] [2019-02-17 23:38:41:064] INFO   [jdbc-postgres.sys] Saving node database C:\dsa\dglux-server\dslinks\Postgres\.\nodes.zip
+[2019-02-17 23:38:41.119001] [2019-02-17 23:38:41:118] INFO   [jdbc-postgres.sys] Node database saved: 54ms
+[2019-02-18 10:02:43.641682] [2019-02-18 10:02:43:640] INFO   [jdbc-postgres.sys] Backing up the node database...
+[2019-02-18 10:02:43.656672] [2019-02-18 10:02:43:656] INFO   [jdbc-postgres.sys] Saving node database C:\dsa\dglux-server\dslinks\Postgres\.\nodes.zip
+[2019-02-18 10:02:43.665667] [2019-02-18 10:02:43:664] INFO   [jdbc-postgres.sys] Node database saved: 8ms
+[2019-02-18 18:55:48.834247] == Executing C:\dsa\dglux-server\dslinks\Postgres\bin\dslink-java-v2-jdbc-postgres.bat with arguments [--main-node, org.iot.dsa.dslink.jdbc.postgres.MainNode] (pid: 14380) ==
+[2019-02-18 18:55:59.107756] feb 18, 2019 6:55:57 PM java.util.logging.LogManager$RootLogger log
+[2019-02-18 18:55:59.108755] INFORMACI�N: Loading node database C:\dsa\dglux-server\dslinks\Postgres\.\nodes.zip
+[2019-02-18 18:56:02.435841] [2019-02-18 18:56:02:434] INFO   [jdbc-postgres] Node database loaded: 3327ms
+[2019-02-18 18:56:02.435841] [2019-02-18 18:56:02:434] INFO   [jdbc-postgres] file:/C:/dsa/dglux-server/dslinks/Postgres/lib/dslink-v2-v0.48.0.jar
+[2019-02-18 18:56:02.435841] [2019-02-18 18:56:02:435] INFO   [jdbc-postgres] Starting nodes
+[2019-02-18 18:56:03.698114] [2019-02-18 18:56:03:698] INFO   [jdbc-postgres.sys] Keytool not available. Disabling keytool functionality and attempting to use existing keystore
+[2019-02-18 18:56:08.719938] [2019-02-18 18:56:08:719] INFO   [jdbc-postgres] Stabilizing nodes
+[2019-02-18 19:56:08.730589] [2019-02-18 19:56:08:724] INFO   [jdbc-postgres.sys] Backing up the node database...
+[2019-02-18 19:56:08.730589] [2019-02-18 19:56:08:730] INFO   [jdbc-postgres.sys] Saving node database C:\dsa\dglux-server\dslinks\Postgres\.\nodes.zip
+[2019-02-18 19:56:08.782557] [2019-02-18 19:56:08:781] INFO   [jdbc-postgres.sys] Node database saved: 51ms
+[2019-02-19 10:50:03.119744] == Executing C:\dsa\dglux-server\dslinks\Postgres\bin\dslink-java-v2-jdbc-postgres.bat with arguments [--main-node, org.iot.dsa.dslink.jdbc.postgres.MainNode] (pid: 21816) ==
+[2019-02-19 10:50:05.649288] feb 19, 2019 10:50:05 AM java.util.logging.LogManager$RootLogger log
+[2019-02-19 10:50:05.649288] INFORMACI�N: Loading node database C:\dsa\dglux-server\dslinks\Postgres\.\nodes.zip
+[2019-02-19 10:50:07.028495] [2019-02-19 10:50:07:027] INFO   [jdbc-postgres] Node database loaded: 1378ms
+[2019-02-19 10:50:07.028495] [2019-02-19 10:50:07:027] INFO   [jdbc-postgres] file:/C:/dsa/dglux-server/dslinks/Postgres/lib/dslink-v2-v0.48.0.jar
+[2019-02-19 10:50:07.028495] [2019-02-19 10:50:07:028] INFO   [jdbc-postgres] Starting nodes
+[2019-02-19 10:50:08.020923] [2019-02-19 10:50:08:019] INFO   [jdbc-postgres.sys] Keytool not available. Disabling keytool functionality and attempting to use existing keystore
+[2019-02-19 10:50:13.021987] [2019-02-19 10:50:13:021] INFO   [jdbc-postgres] Stabilizing nodes
+[2019-02-19 11:50:13.032828] [2019-02-19 11:50:13:028] INFO   [jdbc-postgres.sys] Backing up the node database...
+[2019-02-19 11:50:13.033828] [2019-02-19 11:50:13:033] INFO   [jdbc-postgres.sys] Saving node database C:\dsa\dglux-server\dslinks\Postgres\.\nodes.zip
+[2019-02-19 11:50:13.133770] [2019-02-19 11:50:13:132] INFO   [jdbc-postgres.sys] Node database saved: 99ms
+[2019-02-19 12:50:13.138555] [2019-02-19 12:50:13:134] INFO   [jdbc-postgres.sys] Backing up the node database...
+[2019-02-19 12:50:13.138555] [2019-02-19 12:50:13:138] INFO   [jdbc-postgres.sys] Saving node database C:\dsa\dglux-server\dslinks\Postgres\.\nodes.zip
+[2019-02-19 12:50:13.186530] [2019-02-19 12:50:13:185] INFO   [jdbc-postgres.sys] Node database saved: 48ms

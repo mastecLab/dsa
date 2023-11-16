@@ -1,0 +1,1936 @@
+.dglux_page_root .dgIcon-Logout,
+.dglux_page_root .dgIcon-TreeClosedIcon,
+.dglux_page_root .dgIcon-TreeOpenIcon,
+.dglux_page_root .dgIcon-action-project-new,
+.dglux_page_root .dgIcon-actions-recent,
+.dglux_page_root .dgIcon-blue-arrow,
+.dglux_page_root .dgIcon-callout_none_dark,
+.dglux_page_root .dgIcon-callout_over_dark,
+.dglux_page_root .dgIcon-callout_static_dark,
+.dglux_page_root .dgIcon-chart-up,
+.dglux_page_root .dgIcon-dg_file_code,
+.dglux_page_root .dgIcon-dg_file_default,
+.dglux_page_root .dgIcon-dg_file_dg5,
+.dglux_page_root .dgIcon-dg_file_flash,
+.dglux_page_root .dgIcon-dg_file_folder,
+.dglux_page_root .dgIcon-dg_file_html,
+.dglux_page_root .dgIcon-dg_file_image,
+.dglux_page_root .dgIcon-dg_file_text,
+.dglux_page_root .dgIcon-dg_file_zip,
+.dglux_page_root .dgIcon-dglux-logo-small,
+.dglux_page_root .dgIcon-dglux_logo_light_30,
+.dglux_page_root .dgIcon-folder-icon,
+.dglux_page_root .dgIcon-group-absolute,
+.dglux_page_root .dgIcon-group-horizontal,
+.dglux_page_root .dgIcon-group-vertical,
+.dglux_page_root .dgIcon-header_additional_logo,
+.dglux_page_root .dgIcon-help-icon,
+.dglux_page_root .dgIcon-icn-DefaultDashboardIcon,
+.dglux_page_root .dgIcon-icn-ErrorIndicator,
+.dglux_page_root .dgIcon-icn-RequiredIndicator,
+.dglux_page_root .dgIcon-icn-advanced-collapsed,
+.dglux_page_root .dgIcon-icn-advanced-opened,
+.dglux_page_root .dgIcon-icn-alias-cursor-icon,
+.dglux_page_root .dgIcon-icn-all-scroll-cursor-icon,
+.dglux_page_root .dgIcon-icn-arrow-out,
+.dglux_page_root .dgIcon-icn-blueprintArrowIcon,
+.dglux_page_root .dgIcon-icn-blueprintPlusIcon,
+.dglux_page_root .dgIcon-icn-bugIcon,
+.dglux_page_root .dgIcon-icn-cell-cursor-icon,
+.dglux_page_root .dgIcon-icn-chart-preview,
+.dglux_page_root .dgIcon-icn-check-icon,
+.dglux_page_root .dgIcon-icn-col-resize-cursor-icon,
+.dglux_page_root .dgIcon-icn-context-menu-cursor-icon,
+.dglux_page_root .dgIcon-icn-copy-cursor-icon,
+.dglux_page_root .dgIcon-icn-crosshair-cursor-icon,
+.dglux_page_root .dgIcon-icn-data-configure,
+.dglux_page_root .dgIcon-icn-dataflow-icon,
+.dglux_page_root .dgIcon-icn-default-cursor-icon,
+.dglux_page_root .dgIcon-icn-disk,
+.dglux_page_root .dgIcon-icn-diskBlackIcon,
+.dglux_page_root .dgIcon-icn-documentTemplateIcon,
+.dglux_page_root .dgIcon-icn-driveGoIcon,
+.dglux_page_root .dgIcon-icn-driveGobackIcon,
+.dglux_page_root .dgIcon-icn-e-resize-cursor-icon,
+.dglux_page_root .dgIcon-icn-ew-resize-cursor-icon,
+.dglux_page_root .dgIcon-icn-eyeDropperCursor,
+.dglux_page_root .dgIcon-icn-filmIcon,
+.dglux_page_root .dgIcon-icn-folderExploreIcon,
+.dglux_page_root .dgIcon-icn-folderOpenDocumentIcon,
+.dglux_page_root .dgIcon-icn-grab-cursor-icon,
+.dglux_page_root .dgIcon-icn-grabbing-cursor-icon,
+.dglux_page_root .dgIcon-icn-gridIcon,
+.dglux_page_root .dgIcon-icn-help-cursor-icon,
+.dglux_page_root .dgIcon-icn-hsl-icon,
+.dglux_page_root .dgIcon-icn-images,
+.dglux_page_root .dgIcon-icn-informationIcon,
+.dglux_page_root .dgIcon-icn-layoutDesignIcon,
+.dglux_page_root .dgIcon-icn-layoutEditIcon,
+.dglux_page_root .dgIcon-icn-layoutHeader3mixIcon,
+.dglux_page_root .dgIcon-icn-link-icon,
+.dglux_page_root .dgIcon-icn-move-cursor-icon,
+.dglux_page_root .dgIcon-icn-move-left,
+.dglux_page_root .dgIcon-icn-move-right,
+.dglux_page_root .dgIcon-icn-n-resize-cursor-icon,
+.dglux_page_root .dgIcon-icn-ne-resize-cursor-icon,
+.dglux_page_root .dgIcon-icn-nesw-resize-cursor-icon,
+.dglux_page_root .dgIcon-icn-no-drop-cursor-icon,
+.dglux_page_root .dgIcon-icn-not-allowed-cursor-icon,
+.dglux_page_root .dgIcon-icn-ns-resize-cursor-icon,
+.dglux_page_root .dgIcon-icn-nw-resize-cursor-icon,
+.dglux_page_root .dgIcon-icn-nwse-resize-cursor-icon,
+.dglux_page_root .dgIcon-icn-pageAddIcon,
+.dglux_page_root .dgIcon-icn-pageExcelIcon,
+.dglux_page_root .dgIcon-icn-pageSaveIcon,
+.dglux_page_root .dgIcon-icn-pageWhiteAcrobatIcon,
+.dglux_page_root .dgIcon-icn-pageWhiteCodeIcon,
+.dglux_page_root .dgIcon-icn-panel-collapse,
+.dglux_page_root .dgIcon-icn-panel-expand,
+.dglux_page_root .dgIcon-icn-pi-add-column,
+.dglux_page_root .dgIcon-icn-pi-add,
+.dglux_page_root .dgIcon-icn-pi-align-bottom,
+.dglux_page_root .dgIcon-icn-pi-align-center,
+.dglux_page_root .dgIcon-icn-pi-align-left,
+.dglux_page_root .dgIcon-icn-pi-align-mid,
+.dglux_page_root .dgIcon-icn-pi-align-middle,
+.dglux_page_root .dgIcon-icn-pi-align-right,
+.dglux_page_root .dgIcon-icn-pi-align-top,
+.dglux_page_root .dgIcon-icn-pi-autosize,
+.dglux_page_root .dgIcon-icn-pi-binding-off,
+.dglux_page_root .dgIcon-icn-pi-binding-on,
+.dglux_page_root .dgIcon-icn-pi-bottom-position,
+.dglux_page_root .dgIcon-icn-pi-cancel,
+.dglux_page_root .dgIcon-icn-pi-caps-none,
+.dglux_page_root .dgIcon-icn-pi-caps-round,
+.dglux_page_root .dgIcon-icn-pi-caps-square,
+.dglux_page_root .dgIcon-icn-pi-dropdown-arrows,
+.dglux_page_root .dgIcon-icn-pi-duplicate,
+.dglux_page_root .dgIcon-icn-pi-ellipsis,
+.dglux_page_root .dgIcon-icn-pi-favorites,
+.dglux_page_root .dgIcon-icn-pi-fill-bmp,
+.dglux_page_root .dgIcon-icn-pi-fill-gradient,
+.dglux_page_root .dgIcon-icn-pi-fill-none-icon,
+.dglux_page_root .dgIcon-icn-pi-fill-none,
+.dglux_page_root .dgIcon-icn-pi-fill-radial-gradient,
+.dglux_page_root .dgIcon-icn-pi-fill-solid,
+.dglux_page_root .dgIcon-icn-pi-fill,
+.dglux_page_root .dgIcon-icn-pi-flexgrow,
+.dglux_page_root .dgIcon-icn-pi-flexshrink,
+.dglux_page_root .dgIcon-icn-pi-folder,
+.dglux_page_root .dgIcon-icn-pi-fullsize,
+.dglux_page_root .dgIcon-icn-pi-go-up,
+.dglux_page_root .dgIcon-icn-pi-height,
+.dglux_page_root .dgIcon-icn-pi-join-bevel,
+.dglux_page_root .dgIcon-icn-pi-join-miter,
+.dglux_page_root .dgIcon-icn-pi-join-round,
+.dglux_page_root .dgIcon-icn-pi-label-vert,
+.dglux_page_root .dgIcon-icn-pi-label-vertflipped,
+.dglux_page_root .dgIcon-icn-pi-left-position,
+.dglux_page_root .dgIcon-icn-pi-lock,
+.dglux_page_root .dgIcon-icn-pi-mouseenabled,
+.dglux_page_root .dgIcon-icn-pi-multiline,
+.dglux_page_root .dgIcon-icn-pi-off,
+.dglux_page_root .dgIcon-icn-pi-padding-bottom,
+.dglux_page_root .dgIcon-icn-pi-padding-left,
+.dglux_page_root .dgIcon-icn-pi-padding-right,
+.dglux_page_root .dgIcon-icn-pi-padding-top,
+.dglux_page_root .dgIcon-icn-pi-position-x,
+.dglux_page_root .dgIcon-icn-pi-position-y,
+.dglux_page_root .dgIcon-icn-pi-record-accept,
+.dglux_page_root .dgIcon-icn-pi-record-cancel,
+.dglux_page_root .dgIcon-icn-pi-refresh,
+.dglux_page_root .dgIcon-icn-pi-reset-color,
+.dglux_page_root .dgIcon-icn-pi-right-position,
+.dglux_page_root .dgIcon-icn-pi-rotate-90ccw,
+.dglux_page_root .dgIcon-icn-pi-rotate-90cw,
+.dglux_page_root .dgIcon-icn-pi-rotate-left,
+.dglux_page_root .dgIcon-icn-pi-rotate-right,
+.dglux_page_root .dgIcon-icn-pi-rotate,
+.dglux_page_root .dgIcon-icn-pi-scale-fitratio,
+.dglux_page_root .dgIcon-icn-pi-scale-free,
+.dglux_page_root .dgIcon-icn-pi-scale-stretch,
+.dglux_page_root .dgIcon-icn-pi-scale9,
+.dglux_page_root .dgIcon-icn-pi-sort-abc,
+.dglux_page_root .dgIcon-icn-pi-sort-cba,
+.dglux_page_root .dgIcon-icn-pi-state-edit,
+.dglux_page_root .dgIcon-icn-pi-state-record,
+.dglux_page_root .dgIcon-icn-pi-stroke,
+.dglux_page_root .dgIcon-icn-pi-subtract,
+.dglux_page_root .dgIcon-icn-pi-swap,
+.dglux_page_root .dgIcon-icn-pi-switch-down,
+.dglux_page_root .dgIcon-icn-pi-switch-off,
+.dglux_page_root .dgIcon-icn-pi-switch-on,
+.dglux_page_root .dgIcon-icn-pi-switch-up,
+.dglux_page_root .dgIcon-icn-pi-text-letter-spacing,
+.dglux_page_root .dgIcon-icn-pi-text-line-spacing,
+.dglux_page_root .dgIcon-icn-pi-tile-horiz,
+.dglux_page_root .dgIcon-icn-pi-tile-none,
+.dglux_page_root .dgIcon-icn-pi-tile-vert,
+.dglux_page_root .dgIcon-icn-pi-tile,
+.dglux_page_root .dgIcon-icn-pi-top-position,
+.dglux_page_root .dgIcon-icn-pi-trash,
+.dglux_page_root .dgIcon-icn-pi-txt-align-bottom,
+.dglux_page_root .dgIcon-icn-pi-txt-align-center,
+.dglux_page_root .dgIcon-icn-pi-txt-align-justify,
+.dglux_page_root .dgIcon-icn-pi-txt-align-left,
+.dglux_page_root .dgIcon-icn-pi-txt-align-middle,
+.dglux_page_root .dgIcon-icn-pi-txt-align-right,
+.dglux_page_root .dgIcon-icn-pi-txt-align-top,
+.dglux_page_root .dgIcon-icn-pi-txt-bold,
+.dglux_page_root .dgIcon-icn-pi-txt-input,
+.dglux_page_root .dgIcon-icn-pi-txt-italic,
+.dglux_page_root .dgIcon-icn-pi-txt-password,
+.dglux_page_root .dgIcon-icn-pi-txt-underline,
+.dglux_page_root .dgIcon-icn-pi-unlock,
+.dglux_page_root .dgIcon-icn-pi-visible,
+.dglux_page_root .dgIcon-icn-pi-width,
+.dglux_page_root .dgIcon-icn-pipette-icon,
+.dglux_page_root .dgIcon-icn-pointer-cursor-icon,
+.dglux_page_root .dgIcon-icn-progress-cursor-icon,
+.dglux_page_root .dgIcon-icn-questionIcon,
+.dglux_page_root .dgIcon-icn-renameIcont,
+.dglux_page_root .dgIcon-icn-rgb-icon,
+.dglux_page_root .dgIcon-icn-row-resize-cursor-icon,
+.dglux_page_root .dgIcon-icn-s-resize-cursor-icon,
+.dglux_page_root .dgIcon-icn-se-resize-cursor-icon,
+.dglux_page_root .dgIcon-icn-state-edit,
+.dglux_page_root .dgIcon-icn-sw-resize-cursor-icon,
+.dglux_page_root .dgIcon-icn-text-cursor-icon,
+.dglux_page_root .dgIcon-icn-tool-align-bottom-edge,
+.dglux_page_root .dgIcon-icn-tool-align-bottom,
+.dglux_page_root .dgIcon-icn-tool-align-center-edge,
+.dglux_page_root .dgIcon-icn-tool-align-center,
+.dglux_page_root .dgIcon-icn-tool-align-left-edge,
+.dglux_page_root .dgIcon-icn-tool-align-left,
+.dglux_page_root .dgIcon-icn-tool-align-middle-edge,
+.dglux_page_root .dgIcon-icn-tool-align-middle,
+.dglux_page_root .dgIcon-icn-tool-align-right-edge,
+.dglux_page_root .dgIcon-icn-tool-align-right,
+.dglux_page_root .dgIcon-icn-tool-align-top-edge,
+.dglux_page_root .dgIcon-icn-tool-align-top,
+.dglux_page_root .dgIcon-icn-tool-back,
+.dglux_page_root .dgIcon-icn-tool-break-symbol,
+.dglux_page_root .dgIcon-icn-tool-bring-forward,
+.dglux_page_root .dgIcon-icn-tool-bring-to-front,
+.dglux_page_root .dgIcon-icn-tool-convert-to-symbol,
+.dglux_page_root .dgIcon-icn-tool-copy,
+.dglux_page_root .dgIcon-icn-tool-cut,
+.dglux_page_root .dgIcon-icn-tool-distribute-horiz,
+.dglux_page_root .dgIcon-icn-tool-distribute-vert,
+.dglux_page_root .dgIcon-icn-tool-download,
+.dglux_page_root .dgIcon-icn-tool-ellipse-single,
+.dglux_page_root .dgIcon-icn-tool-ellipse,
+.dglux_page_root .dgIcon-icn-tool-gradient-fill,
+.dglux_page_root .dgIcon-icn-tool-gradient-stroke,
+.dglux_page_root .dgIcon-icn-tool-group,
+.dglux_page_root .dgIcon-icn-tool-line-single,
+.dglux_page_root .dgIcon-icn-tool-line,
+.dglux_page_root .dgIcon-icn-tool-menu,
+.dglux_page_root .dgIcon-icn-tool-new-folder,
+.dglux_page_root .dgIcon-icn-tool-pan,
+.dglux_page_root .dgIcon-icn-tool-paste,
+.dglux_page_root .dgIcon-icn-tool-path,
+.dglux_page_root .dgIcon-icn-tool-polygon-single,
+.dglux_page_root .dgIcon-icn-tool-polyline-single,
+.dglux_page_root .dgIcon-icn-tool-polyline,
+.dglux_page_root .dgIcon-icn-tool-rectangle-single,
+.dglux_page_root .dgIcon-icn-tool-rectangle,
+.dglux_page_root .dgIcon-icn-tool-redo,
+.dglux_page_root .dgIcon-icn-tool-scew,
+.dglux_page_root .dgIcon-icn-tool-select-path,
+.dglux_page_root .dgIcon-icn-tool-select,
+.dglux_page_root .dgIcon-icn-tool-selection-background,
+.dglux_page_root .dgIcon-icn-tool-send-backward,
+.dglux_page_root .dgIcon-icn-tool-send-to-back,
+.dglux_page_root .dgIcon-icn-tool-shape,
+.dglux_page_root .dgIcon-icn-tool-transform,
+.dglux_page_root .dgIcon-icn-tool-triangle,
+.dglux_page_root .dgIcon-icn-tool-triangle_single,
+.dglux_page_root .dgIcon-icn-tool-undo,
+.dglux_page_root .dgIcon-icn-tool-ungroup,
+.dglux_page_root .dgIcon-icn-tool-upload,
+.dglux_page_root .dgIcon-icn-tool-zoom,
+.dglux_page_root .dgIcon-icn-vertical-text-cursor-icon,
+.dglux_page_root .dgIcon-icn-w-resize-cursor-icon,
+.dglux_page_root .dgIcon-icn-wait-cursor-icon,
+.dglux_page_root .dgIcon-icn-warningIcon,
+.dglux_page_root .dgIcon-icn-web-palette-icon,
+.dglux_page_root .dgIcon-icn-zoom-in-cursor-icon,
+.dglux_page_root .dgIcon-icn-zoom-out-cursor-icon,
+.dglux_page_root .dgIcon-minus-small,
+.dglux_page_root .dgIcon-panel-left-arrows-icon,
+.dglux_page_root .dgIcon-panel-right-arrows-icon,
+.dglux_page_root .dgIcon-pi-folder-icon,
+.dglux_page_root .dgIcon-pi_audio,
+.dglux_page_root .dgIcon-pi_help,
+.dglux_page_root .dgIcon-pi_pause,
+.dglux_page_root .dgIcon-pi_play,
+.dglux_page_root .dgIcon-pi_restart,
+.dglux_page_root .dgIcon-pi_selection_multi,
+.dglux_page_root .dgIcon-pi_selection_none,
+.dglux_page_root .dgIcon-pi_selection_single,
+.dglux_page_root .dgIcon-pi_selection_toggle,
+.dglux_page_root .dgIcon-pi_stop,
+.dglux_page_root .dgIcon-plus-small,
+.dglux_page_root .dgIcon-resize_handler,
+.dglux_page_root .dgIcon-tool_zoom {
+  background-image: url('app_icons.png'); vertical-align: middle;  display:  inline-block;
+  background-repeat: no-repeat;
+}
+
+.dglux_page_root .dgIcon-Logout {
+  width: 25px;
+  height: 20px;
+  background-position: 0px 0px;
+}
+
+.dglux_page_root .dgIcon-TreeClosedIcon {
+  width: 14px;
+  height: 14px;
+  background-position: 0px -20px;
+}
+
+.dglux_page_root .dgIcon-TreeOpenIcon {
+  width: 14px;
+  height: 14px;
+  background-position: 0px -34px;
+}
+
+.dglux_page_root .dgIcon-action-project-new {
+  width: 38px;
+  height: 38px;
+  background-position: 0px -48px;
+}
+
+.dglux_page_root .dgIcon-actions-recent {
+  width: 38px;
+  height: 38px;
+  background-position: 0px -86px;
+}
+
+.dglux_page_root .dgIcon-blue-arrow {
+  width: 6px;
+  height: 10px;
+  background-position: 0px -124px;
+}
+
+.dglux_page_root .dgIcon-callout_none_dark {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -134px;
+}
+
+.dglux_page_root .dgIcon-callout_over_dark {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -150px;
+}
+
+.dglux_page_root .dgIcon-callout_static_dark {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -166px;
+}
+
+.dglux_page_root .dgIcon-chart-up {
+  width: 16px;
+  height: 15px;
+  background-position: 0px -182px;
+}
+
+.dglux_page_root .dgIcon-dg_file_code {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -197px;
+}
+
+.dglux_page_root .dgIcon-dg_file_default {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -213px;
+}
+
+.dglux_page_root .dgIcon-dg_file_dg5 {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -229px;
+}
+
+.dglux_page_root .dgIcon-dg_file_flash {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -245px;
+}
+
+.dglux_page_root .dgIcon-dg_file_folder {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -261px;
+}
+
+.dglux_page_root .dgIcon-dg_file_html {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -277px;
+}
+
+.dglux_page_root .dgIcon-dg_file_image {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -293px;
+}
+
+.dglux_page_root .dgIcon-dg_file_text {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -309px;
+}
+
+.dglux_page_root .dgIcon-dg_file_zip {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -325px;
+}
+
+.dglux_page_root .dgIcon-dglux-logo-small {
+  width: 168px;
+  height: 59px;
+  background-position: 0px -341px;
+}
+
+.dglux_page_root .dgIcon-dglux_logo_light_30 {
+  width: 86px;
+  height: 30px;
+  background-position: 0px -400px;
+}
+
+.dglux_page_root .dgIcon-folder-icon {
+  width: 38px;
+  height: 38px;
+  background-position: 0px -430px;
+}
+
+.dglux_page_root .dgIcon-group-absolute {
+  width: 16px;
+  height: 15px;
+  background-position: 0px -468px;
+}
+
+.dglux_page_root .dgIcon-group-horizontal {
+  width: 16px;
+  height: 14px;
+  background-position: 0px -483px;
+}
+
+.dglux_page_root .dgIcon-group-vertical {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -497px;
+}
+
+.dglux_page_root .dgIcon-header_additional_logo {
+  width: 1px;
+  height: 1px;
+  background-position: 0px -513px;
+}
+
+.dglux_page_root .dgIcon-help-icon {
+  width: 38px;
+  height: 38px;
+  background-position: 0px -514px;
+}
+
+.dglux_page_root .dgIcon-icn-DefaultDashboardIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -552px;
+}
+
+.dglux_page_root .dgIcon-icn-ErrorIndicator {
+  width: 23px;
+  height: 23px;
+  background-position: 0px -568px;
+}
+
+.dglux_page_root .dgIcon-icn-RequiredIndicator {
+  width: 23px;
+  height: 23px;
+  background-position: 0px -591px;
+}
+
+.dglux_page_root .dgIcon-icn-advanced-collapsed {
+  width: 5px;
+  height: 9px;
+  background-position: 0px -614px;
+}
+
+.dglux_page_root .dgIcon-icn-advanced-opened {
+  width: 5px;
+  height: 9px;
+  background-position: 0px -623px;
+}
+
+.dglux_page_root .dgIcon-icn-alias-cursor-icon {
+  width: 24px;
+  height: 24px;
+  background-position: 0px -632px;
+}
+
+.dglux_page_root .dgIcon-icn-all-scroll-cursor-icon {
+  width: 26px;
+  height: 26px;
+  background-position: 0px -656px;
+}
+
+.dglux_page_root .dgIcon-icn-arrow-out {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -682px;
+}
+
+.dglux_page_root .dgIcon-icn-blueprintArrowIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -698px;
+}
+
+.dglux_page_root .dgIcon-icn-blueprintPlusIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -714px;
+}
+
+.dglux_page_root .dgIcon-icn-bugIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -730px;
+}
+
+.dglux_page_root .dgIcon-icn-cell-cursor-icon {
+  width: 17px;
+  height: 17px;
+  background-position: 0px -746px;
+}
+
+.dglux_page_root .dgIcon-icn-chart-preview {
+  width: 124px;
+  height: 111px;
+  background-position: 0px -763px;
+}
+
+.dglux_page_root .dgIcon-icn-check-icon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -874px;
+}
+
+.dglux_page_root .dgIcon-icn-col-resize-cursor-icon {
+  width: 16px;
+  height: 17px;
+  background-position: 0px -890px;
+}
+
+.dglux_page_root .dgIcon-icn-context-menu-cursor-icon {
+  width: 21px;
+  height: 23px;
+  background-position: 0px -907px;
+}
+
+.dglux_page_root .dgIcon-icn-copy-cursor-icon {
+  width: 24px;
+  height: 24px;
+  background-position: 0px -930px;
+}
+
+.dglux_page_root .dgIcon-icn-crosshair-cursor-icon {
+  width: 19px;
+  height: 19px;
+  background-position: 0px -954px;
+}
+
+.dglux_page_root .dgIcon-icn-data-configure {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -973px;
+}
+
+.dglux_page_root .dgIcon-icn-dataflow-icon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -989px;
+}
+
+.dglux_page_root .dgIcon-icn-default-cursor-icon {
+  width: 11px;
+  height: 18px;
+  background-position: 0px -1005px;
+}
+
+.dglux_page_root .dgIcon-icn-disk {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1023px;
+}
+
+.dglux_page_root .dgIcon-icn-diskBlackIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1039px;
+}
+
+.dglux_page_root .dgIcon-icn-documentTemplateIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1055px;
+}
+
+.dglux_page_root .dgIcon-icn-driveGoIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1071px;
+}
+
+.dglux_page_root .dgIcon-icn-driveGobackIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1087px;
+}
+
+.dglux_page_root .dgIcon-icn-e-resize-cursor-icon {
+  width: 16px;
+  height: 9px;
+  background-position: 0px -1103px;
+}
+
+.dglux_page_root .dgIcon-icn-ew-resize-cursor-icon {
+  width: 19px;
+  height: 9px;
+  background-position: 0px -1112px;
+}
+
+.dglux_page_root .dgIcon-icn-eyeDropperCursor {
+  width: 72px;
+  height: 75px;
+  background-position: 0px -1121px;
+}
+
+.dglux_page_root .dgIcon-icn-filmIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1196px;
+}
+
+.dglux_page_root .dgIcon-icn-folderExploreIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1212px;
+}
+
+.dglux_page_root .dgIcon-icn-folderOpenDocumentIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1228px;
+}
+
+.dglux_page_root .dgIcon-icn-grab-cursor-icon {
+  width: 18px;
+  height: 18px;
+  background-position: 0px -1244px;
+}
+
+.dglux_page_root .dgIcon-icn-grabbing-cursor-icon {
+  width: 15px;
+  height: 13px;
+  background-position: 0px -1262px;
+}
+
+.dglux_page_root .dgIcon-icn-gridIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1275px;
+}
+
+.dglux_page_root .dgIcon-icn-help-cursor-icon {
+  width: 19px;
+  height: 18px;
+  background-position: 0px -1291px;
+}
+
+.dglux_page_root .dgIcon-icn-hsl-icon {
+  width: 13px;
+  height: 13px;
+  background-position: 0px -1309px;
+}
+
+.dglux_page_root .dgIcon-icn-images {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1322px;
+}
+
+.dglux_page_root .dgIcon-icn-informationIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1338px;
+}
+
+.dglux_page_root .dgIcon-icn-layoutDesignIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1354px;
+}
+
+.dglux_page_root .dgIcon-icn-layoutEditIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1370px;
+}
+
+.dglux_page_root .dgIcon-icn-layoutHeader3mixIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1386px;
+}
+
+.dglux_page_root .dgIcon-icn-link-icon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1402px;
+}
+
+.dglux_page_root .dgIcon-icn-move-cursor-icon {
+  width: 17px;
+  height: 17px;
+  background-position: 0px -1418px;
+}
+
+.dglux_page_root .dgIcon-icn-move-left {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1435px;
+}
+
+.dglux_page_root .dgIcon-icn-move-right {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1451px;
+}
+
+.dglux_page_root .dgIcon-icn-n-resize-cursor-icon {
+  width: 9px;
+  height: 16px;
+  background-position: 0px -1467px;
+}
+
+.dglux_page_root .dgIcon-icn-ne-resize-cursor-icon {
+  width: 12px;
+  height: 12px;
+  background-position: 0px -1483px;
+}
+
+.dglux_page_root .dgIcon-icn-nesw-resize-cursor-icon {
+  width: 14px;
+  height: 14px;
+  background-position: 0px -1495px;
+}
+
+.dglux_page_root .dgIcon-icn-no-drop-cursor-icon {
+  width: 18px;
+  height: 25px;
+  background-position: 0px -1509px;
+}
+
+.dglux_page_root .dgIcon-icn-not-allowed-cursor-icon {
+  width: 20px;
+  height: 20px;
+  background-position: 0px -1534px;
+}
+
+.dglux_page_root .dgIcon-icn-ns-resize-cursor-icon {
+  width: 9px;
+  height: 19px;
+  background-position: 0px -1554px;
+}
+
+.dglux_page_root .dgIcon-icn-nw-resize-cursor-icon {
+  width: 12px;
+  height: 12px;
+  background-position: 0px -1573px;
+}
+
+.dglux_page_root .dgIcon-icn-nwse-resize-cursor-icon {
+  width: 14px;
+  height: 14px;
+  background-position: 0px -1585px;
+}
+
+.dglux_page_root .dgIcon-icn-pageAddIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1599px;
+}
+
+.dglux_page_root .dgIcon-icn-pageExcelIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1615px;
+}
+
+.dglux_page_root .dgIcon-icn-pageSaveIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1631px;
+}
+
+.dglux_page_root .dgIcon-icn-pageWhiteAcrobatIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1647px;
+}
+
+.dglux_page_root .dgIcon-icn-pageWhiteCodeIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1663px;
+}
+
+.dglux_page_root .dgIcon-icn-panel-collapse {
+  width: 16px;
+  height: 10px;
+  background-position: 0px -1679px;
+}
+
+.dglux_page_root .dgIcon-icn-panel-expand {
+  width: 16px;
+  height: 10px;
+  background-position: 0px -1689px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-add-column {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1699px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-add {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1715px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-align-bottom {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1731px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-align-center {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1747px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-align-left {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1763px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-align-mid {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1779px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-align-middle {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1795px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-align-right {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1811px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-align-top {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1827px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-autosize {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1843px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-binding-off {
+  width: 16px;
+  height: 7px;
+  background-position: 0px -1859px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-binding-on {
+  width: 16px;
+  height: 7px;
+  background-position: 0px -1866px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-bottom-position {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1873px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-cancel {
+  width: 14px;
+  height: 14px;
+  background-position: 0px -1889px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-caps-none {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1903px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-caps-round {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1919px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-caps-square {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1935px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-dropdown-arrows {
+  width: 5px;
+  height: 9px;
+  background-position: 0px -1951px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-duplicate {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1960px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-ellipsis {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1976px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-favorites {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -1992px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-fill-bmp {
+  width: 20px;
+  height: 20px;
+  background-position: 0px -2008px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-fill-gradient {
+  width: 20px;
+  height: 20px;
+  background-position: 0px -2028px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-fill-none-icon {
+  width: 28px;
+  height: 28px;
+  background-position: 0px -2048px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-fill-none {
+  width: 20px;
+  height: 20px;
+  background-position: 0px -2076px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-fill-radial-gradient {
+  width: 20px;
+  height: 20px;
+  background-position: 0px -2096px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-fill-solid {
+  width: 20px;
+  height: 20px;
+  background-position: 0px -2116px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-fill {
+  width: 22px;
+  height: 22px;
+  background-position: 0px -2136px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-flexgrow {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2158px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-flexshrink {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2174px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-folder {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2190px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-fullsize {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2206px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-go-up {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2222px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-height {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2238px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-join-bevel {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2254px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-join-miter {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2270px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-join-round {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2286px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-label-vert {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2302px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-label-vertflipped {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2318px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-left-position {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2334px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-lock {
+  width: 19px;
+  height: 16px;
+  background-position: 0px -2350px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-mouseenabled {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2366px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-multiline {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2382px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-off {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2398px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-padding-bottom {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2414px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-padding-left {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2430px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-padding-right {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2446px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-padding-top {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2462px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-position-x {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2478px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-position-y {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2494px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-record-accept {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2510px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-record-cancel {
+  width: 14px;
+  height: 14px;
+  background-position: 0px -2526px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-refresh {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2540px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-reset-color {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2556px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-right-position {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2572px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-rotate-90ccw {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2588px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-rotate-90cw {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2604px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-rotate-left {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2620px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-rotate-right {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2636px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-rotate {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2652px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-scale-fitratio {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2668px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-scale-free {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2684px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-scale-stretch {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2700px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-scale9 {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2716px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-sort-abc {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2732px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-sort-cba {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2748px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-state-edit {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2764px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-state-record {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2780px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-stroke {
+  width: 22px;
+  height: 22px;
+  background-position: 0px -2796px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-subtract {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2818px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-swap {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2834px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-switch-down {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2850px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-switch-off {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2866px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-switch-on {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2882px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-switch-up {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2898px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-text-letter-spacing {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2914px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-text-line-spacing {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2930px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-tile-horiz {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2946px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-tile-none {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2962px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-tile-vert {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2978px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-tile {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -2994px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-top-position {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3010px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-trash {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3026px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-txt-align-bottom {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3042px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-txt-align-center {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3058px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-txt-align-justify {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3074px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-txt-align-left {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3090px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-txt-align-middle {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3106px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-txt-align-right {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3122px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-txt-align-top {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3138px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-txt-bold {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3154px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-txt-input {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3170px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-txt-italic {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3186px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-txt-password {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3202px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-txt-underline {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3218px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-unlock {
+  width: 19px;
+  height: 16px;
+  background-position: 0px -3234px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-visible {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3250px;
+}
+
+.dglux_page_root .dgIcon-icn-pi-width {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3266px;
+}
+
+.dglux_page_root .dgIcon-icn-pipette-icon {
+  width: 12px;
+  height: 15px;
+  background-position: 0px -3282px;
+}
+
+.dglux_page_root .dgIcon-icn-pointer-cursor-icon {
+  width: 16px;
+  height: 17px;
+  background-position: 0px -3297px;
+}
+
+.dglux_page_root .dgIcon-icn-progress-cursor-icon {
+  width: 24px;
+  height: 21px;
+  background-position: 0px -3314px;
+}
+
+.dglux_page_root .dgIcon-icn-questionIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3335px;
+}
+
+.dglux_page_root .dgIcon-icn-renameIcont {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3351px;
+}
+
+.dglux_page_root .dgIcon-icn-rgb-icon {
+  width: 13px;
+  height: 13px;
+  background-position: 0px -3367px;
+}
+
+.dglux_page_root .dgIcon-icn-row-resize-cursor-icon {
+  width: 17px;
+  height: 16px;
+  background-position: 0px -3380px;
+}
+
+.dglux_page_root .dgIcon-icn-s-resize-cursor-icon {
+  width: 9px;
+  height: 16px;
+  background-position: 0px -3396px;
+}
+
+.dglux_page_root .dgIcon-icn-se-resize-cursor-icon {
+  width: 12px;
+  height: 12px;
+  background-position: 0px -3412px;
+}
+
+.dglux_page_root .dgIcon-icn-state-edit {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3424px;
+}
+
+.dglux_page_root .dgIcon-icn-sw-resize-cursor-icon {
+  width: 12px;
+  height: 12px;
+  background-position: 0px -3440px;
+}
+
+.dglux_page_root .dgIcon-icn-text-cursor-icon {
+  width: 9px;
+  height: 19px;
+  background-position: 0px -3452px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-align-bottom-edge {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3471px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-align-bottom {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3487px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-align-center-edge {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3503px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-align-center {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3519px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-align-left-edge {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3535px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-align-left {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3551px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-align-middle-edge {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3567px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-align-middle {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3583px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-align-right-edge {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3599px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-align-right {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3615px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-align-top-edge {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3631px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-align-top {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3647px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-back {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3663px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-break-symbol {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3679px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-bring-forward {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3695px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-bring-to-front {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3711px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-convert-to-symbol {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3727px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-copy {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3743px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-cut {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3759px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-distribute-horiz {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3775px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-distribute-vert {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3791px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-download {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3807px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-ellipse-single {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3823px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-ellipse {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3839px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-gradient-fill {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3855px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-gradient-stroke {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3871px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-group {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3887px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-line-single {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3903px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-line {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3919px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-menu {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3935px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-new-folder {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3951px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-pan {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3967px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-paste {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3983px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-path {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -3999px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-polygon-single {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4015px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-polyline-single {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4031px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-polyline {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4047px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-rectangle-single {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4063px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-rectangle {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4079px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-redo {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4095px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-scew {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4111px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-select-path {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4127px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-select {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4143px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-selection-background {
+  width: 18px;
+  height: 18px;
+  background-position: 0px -4159px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-send-backward {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4177px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-send-to-back {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4193px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-shape {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4209px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-transform {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4225px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-triangle {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4241px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-triangle_single {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4257px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-undo {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4273px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-ungroup {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4289px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-upload {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4305px;
+}
+
+.dglux_page_root .dgIcon-icn-tool-zoom {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4321px;
+}
+
+.dglux_page_root .dgIcon-icn-vertical-text-cursor-icon {
+  width: 19px;
+  height: 9px;
+  background-position: 0px -4337px;
+}
+
+.dglux_page_root .dgIcon-icn-w-resize-cursor-icon {
+  width: 16px;
+  height: 9px;
+  background-position: 0px -4346px;
+}
+
+.dglux_page_root .dgIcon-icn-wait-cursor-icon {
+  width: 15px;
+  height: 19px;
+  background-position: 0px -4355px;
+}
+
+.dglux_page_root .dgIcon-icn-warningIcon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4374px;
+}
+
+.dglux_page_root .dgIcon-icn-web-palette-icon {
+  width: 13px;
+  height: 13px;
+  background-position: 0px -4390px;
+}
+
+.dglux_page_root .dgIcon-icn-zoom-in-cursor-icon {
+  width: 18px;
+  height: 18px;
+  background-position: 0px -4403px;
+}
+
+.dglux_page_root .dgIcon-icn-zoom-out-cursor-icon {
+  width: 18px;
+  height: 18px;
+  background-position: 0px -4421px;
+}
+
+.dglux_page_root .dgIcon-minus-small {
+  width: 8px;
+  height: 8px;
+  background-position: 0px -4439px;
+}
+
+.dglux_page_root .dgIcon-panel-left-arrows-icon {
+  width: 25px;
+  height: 16px;
+  background-position: 0px -4447px;
+}
+
+.dglux_page_root .dgIcon-panel-right-arrows-icon {
+  width: 25px;
+  height: 16px;
+  background-position: 0px -4463px;
+}
+
+.dglux_page_root .dgIcon-pi-folder-icon {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4479px;
+}
+
+.dglux_page_root .dgIcon-pi_audio {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4495px;
+}
+
+.dglux_page_root .dgIcon-pi_help {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4511px;
+}
+
+.dglux_page_root .dgIcon-pi_pause {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4527px;
+}
+
+.dglux_page_root .dgIcon-pi_play {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4543px;
+}
+
+.dglux_page_root .dgIcon-pi_restart {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4559px;
+}
+
+.dglux_page_root .dgIcon-pi_selection_multi {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4575px;
+}
+
+.dglux_page_root .dgIcon-pi_selection_none {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4591px;
+}
+
+.dglux_page_root .dgIcon-pi_selection_single {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4607px;
+}
+
+.dglux_page_root .dgIcon-pi_selection_toggle {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4623px;
+}
+
+.dglux_page_root .dgIcon-pi_stop {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4639px;
+}
+
+.dglux_page_root .dgIcon-plus-small {
+  width: 8px;
+  height: 8px;
+  background-position: 0px -4655px;
+}
+
+.dglux_page_root .dgIcon-resize_handler {
+  width: 8px;
+  height: 8px;
+  background-position: 0px -4663px;
+}
+
+.dglux_page_root .dgIcon-tool_zoom {
+  width: 16px;
+  height: 16px;
+  background-position: 0px -4671px;
+}
+

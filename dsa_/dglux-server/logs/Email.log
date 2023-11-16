@@ -1,0 +1,638 @@
+[2017-11-10 23:26:02.120113] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:55114/conn, --token, AxxyGX4cLsN5qm9nFiFfwrm1EoXDtNhuX5xzCBwreoDapgLJ] (pid: 13412) ==
+[2017-11-10 23:26:03.762274] [INFO][DSA] Connecting to http://127.0.0.1:55114/conn
+[2017-11-10 23:26:03.928637] [INFO][DSA] Connected
+[2017-11-11 09:30:42.767535] [INFO][DSA] Disconnected
+[2017-11-11 09:30:42.956167] [INFO][DSA] Connected
+[2017-11-11 15:04:16.626299] [INFO][DSA] Disconnected
+[2017-11-11 15:04:16.697848] [INFO][DSA] Connected
+[2017-11-11 15:41:14.860149] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:64133/conn, --token, dD8SbCr7LpHmCJuCM5Y9vtHw8bOcqccHt3EpO9T1tSYFSnu5] (pid: 16396) ==
+[2017-11-11 15:41:15.672609] [INFO][DSA] Connecting to http://127.0.0.1:64133/conn
+[2017-11-11 15:41:15.882774] [INFO][DSA] Connected
+[2017-11-16 18:56:38.588479] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:60510/conn, --token, B75NtdfJfbwUqVnH2AOZBDGVryThaRHBIzWAWCDIx5ikvdCx] (pid: 12348) ==
+[2017-11-16 18:56:41.973349] [INFO][DSA] Connecting to http://127.0.0.1:60510/conn
+[2017-11-16 18:56:42.129603] [INFO][DSA] Connected
+[2018-01-20 09:48:25.416640] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:52991/conn, --token, qSKNi17sPtpLPls5bk0zjGjsdsEmoBpjoPXM5VrSLWx7KbMV] (pid: 23252) ==
+[2018-01-20 09:48:27.494190] [INFO][DSA] Connecting to http://127.0.0.1:52991/conn
+[2018-01-20 09:48:27.661309] [INFO][DSA] Connected
+[2018-01-20 23:33:24.514248] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:55911/conn, --token, ioJDBGyLTr0niulsuqGHFGlrp4MZzOUGfTaxXVmANhkuMGOY] (pid: 3800) ==
+[2018-01-20 23:33:25.180792] [INFO][DSA] Connecting to http://127.0.0.1:55911/conn
+[2018-01-20 23:33:25.543047] [INFO][DSA] Connected
+[2018-01-20 23:36:52.703630] == Exited with status -1073741510 ==
+[2018-01-20 23:36:52.703630] == Exited with status -1073741510 ==
+[2018-01-20 23:36:58.278249] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:56126/conn, --token, cGdYAtItZb4bYFpNXT7YHPvZqV2bwLL1D4CHoGogUUOTJ0zQ] (pid: 10356) ==
+[2018-01-20 23:36:58.937232] [INFO][DSA] Connecting to http://127.0.0.1:56126/conn
+[2018-01-20 23:36:59.330575] [INFO][DSA] Connected
+[2018-01-20 23:39:55.180381] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:56288/conn, --token, vqOwjtHmrnQfS2w4xsx580uQv08mDThCVoKsuyrr8GmLNIO7] (pid: 12336) ==
+[2018-01-20 23:39:55.888402] [INFO][DSA] Connecting to http://127.0.0.1:56288/conn
+[2018-01-20 23:39:56.305232] [INFO][DSA] Connected
+[2018-01-22 16:17:51.927612] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:53646/conn, --token, W0yBSjoM1vzjat3kzbsHzJV3qgEGCnKiHraoa8LLlXpQkj6S] (pid: 16788) ==
+[2018-01-22 16:17:53.678397] [INFO][DSA] Connecting to http://127.0.0.1:53646/conn
+[2018-01-22 16:17:53.853020] [INFO][DSA] Connected
+[2018-01-22 18:47:52.851844] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57047/conn, --token, 9C2gH1EdTVWEVCb32XgFG1Daow93KcvZm7MFOffJtoQVB7Qa] (pid: 11700) ==
+[2018-01-22 18:47:53.539330] [INFO][DSA] Connecting to http://127.0.0.1:57047/conn
+[2018-01-22 18:47:53.838541] [INFO][DSA] Connected
+[2018-01-22 19:20:09.522837] [INFO][DSA] Disconnected
+[2018-01-22 19:20:09.591885] [INFO][DSA] Connected
+[2018-01-23 10:31:10.653317] [INFO][DSA] Disconnected
+[2018-01-23 10:31:10.802424] [INFO][DSA] Connected
+[2018-01-23 13:01:40.257714] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:61534/conn, --token, 7jMe4dADLioStHYPnQssNLebUg2iXw5CqECHWixF9GyR5GwB] (pid: 14220) ==
+[2018-01-23 13:01:41.359493] [INFO][DSA] Connecting to http://127.0.0.1:61534/conn
+[2018-01-23 13:01:41.653701] [INFO][DSA] Connected
+[2018-01-23 15:41:32.016792] == Exited with status -1073741510 ==
+[2018-01-23 15:41:32.016792] == Exited with status -1073741510 ==
+[2018-01-23 15:41:38.487256] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:63807/conn, --token, niWzTzOJQTqIiZtvfsQwjhhbiAdaKMC2iqu8r20xP3CnLtuL] (pid: 15992) ==
+[2018-01-23 15:41:39.517985] [INFO][DSA] Connecting to http://127.0.0.1:63807/conn
+[2018-01-23 15:41:39.869233] [INFO][DSA] Connected
+[2018-01-29 18:38:23.070717] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:50259/conn, --token, yeel4hOMmYkW9gcDHCWTRO5dF87j1EQovgVKmN5KY6zqeEOO] (pid: 7412) ==
+[2018-01-29 18:38:25.087777] [INFO][DSA] Connecting to http://127.0.0.1:50259/conn
+[2018-01-29 18:38:25.242988] [INFO][DSA] Connected
+[2018-01-29 19:36:37.566870] [INFO][DSA] Disconnected
+[2018-01-29 19:36:37.618907] [INFO][DSA] Connected
+[2018-02-01 01:19:36.928011] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:54730/conn, --token, yceBwAqYMeicjuObfVc5QapHJzPzlF1bbjLnWOgBv9f55s43] (pid: 10804) ==
+[2018-02-01 01:19:38.473106] [INFO][DSA] Connecting to http://127.0.0.1:54730/conn
+[2018-02-01 01:19:38.633217] [INFO][DSA] Connected
+[2018-02-01 01:23:46.452720] == Exited with status -1073741510 ==
+[2018-02-01 01:23:46.452720] == Exited with status -1073741510 ==
+[2018-02-01 01:23:51.906298] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:54921/conn, --token, 9AfqUJECi2k5OhREGwSlxHNakM9CNt71PYGV7RXtpJHi098l] (pid: 15920) ==
+[2018-02-01 01:23:52.205510] == Exited with status -1073741510 ==
+[2018-02-01 01:23:57.710982] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:54925/conn, --token, EcHt0WZynXzXq1Tq1Tj8yqK0T2cpaQH6I73UPXlwZZZQU5GV] (pid: 17960) ==
+[2018-02-01 01:23:58.462513] [INFO][DSA] Connecting to http://127.0.0.1:54925/conn
+[2018-02-01 01:23:58.801752] [INFO][DSA] Connected
+[2018-02-01 23:31:35.480585] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:63501/conn, --token, 2WccmMsrHU1qBgfXdbOlU1vUe47Caq2v2f2aUcwUiEpgX2fu] (pid: 12108) ==
+[2018-02-01 23:31:39.846973] [INFO][DSA] Connecting to http://127.0.0.1:63501/conn
+[2018-02-01 23:31:40.010088] [INFO][DSA] Connected
+[2018-02-12 18:08:28.224939] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:59031/conn, --token, C6ek4g8Z5VFwWvGXSsaZazemjPZ0NOPmfrx68oihHIMWPsYr] (pid: 21460) ==
+[2018-02-12 18:08:29.879820] [INFO][DSA] Connecting to http://127.0.0.1:59031/conn
+[2018-02-12 18:08:30.085964] [INFO][DSA] Connected
+[2018-02-12 19:41:14.642842] [INFO][DSA] Disconnected
+[2018-02-12 19:41:14.816964] [INFO][DSA] Connected
+[2018-02-12 20:14:52.348901] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:60752/conn, --token, 1uoHyXKf90nHklc1wno5Sp6o4Yb1CnzS0mRzwxuA8NGB5EQL] (pid: 6052) ==
+[2018-02-12 20:14:53.387635] [INFO][DSA] Connecting to http://127.0.0.1:60752/conn
+[2018-02-12 20:14:53.694852] [INFO][DSA] Connected
+[2018-02-12 21:57:24.612345] [INFO][DSA] Disconnected
+[2018-02-12 21:57:24.738446] [INFO][DSA] Connected
+[2018-02-13 09:19:09.687400] [INFO][DSA] Disconnected
+[2018-02-13 09:19:09.778965] [INFO][DSA] Connected
+[2018-02-13 20:40:50.737122] [INFO][DSA] Disconnected
+[2018-02-13 20:40:50.898237] [INFO][DSA] Connected
+[2018-02-14 10:04:54.638275] [INFO][DSA] Disconnected
+[2018-02-14 10:04:54.800900] [INFO][DSA] Connected
+[2018-02-19 10:55:19.393968] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:64268/conn, --token, eo2yc0WKpgUmKsNQ4h1W6zVp2m8lNBcXHPFpVAIqagvTapko] (pid: 14412) ==
+[2018-02-19 10:55:21.350355] [INFO][DSA] Connecting to http://127.0.0.1:64268/conn
+[2018-02-19 10:55:21.522475] [INFO][DSA] Connected
+[2018-02-19 16:48:21.558335] [INFO][DSA] Disconnected
+[2018-02-19 16:50:22.787893] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:56528/conn, --token, 1evbBXBpKyr9zYbafUVmCZRCgvC58pVYaeT84LZ6rxYsXboN] (pid: 19136) ==
+[2018-02-19 16:50:24.549095] [INFO][DSA] Connecting to http://127.0.0.1:56528/conn
+[2018-02-19 16:50:24.926871] [INFO][DSA] Connected
+[2018-02-19 17:01:16.455537] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:56903/conn, --token, 5XUrtpPpbxLebrxWpGUk2RBbNqTtkaqPXWCFZSPlHpLgeJQs] (pid: 15444) ==
+[2018-02-19 17:01:17.309162] [INFO][DSA] Connecting to http://127.0.0.1:56903/conn
+[2018-02-19 17:01:17.817021] [INFO][DSA] Connected
+[2018-02-19 17:13:31.280452] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57404/conn, --token, s1nWxyNuxbgNkne8fIwf7T9AZuEnBILNZdj6MYPzd5LTBElV] (pid: 8436) ==
+[2018-02-19 17:13:32.192124] [INFO][DSA] Connecting to http://127.0.0.1:57404/conn
+[2018-02-19 17:13:32.547376] [INFO][DSA] Connected
+[2018-02-19 18:07:48.637774] [INFO][DSA] Disconnected
+[2018-02-19 18:07:48.761862] [INFO][DSA] Connected
+[2018-02-19 21:41:26.911820] [INFO][DSA] Disconnected
+[2018-02-26 18:09:16.195458] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:53934/conn, --token, LzMcZHZ09mOs3AkWLJhczkV4dtjwazwcVckKXsLF2RiTlxkc] (pid: 13340) ==
+[2018-02-26 18:09:17.744532] [INFO][DSA] Connecting to http://127.0.0.1:53934/conn
+[2018-02-26 18:09:17.913652] [INFO][DSA] Connected
+[2018-02-26 21:49:55.612432] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:58315/conn, --token, xBxSnartKl1k6Tos3OSACjTDfyBBCZuw95R4RaJtszctCWE7] (pid: 972) ==
+[2018-02-26 21:49:56.411997] [INFO][DSA] Connecting to http://127.0.0.1:58315/conn
+[2018-02-26 21:49:56.782260] [INFO][DSA] Connected
+[2018-02-27 19:57:53.602937] [INFO][DSA] Disconnected
+[2018-02-27 19:57:53.688998] [INFO][DSA] Connected
+[2018-02-28 09:06:24.741847] [INFO][DSA] Disconnected
+[2018-02-28 09:06:24.949993] [INFO][DSA] Connected
+[2018-02-28 13:26:18.712891] [INFO][DSA] Disconnected
+[2018-02-28 13:26:18.810959] [INFO][DSA] Connected
+[2018-02-28 15:08:34.595195] [INFO][DSA] Disconnected
+[2018-02-28 15:08:34.660252] [INFO][DSA] Connected
+[2018-02-28 16:59:59.529761] [INFO][DSA] Disconnected
+[2018-02-28 16:59:59.693929] [INFO][DSA] Connected
+[2018-02-28 21:18:48.762399] [INFO][DSA] Disconnected
+[2018-02-28 21:18:48.773407] [INFO][DSA] Connected
+[2018-03-01 11:34:49.703923] [INFO][DSA] Disconnected
+[2018-03-01 11:34:49.884551] [INFO][DSA] Connected
+[2018-03-02 09:33:19.148743] [INFO][DSA] Disconnected
+[2018-03-02 09:33:19.164755] [INFO][DSA] Connected
+[2018-03-02 12:47:01.687322] [INFO][DSA] Disconnected
+[2018-03-02 12:47:01.690824] [INFO][DSA] Connected
+[2018-03-03 19:50:36.335474] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57853/conn, --token, YTW8P7YoFJn66iQYvRmUnxSlXfZAaByhL21WrtOF7XmkQN14] (pid: 12484) ==
+[2018-03-03 19:50:38.574057] [INFO][DSA] Connecting to http://127.0.0.1:57853/conn
+[2018-03-03 19:50:38.739173] [INFO][DSA] Connected
+[2018-03-05 18:30:38.208110] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:62768/conn, --token, 82C95URjYk6tkRy0TWv4VP94GzmSukPXpRATtJrJD1mMijK9] (pid: 12896) ==
+[2018-03-05 18:30:40.142753] [INFO][DSA] Connecting to http://127.0.0.1:62768/conn
+[2018-03-05 18:30:40.308875] [INFO][DSA] Connected
+[2018-03-06 09:44:03.782951] [INFO][DSA] Disconnected
+[2018-03-06 09:44:03.990599] [INFO][DSA] Connected
+[2018-04-09 14:08:48.142543] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:64479/conn, --token, eWxPHfxu72bWxYRdDUBJPF4RwWXTWqrbbKG6d0wmisq1rNC2] (pid: 14832) ==
+[2018-04-09 14:08:50.484840] [INFO][DSA] Connecting to http://127.0.0.1:64479/conn
+[2018-04-09 14:08:50.663001] [INFO][DSA] Connected
+[2018-04-09 18:01:22.573808] [INFO][DSA] Disconnected
+[2018-04-09 18:01:22.755954] [INFO][DSA] Connected
+[2018-04-10 11:12:29.723854] [INFO][DSA] Disconnected
+[2018-04-10 11:12:29.975531] [INFO][DSA] Connected
+[2018-04-10 18:22:04.617785] [INFO][DSA] Disconnected
+[2018-04-10 18:22:04.722860] [INFO][DSA] Connected
+[2018-04-10 20:12:01.542686] == Exited with status 1073807364 ==
+[2018-04-10 20:12:07.103206] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:64479/conn, --token, eWxPHfxu72bWxYRdDUBJPF4RwWXTWqrbbKG6d0wmisq1rNC2] (pid: 29688) ==
+[2018-04-10 20:12:07.124222] == Exited with status -1073741205 ==
+[2018-04-10 20:12:07.124222] == Exited with status -1073741205 ==
+[2018-04-10 20:12:07.124222] == Exited with status -1073741205 ==
+[2018-04-10 20:12:08.175739] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:64479/conn, --token, eWxPHfxu72bWxYRdDUBJPF4RwWXTWqrbbKG6d0wmisq1rNC2] (pid: 4572) ==
+[2018-04-10 20:12:08.256797] == Exited with status -1073741205 ==
+[2018-04-10 20:12:08.175739] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:64479/conn, --token, eWxPHfxu72bWxYRdDUBJPF4RwWXTWqrbbKG6d0wmisq1rNC2] (pid: 4572) ==
+[2018-04-10 20:12:08.256797] == Exited with status -1073741205 ==
+[2018-04-10 21:31:03.680986] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:50524/conn, --token, 65VV1YwmTmm60vxB7Lpy44BdE5tI2ErKkOc9kodABomnvOeY] (pid: 8920) ==
+[2018-04-10 21:31:05.986201] [INFO][DSA] Connecting to http://127.0.0.1:50524/conn
+[2018-04-10 21:31:06.186726] [INFO][DSA] Connected
+[2018-04-11 16:22:33.148753] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:56960/conn, --token, dXELix7gP040MGfoSgcP0NGNJ17Iiz00eyhj459YYY5TooFM] (pid: 17520) ==
+[2018-04-11 16:22:34.415139] [INFO][DSA] Connecting to http://127.0.0.1:56960/conn
+[2018-04-11 16:22:34.605831] [INFO][DSA] Connected
+[2018-08-10 13:58:45.538620] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:64475/conn, --token, kALtyteQXRqPTwrI7An6mFRTpTX4AVIs90b9o5kLJHapwAaD] (pid: 38696) ==
+[2018-08-10 13:58:47.159116] [INFO][DSA] Connecting to http://127.0.0.1:64475/conn
+[2018-08-10 13:58:47.405970] [INFO][DSA] Connected
+[2018-08-10 17:20:16.626587] [INFO][DSA] Disconnected
+[2018-08-10 17:20:16.855455] [INFO][DSA] Connected
+[2018-08-10 20:37:54.593682] == Exited with status -1073741510 ==
+[2018-08-10 20:38:02.639046] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:56377/conn, --token, NGiCXmWlzDrea3oxTwYtnhuNCmnxwkOKHXYzdj2NVBikqSIM] (pid: 40008) ==
+[2018-08-10 20:38:04.525958] [INFO][DSA] Connecting to http://127.0.0.1:56377/conn
+[2018-08-10 20:38:04.678872] [INFO][DSA] Connected
+[2018-08-11 11:22:12.654585] [INFO][DSA] Disconnected
+[2018-08-11 11:22:12.848473] [INFO][DSA] Connected
+[2018-08-11 13:06:35.314583] [INFO][DSA] Disconnected
+[2018-08-11 13:06:35.465495] [INFO][DSA] Connected
+[2018-08-11 16:28:56.781428] [INFO][DSA] Disconnected
+[2018-08-11 16:28:56.783427] [INFO][DSA] Connected
+[2018-11-10 13:46:04.792652] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:50440/conn, --token, Uj1b7biEun1L4iXT6KMC9aixBtRnpK1T6l37UMQjDEiXUr8z] (pid: 5256) ==
+[2018-11-10 13:46:07.054834] [INFO][DSA] Connecting to http://127.0.0.1:50440/conn
+[2018-11-10 13:46:07.253719] [INFO][DSA] Connected
+[2018-11-10 14:55:26.915598] [INFO][DSA] Disconnected
+[2018-11-10 14:55:27.042525] [INFO][DSA] Connected
+[2018-11-10 15:13:00.769996] == Exited with status -1073741510 ==
+[2018-11-10 15:13:00.769996] == Exited with status -1073741510 ==
+[2018-11-10 15:13:15.403425] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:52637/conn, --token, xKDnLAKfseV94G2ryB9LhiiEpsfos5Q76Q3yPrBqE4NAeOdC] (pid: 17000) ==
+[2018-11-11 09:58:12.192284] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:52809/conn, --token, 8awjj6PglD0AGXCTdWMQxDJYwBnHEEM9u9mWiSx5AxrulYFR] (pid: 18696) ==
+[2018-11-11 09:58:15.362900] [INFO][DSA] Connecting to http://127.0.0.1:52809/conn
+[2018-11-11 09:58:16.528226] [INFO][DSA] Connected
+[2018-11-11 09:59:21.323357] == Exited with status -1073741510 ==
+[2018-11-11 09:59:21.323357] == Exited with status -1073741510 ==
+[2018-11-11 09:59:40.948847] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:52979/conn, --token, g5YC4UxSR3M5xajYI8i70H4QQWFQDERq6drIekXfktrk1JtN] (pid: 1776) ==
+[2018-11-11 09:59:44.497807] [INFO][DSA] Connecting to http://127.0.0.1:52979/conn
+[2018-11-11 09:59:45.596177] [INFO][DSA] Connected
+[2018-11-11 19:41:00.213418] [INFO][DSA] Disconnected
+[2018-11-11 19:41:00.367328] [INFO][DSA] Connected
+[2018-11-11 20:18:04.523170] == Exited with status -1073741510 ==
+[2018-11-11 20:18:04.523170] == Exited with status -1073741510 ==
+[2018-11-11 20:18:04.523170] == Exited with status -1073741510 ==
+[2018-11-11 20:18:14.323811] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:54652/conn, --token, kmbe48TzvG1iXYNXZTKiQVFf4ppEyNf19W3jGMdVxLqU03Qv] (pid: 17336) ==
+[2018-11-11 20:18:18.565371] [INFO][DSA] Connecting to http://127.0.0.1:54652/conn
+[2018-11-11 20:18:19.960568] [INFO][DSA] Connected
+[2018-11-12 10:48:19.075409] [INFO][DSA] Disconnected
+[2018-11-12 10:48:19.158362] [INFO][DSA] Connected
+[2018-11-12 15:49:01.779753] [INFO][DSA] Disconnected
+[2018-11-12 15:49:01.901683] [INFO][DSA] Connected
+[2018-11-12 17:05:31.662710] [INFO][DSA] Disconnected
+[2018-11-12 17:05:31.862592] [INFO][DSA] Connected
+[2018-11-12 21:59:09.800652] [INFO][DSA] Disconnected
+[2018-11-12 21:59:09.951567] [INFO][DSA] Connected
+[2019-01-24 18:59:03.342543] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:51353/conn, --token, eTGbqh8sUFGV0KkMERJLzf0b0WbG4TuSpeAksR54RUsgTIkP] (pid: 18180) ==
+[2019-01-24 18:59:06.585684] [INFO][DSA] Connecting to http://127.0.0.1:51353/conn
+[2019-01-24 18:59:06.879515] [INFO][DSA] Connected
+[2019-01-24 19:39:05.598845] [INFO][DSA] Disconnected
+[2019-01-24 19:39:05.661809] [INFO][DSA] Connected
+[2019-01-25 11:10:10.743661] [INFO][DSA] Disconnected
+[2019-01-25 11:10:10.952540] [INFO][DSA] Connected
+[2019-01-25 12:46:19.584787] [INFO][DSA] Disconnected
+[2019-01-25 12:46:19.763682] [INFO][DSA] Connected
+[2019-02-07 16:50:37.170644] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:50861/conn, --token, Cg4dlfX7dzkDsLvW2hPxCMzJTfeBoTt0p5x7Q9yLlHTZ7BOS] (pid: 15204) ==
+[2019-02-07 16:50:41.658616] [INFO][DSA] Connecting to http://127.0.0.1:50861/conn
+[2019-02-07 16:50:41.858554] [INFO][DSA] Connected
+[2019-02-07 18:31:58.149599] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57610/conn, --token, N22PyJo6kXTmAbqckXJneQYDA2fvVQlneDS2RMsfiCtXGa5L] (pid: 12380) ==
+[2019-02-07 18:32:00.338475] [INFO][DSA] Connecting to http://127.0.0.1:57610/conn
+[2019-02-07 18:32:00.539998] [INFO][DSA] Connected
+[2019-02-07 19:54:03.244566] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:58896/conn, --token, KvnhYHwaAWXBdkqUBI0lUzNN8nWBB9gJU85mvUo7hXFoLTmS] (pid: 13900) ==
+[2019-02-07 19:54:04.188022] [INFO][DSA] Connecting to http://127.0.0.1:58896/conn
+[2019-02-07 19:54:04.563804] [INFO][DSA] Connected
+[2019-02-07 20:08:52.571016] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:59233/conn, --token, BlChyfwx2rUhPoVc8FaIByTafj6e4wdPOrETPUlbBfo1to88] (pid: 11872) ==
+[2019-02-07 20:08:53.446528] [INFO][DSA] Connecting to http://127.0.0.1:59233/conn
+[2019-02-07 20:08:53.877280] [INFO][DSA] Connected
+[2019-02-07 20:12:45.261804] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:59420/conn, --token, Tfdi5UL5qIzImgWgZwK7Y6cWdEUmhgeQBx18YVPh752DBUgO] (pid: 13760) ==
+[2019-02-07 20:12:46.211243] [INFO][DSA] Connecting to http://127.0.0.1:59420/conn
+[2019-02-07 20:12:46.510308] [INFO][DSA] Connected
+[2019-02-07 20:25:20.028688] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:59876/conn, --token, bYonCCuiaeC20Z213cuR7FXtnMsoswPJzMZyuENxZvVt1qeZ] (pid: 9536) ==
+[2019-02-07 20:25:20.858208] [INFO][DSA] Connecting to http://127.0.0.1:59876/conn
+[2019-02-07 20:25:21.161034] [INFO][DSA] Connected
+[2019-02-08 15:34:41.646785] [INFO][DSA] Disconnected
+[2019-02-08 15:34:42.081540] [INFO][DSA] Connected
+[2019-02-08 16:12:19.541801] [INFO][DSA] Disconnected
+[2019-02-08 16:12:19.621755] [INFO][DSA] Connected
+[2019-02-09 00:29:01.745637] [INFO][DSA] Disconnected
+[2019-02-09 00:29:01.971507] [INFO][DSA] Connected
+[2019-02-09 09:02:37.909587] [INFO][DSA] Disconnected
+[2019-02-09 09:02:38.368320] [INFO][DSA] Connected
+[2019-02-11 12:58:18.676777] [INFO][DSA] Disconnected
+[2019-02-11 12:58:22.013466] [INFO][DSA] Connected
+[2019-02-14 16:25:13.946058] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:64178/conn, --token, 8MjvyoLzP7ie9cohF9mPNkEJ1SfhWOuVv6dG84pkeS7wisNP] (pid: 14356) ==
+[2019-02-14 16:25:16.705248] [INFO][DSA] Connecting to http://127.0.0.1:64178/conn
+[2019-02-14 16:25:16.923121] [INFO][DSA] Connected
+[2019-02-14 16:45:36.926470] [INFO][DSA] Disconnected
+[2019-02-14 16:54:59.292055] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:64919/conn, --token, BcNANJS0CLAEP11svziSbxN4Ah2tkiGtAZd4kQw2PQnfkgc9] (pid: 2480) ==
+[2019-02-14 16:55:00.642275] [INFO][DSA] Connecting to http://127.0.0.1:64919/conn
+[2019-02-14 16:55:00.983079] [INFO][DSA] Connected
+[2019-02-14 17:11:49.528230] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:65469/conn, --token, 7gLJjxtSABeqzUe6QHFUZXw8SLHY4cBrsy29kRYGr3Lmsx5c] (pid: 3852) ==
+[2019-02-14 17:11:50.630595] [INFO][DSA] Connecting to http://127.0.0.1:65469/conn
+[2019-02-14 17:11:51.025368] [INFO][DSA] Connected
+[2019-02-14 18:07:42.512186] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:50068/conn, --token, QWCQXxa47VdOBLQgu88NVpIKpu2myeUOgndCDkdJ0HNRrep8] (pid: 12340) ==
+[2019-02-14 18:07:43.563577] [INFO][DSA] Connecting to http://127.0.0.1:50068/conn
+[2019-02-14 18:07:43.841417] [INFO][DSA] Connected
+[2019-02-14 19:10:15.331109] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:51154/conn, --token, EooylQfW17YVvImrVJR9jq4FWS8RECBtnu6ml6LR7sTUAX9J] (pid: 20044) ==
+[2019-02-14 19:10:16.485443] [INFO][DSA] Connecting to http://127.0.0.1:51154/conn
+[2019-02-14 19:10:16.909198] [INFO][DSA] Connected
+[2019-02-14 20:27:18.945310] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:54915/conn, --token, o7ONkOFn7Z7qOnlcTRfJDHm4e0PBBDXhwlBVdBMajEmF8jJO] (pid: 11976) ==
+[2019-02-14 20:27:44.785733] [INFO][DSA] Connecting to http://127.0.0.1:54915/conn
+[2019-02-14 20:27:44.941972] [INFO][DSA] Connected
+[2019-02-14 20:49:24.413672] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:55659/conn, --token, sBpQDYa5gWNimId6Hsn4LVNCGuF4BeMfAf4H2bbYJE4uOX1J] (pid: 12844) ==
+[2019-02-14 20:49:25.037301] [INFO][DSA] Connecting to http://127.0.0.1:55659/conn
+[2019-02-14 20:49:25.132246] [INFO][DSA] Connected
+[2019-02-14 23:12:56.643773] [INFO][DSA] Disconnected
+[2019-02-14 23:12:56.835724] [INFO][DSA] Connected
+[2019-02-14 23:44:15.628987] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:56608/conn, --token, KTxP08AIJfZnHy7dpM1IIxg1Zxc95FBnmsM7DJJOD5tdMymF] (pid: 3788) ==
+[2019-02-14 23:44:24.927047] [INFO][DSA] Connecting to http://127.0.0.1:56608/conn
+[2019-02-14 23:44:25.769565] [INFO][DSA] Connected
+[2019-02-15 00:07:11.083911] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57150/conn, --token, sS4QpSxdFHHMq4c2smcWAbFhkFtILopRixNl1Me6TGN1D0bE] (pid: 1360) ==
+[2019-02-15 00:07:14.375104] [INFO][DSA] Connecting to http://127.0.0.1:57150/conn
+[2019-02-15 00:07:15.640377] [INFO][DSA] Connected
+[2019-02-15 00:10:38.900186] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57309/conn, --token, aat050BBolqPNZkZlvQr1bTLjni0WpCsDJs58d8zJ6bIDvYP] (pid: 15964) ==
+[2019-02-15 00:10:41.848913] [INFO][DSA] Connecting to http://127.0.0.1:57309/conn
+[2019-02-15 00:10:43.472109] [INFO][DSA] Connected
+[2019-02-15 00:14:51.925130] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57636/conn, --token, HptlTKsV5PzyUHrE1agdMOJz6cycxXU0XRWepoUOHcDsLAf8] (pid: 1140) ==
+[2019-02-15 00:14:56.103077] [INFO][DSA] Connecting to http://127.0.0.1:57636/conn
+[2019-02-15 00:14:56.985568] [INFO][DSA] Connected
+[2019-02-15 00:56:20.627646] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:58474/conn, --token, 0T9SVmnXr064ywGPqEOw8yRWc1w19UtujYrmyQbxTZfYRge9] (pid: 15684) ==
+[2019-02-15 00:56:21.555113] [INFO][DSA] Connecting to http://127.0.0.1:58474/conn
+[2019-02-15 00:56:22.128783] [INFO][DSA] Connected
+[2019-02-15 13:21:58.945806] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:65199/conn, --token, HCzPmTmW7vhRiE9PU2RaUWdCMZ13tI65ANVCN4htVdA7LDaq] (pid: 15196) ==
+[2019-02-15 13:21:59.973215] [INFO][DSA] Connecting to http://127.0.0.1:65199/conn
+[2019-02-15 13:22:00.140117] [INFO][DSA] Connected
+[2019-02-15 16:06:49.939097] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:50394/conn, --token, zd266V0BoG6pbG91utVyhNixhCzKePmLNXR8im42hi9g9cH0] (pid: 12472) ==
+[2019-02-15 16:06:50.982497] [INFO][DSA] Connecting to http://127.0.0.1:50394/conn
+[2019-02-15 16:06:51.356282] [INFO][DSA] Connected
+[2019-02-15 21:36:17.013179] [INFO][DSA] Disconnected
+[2019-02-15 21:36:17.167089] [INFO][DSA] Connected
+[2019-02-16 09:17:21.588869] [INFO][DSA] Disconnected
+[2019-02-16 09:17:21.649834] [INFO][DSA] Connected
+[2019-02-16 12:49:21.829148] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:62471/conn, --token, 3IEPe6uPh5rEroaAxbkYx4oDtqVe1VQLe1BVoSbA8D1CU8cq] (pid: 14872) ==
+[2019-02-16 12:49:27.495432] [INFO][DSA] Connecting to http://127.0.0.1:62471/conn
+[2019-02-16 12:49:27.878213] [INFO][DSA] Connected
+[2019-02-16 12:52:00.706630] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:62602/conn, --token, m7eGdipuebXB5kCns2Rnpt9QOBpJI2dBDPyRW0SQy9WSsli6] (pid: 12220) ==
+[2019-02-16 12:52:01.698061] [INFO][DSA] Connecting to http://127.0.0.1:62602/conn
+[2019-02-16 12:52:02.039865] [INFO][DSA] Connected
+[2019-02-17 16:29:57.535884] [INFO][DSA] Disconnected
+[2019-02-17 16:30:01.088425] [INFO][DSA] Connected
+[2019-02-17 22:38:23.207311] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:56261/conn, --token, bzIErSLvEM65z4FbRFIcn2vCR9FhX0dYpn344dOnDzTUlSfn] (pid: 1676) ==
+[2019-02-17 22:38:28.189807] [INFO][DSA] Connecting to http://127.0.0.1:56261/conn
+[2019-02-17 22:38:28.344718] [INFO][DSA] Connected
+[2019-02-18 10:02:16.734073] [INFO][DSA] Disconnected
+[2019-02-18 10:02:17.175820] [INFO][DSA] Connected
+[2019-02-18 18:55:47.688907] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:64893/conn, --token, 8ylSFR6PqJK8rYiAYwcLog0XrjKtAGQumgZrBnrmvpCVnedW] (pid: 19356) ==
+[2019-02-18 18:55:52.934265] [INFO][DSA] Connecting to http://127.0.0.1:64893/conn
+[2019-02-18 18:55:53.162134] [INFO][DSA] Connected
+[2019-02-19 10:50:02.726970] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:51830/conn, --token, EYg93vFmF27UUUH7kCp4asPZGjRpkcT3APGROrUEbXWkGcef] (pid: 9168) ==
+[2019-02-19 10:50:04.750805] [INFO][DSA] Connecting to http://127.0.0.1:51830/conn
+[2019-02-19 10:50:05.035640] [INFO][DSA] Connected
+[2019-02-19 13:07:05.043987] [INFO][DSA] Disconnected
+[2019-02-20 10:30:26.752907] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:55101/conn, --token, txrFBChc9btjMwfulToZ5LZJHs9DU0qWkOhYgoDk4cw9TBCr] (pid: 2820) ==
+[2019-02-20 10:30:42.319283] [INFO][DSA] Connecting to http://127.0.0.1:55101/conn
+[2019-02-20 10:30:42.548152] [INFO][DSA] Connected
+[2019-02-20 10:32:00.453509] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:55225/conn, --token, 0ErpHx2RMNhCkjqt56fMI288PTKRnY7kqk6w4dPqmp6HG8sE] (pid: 9408) ==
+[2019-02-20 10:32:01.610843] [INFO][DSA] Connecting to http://127.0.0.1:55225/conn
+[2019-02-20 10:32:02.056587] [INFO][DSA] Connected
+[2019-02-21 10:04:09.296345] [INFO][DSA] Disconnected
+[2019-02-21 10:04:10.550245] [INFO][DSA] Connected
+[2019-02-21 13:41:42.131971] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:54996/conn, --token, EFz7tv6XlXHu9GrMmL013zCdgEq7rO25JjYBw67M5Tp148Kp] (pid: 20484) ==
+[2019-02-21 13:41:46.045693] [INFO][DSA] Connecting to http://127.0.0.1:54996/conn
+[2019-02-21 13:41:46.216649] [INFO][DSA] Connected
+[2019-02-21 13:42:18.337640] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:55055/conn, --token, KHbPKXgHTikBDYJhtK4OCSGAus8Lka7GQajQS4JzUDCqwKrT] (pid: 14744) ==
+[2019-02-21 13:42:19.219134] [INFO][DSA] Connecting to http://127.0.0.1:55055/conn
+[2019-02-21 13:42:19.555940] [INFO][DSA] Connected
+[2019-02-21 17:16:10.149410] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57661/conn, --token, 4rL6ppTbnompLhp5PkYrHeWWFospZlOdJJaKAt2zbfPBuFeY] (pid: 23860) ==
+[2019-02-21 17:16:15.640642] [INFO][DSA] Connecting to http://127.0.0.1:57661/conn
+[2019-02-21 17:16:15.855520] [INFO][DSA] Connected
+[2019-02-21 17:22:23.327423] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57845/conn, --token, J1mfsgzmur4f4spNJ4H0iEBy3nNqBVdDRXBPXWz78TDvr2Tu] (pid: 19648) ==
+[2019-02-21 17:22:24.309858] [INFO][DSA] Connecting to http://127.0.0.1:57845/conn
+[2019-02-21 17:22:24.623678] [INFO][DSA] Connected
+[2019-02-21 18:10:53.763433] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:60904/conn, --token, Z74nhMBAdWvlHujbnoA5SExHs01myI6S0ZsuoLSUxxN1anI9] (pid: 11952) ==
+[2019-02-21 18:11:24.829449] [INFO][DSA] Connecting to http://127.0.0.1:60904/conn
+[2019-02-21 18:11:25.056319] [INFO][DSA] Connected
+[2019-02-22 09:54:08.607727] [INFO][DSA] Disconnected
+[2019-02-22 09:54:08.937675] [INFO][DSA] Connected
+[2019-02-22 12:46:51.597822] [INFO][DSA] Disconnected
+[2019-02-22 12:46:51.769724] [INFO][DSA] Connected
+[2019-02-22 18:16:46.640741] [INFO][DSA] Disconnected
+[2019-02-22 18:16:46.766669] [INFO][DSA] Connected
+[2019-02-22 20:00:45.611881] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:52787/conn, --token, ApiNDCbk8oqTFT5JGEiw3u8O0LeTNWlrN9JEE9fsl3IBibM2] (pid: 16244) ==
+[2019-02-22 20:00:52.986545] [INFO][DSA] Connecting to http://127.0.0.1:52787/conn
+[2019-02-22 20:00:53.106476] [INFO][DSA] Connected
+[2019-02-22 22:55:47.527845] [INFO][DSA] Disconnected
+[2019-02-22 22:55:51.118119] [INFO][DSA] Connected
+[2019-02-23 08:59:20.754647] [INFO][DSA] Disconnected
+[2019-02-23 08:59:20.977518] [INFO][DSA] Connected
+[2019-02-23 11:24:27.470830] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:52260/conn, --token, NMarcbA9YhH1munEe0WhqrP7fE1ErnIHwoCthfKxrc8LcItg] (pid: 16372) ==
+[2019-02-23 11:24:39.877702] [INFO][DSA] Connecting to http://127.0.0.1:52260/conn
+[2019-02-23 11:24:40.036611] [INFO][DSA] Connected
+[2019-02-23 14:46:55.830637] [INFO][DSA] Disconnected
+[2019-02-23 14:46:56.043509] [INFO][DSA] Connected
+[2019-02-23 15:18:39.073285] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:60814/conn, --token, 0pMwzZ4YCM7KpXMw9HMx4W997lmpRjxlfe6mTKuZvQ3hGd3H] (pid: 14908) ==
+[2019-02-23 15:18:45.218798] [INFO][DSA] Connecting to http://127.0.0.1:60814/conn
+[2019-02-23 15:18:45.436673] [INFO][DSA] Connected
+[2019-02-23 21:05:23.525844] [INFO][DSA] Disconnected
+[2019-02-23 21:05:23.652787] [INFO][DSA] Connected
+[2019-02-24 23:39:51.063935] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57095/conn, --token, LljFvKz6LsL54HJ3YPMDDf17OqlAAdmyndfAvijMWNkm9LP0] (pid: 16868) ==
+[2019-02-24 23:39:59.780474] [INFO][DSA] Connecting to http://127.0.0.1:57095/conn
+[2019-02-24 23:39:59.948378] [INFO][DSA] Connected
+[2019-02-25 12:53:09.772670] [INFO][DSA] Disconnected
+[2019-02-25 12:53:09.988544] [INFO][DSA] Connected
+[2019-02-26 08:22:40.750647] [INFO][DSA] Disconnected
+[2019-02-26 08:22:43.977578] [INFO][DSA] Connected
+[2019-02-26 20:43:16.282247] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:56170/conn, --token, GpTwTFY5kIpCXhGPSl2ZUIxvbJhKeUTelBAzFaecwzFLubfV] (pid: 12852) ==
+[2019-02-26 20:43:21.219632] [INFO][DSA] Connecting to http://127.0.0.1:56170/conn
+[2019-02-26 20:43:21.407523] [INFO][DSA] Connected
+[2019-02-27 10:03:54.625144] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:61501/conn, --token, ssoTaFooapORIm7Y7l4WZJJ6JRaZNW7lFcg3CNdG3rSdT74J] (pid: 16488) ==
+[2019-02-27 10:04:23.674327] [INFO][DSA] Connecting to http://127.0.0.1:61501/conn
+[2019-02-27 10:04:23.822229] [INFO][DSA] Connected
+[2019-02-28 11:11:58.570579] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57013/conn, --token, O2wx75gDBGWTSUAZCRlkFO7e8bZAV3DeyIAV2vfLcTwPWr3x] (pid: 11192) ==
+[2019-02-28 11:12:09.165712] [INFO][DSA] Connecting to http://127.0.0.1:57013/conn
+[2019-02-28 11:12:09.361599] [INFO][DSA] Connected
+[2019-02-28 18:05:01.689011] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:49948/conn, --token, qhWe1sXjOVFEIcO8ZdqAXcJJqulgHZ5RWgy3ZOEJPbXXGOe4] (pid: 6912) ==
+[2019-02-28 18:05:10.380180] [INFO][DSA] Connecting to http://127.0.0.1:49948/conn
+[2019-02-28 18:05:10.522086] [INFO][DSA] Connected
+[2019-03-02 15:31:18.028218] [INFO][DSA] Disconnected
+[2019-03-02 15:31:18.207115] [INFO][DSA] Connected
+[2019-03-04 22:30:58.335024] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:49652/conn, --token, PMMTyTSunrXNmJPtPMKk4sKkxQNba4Ukdou6hPLrNGARFA7w] (pid: 8016) ==
+[2019-03-04 22:31:07.403824] [INFO][DSA] Connecting to http://127.0.0.1:49652/conn
+[2019-03-04 22:31:07.548752] [INFO][DSA] Connected
+[2019-03-04 23:54:43.580814] [INFO][DSA] Disconnected
+[2019-03-04 23:54:43.650774] [INFO][DSA] Connected
+[2019-03-05 09:10:44.115679] [INFO][DSA] Disconnected
+[2019-03-05 09:10:44.115679] [INFO][DSA] Connected
+[2019-03-05 09:18:31.022367] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:54960/conn, --token, U3xk1JmPK2o9mX9bCP9FlFaPov4YlG79JnoKxCKYe5ebarwU] (pid: 9660) ==
+[2019-03-05 09:18:34.519720] [INFO][DSA] Connecting to http://127.0.0.1:54960/conn
+[2019-03-05 09:18:34.713608] [INFO][DSA] Connected
+[2019-03-05 13:45:40.692723] [INFO][DSA] Disconnected
+[2019-03-05 13:45:40.795654] [INFO][DSA] Connected
+[2019-03-05 17:30:42.740696] [INFO][DSA] Disconnected
+[2019-03-05 17:30:42.899606] [INFO][DSA] Connected
+[2019-03-05 17:39:12.352190] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:64909/conn, --token, ZjC0T9eb3kELX4d6yTCoimpwrAJz27mK0r6BaW1pzU0wErML] (pid: 23148) ==
+[2019-03-05 17:39:19.125302] [INFO][DSA] Connecting to http://127.0.0.1:64909/conn
+[2019-03-05 17:39:19.311195] [INFO][DSA] Connected
+[2019-03-06 16:29:26.883725] [INFO][DSA] Disconnected
+[2019-03-06 16:29:30.309958] [INFO][DSA] Connected
+[2019-03-06 16:31:01.296978] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:65047/conn, --token, ioQUVdVvyT9FSmbbcWBIz5YXAFzmmF9GRyfwwDCzHZaqFIG2] (pid: 20604) ==
+[2019-03-06 16:31:02.932387] [INFO][DSA] Connecting to http://127.0.0.1:65047/conn
+[2019-03-06 16:31:02.937385] [INFO][DSA] Connected
+[2019-03-09 08:58:36.793572] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:63036/conn, --token, aO6nJlLbS0HDDxkqaKhevz5cEktbw9FkDd7rFoYJwQ04TeDp] (pid: 19332) ==
+[2019-03-09 08:58:54.309583] [INFO][DSA] Connecting to http://127.0.0.1:63036/conn
+[2019-03-09 08:58:54.629397] [INFO][DSA] Connected
+[2019-03-09 09:10:37.719676] [INFO][DSA] Disconnected
+[2019-03-09 09:10:37.820615] [INFO][DSA] Connected
+[2019-03-09 14:54:09.579744] [INFO][DSA] Disconnected
+[2019-03-09 14:54:09.833598] [INFO][DSA] Connected
+[2019-03-09 19:52:59.321779] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:62423/conn, --token, toIQY5eB32I0Fz3z1sfmCzL8jXGnUWwedGznUS6J98gbMQny] (pid: 24444) ==
+[2019-03-09 19:53:05.754690] [INFO][DSA] Connecting to http://127.0.0.1:62423/conn
+[2019-03-09 19:53:05.902605] [INFO][DSA] Connected
+[2019-03-09 23:26:57.979523] [INFO][DSA] Disconnected
+[2019-03-09 23:26:58.092457] [INFO][DSA] Connected
+[2019-03-10 12:32:28.633747] [INFO][DSA] Disconnected
+[2019-03-10 12:32:28.854619] [INFO][DSA] Connected
+[2019-03-10 15:10:53.132259] [INFO][DSA] Disconnected
+[2019-03-10 15:10:55.308457] [INFO][DSA] Connected
+[2019-03-14 18:06:34.387932] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:55215/conn, --token, i7o2IYjYPXRvmUQwNcl4X1D9EluCj8vBpCME1dXZQOwwS2yq] (pid: 17084) ==
+[2019-03-14 18:06:40.234912] [INFO][DSA] Connecting to http://127.0.0.1:55215/conn
+[2019-03-14 18:06:40.427801] [INFO][DSA] Connected
+[2019-03-16 10:17:56.056455] [INFO][DSA] Disconnected
+[2019-03-16 10:17:56.723072] [INFO][DSA] Connected
+[2019-03-16 12:28:19.590828] [INFO][DSA] Disconnected
+[2019-03-16 12:28:19.656791] [INFO][DSA] Connected
+[2019-03-21 19:05:02.624503] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:65345/conn, --token, XpRC1i25V8AMTnPpDvCsloER5ASILm6Qfgh7JwYr06h5F3yt] (pid: 8984) ==
+[2019-03-21 19:05:08.579168] [INFO][DSA] Connecting to http://127.0.0.1:65345/conn
+[2019-03-21 19:05:08.769056] [INFO][DSA] Connected
+[2019-03-21 21:28:07.235533] [INFO][DSA] Disconnected
+[2019-03-21 21:28:07.302062] [INFO][DSA] Connected
+[2019-03-28 20:16:32.873839] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:54630/conn, --token, muryKDF8H2QKbrThfBhQVImv9oEjpsAHa6pAK2mPIvgGEJZx] (pid: 15672) ==
+[2019-03-28 20:16:38.739305] [INFO][DSA] Connecting to http://127.0.0.1:54630/conn
+[2019-03-28 20:16:38.929196] [INFO][DSA] Connected
+[2019-03-28 21:55:19.687730] [INFO][DSA] Disconnected
+[2019-03-28 21:55:19.896611] [INFO][DSA] Connected
+[2020-03-10 20:00:13.087670] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:50315/conn, --token, vbF4gO9QyYRm0Xbkh909eGDgdptSfA1k4m0ylB0P5WjHYuCh] (pid: 11136) ==
+[2020-03-10 20:00:16.881132] [INFO][DSA] Connecting to http://127.0.0.1:50315/conn
+[2020-03-10 20:00:17.193879] [INFO][DSA] Connected
+[2020-03-10 20:59:10.620682] [INFO][DSA] Disconnected
+[2020-03-10 20:59:10.777510] [INFO][DSA] Connected
+[2020-03-10 21:07:27.612851] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:51769/conn, --token, 15uETq0xUqqYE0jmBVFzZxpJfGrp8b3J8I0A0CRa7RgIGPqo] (pid: 6816) ==
+[2020-03-10 21:07:29.156855] [INFO][DSA] Connecting to http://127.0.0.1:51769/conn
+[2020-03-10 21:07:29.597240] [INFO][DSA] Connected
+[2020-08-18 15:33:49.991728] == Executing D:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:56807/conn, --token, AOoPHfFWDzcNTFfCxstW5cyl0Hvlh7o4JjTEyfHf9yu1Ui7V] (pid: 17548) ==
+[2020-08-18 15:33:53.366112] [INFO][DSA] Connecting to http://127.0.0.1:56807/conn
+[2020-08-18 15:33:53.552244] [INFO][DSA] Connected
+[2020-08-18 15:36:32.124974] == Exited with status -1073741510 ==
+[2020-08-18 15:36:43.871377] == Executing D:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:56879/conn, --token, G3ig3joOtJPtfXiOK5WhqFpJkkqyhpodPRew1iloPhZZsnFZ] (pid: 13876) ==
+[2020-08-18 15:36:44.536848] [INFO][DSA] Connecting to http://127.0.0.1:56879/conn
+[2020-08-18 15:36:44.823050] [INFO][DSA] Connected
+[2020-08-18 15:37:11.268451] == Executing D:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:56909/conn, --token, CY9i1eeBALDdfi3vic4qlmraZhd15tSPcoDxmjFPARDPBABd] (pid: 17024) ==
+[2020-08-18 15:37:12.075020] [INFO][DSA] Connecting to http://127.0.0.1:56909/conn
+[2020-08-18 15:37:12.370228] [INFO][DSA] Connected
+[2020-08-18 15:45:25.675773] == Executing D:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57204/conn, --token, xcUOwPmM92TccbLN3vH7DQSPNM9ragwoWdg8oqCbXCTOj5Nq] (pid: 9244) ==
+[2020-08-18 15:45:26.397283] [INFO][DSA] Connecting to http://127.0.0.1:57204/conn
+[2020-08-18 15:45:26.697495] [INFO][DSA] Connected
+[2020-08-18 15:51:23.485453] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57370/conn, --token, 2FLPwZo6w91vyuWUop4OSgs31wEDBLc4D5wjMNnALOKxlXpl] (pid: 15272) ==
+[2020-08-18 15:51:24.809503] [INFO][DSA] Connecting to http://127.0.0.1:57370/conn
+[2020-08-18 15:51:25.043668] [INFO][DSA] Connected
+[2020-08-18 15:54:29.241734] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57502/conn, --token, 0laIf5bf1VVmR4tugkjQxKy2iVpGU5LeBL1xXVZOjRVKiIaB] (pid: 12792) ==
+[2020-08-18 15:54:30.245520] [INFO][DSA] Connecting to http://127.0.0.1:57502/conn
+[2020-08-18 15:54:30.812420] [INFO][DSA] Connected
+[2020-08-18 15:55:59.951664] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57610/conn, --token, 6CFk68BRQVbybT36d7VPSUTM7oOoAJgWwzxftMtTRuYOG5nN] (pid: 5044) ==
+[2020-08-18 15:56:00.830336] [INFO][DSA] Connecting to http://127.0.0.1:57610/conn
+[2020-08-18 15:56:01.226116] [INFO][DSA] Connected
+[2020-08-18 17:02:58.562921] [INFO][DSA] Disconnected
+[2020-08-18 17:02:58.752554] [INFO][DSA] Connected
+[2020-08-19 00:07:05.547904] [INFO][DSA] Disconnected
+[2020-08-19 00:07:05.907163] [INFO][DSA] Connected
+[2020-08-25 18:51:27.402882] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:50550/conn, --token, ufzFUMt083UTag0V8VODp4E35vbTJ7jnHovkBahal8YVIyhK] (pid: 3448) ==
+[2020-08-25 18:51:31.158536] [INFO][DSA] Connecting to http://127.0.0.1:50550/conn
+[2020-08-25 18:51:31.497774] [INFO][DSA] Connected
+[2020-08-26 00:20:06.821407] [INFO][DSA] Disconnected
+[2020-08-26 00:20:09.460408] [INFO][DSA] Connected
+[2020-08-31 16:14:33.991033] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:54415/conn, --token, LSfYFdxxpTUSG7qhKzCjvvidvxri1bHGCvQp28wUFyjufKKA] (pid: 11816) ==
+[2020-08-31 16:14:37.364419] [INFO][DSA] Connecting to http://127.0.0.1:54415/conn
+[2020-08-31 16:14:37.568564] [INFO][DSA] Connected
+[2020-09-01 15:25:18.846091] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:52934/conn, --token, iPj04bmkvRgSu0uXZZ6vzhSXncNevGoqloSika3dp2Ja06IX] (pid: 12432) ==
+[2020-09-01 15:25:22.436626] [INFO][DSA] Connecting to http://127.0.0.1:52934/conn
+[2020-09-01 15:25:22.630763] [INFO][DSA] Connected
+[2020-09-01 18:13:45.529165] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57585/conn, --token, 1ACYE4xmsc1WZ8lpieEBeJWCN1SGQEE3k664PEsrkiInXlHO] (pid: 13816) ==
+[2020-09-01 18:13:47.510563] [INFO][DSA] Connecting to http://127.0.0.1:57585/conn
+[2020-09-01 18:13:48.069958] [INFO][DSA] Connected
+[2020-09-01 18:13:53.812012] == Exited with status -1073741510 ==
+[2020-09-01 18:14:00.031398] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57720/conn, --token, 5oAQ8szswiKmVstpxf8PJZpprMjdY0QweclRhrATSUCuMDss] (pid: 13176) ==
+[2020-09-01 18:14:01.401366] [INFO][DSA] Connecting to http://127.0.0.1:57720/conn
+[2020-09-01 18:14:01.936744] [INFO][DSA] Connected
+[2020-09-01 18:14:29.587258] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:57845/conn, --token, XzCbH7aoW4CAiTnkH8sKZYS4QDAE9y8qBwoLgFfQdraQq48M] (pid: 13492) ==
+[2020-09-01 18:14:30.761085] [INFO][DSA] Connecting to http://127.0.0.1:57845/conn
+[2020-09-01 18:14:31.664724] [INFO][DSA] Connected
+[2020-09-02 18:20:10.552677] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:50028/conn, --token, LBfPMDTPWhMSH2p7D4UlfSt1v2zxrK1f9s75gHYn5201oIff] (pid: 11780) ==
+[2020-09-02 18:20:15.088878] [INFO][DSA] Connecting to http://127.0.0.1:50028/conn
+[2020-09-02 18:20:15.374080] [INFO][DSA] Connected
+[2020-09-02 23:13:33.791052] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:53012/conn, --token, vEKUA2M5h9lN2XeUtoJake1pNRBbWMVU56pxzB6vs4mmog0o] (pid: 13080) ==
+[2020-09-02 23:13:37.548542] [INFO][DSA] Connecting to http://127.0.0.1:53012/conn
+[2020-09-02 23:13:37.833744] [INFO][DSA] Connected
+[2020-09-03 04:30:06.577821] [INFO][DSA] Disconnected
+[2020-09-03 04:30:06.889584] [INFO][DSA] Connected
+[2020-09-03 08:39:36.944056] [INFO][DSA] Disconnected
+[2020-09-03 08:40:06.500517] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:61336/conn, --token, fgw0fvwNsP43JLM6j4MgY2VIMalEy5PO0e87zTxxKwcAp17u] (pid: 14160) ==
+[2020-09-03 08:40:15.365198] [INFO][DSA] Connecting to http://127.0.0.1:61336/conn
+[2020-09-03 08:40:15.530313] [INFO][DSA] Connected
+[2020-09-03 20:26:15.542777] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:52677/conn, --token, vFhu7aANf4Umvtpzw4MiOxORJVUcaM2sajHdRTIwEZGMcjVu] (pid: 16008) ==
+[2020-09-03 20:26:18.957187] [INFO][DSA] Connecting to http://127.0.0.1:52677/conn
+[2020-09-03 20:26:19.197358] [INFO][DSA] Connected
+[2020-09-04 13:37:50.986078] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:51394/conn, --token, wolDlnW9SmSvEwFIZC0hLmdkhXS77llRnDkYenLFXP0g8jNk] (pid: 12728) ==
+[2020-09-04 13:37:55.615342] [INFO][DSA] Connecting to http://127.0.0.1:51394/conn
+[2020-09-04 13:37:55.794469] [INFO][DSA] Connected
+[2020-09-04 15:20:52.613786] [INFO][DSA] Disconnected
+[2020-09-04 15:20:52.783905] [INFO][DSA] Connected
+[2020-09-04 21:35:19.933418] [INFO][DSA] Disconnected
+[2020-09-04 21:35:20.046497] [INFO][DSA] Connected
+[2020-09-04 22:28:15.719893] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:60156/conn, --token, VbX6TtW7Hqhoy3NRHFM2M89wWrKyRMnSOmmRrnIxon4HZcMJ] (pid: 14484) ==
+[2020-09-04 22:28:16.843686] [INFO][DSA] Connecting to http://127.0.0.1:60156/conn
+[2020-09-04 22:28:17.055835] [INFO][DSA] Connected
+[2020-09-07 23:29:48.147789] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:58266/conn, --token, YTMG1TZaLHpPUWYGkzV32btDTewAtqTBhaGerG6M51iHWi8Y] (pid: 11600) ==
+[2020-09-07 23:29:53.416811] [INFO][DSA] Connecting to http://127.0.0.1:58266/conn
+[2020-09-07 23:29:53.621956] [INFO][DSA] Connected
+[2020-09-08 19:10:14.667162] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:65458/conn, --token, l8b50ThQEPKnnzaiOgvhpRxfldIhfPqdrRwc1heyyHuaZV03] (pid: 11452) ==
+[2020-09-08 19:10:16.997866] [INFO][DSA] Connecting to http://127.0.0.1:65458/conn
+[2020-09-08 19:10:17.265054] [INFO][DSA] Connected
+[2020-09-09 14:05:44.646933] [INFO][DSA] Disconnected
+[2020-09-09 14:05:45.037080] [INFO][DSA] Connected
+[2020-09-09 14:24:57.781906] [INFO][DSA] Disconnected
+[2020-09-09 14:24:57.997148] [INFO][DSA] Connected
+[2020-09-09 14:38:53.335996] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:53502/conn, --token, hKlbSQ5FzMPZG8AgAhlTRxvZg0XnC68kDZRF7RkeUlzDjc19] (pid: 7412) ==
+[2020-09-09 14:38:58.129384] [INFO][DSA] Connecting to http://127.0.0.1:53502/conn
+[2020-09-09 14:38:58.348532] [INFO][DSA] Connected
+[2020-09-09 15:46:00.405335] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:55229/conn, --token, Mo5SK15lE7fvWu22m6BHkaalkH6K5TEUbi8AIIxStFzbDEMS] (pid: 16772) ==
+[2020-09-09 15:46:02.142166] [INFO][DSA] Connecting to http://127.0.0.1:55229/conn
+[2020-09-09 15:46:02.444379] [INFO][DSA] Connected
+[2020-09-09 20:24:11.544679] [INFO][DSA] Disconnected
+[2020-09-09 20:24:11.714800] [INFO][DSA] Connected
+[2020-09-10 00:06:05.696099] == Exited with status -1073741510 ==
+[2020-09-10 00:06:05.696099] == Exited with status -1073741510 ==
+[2020-09-10 00:06:05.696099] == Exited with status -1073741510 ==
+[2020-09-10 00:06:14.082136] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:59846/conn, --token, gmUv6nqKaYutbINXUvYPLIGKbkM3XKGtFYooxpHnWZ0yoazo] (pid: 18532) ==
+[2020-09-10 00:06:24.950801] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:59903/conn, --token, YrB0Ku2cHGL4O8Rp3s8MLtjMW4ottH1alby7biUEa5Kt67Wo] (pid: 14476) ==
+[2020-09-10 00:06:26.868223] [INFO][DSA] Connecting to http://127.0.0.1:59903/conn
+[2020-09-10 00:06:27.303031] [INFO][DSA] Connected
+[2020-09-10 00:17:35.581874] [INFO][DSA] Disconnected
+[2020-09-10 00:17:35.721974] [INFO][DSA] Connected
+[2020-09-10 00:23:00.428608] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:56702/conn, --token, 1g6FyDyDPFmV4T9bdWpC2v9MiO0oNC1cx7QjD2R5hj4qXRPW] (pid: 16712) ==
+[2020-09-10 00:23:01.369827] [INFO][DSA] Connecting to http://127.0.0.1:56702/conn
+[2020-09-10 00:23:01.962245] [INFO][DSA] Connected
+[2020-09-10 00:29:01.965471] [INFO][DSA] Disconnected
+[2020-09-10 00:29:31.958551] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:59643/conn, --token, Nrly77MOMpYdAHVShcy9wUUx13rWe2LdODBpwbMDrnrKrI5Y] (pid: 13044) ==
+[2020-09-10 00:29:33.537216] [INFO][DSA] Connecting to http://127.0.0.1:59643/conn
+[2020-09-10 00:29:34.052580] [INFO][DSA] Connected
+[2020-09-10 21:35:29.370821] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:54636/conn, --token, ZEUbzy3uO7fxxMP7fJgVkXniOGRlnyNboNIW0O30Pq1jT6Ig] (pid: 8068) ==
+[2020-09-10 21:35:34.744623] [INFO][DSA] Connecting to http://127.0.0.1:54636/conn
+[2020-09-10 21:35:34.965766] [INFO][DSA] Connected
+[2020-09-10 21:59:40.850566] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:58990/conn, --token, kx5EkgPaJpqWfU7foNOL3OxABBlVfPPtuO8kZB5EEtAh9W23] (pid: 13324) ==
+[2020-09-10 21:59:41.809299] [INFO][DSA] Connecting to http://127.0.0.1:58990/conn
+[2020-09-10 21:59:42.788490] [INFO][DSA] Connected
+[2020-09-10 22:28:23.854424] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:63123/conn, --token, vsGUzH0tkTa26TxwSuWiBHwPUtkZI3YWMFIYnFd13MX31BPA] (pid: 3900) ==
+[2020-09-10 22:28:24.833163] [INFO][DSA] Connecting to http://127.0.0.1:63123/conn
+[2020-09-10 22:28:25.404066] [INFO][DSA] Connected
+[2020-09-10 22:31:29.109449] == Exited with status -1073741510 ==
+[2020-09-10 22:31:29.109449] == Exited with status -1073741510 ==
+[2020-09-10 22:31:34.523475] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:63373/conn, --token, eFNBFBx29zzzfOWfjNTGQr1FHchaM6OuNNsONdRppoT3JkGg] (pid: 12300) ==
+[2020-09-10 22:31:35.732381] [INFO][DSA] Connecting to http://127.0.0.1:63373/conn
+[2020-09-10 22:31:36.010076] [INFO][DSA] Connected
+[2020-09-15 16:03:07.173977] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:52692/conn, --token, vYh57Omz5nBlUbpy3iMgbUujTsvc6qT8CYsDYdCSir6moYka] (pid: 9988) ==
+[2020-09-15 16:03:12.177510] [INFO][DSA] Connecting to http://127.0.0.1:52692/conn
+[2020-09-15 16:03:12.374650] [INFO][DSA] Connected
+[2020-09-15 20:29:37.135085] == Exited with status 1 ==
+[2020-09-15 20:29:37.135085] == Exited with status 1 ==
+[2020-09-15 20:29:40.434415] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:52692/conn, --token, vYh57Omz5nBlUbpy3iMgbUujTsvc6qT8CYsDYdCSir6moYka] (pid: 13128) ==
+[2020-09-15 20:29:46.047379] [INFO][DSA] Connecting to http://127.0.0.1:52692/conn
+[2020-09-15 20:29:46.800913] [INFO][DSA] Connected
+[2020-09-16 04:02:45.133091] [INFO][DSA] Disconnected
+[2020-09-16 04:02:54.833966] [INFO][DSA] Connected
+[2020-09-16 08:14:12.183887] [INFO][DSA] Disconnected
+[2020-09-16 08:14:12.184878] [INFO][DSA] Connected
+[2020-09-16 11:20:38.525468] [INFO][DSA] Disconnected
+[2020-09-18 09:23:12.768628] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:55271/conn, --token, QbBuDXJsCXz2hxnmGdOT0nuqPkoXqRbVxT4v0H4LOz5D66Ze] (pid: 3932) ==
+[2020-09-18 09:23:17.683319] [INFO][DSA] Connecting to http://127.0.0.1:55271/conn
+[2020-09-18 09:23:17.864832] [INFO][DSA] Connected
+[2020-09-21 09:58:59.489672] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:56845/conn, --token, gURdAsbm4R16gLrAcORjfLCdK2Egt6Vvr1OY6Zf1mO5vvVkd] (pid: 7964) ==
+[2020-09-21 09:59:02.323680] [INFO][DSA] Connecting to http://127.0.0.1:56845/conn
+[2020-09-21 09:59:02.496803] [INFO][DSA] Connected
+[2020-09-22 18:07:59.347537] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:54278/conn, --token, NSwJweG2d5J8SlDXTXw7cocnCgoBZ7pKV952LNN8qSU2Zc3U] (pid: 14736) ==
+[2020-09-22 18:08:03.783678] [INFO][DSA] Connecting to http://127.0.0.1:54278/conn
+[2020-09-22 18:08:04.104908] [INFO][DSA] Connected
+[2020-09-30 13:41:26.056499] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:53562/conn, --token, kdfi6mJt7SAwKdpFUOl1bOzOVZ1LSYKJryHOKTRZp2AlYgKm] (pid: 13156) ==
+[2020-09-30 13:41:30.041308] [INFO][DSA] Connecting to http://127.0.0.1:53562/conn
+[2020-09-30 13:41:30.271471] [INFO][DSA] Connected
+[2020-09-30 15:41:11.582790] [INFO][DSA] Disconnected
+[2020-09-30 15:41:11.707877] [INFO][DSA] Connected
+[2020-10-06 16:36:51.898387] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:53033/conn, --token, yyJz9p5QqNAZlDcJ7IfjgBTJFBmtjAcH4fBtIO7ipXRzPHIc] (pid: 15148) ==
+[2020-10-06 16:36:56.876901] [INFO][DSA] Connecting to http://127.0.0.1:53033/conn
+[2020-10-06 16:36:57.131081] [INFO][DSA] Connected
+[2020-10-06 18:13:56.336303] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:49934/conn, --token, vWp9ZWVrzYjQcIqSf3JhDlCUndjVbL4fIsSSCRSPShmQF0OK] (pid: 14204) ==
+[2020-10-06 18:13:59.489525] [INFO][DSA] Connecting to http://127.0.0.1:49934/conn
+[2020-10-06 18:13:59.820761] [INFO][DSA] Connected
+[2020-10-06 18:16:51.755551] == Exited with status -1073741510 ==
+[2020-10-06 18:16:51.755551] == Exited with status -1073741510 ==
+[2020-10-06 18:16:57.767791] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:50192/conn, --token, ssNtuw6rpjZ0IHNgwFJaFxUlpgOK27ZJQ35eL23qNSHRg5Df] (pid: 10716) ==
+[2020-10-06 18:16:58.691443] [INFO][DSA] Connecting to http://127.0.0.1:50192/conn
+[2020-10-06 18:16:59.192797] [INFO][DSA] Connected
+[2020-10-06 18:19:21.042274] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:50391/conn, --token, 6wEItZr7P61Dyd7MR52h3IJKBI39ca0ZhNu02uGAVWlBLHcs] (pid: 8688) ==
+[2020-10-06 18:19:22.464277] [INFO][DSA] Connecting to http://127.0.0.1:50391/conn
+[2020-10-06 18:19:23.558048] [INFO][DSA] Connected
+[2020-10-07 15:01:55.230218] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:60037/conn, --token, Tkez2FMop3Talgl9Mgzsv7CmL5QCGIaPekFqme0bCUQCYjMI] (pid: 4212) ==
+[2020-10-07 15:01:58.383443] [INFO][DSA] Connecting to http://127.0.0.1:60037/conn
+[2020-10-07 15:01:58.656634] [INFO][DSA] Connected
+[2020-10-07 18:04:04.560904] [INFO][DSA] Disconnected
+[2020-10-07 18:04:04.711012] [INFO][DSA] Connected
+[2020-10-07 20:37:21.529767] [INFO][DSA] Disconnected
+[2020-10-07 20:37:21.648851] [INFO][DSA] Connected
+[2020-10-08 00:54:53.544896] [INFO][DSA] Disconnected
+[2020-10-08 00:54:53.672989] [INFO][DSA] Connected
+[2020-10-13 10:52:37.616176] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:50584/conn, --token, bQn6aYGqXFdRvN5yIRmRxWR7psuPRRQYr29r1y5WJDy1kUMf] (pid: 15428) ==
+[2020-10-13 10:52:40.401142] [INFO][DSA] Connecting to http://127.0.0.1:50584/conn
+[2020-10-13 10:52:40.679340] [INFO][DSA] Connected
+[2020-10-13 13:34:05.061990] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:54874/conn, --token, bwesrmoznonNCIsNs8uKKnBgpZV6cnp7f6c07jWoSO3LfzT7] (pid: 9008) ==
+[2020-10-13 13:34:06.088776] [INFO][DSA] Connecting to http://127.0.0.1:54874/conn
+[2020-10-13 13:34:07.008425] [INFO][DSA] Connected
+[2020-10-20 18:23:39.547700] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:56488/conn, --token, coF7JnSaorNtl40QwBIe5iFK9WCCKnrhlKnlCT969CZGvv5Z] (pid: 13932) ==
+[2020-10-20 18:23:45.190685] [INFO][DSA] Connecting to http://127.0.0.1:56488/conn
+[2020-10-20 18:23:45.668022] [INFO][DSA] Connected
+[2020-10-21 08:55:50.562118] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:55337/conn, --token, eAWdha4jKzas9RPV6ysyr6OBcpItl6CmE0wUm0J60PkbFPBS] (pid: 14768) ==
+[2020-10-21 08:56:02.282172] [INFO][DSA] Connecting to http://127.0.0.1:55337/conn
+[2020-10-21 08:56:03.474996] [INFO][DSA] Connected
+[2020-10-27 18:28:21.375656] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:50874/conn, --token, cCTFUzzeMmxPy0ZDN5ciKCNTCZ6JSDAwd63dqObD268682xs] (pid: 15280) ==
+[2020-10-27 18:28:26.419212] [INFO][DSA] Connecting to http://127.0.0.1:50874/conn
+[2020-10-27 18:28:26.714420] [INFO][DSA] Connected
+[2020-10-28 08:32:43.551872] [INFO][DSA] Disconnected
+[2020-10-28 08:34:09.994247] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:51583/conn, --token, RkkjzO5e7ARv8qvsFLDpyi3LQxU7hE8caiBqBjqSwfjlgr2V] (pid: 8420) ==
+[2020-10-28 08:34:18.154028] [INFO][DSA] Connecting to http://127.0.0.1:51583/conn
+[2020-10-28 08:34:18.321149] [INFO][DSA] Connected
+[2020-11-10 18:08:48.989495] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:52587/conn, --token, THvRQeD7eDsDxS9qHqAkvWHJMZ4rUfPOJUjXc1yt8JkPiw3A] (pid: 14252) ==
+[2020-11-10 18:08:51.059968] [INFO][DSA] Connecting to http://127.0.0.1:52587/conn
+[2020-11-10 18:08:51.370189] [INFO][DSA] Connected
+[2020-11-10 20:41:56.176106] == Exited with status -1073741510 ==
+[2020-11-10 20:42:05.196223] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:55579/conn, --token, ZVz9Ge7hwcCrLWPadMnXLtZpMPG3cEsj2nGZtMHqoqGExxiM] (pid: 12380) ==
+[2020-11-13 18:20:05.240366] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:52722/conn, --token, pAgqDapSsONPWTlgy3bfl577N3Q2QQovJtOFaoMbdHtCUJcu] (pid: 1908) ==
+[2020-11-13 18:20:10.910376] [INFO][DSA] Connecting to http://127.0.0.1:52722/conn
+[2020-11-13 18:20:11.267630] [INFO][DSA] Connected
+[2020-11-13 18:20:29.788729] == Exited with status -1073741510 ==
+[2020-11-13 18:20:36.952798] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:52925/conn, --token, NTuSFnpkSWskAt916LSMFzFxY7SFNNyjvZSvWzCEhs8r0GhP] (pid: 5040) ==
+[2020-11-13 18:20:38.145641] [INFO][DSA] Connecting to http://127.0.0.1:52925/conn
+[2020-11-13 18:20:39.008250] [INFO][DSA] Connected
+[2020-12-10 11:50:25.417188] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, Mailer, --broker, http://127.0.0.1:56375/conn, --token, DxUlSNtEyEIMxPEgo3I179AZQeHAuQi5i509pFBoxDlTG8a9] (pid: 9308) ==
+[2020-12-10 11:50:29.199863] [INFO][DSA] Connecting to http://127.0.0.1:56375/conn
+[2020-12-10 11:50:29.419020] [INFO][DSA] Connected

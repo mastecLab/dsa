@@ -1,0 +1,8 @@
+/.atom/
+/.idea/
+/.project
+/pubspec.lock
+packages
+.pub/
+.packages
+*.iml

@@ -1,0 +1,24 @@
+{
+  "LoRa" : {
+    "$is" : "node",
+    "$type" : "string",
+    "@Start Code" : "0x05",
+    "@End Code" : "0x0D",
+    "@Data Bits" : 8,
+    "@Serial Port" : "COM10",
+    "@Stop Bits" : 1,
+    "@Charset" : "UTF-8",
+    "@Baud Rate" : 9600,
+    "@Parity" : 0,
+    "Status" : {
+      "$is" : "node",
+      "$type" : "string",
+      "?value" : "Failed to Connect"
+    },
+    "Buffer" : {
+      "$is" : "node",
+      "$type" : "string",
+      "?value" : ""
+    }
+  }
+}

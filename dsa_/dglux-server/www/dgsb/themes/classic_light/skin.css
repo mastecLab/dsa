@@ -1,0 +1,3808 @@
+/*rgba(42,174,226,0.25);*/
+/*#CBE2FC;*/
+/*#373737*/
+/*#424242*/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+/*0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;*/
+/* 0px  1px 0px 0px #1f1f1f inset, 0px 1px 0px 0px #4f4f4f;*/
+/* 0px 0px 2px black;*/
+/*inset 0px 0px 5px 1px rgba(200, 200, 200, 0.25);*/
+/*rgba(40,84,123,0.9);*/
+/* 1px solid #1f1f1f;*/
+/*rgba(98,152,31,0.9);*/
+/*#ffffff;*/
+/*rgba(48,161,184,0.5);*/
+/*$font-color + #404040;*/
+/*$primary-color;*/
+/*$panel-background;*/
+/*$primary-color;*/
+/*#bfbfbf ;*/
+/*#999999;*/
+/*$menu-popup-font-color-disabled;*/
+/* #404040;*/
+/*0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;*/
+/*0px 1px 0px 0px #4f4f4f inset, 0px 1px 0px 0px #4f4f4f;*/
+/* #2B2B2B */
+/* #323232 */
+/* #585858 $outline-odd-item-color; */
+/*rgba(48,161,184,0.5);*/
+/* 1px 1px 1px #000000 */
+/**/
+/* #2AAEE2 */
+/*#000000 solid 1px;*/
+/*$primary-color solid 1px;*/
+/* - #404040;*/
+.dglux_page_background {
+  background-color: white;
+  /*$header-gradient-bottom;*/
+}
+
+.dglux_page_root {
+  color: #515251;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+}
+
+/*<link rel="stylesheet" href="core.css">*/
+/*-------------------------------------------------------*/
+/*<link rel="stylesheet" href="packages/core/dock_spawn/resources/css/dock-manager.css">*/
+/************* Panel with title bar ************/
+.dglux_page_root {
+  /***************** Floating dialog box ****************/
+  /******************* Dock Manager ********************/
+  /******************* Document Manager ********************/
+  /******************* Dock Wheel ********************/
+  /*#00e6fe*/
+  /*************************** Tab Host ********************************/
+  /*-------------------------------------------------------*/
+  /*<link rel="stylesheet" href="packages/core/view/view.css">*/
+  /*-------------------------------------------------------*/
+  /*<link rel="stylesheet" href="packages/core/view/editor.css">*/
+  /*
+.dgMenuPopupWithoutHover {
+  font-size: 13px;
+  background: $menu-popup-background;
+  border:solid 1px $menu-popup-border;
+
+  -moz-box-shadow: $popup-shadow;
+  -webkit-box-shadow: $popup-shadow;
+  box-shadow: $popup-shadow;
+}*/
+  /*.dgMenuPopup .actionName,*/
+  /* Closed disclosure icon*/
+  /*-------------------------------------------------------*/
+  /*<link rel="stylesheet" href="packages/core/dataflow/dataflow.css">*/
+}
+.dglux_page_root .panel-base {
+  background-color: #fefefe;
+  border-color: #e9ebed;
+  border-width: 0px;
+}
+.dglux_page_root .panel-titlebar-button-close {
+  color: white;
+}
+.dglux_page_root .panel-titlebar-button-close:hover {
+  font-weight: bold;
+  color: #515251;
+}
+.dglux_page_root .panel-content {
+  background-color: #fefefe;
+}
+.dglux_page_root .dialog-floating {
+  -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+  -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+}
+.dglux_page_root .dock-container {
+  background-color: #888888;
+}
+.dglux_page_root .document-manager {
+  background-color: #fbfbfb;
+}
+.dglux_page_root .dock-wheel-panel-preview {
+  background-color: rgba(0, 230, 254, 0.2);
+}
+.dglux_page_root .tab-host {
+  /*  z-index: 6;*/
+  background: white;
+  border: none;
+  /*$tab-border;*/
+  /*  border-color: $tab-handle-list-gradient-up $tab-border-color $tab-border-color $tab-border-color;
+  border-style: none solid solid solid;*/
+}
+.dglux_page_root .splitter-container-vertical .tab-host {
+  z-index: 6;
+}
+.dglux_page_root .tab-content {
+  background-color: white;
+  /*$tab-handle-list-gradient-up;*/
+  /*border-right: none;*/
+  /*$tab-border;*/
+}
+.dglux_page_root .tab-handle {
+  border: none;
+  background-color: #f6f8f8;
+  color: #515251;
+  height: 38px;
+  margin-top: 0px;
+}
+.dglux_page_root .tab-handle:hover {
+  background-color: #f6f8f8;
+  color: #2ebed7;
+  height: 38px;
+}
+.dglux_page_root .tab-handle-selected {
+  background-color: #f6f8f8;
+  color: #2ebed7;
+  margin-top: 0px;
+  border-bottom: solid;
+  border-bottom-color: #2ebed7;
+  border-width: 2px;
+}
+.dglux_page_root .tab-handle-text {
+  font-size: 12px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.dglux_page_root .tab-handle-close-button:hover {
+  color: #fff;
+}
+.dglux_page_root .tab-handle-list-container {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f8f8), color-stop(1, #f6f8f8));
+  background: -moz-linear-gradient(center top, #f6f8f8 5%, #f6f8f8 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$tab-handle-list-gradient-bottom', endColorstr='$tab-handle-list-gradient-up');
+  background-color: #f6f8f8;
+  border-top-color: #f6f8f8;
+  border-bottom-color: #e9ebed;
+  border-left-color: #e9ebed;
+  border-right-color: #e9ebed;
+  height: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.dglux_page_root .document-manager .tab-handle {
+  height: 27px;
+}
+.dglux_page_root .dialog-floating .tab-handle {
+  height: 26px;
+}
+.dglux_page_root .dialog-floating .tab-handle-list-container, .dglux_page_root .document-manager .tab-handle-list-container {
+  height: 28px;
+  padding-left: 1px;
+}
+.dglux_page_root .document-manager .tab-handle-list-container {
+  border-top-width: 0px;
+  background: #e9ebed;
+}
+.dglux_page_root .remoteDFPanel .tab-handle-list-container {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f8f8), color-stop(1, #f6f8f8));
+  background: -moz-linear-gradient(center top, #f6f8f8 5%, #f6f8f8 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$tab-handle-list-gradient-bottom', endColorstr='$tab-handle-list-gradient-up');
+  background-color: #f6f8f8;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dglux_page_root .remoteDFPanel .tab-handle, .dglux_page_root .remoteDFPanel .tab-handle-selected {
+  background: #f6f8f8 !important;
+}
+.dglux_page_root .remoteDFPanel {
+  background-color: #e9ebed;
+}
+.dglux_page_root .dialog-floating .tab-handle-selected, .dglux_page_root .document-manager .tab-handle-selected {
+  border: none;
+  color: #515251;
+}
+.dglux_page_root #blockTreeTabs .tab-handle-selected,
+.dglux_page_root .dgFillEditorBox .tab-handle-selected {
+  border-bottom: #2ebed7 2px solid;
+  color: #2ebed7;
+}
+.dglux_page_root #blockTreeTabs {
+  margin-top: -1px;
+}
+.dglux_page_root .dgFillEditorBox #fillButtonDiv {
+  padding-top: 5px;
+}
+.dglux_page_root .dgFillEditorBox #strokeButtonDiv, .dglux_page_root .dgDefaultTextFontEditorBox #textFontButtonDiv {
+  padding-top: 5px;
+}
+.dglux_page_root .tab-handle-list-container .dgIcon-panel-left-arrows-icon, .dglux_page_root .tab-handle-list-container .dgIcon-panel-right-arrows-icon {
+  margin-top: 4px;
+}
+.dglux_page_root .dgFillEditorBox .tab-handle-list-container, .dglux_page_root .dgDefaultTextFontEditorBox .tab-handle-list-container {
+  padding-left: 10px;
+}
+.dglux_page_root #fillStrokeContentDiv, .dglux_page_root .dgDefaultTextFontEditorBox #fontContentGroup {
+  padding: 10px;
+}
+.dglux_page_root .dialog-floating .tab-handle-text, .dglux_page_root .document-manager .tab-handle-text {
+  margin-top: 7px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.dglux_page_root .dialog-floating .tab-handle:hover, .dglux_page_root .document-manager .tab-handle:hover {
+  color: #515251;
+}
+.dglux_page_root .dialog-floating > .sidePanel {
+  border-left: 0px solid #e9ebed;
+}
+.dglux_page_root .document-manager .tab-handle {
+  background: #fbfbfb;
+}
+.dglux_page_root .document-manager .tab-handle-selected {
+  background: white;
+}
+.dglux_page_root .document-manager .tab-host {
+  background: #fbfbfb;
+}
+.dglux_page_root .tab-handle-content-seperator {
+  background-color: none;
+  /*$primary-color; */
+  border-bottom-color: none;
+  /*$panel-background;*/
+  border-right-color: none;
+  /*$tab-border-color;*/
+}
+.dglux_page_root .splitbar-vertical {
+  background-color: #e9ebed;
+  width: 5px;
+  z-index: 50;
+  position: relative;
+  margin-left: -2px;
+  margin-right: -2px;
+  opacity: 0;
+}
+.dglux_page_root .splitbar-horizontal {
+  background-color: #e9ebed;
+  height: 5px;
+  margin-top: -2px;
+  margin-bottom: -2px;
+  opacity: 0;
+  position: relative;
+  z-index: 51;
+}
+.dglux_page_root div.dgPopupGreyOut {
+  background-color: #888888;
+}
+.dglux_page_root .dgMenuPopup > div:hover {
+  color: white;
+}
+.dglux_page_root .dgMenuPopup > div:hover .menuCommandHotKey {
+  color: white;
+}
+.dglux_page_root .dgMenuWithKeyboardControl > div:hover .menuCommandHotKey {
+  color: #acafb4;
+}
+.dglux_page_root .dgMenuPopup > div.disabled .menuCommandHotKey {
+  color: #acafb4;
+}
+.dglux_page_root .dgPopupBackground {
+  background: white;
+}
+.dglux_page_root .menuTriangle {
+  fill: #515251;
+}
+.dglux_page_root .dgMenuPopup > div:hover .menuTriangle {
+  fill: white;
+}
+.dglux_page_root .dgMenuWithKeyboardControl > div:hover .menuTriangle {
+  fill: #515251;
+}
+.dglux_page_root .dgMenuHightlight .menuTriangle {
+  fill: white;
+}
+.dglux_page_root .disabled .menuTriangle {
+  fill: #acafb4;
+}
+.dglux_page_root div.dgPathShapesTools {
+  background: white;
+  border: 1px solid #e9ebed;
+}
+.dglux_page_root .dgMenuPopup > div {
+  padding-top: 6px;
+}
+.dglux_page_root .dgMenuPopup,
+.dglux_page_root .dgMainMenuPopup {
+  font-size: 13px;
+  color: #515251;
+  background: white;
+  border: solid 1px #e9ebed;
+  -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+  -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.dglux_page_root .dgMenuPopup > div:hover {
+  background-color: #2ebed7;
+}
+.dglux_page_root .dgMenuWithKeyboardControl > div:hover {
+  background-color: transparent;
+  color: #515251;
+}
+.dglux_page_root .dgMenuPopup > div.disabled,
+.dglux_page_root .dgMainMenu > div.disabled,
+.dglux_page_root .dgMenuPopup > div.disabled:hover,
+.dglux_page_root .dgMainMenu > div.disabled:hover {
+  background: white;
+  color: #acafb4;
+}
+.dglux_page_root .dgMainMenuPopup > div.disabled,
+.dglux_page_root .dgMainMenuPopup > div.disabled:hover {
+  background: white;
+  color: #acafb4;
+}
+.dglux_page_root .dgMenuPopup > div.menuItemSeparator,
+.dglux_page_root .dgMainMenuPopup > div.menuItemSeparator {
+  background-color: #e9ebed;
+  height: 1px;
+}
+.dglux_page_root .dgMenuPopup > div, .dglux_page_root .dgMainMenuPopup > div, .dglux_page_root .dgDesignerPopupMenu > div {
+  height: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 8px;
+}
+.dglux_page_root .dgMainMenuPopup > .dgStateEditor {
+  height: auto;
+}
+.dglux_page_root .menuTriangleSvg {
+  top: 12px;
+  right: 10px;
+}
+.dglux_page_root .menuCommandHotKeySpace, .dglux_page_root .menuCommandHotKey {
+  color: #acafb4;
+  padding-right: 15px;
+}
+.dglux_page_root .dgMenuHightlight .menuCommandHotKey {
+  color: white;
+}
+.dglux_page_root .dgMainMenuPopup .dgStateEditor {
+  margin-left: -4px;
+  margin-right: 15px;
+}
+.dglux_page_root .menuItemName, .dglux_page_root .menuCommandHotKey {
+  padding-top: 0px;
+}
+.dglux_page_root .disabled .menuCommandHotKey {
+  color: #acafb4;
+}
+.dglux_page_root .dgMenuPopup > .menuItemDiv {
+  padding-top: 8px;
+}
+.dglux_page_root .dgMainMenu {
+  font-size: 13px;
+  color: #515251;
+  height: 42px;
+}
+.dglux_page_root .dgMainMenu > div.rootMenuItem {
+  color: #515251;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.dglux_page_root .dgMenuHightlight {
+  background-color: #2ebed7;
+  color: white;
+}
+.dglux_page_root .dgMainMenu > div.dgMenuHightlight {
+  background-color: white;
+  color: #515251;
+  border-bottom: #2ebed7 2px solid;
+}
+.dglux_page_root .dgButton {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f8f8), color-stop(1, #f6f8f8));
+  background: -moz-linear-gradient(center top, #f6f8f8 5%, #f6f8f8 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$button-gradient-bottom', endColorstr='$button-gradient-up');
+  background-color: #f6f8f8;
+  border: 1px solid #e9ebed;
+  border-radius: 0px;
+  color: #2ebed7;
+  font-family: arial;
+  font-size: 11px;
+  font-weight: normal;
+  height: 30px;
+}
+.dglux_page_root .dgIconButtonSize {
+  background: none;
+  border-color: transparent;
+  height: 20px;
+}
+.dglux_page_root .dgButton:hover {
+  background: #2ebed7;
+  /* Old browsers */
+  background: -moz-linear-gradient(left, #2ebed7 0%, #2ebed7 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #2ebed7), color-stop(100%, #2ebed7));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left, #2ebed7 0%, #2ebed7 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left, #2ebed7 0%, #2ebed7 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(left, #2ebed7 0%, #2ebed7 100%);
+  /* IE10+ */
+  background: linear-gradient(to right, #2ebed7 0%, #2ebed7 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$button-gradient-bottom-hover', endColorstr='$button-gradient-up-hover');
+  color: #f6f8f8;
+}
+.dglux_page_root .dgButtonSelected {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #2ebed7), color-stop(1, #2ebed7));
+  background: -moz-linear-gradient(center top, #2ebed7 5%, #2ebed7 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$button-gradient-bottom-hover', endColorstr='$button-gradient-up-hover');
+  background: #2ebed7;
+}
+.dglux_page_root .dgButton:active {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #2ebed7), color-stop(1, #2ebed7));
+  background: -moz-linear-gradient(center top, #2ebed7 5%, #2ebed7 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$button-gradient-bottom-active', endColorstr='$button-gradient-up-active');
+  background: #2ebed7;
+}
+.dglux_page_root .dgDisabledButton, .dglux_page_root .dgDisabledButton:hover, .dglux_page_root .dgDisabledButton:active {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f8f8), color-stop(1, #f6f8f8));
+  background: -moz-linear-gradient(center top, #f6f8f8 5%, #f6f8f8 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$button-gradient-bottom', endColorstr='$button-gradient-up');
+  background-color: #f6f8f8;
+  color: #a0a0a0;
+}
+.dglux_page_root .dgIconButtonSize:hover {
+  /*border: 1px solid $tools-button-hover-border-color; */
+  border-radius: 0px;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #dedede), color-stop(1, #dedede));
+  background: -moz-linear-gradient(center top, #dedede 5%, #dedede 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$tools-button-hover-background', endColorstr='$tools-button-hover-background');
+  background-color: #dedede;
+}
+.dglux_page_root .dgIconButtonSize:active {
+  /*border: 1px solid $tools-button-hover-border-color; */
+  border-radius: 0px;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #2ebed7), color-stop(1, #2ebed7));
+  background: -moz-linear-gradient(center top, #2ebed7 5%, #2ebed7 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$tools-button-active-background', endColorstr='$tools-button-active-background');
+  background-color: #2ebed7;
+}
+.dglux_page_root .dgTransparentButton {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border: 1px solid #e9ebed;
+  border-radius: 0px;
+  color: #2ebed7;
+  font-family: arial;
+  font-size: 11px;
+  font-weight: normal;
+}
+.dglux_page_root .dgTransparentButton:hover {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #2ebed7), color-stop(1, #2ebed7));
+  background: -moz-linear-gradient(center top, #2ebed7 5%, #2ebed7 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$button-gradient-bottom-hover', endColorstr='$button-gradient-up-hover');
+  background-color: #f6f8f8;
+  color: #f6f8f8;
+}
+.dglux_page_root .dgTransparentButton:hover:active, .dglux_page_root .dgTransparentButtonSelected {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #2ebed7), color-stop(1, #2ebed7));
+  background: -moz-linear-gradient(center top, #2ebed7 5%, #2ebed7 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$button-gradient-bottom-selected', endColorstr='$button-gradient-up-selected');
+  background-color: #fefefe;
+}
+.dglux_page_root .triangleOpened {
+  border-top: 5px solid #dddddd;
+}
+.dglux_page_root .triangleClosed {
+  border-left: 5px solid #dddddd;
+}
+.dglux_page_root .dgToolsButton, .dglux_page_root .dgPrimitivesButton, .dglux_page_root .dgZoomToolButton {
+  border: 1px solid transparent;
+  color: #515251;
+  font-family: arial;
+  font-size: 11px;
+  font-weight: normal;
+}
+.dglux_page_root .dgToolsButton:hover, .dglux_page_root .dgPrimitivesButton:hover, .dglux_page_root .dgZoomToolButton:hover {
+  border: 1px solid #e0e1e4;
+  border-radius: 0px;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #dedede), color-stop(1, #dedede));
+  background: -moz-linear-gradient(center top, #dedede 5%, #dedede 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$tools-button-hover-background', endColorstr='$tools-button-hover-background');
+  background-color: #dedede;
+  color: #515251;
+}
+.dglux_page_root .dgToolsButton:active, .dglux_page_root .dgToolsButtonSelected, .dglux_page_root .dgPrimitivesButton:active, .dglux_page_root .dgZoomToolButton:active {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, tools-button-active-background), color-stop(1, #2ebed7));
+  background: -moz-linear-gradient(center top, #2ebed7 5%, #2ebed7 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$tools-button-active-background', endColorstr='$tools-button-active-background');
+  background: #2ebed7;
+  color: #515251;
+}
+.dglux_page_root .welcomeWindowButtonFunction {
+  font-size: 14px;
+  text-shadow: none;
+  color: #515251;
+}
+.dglux_page_root .welcomeWindowButtonDesc {
+  left: 10px;
+  font-size: 11px;
+  color: #515251;
+}
+.dglux_page_root .welcomeWindowButtonSelection .welcomeWindowButtonDesc {
+  color: white;
+}
+.dglux_page_root .welcomeWindowButtonSelection .welcomeWindowButtonFunction {
+  color: white;
+}
+.dglux_page_root .welcomeWindowButton:hover .welcomeWindowButtonDesc {
+  color: white;
+}
+.dglux_page_root .welcomeWindowButton:hover .welcomeWindowButtonFunction {
+  color: white;
+}
+.dglux_page_root .welcomeWindowButton {
+  height: 75px;
+  border: 1px solid #f6f8f8;
+  color: #515251;
+  font-family: arial;
+  font-size: 11px;
+  font-weight: normal;
+  background: #f6f8f8;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f8f8), color-stop(1, #f6f8f8));
+  background: -moz-linear-gradient(center top, #f6f8f8 5%, #f6f8f8 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$welcome-window-button-gradient-bottom', endColorstr='$welcome-window-button-gradient-up');
+  background-color: #f6f8f8;
+}
+.dglux_page_root .welcomeWindowButton:hover {
+  color: white;
+  border: 1px solid #2ebed7;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: #2ebed7;
+  /* Old browsers */
+  background: -moz-linear-gradient(left, #2ebed7 0%, #2ebed7 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #2ebed7), color-stop(100%, #2ebed7));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left, #2ebed7 0%, #2ebed7 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left, #2ebed7 0%, #2ebed7 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(left, #2ebed7 0%, #2ebed7 100%);
+  /* IE10+ */
+  background: linear-gradient(to right, #2ebed7 0%, #2ebed7 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$welcome-window-button-gradient-bottom-hover', endColorstr='$welcome-window-button-gradient-up-hover');
+}
+.dglux_page_root .welcomeWindowButton:active {
+  border: 1px solid #2ebed7;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #2ebed7), color-stop(1, #2ebed7));
+  background: -moz-linear-gradient(center top, #2ebed7 5%, #2ebed7 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$welcome-window-button-gradient-bottom-selected', endColorstr='$welcome-window-button-gradient-up-selected');
+  background-color: #fefefe;
+}
+.dglux_page_root .welcomeWindowButtonSelection {
+  height: 75px;
+  color: #515251;
+  font-family: arial;
+  font-size: 11px;
+  font-weight: normal;
+  background: #2ebed7;
+  /* Old browsers */
+  background: -moz-linear-gradient(left, #2ebed7 0%, #2ebed7 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%, #2ebed7), color-stop(100%, #2ebed7));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left, #2ebed7 0%, #2ebed7 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left, #2ebed7 0%, #2ebed7 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(left, #2ebed7 0%, #2ebed7 100%);
+  /* IE10+ */
+  background: linear-gradient(to right, #2ebed7 0%, #2ebed7 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$welcome-window-button-gradient-bottom-selection', endColorstr='$welcome-window-button-gradient-up-selection', GradientType=1);
+  /* IE6-9 */
+  border: #2ebed7 1px solid;
+}
+.dglux_page_root .welcomeWindowButton > div, .dglux_page_root .welcomeWindowButtonSelection > div {
+  margin-top: -10px;
+}
+.dglux_page_root .welcomeWindowButtonDescFullString {
+  width: 215px;
+  height: 30px;
+}
+.dglux_page_root .welcomeWindowButton .dgWelcomeDialogButton {
+  color: #2ebed7;
+}
+.dglux_page_root .welcomeWindowButtonSelection .dgWelcomeDialogButton {
+  color: white;
+}
+.dglux_page_root .projectsList .label, .dglux_page_root .projectLabel {
+  font-size: 12px;
+  text-shadow: none;
+  /*1px 1px 1px rgba(0, 0, 0, 0.75);*/
+}
+.dglux_page_root .projectsList {
+  margin-top: 76px;
+}
+.dglux_page_root .projectLabelData {
+  color: #2ebed7;
+}
+.dglux_page_root .dgAdvancedButton {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f8f8), color-stop(1, #f6f8f8));
+  background: -moz-linear-gradient(center top, #f6f8f8 5%, #f6f8f8 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='button-gradient-bottom', endColorstr='$button-gradient-up');
+  background-color: #f6f8f8;
+  border: 1px solid #e9ebed;
+  border-radius: 0px;
+  color: #515251;
+  font-family: arial;
+  font-size: 11px;
+  font-weight: normal;
+  width: 17px;
+  height: 19px;
+}
+.dglux_page_root .dgAdvancedButton:active {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #2ebed7), color-stop(1, #2ebed7));
+  background: -moz-linear-gradient(center top, #2ebed7 5%, #2ebed7 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$button-gradient-up-selected', endColorstr='$button-gradient-up-selected');
+  background-color: #2ebed7;
+}
+.dglux_page_root .dgRoundedCornersDiv {
+  border: 1px solid #B3B3B3;
+}
+.dglux_page_root input[type=text], .dglux_page_root input[type=password], .dglux_page_root input[type=number], .dglux_page_root textarea {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #fbfbfb), color-stop(1, #fbfbfb));
+  background: -moz-linear-gradient(center top, #fbfbfb 5%, #fbfbfb 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$input-gradient-bottom', endColorstr='$input-gradient-up');
+  background-color: #fbfbfb;
+  border: 1px solid #e9ebed;
+  color: #515251;
+  font-family: arial;
+  font-size: 11px;
+  font-weight: normal;
+  padding-left: 5px;
+  margin-left: 0px;
+}
+.dglux_page_root .dgEnumEditor select, .dglux_page_root .dgSelectPopup select, .dglux_page_root .editableEnumDiv input {
+  cursor: default;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #fbfbfb), color-stop(1, #fbfbfb));
+  background: -moz-linear-gradient(center top, #fbfbfb 5%, #fbfbfb 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='dropdown-gradient-bottom', endColorstr='$dropdown-gradient-up');
+  background-color: #fbfbfb;
+  border: 1px solid #e9ebed;
+  border-radius: 0px;
+  color: #515251;
+  font-family: arial;
+  font-size: 11px;
+  font-weight: normal;
+}
+.dglux_page_root .editableEnumDiv input {
+  cursor: auto;
+}
+.dglux_page_root .dgSelectPopup select {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #fbfbfb), color-stop(1, #fbfbfb));
+  background: -moz-linear-gradient(center top, #fbfbfb 5%, #fbfbfb 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='dropdown-gradient-bottom', endColorstr='$dropdown-gradient-bottom');
+  background-color: #fbfbfb;
+}
+.dglux_page_root .dgEnumEditorBlue select {
+  background: white;
+  color: #2ebed7;
+  /*#00a2c8;*/
+  font-family: arial;
+  font-size: 11px;
+  font-weight: normal;
+}
+.dglux_page_root .categoryBox #categoryDiv {
+  height: 26px;
+}
+.dglux_page_root .enumEditableDiv {
+  height: 26px;
+}
+.dglux_page_root .dgSelectPopup .select {
+  cursor: default;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border: 1px solid #e9ebed;
+  border-radius: 0px;
+  color: #515251;
+  font-family: arial;
+  font-size: 11px;
+  font-weight: normal;
+}
+.dglux_page_root .dgNumberSliderEditor > .number-input-label {
+  border-bottom-color: #2ebed7;
+  /*#00a2c8;*/
+  font-size: 12px;
+}
+.dglux_page_root .dgNumberSliderEditor > input {
+  font-size: 12px;
+}
+.dglux_page_root .dgPiPopupWindow {
+  background-color: white;
+  border: solid 1px #fefefe;
+  -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+  -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+}
+.dglux_page_root .color-types-selected-button {
+  outline-color: #2ebed7;
+  /*rgba(42, 174, 226 ,0.5);*/
+}
+.dglux_page_root .hRule {
+  border-color: #e9ebed;
+  border-style: solid none none none;
+}
+.dglux_page_root .vRule {
+  border-color: #e9ebed;
+  border-style: none solid none none;
+}
+.dglux_page_root .toolbar-separator {
+  background-color: #e9ebed;
+}
+.dglux_page_root .piSectionHeader {
+  background: #fbfbfb;
+  border-color: #e9ebed #e9ebed #fbfbfb #e9ebed;
+  border-style: solid none solid none;
+  height: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.dglux_page_root .piSectionHeader > .piSectionHeader {
+  padding-left: 0px;
+}
+.dglux_page_root .piSectionHeaderOpened {
+  border-color: #e9ebed #e9ebed #e9ebed #e9ebed;
+}
+.dglux_page_root #inspector_panel > div:last-child > div {
+  border-color: #e9ebed #e9ebed #e9ebed #e9ebed;
+}
+.dglux_page_root .piSectionHeader:active {
+  /*  background: #CCCCCC;*/
+}
+.dglux_page_root .piSectionHeaderTriangle {
+  fill: #515251;
+}
+.dglux_page_root #advancedContentGroup {
+  border-color: white;
+  border-width: 1px;
+  border-style: none solid solid solid;
+  margin-bottom: 3px;
+}
+.dglux_page_root #advancedContentGroup .hRule, .dglux_page_root #symbolAdvancedContentGroup .hRule {
+  border-color: #e9ebed;
+  margin-left: -10px;
+  right: 5px;
+  width: auto;
+  margin-top: 6px;
+}
+.dglux_page_root .dgBorderButton > svg {
+  stroke: #e9ebed;
+  fill: #f6f8f8;
+}
+.dglux_page_root .dgBorderButtonHover > svg {
+  stroke: #e9ebed;
+  fill: #2ebed7;
+}
+.dglux_page_root .dgBorderButtonSelected > svg {
+  stroke: #e9ebed;
+  fill: #2ebed7;
+}
+.dglux_page_root .constraintEditor .verticalButtonSelected {
+  background-color: #fefefe;
+}
+.dglux_page_root .constraintEditor .horizontalButtonSelected {
+  background-color: #fefefe;
+  border-color: #b3b3b3;
+}
+.dglux_page_root .constraintEditor .dgConstraintButton {
+  color: #515251;
+  font-family: arial;
+  font-size: 11px;
+  font-weight: normal;
+}
+.dglux_page_root .constraintEditor .dgConstraintButton > svg {
+  stroke: #B3B3B3;
+  fill: #F2F2F2;
+}
+.dglux_page_root .constraintEditor .dgConstraintButtonSelected > svg {
+  stroke: #B3B3B3;
+  fill: #DEDEDE;
+}
+.dglux_page_root .constraintEditor .horizontalButton, .dglux_page_root .constraintEditor .verticalButton {
+  background-color: #dedede;
+}
+.dglux_page_root .constraintEditor .horizontalButton {
+  border-left: 1px solid #b3b3b3;
+  border-right: solid 1px #b3b3b3;
+}
+.dglux_page_root .constraintEditor .verticalButton {
+  border-top: 1px solid #b3b3b3;
+  border-bottom: solid 1px #b3b3b3;
+}
+.dglux_page_root .dgCornerButton {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #dedede), color-stop(1, #dedede));
+  background: -moz-linear-gradient(center top, #dedede 5%, #dedede 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$tools-button-hover-background', endColorstr='$tools-button-hover-background');
+  background-color: #dedede;
+  border: none;
+  color: #515251;
+  font-family: arial;
+  font-size: 11px;
+  font-weight: normal;
+}
+.dglux_page_root .dgCornerButton:hover {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #2ebed7), color-stop(1, #2ebed7));
+  background: -moz-linear-gradient(center top, #2ebed7 5%, #2ebed7 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$button-gradient-bottom-hover', endColorstr='button-gradient-up-hover');
+  background-color: #f6f8f8;
+}
+.dglux_page_root .dgCornerButton:active {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #2ebed7), color-stop(1, #2ebed7));
+  background: -moz-linear-gradient(center top, #2ebed7 5%, #2ebed7 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$tools-button-active-background', endColorstr='$tools-button-active-background');
+  background-color: #fefefe;
+}
+.dglux_page_root .dgCornerButtonSelected {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #dedede), color-stop(1, #dedede));
+  background: -moz-linear-gradient(center top, #dedede 5%, #dedede 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$tools-button-hover-background', endColorstr='$tools-button-hover-background');
+  background-color: #fefefe;
+}
+.dglux_page_root .constraintButtonsContainerSvg {
+  fill: #F2F2F2;
+  stroke: #B3B3B3;
+}
+.dglux_page_root input[type=text].ignoreDefaultStyle, .dglux_page_root input[type=password].ignoreDefaultStyle, .dglux_page_root input[type=number].ignoreDefaultStyle, .dglux_page_root input[type=date].ignoreDefaultStyle, .dglux_page_root input[type=month].ignoreDefaultStyle, .dglux_page_root input[type=week].ignoreDefaultStyle, .dglux_page_root input[type=color].ignoreDefaultStyle, .dglux_page_root input[type=email].ignoreDefaultStyle, .dglux_page_root input[type=url].ignoreDefaultStyle, .dglux_page_root input[type=tel].ignoreDefaultStyle, .dglux_page_root input[type=search].ignoreDefaultStyle, .dglux_page_root select.ignoreDefaultStyle, .dglux_page_root option.ignoreDefaultStyle, .dglux_page_root textArea.ignoreDefaultStyle {
+  background: transparent;
+  border: 0;
+}
+.dglux_page_root .dataflowBlock {
+  font-size: 12px;
+}
+.dglux_page_root .dataflowBlock #dataflowButton .dgIcon-icn-dataflow-icon {
+  color: white;
+}
+.dglux_page_root div.blockTitle {
+  color: white;
+  /*$menu-root-item-font-color;*/
+  text-shadow: none;
+}
+.dglux_page_root div.wsParamLabel {
+  color: #515251;
+}
+.dglux_page_root div.wsParamValue {
+  color: #515251;
+}
+.dglux_page_root path.selectionPath {
+  stroke: #2ebed7;
+}
+.dglux_page_root path.blockBg {
+  stroke: #C1C4C7;
+  stroke-width: 2px;
+}
+.dglux_page_root path.selectedBlockBg {
+  stroke: #2ebed7;
+}
+
+/* colors for dataflow block background gradient */
+div.blockBackgroundColors {
+  color: white;
+  /* First color */
+  background-color: white;
+  /* Second color */
+}
+
+.dglux_page_root {
+  /*-------------------------------------------------------*/
+  /*<link rel="stylesheet" href="packages/core/view/designer.css">*/
+  /* Highlight for container when dragging things */
+  /* Hint manager highlight */
+  /*
+//-----------------------------------------------------------
+//
+// Hierarchy navigator styles
+//
+//-----------------------------------------------------------
+*/
+  /* Common background and text styles */
+  /* Label for in-place editing */
+  /* Common rules for items hover state */
+  /* Common rules for items in active state (mouse down) */
+  /* For dataflow, active item */
+  /*
+//---------------------------------------------------------------------------------------------
+//
+// Designer toolbars
+//
+//---------------------------------------------------------------------------------------------
+*/
+  /* Selection */
+  /*
+//---------------------------------------------------------------------------------------------
+//
+// Paths
+//
+//---------------------------------------------------------------------------------------------
+*/
+  /*-------------------------------------------------------*/
+  /*<link rel="stylesheet" href="packages/core/view/outline.css">*/
+  /*
+//--------------------------------------------------------------------------------------------
+//
+// Styles for DGluxJS outline
+//
+//--------------------------------------------------------------------------------------------
+*/
+  /* This needs to be extendable in width and height to do fill*/
+  /* Level separator with vertical line */
+  /* Normal node, vertical line at the left and horizontal line in the middle
+    |_____________
+    |
+*/
+  /* Last node, vertical line at the left to the middle, horizontal line in the middle
+    |_____________
+
+*/
+  /* Normal node, opened group
+    |
+    |----\/---
+    |    |
+*/
+  /* Last node, opened group
+    |
+    |----\/---
+         |
+*/
+  /* Root node opened, has vertical line in the middle*/
+  /* Opened disclosure icon for group */
+  /* Closed disclosure icon for group */
+  /* Opened disclosure icon for group */
+  /* Closed disclosure icon for group */
+  /* Top panel with buttons*/
+  /* Bottom panel with buttons*/
+  /*-------------------------------------------------------*/
+  /*<link rel="stylesheet" href="packages/core/view/app.css">*/
+  /* Dark style for display on light background. This is the default style. */
+  /* Light style for display on dark background. */
+  /*-------------------------------------------------------*/
+  /*<link rel="stylesheet" href="packages/core/tree/tree.css">*/
+  /*-------------------------------------------------------*/
+  /*<link rel="stylesheet" href="packages/core/datagrid/grid.css">*/
+  /*-------------------------------------------------------*/
+  /*<link rel="stylesheet" href="packages/core/designer/widgetbar/widgetbar.css">*/
+  /*.widgetSectionHolder :first-child .dgWidgetSectionButton {
+  border-left: $secondary-color solid 1px;
+  border-right: $tab-border-color solid 1px;
+}*/
+  /*-------------------------------------------------------*/
+  /*<link rel="stylesheet" href="css_tree/_styles.css">*/
+  /*-------------------------------------------------------*/
+}
+.dglux_page_root path.pin {
+  stroke: #585858;
+  stroke-opacity: 0;
+}
+.dglux_page_root circle.bindingFromOutsideCircle {
+  stroke: #585858;
+}
+.dglux_page_root path.panBackground {
+  fill: #dddddd;
+}
+.dglux_page_root path.panForeground {
+  fill: #dddddd;
+}
+.dglux_page_root path.panHandler {
+  stroke: #2ebed7;
+}
+.dglux_page_root path.scaleHandler {
+  fill: #2ebed7;
+}
+.dglux_page_root .dgFeedback {
+  border-color: transparent;
+  /* transparent border color, to apply border styles and make feedback fit into the content */
+}
+.dglux_page_root .feedbackHandle {
+  background-color: #515251;
+}
+.dglux_page_root .rectFeedbackHandle {
+  background-color: #515251;
+}
+.dglux_page_root .feedbackHandleSelected {
+  background-color: #2ebed7;
+  /*93E22A*/
+}
+.dglux_page_root .rectFeedbackHandleSelected {
+  background-color: #2ebed7;
+  /*93E22A*/
+}
+.dglux_page_root .feedbackFrameOutlinePath {
+  stroke: #515251;
+}
+.dglux_page_root path.pathFeedbackPath {
+  stroke: #515251;
+}
+.dglux_page_root .containerHighLight {
+  outline: solid 1px #2ebed7;
+  /* DGLux3 hintColorIn*/
+}
+.dglux_page_root .base-hint {
+  border: solid 1px #2ebed7;
+  /* DGLux3 hintColorIn*/
+}
+.dglux_page_root div.editingGroupMask > div {
+  background-color: #999999;
+}
+.dglux_page_root .designerContentElement {
+  border: #e9ebed solid 1px;
+  outline: #e9ebed solid 1px;
+}
+.dglux_page_root .designerRootContainer {
+  background-color: #e9ebed;
+}
+.dglux_page_root path.pointsPath {
+  fill: #515251;
+}
+.dglux_page_root path.marqueePath {
+  fill: #2ebed7;
+}
+.dglux_page_root .hierarchyNavigator {
+  background-color: white;
+  /* text color and size for all text */
+  color: #515251;
+  font-size: 12px;
+}
+.dglux_page_root .hierarchyNavigator .labelInput {
+  color: #515251;
+  background-color: #fefefe;
+}
+.dglux_page_root .hierarchyNavigatorItem:hover, .dglux_page_root .HierarchyNavigatorItem:hover,
+.dglux_page_root .firstHierarchyNavigatorItem:hover, .dglux_page_root .firstDFHierarchyNavigatorItem:hover,
+.dglux_page_root .activeHierarchyNavigatorItem:hover, .dglux_page_root .activeDFHierarchyNavigatorItem:hover {
+  background-color: white;
+}
+.dglux_page_root .hierarchyNavigatorItem:active, .dglux_page_root .HierarchyNavigatorItem:active,
+.dglux_page_root .firstHierarchyNavigatorItem:active, .dglux_page_root .firstDFHierarchyNavigatorItem:active,
+.dglux_page_root .activeHierarchyNavigatorItem:active, .dglux_page_root .activeDFHierarchyNavigatorItem:active {
+  background-color: white;
+}
+.dglux_page_root .activeHierarchyNavigatorItem .hierarchyNavigatorItemLabel, .dglux_page_root .activeDFHierarchyNavigatorItem .HierarchyNavigatorItemLabel {
+  font-weight: bold;
+}
+.dglux_page_root .hierarchyNavigator div.recordButtonSelection {
+  background-color: #4C8EA8;
+}
+.dglux_page_root .hierarchyNavigatorNoItems {
+  color: #515251;
+}
+.dglux_page_root .hierarchyNavigatorItem .hierarchyNavigatorItemLabel, .dglux_page_root .HierarchyNavigatorItem .HierarchyNavigatorItemLabel {
+  text-decoration: none;
+}
+.dglux_page_root .lastHierarchyNavigatorItem, .dglux_page_root .lastDFHierarchyNavigatorItem {
+  color: #2ebed7;
+}
+.dglux_page_root .hierarchyNavigator div.previewButtonsContainer {
+  bottom: 2px;
+  height: 30px;
+}
+.dglux_page_root .previewLabelHolder {
+  padding-top: 9px;
+}
+.dglux_page_root .editLabelHolder {
+  padding-top: 3px;
+}
+.dglux_page_root .previewLabelSelection {
+  color: #2ebed7;
+}
+.dglux_page_root div.designerToolbarSelection {
+  background: #2ebed7;
+  /*#2AAEE2;*/
+}
+.dglux_page_root .symbolParamEditorLayoutThumb {
+  /*#6464ff*/
+  background: rgba(100, 100, 255, 0.3);
+}
+.dglux_page_root .symbolParamHightlightDiv {
+  box-shadow: inset 0px 0px 9px #2ebed7;
+}
+.dglux_page_root .dgSymbolLibLabelInput {
+  position: absolute;
+  color: #FFFFFF;
+  background-color: #000000;
+}
+.dglux_page_root .usersAccessItemRenderer {
+  color: #515251;
+}
+.dglux_page_root .projectsListHolder {
+  background-color: white;
+}
+.dglux_page_root .searchProjectDiv {
+  background-color: white;
+}
+.dglux_page_root .advancedProjectsListHolder {
+  background-color: white;
+}
+.dglux_page_root .welcomeScreenFileInfoDiv {
+  border-left: #e9ebed 1px solid;
+}
+.dglux_page_root .favoritesListHolder {
+  background-color: white;
+}
+.dglux_page_root .projects-bottom {
+  background-color: white;
+}
+.dglux_page_root .projectsPreview {
+  background-color: white;
+  margin-right: 4px;
+}
+.dglux_page_root .outlineContent {
+  background: linear-gradient(to bottom, white, white 29px, #fbfbfb 30px, #fbfbfb 60px);
+  background-position: 0px 0px;
+  background-size: 200px 60px;
+  background-repeat: repeat;
+}
+.dglux_page_root .outline div.itemRenderer,
+.dglux_page_root .outline div.itemRenderer.selected,
+.dglux_page_root .projectsListHolder div.itemRenderer {
+  color: #515251;
+}
+.dglux_page_root .outline .visibleButton, .dglux_page_root .outline .commonLockedButton {
+  font-size: 14px;
+}
+.dglux_page_root .outline .groupLockedButton .dgIcon-icn-pi-state-edit {
+  background: none;
+  font-size: 13px;
+  border-bottom: none;
+}
+.dglux_page_root .projectsListHolder div.itemRenderer.selected {
+  color: #2ebed7;
+}
+.dglux_page_root .advancedProjectsListHolder div.itemRenderer,
+.dglux_page_root .advancedProjectsListHolder div.itemRenderer.selected {
+  color: #515251;
+  font-size: 8pt;
+}
+.dglux_page_root .favoritesListHolder div.itemRenderer,
+.dglux_page_root .favoritesListHolder div.itemRenderer.selected {
+  color: #515251;
+}
+.dglux_page_root .favoritesListHolder div.textItemRenderer,
+.dglux_page_root .favoritesListHolder div.textItemRenderer.selected {
+  color: #515251;
+}
+.dglux_page_root .favoritesListHolder div.bitmapFavoritesItemRenderer,
+.dglux_page_root .favoritesListHolder div.bitmapFavoritesItemRenderer.selected {
+  color: #515251;
+}
+.dglux_page_root .outline div.itemRenderer.selected,
+.dglux_page_root .projectsListHolder div.itemRenderer.selected {
+  background-color: #2ebed7;
+  color: white;
+}
+.dglux_page_root .advancedProjectsListHolder div.itemRenderer.selected {
+  background-color: #2ebed7;
+  color: white;
+}
+.dglux_page_root .favoritesListHolder div.itemRenderer.selected,
+.dglux_page_root .favoritesListHolder div.bitmapFavoritesItemRenderer.selected,
+.dglux_page_root .favoritesListHolder div.textItemRenderer.selected,
+.dglux_page_root .favoritesListHolder div.scrollingFavoritesItemRenderer.selected {
+  background-color: #2ebed7;
+  color: white;
+}
+.dglux_page_root .favoritesListHolder div.scrollingFavoritesItemRenderer,
+.dglux_page_root .favoritesListHolder div.scrollingFavoritesItemRenderer.selected {
+  border: solid 1px #e9ebed;
+}
+.dglux_page_root .outline div.selection {
+  background-color: #2ebed7;
+}
+.dglux_page_root .outline div.buttonsBackground {
+  background-color: #efefef;
+  /* #585858 */
+  visibility: hidden;
+}
+.dglux_page_root .outline div.button, .dglux_page_root .outline div.button div {
+  background-color: white;
+  border: #e9ebed 1px solid;
+  color: #2ebed7;
+}
+.dglux_page_root .outline .selected div.button, .dglux_page_root .outline .selected div.button div {
+  color: #2ebed7;
+}
+.dglux_page_root .outline div.buttonsBackground div.button {
+  background-color: white;
+}
+.dglux_page_root .outline div.dataflowButton.selected {
+  outline: solid 2px #2ebed7;
+}
+.dglux_page_root .outline div.levelSeparatorVerticalLine {
+  background-image: linear-gradient(to bottom, #515251, transparent 1px);
+}
+.dglux_page_root .outline div.nodeNormal {
+  background-image: linear-gradient(to right, #515251, transparent 1px), linear-gradient(to bottom, #515251, transparent 1px);
+  background-position: 0px 15px, 0 0;
+}
+.dglux_page_root .outline .selected div.nodeNormal {
+  background-image: linear-gradient(to right, white, transparent 1px), linear-gradient(to bottom, white, transparent 1px);
+  background-position: 0px 15px, 0 0;
+}
+.dglux_page_root .outline div.nodeLast {
+  background-image: linear-gradient(to right, #515251, transparent 1px), repeating-linear-gradient(to bottom, #515251, transparent 1px, transparent 2px);
+  background-size: 2px 1px, 1px 15px;
+  background-position: 0px 15px, 0 0;
+}
+.dglux_page_root .outline .selected div.nodeLast {
+  background-image: linear-gradient(to right, white, transparent 1px), repeating-linear-gradient(to bottom, white, transparent 1px, transparent 2px);
+  background-size: 2px 1px, 1px 15px;
+  background-position: 0px 15px, 0 0;
+}
+.dglux_page_root .outline div.nodeNormal.openedGroup {
+  background-image: linear-gradient(to right, #515251, transparent 1px), linear-gradient(to bottom, #515251, transparent 1px), repeating-linear-gradient(to bottom, #515251, transparent 1px, transparent 2px);
+  background-size: 2px 1px, 1px 2px, 1px 15px;
+  background-position: 0px 15px, 0 0, 18px 15px;
+}
+.dglux_page_root .outline .selected div.nodeNormal.openedGroup {
+  background-image: linear-gradient(to right, white, transparent 1px), linear-gradient(to bottom, white, transparent 1px), repeating-linear-gradient(to bottom, white, transparent 1px, transparent 2px);
+  background-size: 2px 1px, 1px 2px, 1px 15px;
+  background-position: 0px 15px, 0 0, 18px 15px;
+}
+.dglux_page_root .outline div.nodeLast.openedGroup {
+  background-image: linear-gradient(to right, #515251, transparent 1px), repeating-linear-gradient(to bottom, #515251, transparent 1px, transparent 2px), repeating-linear-gradient(to bottom, #515251, transparent 1px, transparent 2px);
+  background-size: 2px 1px, 1px 15px, 1px 15px;
+  background-position: 0px 15px, 0 0, 18px 15px;
+}
+.dglux_page_root .outline .selected div.nodeLast.openedGroup {
+  background-image: linear-gradient(to right, white, transparent 1px), repeating-linear-gradient(to bottom, white, transparent 1px, transparent 2px), repeating-linear-gradient(to bottom, white, transparent 1px, transparent 2px);
+  background-size: 2px 1px, 1px 15px, 1px 15px;
+  background-position: 0px 15px, 0 0, 18px 15px;
+}
+.dglux_page_root .outline div.nodeRoot.openedGroup {
+  background-image: repeating-linear-gradient(to bottom, #515251, transparent 1px, transparent 2px);
+  background-size: 1px 15px;
+  background-position: 9px 15px;
+}
+.dglux_page_root .outline .selected div.nodeRoot.openedGroup {
+  background-image: repeating-linear-gradient(to bottom, white, transparent 1px, transparent 2px);
+  background-size: 1px 15px;
+  background-position: 9px 15px;
+}
+.dglux_page_root .outline div.openedGroup::after {
+  display: none;
+  margin-top: -1px;
+  margin-left: -3px;
+  border-left: 3px solid transparent;
+  border-right: 3px solid transparent;
+  border-top: 5px solid #515251;
+}
+.dglux_page_root .outline div.closedGroup::after {
+  display: none;
+  margin-top: -3px;
+  margin-left: -1px;
+  border-top: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+  border-left: 5px solid #515251;
+}
+.dglux_page_root .outline .selected div.openedGroup::after {
+  display: none;
+  margin-top: -1px;
+  margin-left: -3px;
+  border-left: 3px solid transparent;
+  border-right: 3px solid transparent;
+  border-top: 5px solid white;
+}
+.dglux_page_root .outline .selected div.closedGroup::after {
+  display: none;
+  margin-top: -3px;
+  margin-left: -1px;
+  border-top: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+  border-left: 5px solid white;
+}
+.dglux_page_root .outline .selected div.label {
+  color: white;
+}
+.dglux_page_root .outline .labelInput {
+  color: #515251;
+  background-color: #fefefe;
+}
+.dglux_page_root .outline-top {
+  background: white;
+  height: 30px;
+  padding-left: 15px;
+  padding-top: 6px;
+  border-bottom: #e9ebed 1px solid;
+}
+.dglux_page_root .outline-bottom, .dglux_page_root .outline div.buttonsContainer {
+  /*background-color: $outline-bottom-panel-color;*/
+  /*$primary-color;*/
+  background: none;
+}
+.dglux_page_root .outline-bottom {
+  bottom: 0px;
+  padding: 6px 15px 0px 15px;
+  height: 36px;
+  border-top: #e9ebed 1px solid;
+}
+.dglux_page_root .outline-bottom > div.remove {
+  right: 15px;
+}
+.dglux_page_root .symbolLibraryButtonsSpacer {
+  width: 15px;
+}
+.dglux_page_root .outline div.buttonsContainer {
+  padding: 7px 2px 2px 3px;
+}
+.dglux_page_root .outline div.itemRenderer .preview {
+  width: 30px;
+  margin-right: 0px;
+}
+.dglux_page_root .itemRenderer > .dataflowButton {
+  top: 3px;
+}
+.dglux_page_root ::-webkit-scrollbar-thumb {
+  border: 2px solid white;
+  /* should match background, can't be transparent */
+  background: #999999;
+}
+.dglux_page_root ::-webkit-scrollbar {
+  width: 11px;
+  height: 11px;
+}
+.dglux_page_root ::-webkit-scrollbar:vertical {
+  width: 11px;
+}
+.dglux_page_root ::-webkit-scrollbar:horizontal {
+  height: 11px;
+}
+.dglux_page_root #dataflow_id {
+  background-color: #fff;
+}
+.dglux_page_root h1, .dglux_page_root p {
+  color: #333;
+}
+.dglux_page_root #dglux_header_logo {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0, white), color-stop(1, white));
+  background: -moz-linear-gradient(center top, white 0%, white 100%);
+  background-image: linear-gradient(to bottom, white 0%, white 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$primary-color', endColorstr='$primary-color');
+  background-color: white;
+}
+.dglux_page_root #application_header {
+  border: white 0px solid;
+  background: white;
+  height: 55px;
+  border-bottom-width: 1px;
+  border-bottom-color: #e9ebed;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
+  position: absolute;
+  z-index: 1;
+}
+.dglux_page_root #s1 {
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fefefe), color-stop(1, #e9ebed));
+  background-image: -o-linear-gradient(bottom, #fefefe -100%, #e9ebed 100%);
+  background-image: -moz-linear-gradient(bottom, #fefefe -100%, #e9ebed 100%);
+  background-image: -webkit-linear-gradient(bottom, #fefefe -100%, #e9ebed 100%);
+  background-image: -ms-linear-gradient(bottom, #fefefe -100%, #e9ebed 100%);
+  background-image: linear-gradient(to bottom, #fefefe -100%, #e9ebed 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$header-gradient-bottom', endColorstr='$header-gradient-up');
+  background-color: #fefefe;
+  opacity: 0.0;
+}
+.dglux_page_root #s2 {
+  background-color: #fefefe;
+  opacity: 0.0;
+}
+.dglux_page_root #dglux_user_name {
+  color: #515251;
+}
+.dglux_page_root #dataflow_panel, .dglux_page_root .dataflow_panel {
+  background-size: 8px 8px;
+  background-image: repeating-linear-gradient(0deg, #dfe1e3, #dfe1e3 1px, transparent 1px, transparent 40px), repeating-linear-gradient(-90deg, #dfe1e3, #dfe1e3 1px, transparent 1px, transparent 40px);
+  background-image: -webkit-repeating-linear-gradient(0deg, #dfe1e3, #dfe1e3 1px, transparent 1px, transparent 40px), -webkit-repeating-linear-gradient(-90deg, #dfe1e3, #dfe1e3 1px, transparent 1px, transparent 40px);
+  background-color: #E8EAEC;
+  /*$panel-background*/
+}
+.dglux_page_root #blocks_tree_id p {
+  color: #515251;
+}
+.dglux_page_root #blocks_tree_id {
+  width: 240px;
+}
+.dglux_page_root #blockTreeContent {
+  /*  padding-top: 20px;*/
+}
+.dglux_page_root .blocksTreeSectionHeader {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  z-index: -1;
+  display: inline;
+  min-width: 170px;
+}
+.dglux_page_root .blocksTreeSearchDiv {
+  height: 50px;
+  padding-left: 15px;
+  padding-right: 10px;
+}
+.dglux_page_root ol.tree li label {
+  padding-left: 28px;
+  padding-top: 8px;
+  cursor: default;
+}
+.dglux_page_root ol.tree li input {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 30px;
+}
+.dglux_page_root ol.tree li input:checked + ol {
+  background: none;
+  margin: 0px 0 0 -44px;
+  padding: 13px 0 0 60px;
+  top: 8px;
+  left: 15px;
+}
+.dglux_page_root ol.tree li input:checked + ol.dataflowSubGroup1 {
+  padding: 7px 0 0 60px;
+}
+.dglux_page_root ol.tree li input + ol {
+  background: none;
+}
+.dglux_page_root .blocksTreeClosedSectionSvg, .dglux_page_root .blocksTreeOpenedSectionSvg {
+  position: absolute;
+  top: 11px;
+  left: 15px;
+  pointer-events: none;
+}
+.dglux_page_root ol.tree li input ~ svg.blocksTreeClosedSectionSvg {
+  display: inline;
+}
+.dglux_page_root ol.tree li input ~ svg.blocksTreeOpenedSectionSvg {
+  display: none;
+}
+.dglux_page_root ol.tree li input:checked ~ svg.blocksTreeClosedSectionSvg {
+  display: none;
+}
+.dglux_page_root ol.tree li input:checked ~ svg.blocksTreeOpenedSectionSvg {
+  display: inline;
+}
+.dglux_page_root ol.tree li input:checked + ol > li.operationsSection,
+.dglux_page_root ol.tree li input + ol > li.operationsSection {
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+.dglux_page_root ol.tree li input + ol > li.operationsSection .blocksTreeClosedSectionSvg,
+.dglux_page_root ol.tree li input + ol > li.operationsSection .blocksTreeOpenedSectionSvg {
+  left: 24px;
+}
+.dglux_page_root kbd, .dglux_page_root kbd.dark, .dglux_page_root .dark-keys kbd, .dglux_page_root .key, .dglux_page_root .key.dark, .dglux_page_root .dark-keys .key {
+  background: #505050;
+  background: -moz-linear-gradient(top, #3c3c3c, #505050);
+  background: -webkit-gradient(linear, left top, left bottom, from(#3c3c3c), to(#505050));
+  color: #fafafa;
+  text-shadow: -1px -1px 0 #464646;
+  -moz-box-shadow: inset 0 0 1px #969696, inset 0 -0.05em 0.4em #505050, 0 0.1em 0 #1e1e1e, 0 0.1em 0.1em rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: inset 0 0 1px #969696, inset 0 -0.05em 0.4em #505050, 0 0.1em 0 #1e1e1e, 0 0.1em 0.1em rgba(0, 0, 0, 0.3);
+  box-shadow: inset 0 0 1px #969696, inset 0 -0.05em 0.4em #505050, 0 0.1em 0 #1e1e1e, 0 0.1em 0.1em rgba(0, 0, 0, 0.3);
+}
+.dglux_page_root kbd.light, .dglux_page_root .light-keys kbd, .dglux_page_root .key.light, .dglux_page_root .light-keys .key {
+  background: #fafafa;
+  background: -moz-linear-gradient(top, #d2d2d2, white);
+  background: -webkit-gradient(linear, left top, left bottom, from(#d2d2d2), to(white));
+  color: #323232;
+  text-shadow: 0 0 2px white;
+  -moz-box-shadow: inset 0 0 1px white, inset 0 0 0.4em #c8c8c8, 0 0.1em 0 #828282, 0 0.11em 0 rgba(0, 0, 0, 0.4), 0 0.1em 0.11em rgba(0, 0, 0, 0.9);
+  -webkit-box-shadow: inset 0 0 1px white, inset 0 0 0.4em #c8c8c8, 0 0.1em 0 #828282, 0 0.11em 0 rgba(0, 0, 0, 0.4), 0 0.1em 0.11em rgba(0, 0, 0, 0.9);
+  box-shadow: inset 0 0 1px white, inset 0 0 0.4em #c8c8c8, 0 0.1em 0 #828282, 0 0.11em 0 rgba(0, 0, 0, 0.4), 0 0.1em 0.11em rgba(0, 0, 0, 0.9);
+}
+.dglux_page_root .keyGroup {
+  -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.7);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.7);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.7);
+}
+.dglux_page_root .keyGroup.dark {
+  background: #1e1e1e;
+}
+.dglux_page_root .keyGroup.light {
+  background: #f0f0f0;
+  color: #282828;
+}
+.dglux_page_root .dgTreeExpandClosed {
+  background: url(resources/TreeClosedIcon.png);
+}
+.dglux_page_root .dgTreeSelectedBg {
+  background-color: #2ebed7;
+}
+.dglux_page_root .dgGrid {
+  background-color: #f8f9f9;
+  top: 33px;
+}
+.dglux_page_root .dgGridHeader {
+  background-color: white;
+  color: #515251;
+  border-top-color: #e9ebed;
+  border-right-color: #e9ebed;
+  border-bottom-color: #e9ebed;
+}
+.dglux_page_root .dgGridHeader:hover {
+  color: #515251;
+}
+.dglux_page_root .dgGridHeaderText {
+  color: #515251;
+}
+.dglux_page_root .dgGridHeaderText:hover {
+  color: #515251;
+}
+.dglux_page_root .dgGridRow:nth-child(even) {
+  background-color: #fbfbfb;
+}
+.dglux_page_root .dgGridRow:nth-child(odd) {
+  background-color: white;
+}
+.dglux_page_root .dgWidgetCategoryButton {
+  color: #717271;
+}
+.dglux_page_root .dgWidgetCategoryButton:hover {
+  color: #515251;
+}
+.dglux_page_root .dgWidgetSelectedCategory {
+  color: #515251;
+  background-color: #2ebed7;
+}
+.dglux_page_root .dgWidgetSectionButton {
+  border: none;
+  color: #2ebed7;
+  font-family: arial;
+  font-size: 11px;
+  font-weight: normal;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #fbfbfb), color-stop(1, #fbfbfb));
+  background: -moz-linear-gradient(center top, #fbfbfb 5%, #fbfbfb 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$widget-section-button-gradient-bottom', endColorstr='$widget-section-button-gradient-up');
+  background: #fbfbfb;
+  border: none;
+  /*1px solid $secondary-color;*/
+  /*  border-left: $secondary-color solid 1px;
+  border-right: $tab-border-color solid 1px;*/
+  width: 85px;
+  height: 85px;
+}
+.dglux_page_root .dgWidgetSectionButton:hover {
+  border: 1px solid #e9ebed;
+  border-radius: 0px;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #fbfbfb), color-stop(1, #fbfbfb));
+  background: -moz-linear-gradient(center top, #fbfbfb 5%, #fbfbfb 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$widget-section-button-gradient-bottom', endColorstr='$widget-section-button-gradient-up');
+  background: #fbfbfb;
+  color: #f6f8f8;
+  border: none;
+  /*1px solid $widget-section-button-border-hover; */
+  /*  border-top: none;
+  border-bottom: none;*/
+}
+.dglux_page_root .dgWidgetSectionLabel {
+  color: #515251;
+  text-shadow: none;
+  bottom: 12px;
+}
+.dglux_page_root .dgWidgetButton {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  background: none;
+  border: 2px solid #fbfbfb;
+  width: 78px;
+  height: 78px;
+  padding-left: 5px;
+  padding-top: 5px;
+}
+.dglux_page_root .dgWidgetButton:hover {
+  background: none;
+  border: 2px solid #2ebed7;
+}
+.dglux_page_root .dgWidgetSectionButton[data-tooltip]:before {
+  border-color: #fefefe transparent transparent transparent;
+}
+.dglux_page_root .dgWidgetSectionButton[data-tooltip]:after {
+  color: #515251;
+  background: #fefefe;
+}
+.dglux_page_root .dgWidgetButton[data-tooltip]:before {
+  border-width: 10px 7.5px 0 7.5px;
+  border-color: #fefefe transparent transparent transparent;
+}
+.dglux_page_root .dgWidgetButton[data-tooltip]:after {
+  background: #fefefe;
+}
+.dglux_page_root .dgWidgetButtonOverlay {
+  background: transparent;
+}
+.dglux_page_root .dgWidgetGroup {
+  background: #fbfbfb;
+  border: #e9ebed solid 1px;
+}
+.dglux_page_root .dgWidgetGroup > .dgWidgetButtonContainer > .dgWidgetButton {
+  background: #fbfbfb;
+}
+.dglux_page_root .dgWidgetSectionContent {
+  /*  background: $widget-section-content-background;*/
+  height: 85px;
+  border-left: #e9ebed solid 1px;
+}
+.dglux_page_root .widgetSectionHolder {
+  height: 85px;
+}
+.dglux_page_root .dgWidgetSectionGroup {
+  height: 85px;
+  border-right: #e9ebed solid 1px;
+}
+.dglux_page_root .dgWidgetSectionIcon {
+  left: 14px;
+  width: 56px;
+  height: 56px;
+  background-size: 56px 56px !important;
+}
+.dglux_page_root .widgetSectionHolder :last-child .dgWidgetSectionGroup {
+  border-right: #fbfbfb solid 1px;
+}
+.dglux_page_root .dgWidgetGroupSmall {
+  width: 170px;
+  max-height: 170px;
+}
+.dglux_page_root .dgWidgetGroupMid {
+  width: 252px;
+  max-height: 254px;
+}
+.dglux_page_root .dgWidgetGroupLarge {
+  width: 336px;
+  max-height: 338px;
+}
+.dglux_page_root .dgWidgetGroupScroll {
+  width: 346px;
+  height: 338px;
+}
+.dglux_page_root ol.tree li.block:hover {
+  color: #313231;
+}
+.dglux_page_root ol.tree {
+  font-size: 12px;
+}
+.dglux_page_root ol.tree li {
+  margin-left: -24px;
+}
+.dglux_page_root ol.tree li input + ol {
+  padding-top: 5px;
+}
+.dglux_page_root div.dataflow-blocktree-search {
+  font-size: 12px;
+  margin-right: 8px;
+}
+.dglux_page_root .componentHightlight {
+  background-color: rgba(46, 190, 215, 0.3);
+  border: 1px solid #2ebed7;
+}
+.dglux_page_root .dgRoundedCornersDiv {
+  border: 1px solid #515251;
+}
+.dglux_page_root .dgConstraintButtonArrow {
+  fill: #515251;
+}
+.dglux_page_root .dgConstraintButtonPath {
+  stroke: #B3B3B3;
+}
+
+div.gradientCoefficientHolder {
+  color: #000001;
+}
+
+div.blockVariableColorHolder {
+  color: #6CC04A;
+}
+
+.dglux_page_root .editorTooltipDiv {
+  color: #515251;
+  border: 1px solid #515251;
+  background-color: #ffffff;
+  -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+  -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+}
+.dglux_page_root .projectsSearchDiv {
+  background-color: #E8EAEC;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-right: 5px;
+}
+.dglux_page_root .welcomeDialogProjectsContent {
+  width: 720px;
+}
+.dglux_page_root .welcomeDialogVRule {
+  width: 8px;
+  background-color: #E8EAEC;
+}
+.dglux_page_root .welcomeDialogLeftVRule {
+  background: -webkit-gradient(linear, left top, right top, color-stop(0.05, #cdcfd1), color-stop(0.5, #e8eaec));
+  background: -moz-linear-gradient(center left, #cdcfd1 5%, #e8eaec 50%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#CDCFD1', endColorstr='#E8EAEC', GradientType=1);
+}
+.dglux_page_root .welcomeDialogProjectsListVRule {
+  height: 672px;
+}
+.dglux_page_root .welcomeDialogRightVRule {
+  background: -webkit-gradient(linear, left top, right top, color-stop(0.5, #e8eaec), color-stop(0.95, #cdcfd1));
+  background: -moz-linear-gradient(center left, #e8eaec 50%, #cdcfd1 95%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#E8EAEC', endColorstr='#CDCFD1', GradientType=1);
+}
+.dglux_page_root .welcomeDialogBottomHightLight {
+  background-image: none;
+  background-color: white;
+}
+.dglux_page_root .welcomeDialogButtonsHolder {
+  background-color: white;
+}
+.dglux_page_root .welcomeDialogButtonsSpacer {
+  background-color: white;
+  height: 2px;
+}
+.dglux_page_root .projectsSearchDiv > .dgIcon-icn-tool-zoom {
+  top: 7px;
+  right: 10px;
+}
+.dglux_page_root .projectsSearchDiv > input {
+  margin-right: 15px;
+  background: white;
+}
+
+div.widgetsBasicColorHolder {
+  color: #515251;
+}
+
+.dglux_page_root {
+  /* special */
+}
+.dglux_page_root .welcomeDialogCreateProjectRightDiv {
+  padding-right: 5px;
+}
+.dglux_page_root .welcomeScreenButtonsDiv #btn1, .dglux_page_root .welcomeScreenButtonsDiv #btn2, .dglux_page_root .welcomeScreenButtonsDiv #btn3, .dglux_page_root .welcomeScreenButtonsDiv #deleteButton {
+  padding: 5px 10px 3px 10px;
+  height: 30px;
+}
+.dglux_page_root .welcomeScreenButtonsDiv #btn1, .dglux_page_root .welcomeScreenButtonsDiv #btn2, .dglux_page_root .welcomeScreenButtonsDiv #deleteButton {
+  margin-left: 10px;
+}
+.dglux_page_root .welcomeScreenButtonsDiv {
+  right: 15px;
+  bottom: 15px;
+}
+.dglux_page_root .tutorial_iframe_container {
+  padding-bottom: 60px;
+}
+.dglux_page_root .downloadFileLabel {
+  color: #515251;
+}
+.dglux_page_root #hierarchyNavigatorContainer {
+  height: 30px;
+  padding-top: 5px;
+  background-color: white;
+  color: #515251;
+  border-color: #e9ebed;
+  border-left-style: solid;
+  border-right-style: solid;
+  border-width: 1px;
+  -webkit-box-shadow: 0px 4px 4px -2px rgba(0, 0, 0, 0.15);
+}
+.dglux_page_root .hierarchyNavigatorContent {
+  color: #515251;
+  left: 8px;
+}
+.dglux_page_root #uploadBtn {
+  /*  color: $font-color;*/
+}
+.dglux_page_root #uploadBtn:hover {
+  /*  background: $primary-color;
+  border-color: $primary-color;*/
+}
+.dglux_page_root .fillStrokeSvgDiv {
+  box-shadow: none;
+  border: 1px solid #e9ebed;
+}
+.dglux_page_root .fillStrokeSvgDivShadow {
+  box-shadow: none;
+}
+.dglux_page_root .smallFillDiv {
+  box-shadow: none;
+  border: 1px solid #B9C0C7;
+}
+.dglux_page_root .colorDisplayDiv {
+  box-shadow: none;
+  border: 1px solid #B9C0C7;
+}
+.dglux_page_root .fillStroke {
+  width: 40px;
+  height: 40px;
+}
+.dglux_page_root .dgLTRadiusButton, .dglux_page_root .dgRTRadiusButton, .dglux_page_root .dgLBRadiusButton, .dglux_page_root .dgRBRadiusButton {
+  background: #F2F2F2;
+  border: 1px solid #B3B3B3;
+}
+.dglux_page_root .dgLTRadiusButton:hover, .dglux_page_root .dgRTRadiusButton:hover, .dglux_page_root .dgLBRadiusButton:hover, .dglux_page_root .dgRBRadiusButton:hover {
+  background: #2ebed7;
+}
+.dglux_page_root .dgRoundedCornersDiv {
+  border: 1px solid #B3B3B3;
+}
+.dglux_page_root .recordButtonsContainer {
+  color: #515251;
+}
+.dglux_page_root .hierarchyNavigator div.editButton, .dglux_page_root .hierarchyNavigator div.previewButton {
+  height: 30px;
+  border-radius: 0px;
+  background: none;
+  border: none;
+  color: #515251;
+  font-size: 12px;
+}
+.dglux_page_root .hierarchyNavigator div.editButtonSelection {
+  border-bottom: solid #2ebed7 2px;
+  opacity: 1;
+}
+.dglux_page_root #aplication_frame {
+  top: 55px;
+}
+.dglux_page_root #dglux_main_menu {
+  top: 15px;
+}
+.dglux_page_root #dglux_user_name {
+  top: 21px;
+}
+.dglux_page_root #langButton {
+  top: 21px;
+  border-radius: 50%;
+  transform: scaleY(1.45);
+}
+.dglux_page_root #logoutButton {
+  top: 16px;
+  font-size: 20px;
+}
+.dglux_page_root #s1 {
+  visibility: hidden;
+}
+.dglux_page_root .designerToolsToolbarHolder {
+  width: 40px;
+}
+.dglux_page_root .designerCommandsToolbarHolder {
+  width: 40px;
+}
+.dglux_page_root .designerToolsToolbarHolder > .dgToolsButton, .dglux_page_root .designerToolsToolbarHolder > .dgPrimitivesButton,
+.dglux_page_root .designerToolsToolbarHolder > .defaultFillStroke, .dglux_page_root .designerToolsToolbarHolder > .defaultTextFontDiv, .dglux_page_root .designerToolsToolbarHolder > .dgZoomToolButton {
+  left: 9px;
+}
+.dglux_page_root #designerToolsToolbarContainer div .defaultFillStroke {
+  left: 9px;
+}
+.dglux_page_root .designerCommandsToolbarHolder > .dgToolsButton {
+  left: 9px;
+}
+.dglux_page_root .toolbarSpacer, .dglux_page_root .toolbarSpacerBig {
+  height: 15px;
+}
+.dglux_page_root .toolbarVerticalSpacer {
+  width: 10px;
+}
+.dglux_page_root .hierarchyNavigatorPadding {
+  width: 8px;
+}
+.dglux_page_root #widgetChooserContainer {
+  height: 120px;
+}
+.dglux_page_root .dgWidgetCategoryBar {
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 36px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  border-top: 1px solid #e9ebed;
+}
+.dglux_page_root .dgWidgetCategoryButton {
+  padding-top: 7px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-top: #fbfbfb solid 2px;
+}
+.dglux_page_root .dgWidgetSelectedCategory {
+  color: #2ebed7;
+  background: none;
+  border-top: #2ebed7 solid 2px;
+}
+.dglux_page_root .categorySplitterDiv {
+  color: #fbfbfb;
+}
+.dglux_page_root .fileManagerToolsPanel {
+  height: 40px;
+}
+.dglux_page_root #uploadBtn, .dglux_page_root #menuBtn {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.dglux_page_root #labelContainer {
+  margin-left: 15px;
+  padding-top: 14px;
+}
+.dglux_page_root #dashboardContainter {
+  background-color: #fbfbfb;
+}
+.dglux_page_root .previewInfoDiv {
+  padding-left: 15px;
+  padding-top: 15px;
+}
+.dglux_page_root .previewInfoDiv #namePreviewContainer {
+  padding-left: 12px;
+}
+.dglux_page_root .previewInfoDiv #pathPreviewContainer {
+  padding-left: 18px;
+}
+.dglux_page_root .previewInfoDiv #sizeContainer {
+  padding-left: 19px;
+}
+.dglux_page_root .previewInfoDiv #nameLabel, .dglux_page_root .previewInfoDiv #pathLabel, .dglux_page_root .previewInfoDiv #sizeLabel, .dglux_page_root .previewInfoDiv #modifiedLabel {
+  color: #2ebed7;
+}
+.dglux_page_root .dgWidgetSectionTooltipBottom {
+  border-style: solid;
+  border-width: 10px 7.5px 0 7.5px;
+  border-color: #2ebed7 transparent transparent transparent;
+  top: -14px;
+}
+.dglux_page_root .dgWidgetSectionTooltipTop {
+  border: #2ebed7 1px solid;
+  color: #515251;
+  background: #fbfbfb;
+}
+.dglux_page_root .tab-handle-close-button {
+  margin-top: 9px;
+  margin-right: 9px;
+}
+.dglux_page_root .dgTreeItemRenderer {
+  padding-left: 15px;
+}
+.dglux_page_root .dgTreeItemSelected {
+  background-color: #2ebed7;
+}
+.dglux_page_root .dgTreeItemSelected .dgTreeLabel, .dglux_page_root .dgTreeItemSelected .dgTreeIcon, .dglux_page_root .dgTreeItemSelected .dgIcon-chart-up, .dglux_page_root .dgTreeItemSelected #dataflowButton {
+  color: white;
+}
+.dglux_page_root .dgTreeItemRenderer #dataflowButton {
+  margin-top: 0px;
+}
+.dglux_page_root div.dgDesignerPopupMenu {
+  /*right click menu in designer*/
+}
+.dglux_page_root .sidePanel {
+  -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+  -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+  z-index: 2000;
+}
+.dglux_page_root .dgEnumEditor > select {
+  height: 30px;
+}
+.dglux_page_root .dgTriggerEditor {
+  height: 30px;
+}
+.dglux_page_root .dgEventEditor {
+  height: 30px;
+}
+.dglux_page_root .dgBoolEditor {
+  height: 30px;
+}
+.dglux_page_root .dgNumberSliderEditor {
+  height: 30px;
+}
+.dglux_page_root .dgNumberSliderEditor > .number-input-label {
+  height: 22px;
+}
+.dglux_page_root .dgTextEditor {
+  /*  height: 26px;*/
+}
+.dglux_page_root .dgTextEditor > .simpleTextEditor {
+  height: 26px;
+}
+.dglux_page_root .dgTweenPropsEditorEditor > div {
+  height: auto;
+}
+.dglux_page_root input[type=text], .dglux_page_root input[type=password], .dglux_page_root input[type=number], .dglux_page_root input[type=date], .dglux_page_root input[type=month], .dglux_page_root input[type=week], .dglux_page_root input[type=color], .dglux_page_root input[type=email], .dglux_page_root input[type=url], .dglux_page_root input[type=tel], .dglux_page_root input[type=search] {
+  height: 26px;
+  padding-left: 5px;
+  margin-left: 0px;
+}
+.dglux_page_root .editableEnumDiv input {
+  padding-left: 1px;
+  margin-left: 0px;
+}
+.dglux_page_root .pointTreeDiv {
+  top: 49px;
+}
+.dglux_page_root #fontFamilyEditor {
+  /*  height: 30px;*/
+}
+.dglux_page_root .dgIcon-icn-advanced-collapsed {
+  left: 0px;
+}
+.dglux_page_root .dgIcon-icn-advanced-opened {
+  left: 0px;
+}
+.dglux_page_root #mainGroup, .dglux_page_root #normalMainGroup, .dglux_page_root #selectedMainGroup, .dglux_page_root #highlightedMainGroup, .dglux_page_root #titleMainGroup, .dglux_page_root #dowMainGroup, .dglux_page_root #weekendMainGroup, .dglux_page_root #outOfMonthMainGroup, .dglux_page_root #todayMainGroup,
+.dglux_page_root .piMainGroup {
+  margin-left: 15px;
+  padding-top: 12px;
+}
+.dglux_page_root .advancedPIContainer {
+  top: 50px;
+  padding-left: 15px;
+}
+.dglux_page_root .searchBarElement {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+}
+.dglux_page_root #actions_panel {
+  padding-left: 10px;
+}
+.dglux_page_root .actionsAddDiv {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.dglux_page_root #standardPropertiesEditor {
+  padding-top: 10px;
+}
+.dglux_page_root .advancedButtonLabel {
+  padding-right: 3px;
+  padding-left: 8px;
+  color: white;
+}
+.dglux_page_root #dglux_header_image {
+  bottom: -8px;
+  left: 13px;
+}
+.dglux_page_root .welcomeDialogLogoSpacer {
+  /*  display: none;*/
+}
+.dglux_page_root .positionSizeButtonsSpace {
+  width: 15px;
+}
+.dglux_page_root #fileDiv > .hRule {
+  display: none;
+}
+.dglux_page_root .searchProjectDiv {
+  padding-left: 15px;
+  padding-right: 10px;
+  /*  border-bottom: $tab-border-color 1px solid;*/
+  margin-right: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 26px;
+}
+.dglux_page_root #pointsDiv > .searchProjectDiv {
+  border-bottom: #e9ebed 1px solid;
+  padding-right: 6px;
+}
+.dglux_page_root input.searchMetricInput {
+  border: none;
+  background: white;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.dglux_page_root .previewPanelSearchIconHolder {
+  display: inline;
+}
+.dglux_page_root .hierarchyNavigator div.recordButtonsContainer {
+  /*  bottom: 7px;*/
+}
+.dglux_page_root .recordButtonsContainer > :first-child {
+  padding-top: 9px;
+}
+.dglux_page_root .hierarchyNavigator div.finishRecordButton, .dglux_page_root .hierarchyNavigator div.cancelRecordButton {
+  height: 28px;
+}
+.dglux_page_root .hierarchyNavigatorApplyButton > div, .dglux_page_root .hierarchyNavigatorCancelButton > div {
+  left: 2px;
+  top: 1px;
+}
+.dglux_page_root .dgPathShapesTools {
+  padding: 8px;
+}
+.dglux_page_root .alignPopupDiv {
+  width: 102px;
+  height: 212px;
+}
+.dglux_page_root .alignPopupDiv .toolbar-separator {
+  width: 102px;
+  margin-left: -8px;
+}
+.dglux_page_root .outline div.itemRenderer, .dglux_page_root .outline div.itemRenderer.selected {
+  height: 30px;
+  border-bottom: #e9ebed 1px solid;
+  padding-left: 11px;
+}
+.dglux_page_root .itemRenderer > .buttonsContainer {
+  background: none;
+}
+.dglux_page_root .projectsListHolder div.itemRenderer, .dglux_page_root .projectsListHolder div.itemRenderer.selected {
+  height: 30px;
+  padding-left: 11px;
+}
+.dglux_page_root .splitter-container-vertical {
+  position: relative;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
+}
+.dglux_page_root .splitter-container-vertical:nth-child(0) {
+  z-index: 6;
+}
+.dglux_page_root .splitter-container-vertical:nth-child(1) {
+  z-index: 5;
+}
+.dglux_page_root .splitter-container-vertical:nth-child(2) {
+  z-index: 4;
+}
+.dglux_page_root .splitter-container-vertical:nth-child(3) {
+  z-index: 3;
+}
+.dglux_page_root .splitter-container-vertical:nth-child(4) {
+  z-index: 2;
+}
+.dglux_page_root #tabHostContentBackground {
+  z-index: 6;
+  box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.15) inset;
+  -moz-box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.15) inset;
+  -webkit-box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.15) inset;
+}
+.dglux_page_root .tempPI {
+  border-left: #e9ebed 1px solid;
+}
+.dglux_page_root .piSidePanel .panel-content, .dglux_page_root .remoteDFPIPanelContent {
+  padding: 15px 0px 15px 15px;
+}
+.dglux_page_root .projects_box > .projects-top {
+  padding-left: 10px;
+  padding-top: 7px;
+}
+.dglux_page_root .searchProjectInput {
+  width: 117px;
+}
+.dglux_page_root .dialogButton, .dglux_page_root .eulaDialogButton {
+  padding: 5px 10px 3px 10px;
+}
+.dglux_page_root .dialogButtonWithSpace {
+  padding: 5px 10px 3px 10px;
+  margin-left: 10px;
+}
+.dglux_page_root .dialogBtnPadding {
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-top: 8px;
+  padding-left: 10px;
+  margin-right: 10px;
+}
+.dglux_page_root .saveDialogButtonsContainer {
+  padding-bottom: 15px;
+}
+.dglux_page_root .importLibraryTree {
+  height: 518px;
+}
+.dglux_page_root .languageDialogButtons {
+  padding: 15px;
+}
+.dglux_page_root .dropDownArrow {
+  margin-left: -12px;
+  margin-top: 9px;
+}
+.dglux_page_root select, .dglux_page_root .dgEnumEditor select, .dglux_page_root #languageDiv select, .dglux_page_root .dgSelectPopup select, .dglux_page_root .editableEnumDiv input {
+  color: #2ebed7;
+  padding-right: 20px;
+}
+.dglux_page_root #typeDiv select {
+  /*  color: $font-color;*/
+  background: #fbfbfb;
+  border-color: #e9ebed;
+}
+.dglux_page_root .submitFeedbackTitle {
+  color: #2ebed7;
+  padding-left: 26px;
+}
+.dglux_page_root .submitFeedbackContainer, .dglux_page_root .addTagContainer {
+  padding: 10px 10px 2px 5px;
+}
+.dglux_page_root .submitFeedbackVerticalSpacer, .dglux_page_root .addTagVerticalSpacer {
+  height: 15px;
+}
+.dglux_page_root .submitFeedbackHorizontalSpacer {
+  width: 20px;
+}
+.dglux_page_root #subjectTextInput {
+  width: 630px;
+}
+.dglux_page_root .feedbackEmailDiv {
+  width: auto;
+  padding-left: 6px;
+}
+.dglux_page_root .feedbackTypeDiv {
+  width: auto;
+  padding-right: 6px;
+}
+.dglux_page_root .feedbackTypeLabel {
+  width: 32px;
+}
+.dglux_page_root .feedbackButtonsBar, .dglux_page_root .addTagButtonsBar {
+  right: 25px;
+}
+.dglux_page_root .dgFormRow > div:nth-child(2) {
+  color: #C9C9C9;
+}
+.dglux_page_root .licenseControlDiv, .dglux_page_root .licenseRequestControlDiv {
+  height: 45px;
+  width: 100%;
+  padding: 15px 0px 0px 0px;
+}
+.dglux_page_root .licenseControlDiv .dialogBtnPadding, .dglux_page_root .licenseRequestControlDiv .dialogBtnPadding {
+  line-height: normal;
+}
+.dglux_page_root .licenseContentDiv {
+  padding: 0px 15px 15px 15px;
+}
+.dglux_page_root .submitLicenseButton, .dglux_page_root .lastLicenseButton {
+  margin-right: 0px;
+}
+.dglux_page_root .inputLicenceLabel {
+  color: #2ebed7;
+  font-size: 13px;
+  padding-bottom: 10px;
+  padding-top: 5px;
+  width: 100%;
+  margin-top: 0px;
+}
+.dglux_page_root .licenseInfoDiv {
+  margin-left: -30%;
+}
+.dglux_page_root .licenceTextArea {
+  width: 100%;
+}
+.dglux_page_root div.dgFormRow {
+  padding-bottom: 10px;
+}
+.dglux_page_root .calloutEditorVRule {
+  border-left: 1px #e9ebed solid;
+}
+.dglux_page_root .treeTriangleSvg {
+  width: 16px;
+  height: 16px;
+}
+.dglux_page_root .treeTriangle {
+  fill: #515251;
+}
+.dglux_page_root .dgTreeItemSelected .treeTriangle {
+  fill: white;
+}
+.dglux_page_root .labelEditorDiv {
+  height: 26px;
+}
+.dglux_page_root .labelEditorDiv .dglabelEditor {
+  height: 26px;
+}
+.dglux_page_root .calloutPositionPath {
+  stroke: #e9ebed;
+}
+.dglux_page_root #centerButton {
+  border: 1px solid #B3B3B3;
+}
+.dglux_page_root .paddingsBorders {
+  border-left: #e9ebed 1px solid;
+}
+.dglux_page_root .paddingsBordersBottom {
+  border-top: solid 1px #e9ebed;
+}
+.dglux_page_root .linkingDialogRenderer {
+  padding-left: 15px;
+  padding-bottom: 6px;
+  padding-top: 6px;
+}
+.dglux_page_root .aspectRatioLineLeft {
+  border-left: solid 1px #e9ebed;
+  border-bottom: solid 1px #e9ebed;
+}
+.dglux_page_root .aspectRatioLineRight {
+  border-right: solid 1px #e9ebed;
+  border-bottom: solid 1px #e9ebed;
+}
+.dglux_page_root .gradientParametersDiv {
+  height: auto;
+}
+.dglux_page_root div.blockAddParamBtn, .dglux_page_root div.blockRemoveParamBtn {
+  top: 24px;
+  font-size: 8px;
+}
+.dglux_page_root svg.symbolPropertiesSectionSvg {
+  height: 8px;
+  width: 8px;
+  top: 0px;
+}
+.dglux_page_root .symbolParametersLeftPanel {
+  padding-left: 10px;
+}
+.dglux_page_root .symbolParameterEditorBoxDiv {
+  padding-left: 10px;
+}
+.dglux_page_root .symbolParameterEditorExtra {
+  padding-left: 10px;
+}
+.dglux_page_root .splitter-container-vertical > .tab-host > .tab-content {
+  overflow: hidden;
+}
+.dglux_page_root #dock_main {
+  background: #e9ebed;
+}
+.dglux_page_root #singleBorderButton, .dglux_page_root #separateBorderButton {
+  padding-top: 3px;
+}
+.dglux_page_root .favoritesPopupDiv {
+  height: 240px;
+}
+.dglux_page_root .symbolPanedDesignerDiv {
+  bottom: 45px;
+}
+.dglux_page_root .symbolPanelButtonsBar {
+  height: 45px;
+  padding: 10px 0px 10px 10px;
+}
+.dglux_page_root .symbolPanelButton {
+  width: auto;
+  height: 30px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-top: 8px;
+  padding-left: 10px;
+  margin-right: 10px;
+  line-height: normal;
+}
+
+[class^="dgIcon-"], [class*=" dgIcon-"] {
+  width: 16px;
+  height: 16px;
+  font-size: 16px;
+  display: inline-block;
+  vertical-align: middle;
+  color: #515251;
+}
+
+.dglux_page_root {
+  /* ace styles */
+  /*Border for record state*/
+}
+.dglux_page_root .dgMenuHightlight [class^="dgIcon-"], .dglux_page_root .dgMenuHightlight [class*=" dgIcon-"],
+.dglux_page_root .dgMenuPopup > div:hover [class^="dgIcon-"], .dglux_page_root .dgMenuPopup > div:hover [class*=" dgIcon-"] {
+  color: white;
+}
+.dglux_page_root .dgMenuWithKeyboardControl > div:hover [class^="dgIcon-"], .dglux_page_root .dgMenuPopup > div:hover [class*=" dgIcon-"] {
+  color: #515251;
+}
+.dglux_page_root .dgDesignerPopupMenu .disabled [class^="dgIcon-"], .dglux_page_root .dgDesignerPopupMenu .disabled [class*=" dgIcon-"],
+.dglux_page_root .dgMenuPopup > div.disabled [class^="dgIcon-"], .dglux_page_root .dgMenuPopup div.disabled [class*=" dgIcon-"] {
+  color: #acafb4;
+}
+.dglux_page_root .dgIcon-resize_handler:before {
+  font-size: 8px;
+}
+.dglux_page_root div.wsBlockResizeHandler {
+  height: auto;
+}
+.dglux_page_root .blockIcon {
+  color: white;
+}
+.dglux_page_root .dgIcon-icn-advanced-collapsed, .dglux_page_root .dgIcon-icn-advanced-opened {
+  font-size: 12px;
+  top: 2px;
+}
+.dglux_page_root .dgIcon-icn-tool-back {
+  left: 1px;
+  top: 0px;
+}
+.dglux_page_root .dgTreeItemSpacer {
+  width: 8px;
+}
+.dglux_page_root .dgTreeIconSpacer {
+  width: 5px;
+}
+.dglux_page_root .dgTreeIcon {
+  color: #2ebed7;
+}
+.dglux_page_root .uploadBtnLabel {
+  padding-top: 2px;
+}
+.dglux_page_root .uploadBtnLabel .dgIcon-icn-tool-upload {
+  margin-top: -2px;
+}
+.dglux_page_root #addButton .dgIcon-icn-pi-add, .dglux_page_root #removeButton .dgIcon-icn-pi-subtract {
+  color: #2ebed7;
+}
+.dglux_page_root .dgIcon-icn-pi-dropdown-arrows {
+  font-size: 9px;
+  width: 9px;
+  height: 9px;
+  right: 10px;
+}
+.dglux_page_root .outline-top div {
+  margin-right: 2px;
+  margin-top: 1px;
+  font-size: 14px;
+}
+.dglux_page_root .outline .selected .dataflowButton {
+  color: white;
+}
+.dglux_page_root .outline div.smallLock {
+  top: -2px;
+}
+.dglux_page_root #equalPaddingsButton .dgIconButtonSize, .dglux_page_root #aspectButton .dgIconButtonSize, .dglux_page_root #equalHeaderPaddingsButton .dgIconButtonSize {
+  color: #2ebed7;
+}
+.dglux_page_root #equalPaddingsButton #optionLabel, .dglux_page_root #aspectButton #optionLabel, .dglux_page_root #equalHeaderPaddingsButton #optionLabel {
+  padding-left: 2px;
+}
+.dglux_page_root .dgRelativeSymbol .dgIcon-icn-pi-binding-off, .dglux_page_root .dgRelativeSymbol .dgIcon-icn-pi-binding-on {
+  padding-left: 2px;
+  color: #2ebed7;
+}
+.dglux_page_root .dgWelcomeDialogButton {
+  width: 38px;
+  height: 38px;
+  font-size: 38px;
+}
+.dglux_page_root .welcomeWindowButton:hover .dgWelcomeDialogButton {
+  color: white;
+}
+.dglux_page_root .cursorEditorPopup .dgAutoButton > div {
+  top: 10px;
+  left: 0px;
+}
+.dglux_page_root .cursorEditorPopup .dgNoneButton > div {
+  top: 10px;
+  left: 0px;
+}
+.dglux_page_root .cursorEditorPopup .dgDefaultButton > div,
+.dglux_page_root .cursorEditorPopup .dgPointerButton > div,
+.dglux_page_root .cursorEditorPopup .dgMoveButton > div,
+.dglux_page_root .cursorEditorPopup .dgCrosshairButton > div,
+.dglux_page_root .cursorEditorPopup .dgWaitButton > div,
+.dglux_page_root .cursorEditorPopup .dgContextMenuButton > div,
+.dglux_page_root .cursorEditorPopup .dgHelprButton > div,
+.dglux_page_root .cursorEditorPopup .dgNoDropButton > div,
+.dglux_page_root .cursorEditorPopup .dgNResizeButton > div,
+.dglux_page_root .cursorEditorPopup .dgNEResizeButton > div,
+.dglux_page_root .cursorEditorPopup .dgEResizeButton > div,
+.dglux_page_root .cursorEditorPopup .dgSEResizeButton > div,
+.dglux_page_root .cursorEditorPopup .dgSResizeButton > div,
+.dglux_page_root .cursorEditorPopup .dgSWResizeButton > div,
+.dglux_page_root .cursorEditorPopup .dgWResizeButton > div,
+.dglux_page_root .cursorEditorPopup .dgNWResizeButton > div,
+.dglux_page_root .cursorEditorPopup .dgNSResizeButton > div,
+.dglux_page_root .cursorEditorPopup .dgNESWResizeButton > div,
+.dglux_page_root .cursorEditorPopup .dgEWResizeButton > div,
+.dglux_page_root .cursorEditorPopup .dgNWSEResizeButton > div,
+.dglux_page_root .cursorEditorPopup .dgTextButton > div,
+.dglux_page_root .cursorEditorPopup .dgVerticalTextButton > div,
+.dglux_page_root .cursorEditorPopup .dgRowResizeButton > div,
+.dglux_page_root .cursorEditorPopup .dgColResizeButton > div,
+.dglux_page_root .cursorEditorPopup .dgProgressButton > div,
+.dglux_page_root .cursorEditorPopup .dgCellButton > div,
+.dglux_page_root .cursorEditorPopup .dgAliasButton > div,
+.dglux_page_root .cursorEditorPopup .dgCopyButton > div,
+.dglux_page_root .cursorEditorPopup .dgNotAllowedButton > div,
+.dglux_page_root .cursorEditorPopup .dgAllScrollButton > div,
+.dglux_page_root .cursorEditorPopup .dgZoomInButton > div,
+.dglux_page_root .cursorEditorPopup .dgZoomOutButton > div,
+.dglux_page_root .cursorEditorPopup .dgGrabButton > div,
+.dglux_page_root .cursorEditorPopup .dgGrabbingButton > div {
+  left: 10px;
+  top: 8px;
+}
+.dglux_page_root .cursorEditorPopup .dgButtonSelected {
+  color: white;
+}
+.dglux_page_root .cursorEditorDiv .dgAutoButton > div {
+  top: 7px;
+  left: 4px;
+}
+.dglux_page_root .cursorEditorDiv .dgNoneButton > div {
+  top: 7px;
+  left: 2px;
+}
+.dglux_page_root .cursorEditorDiv .dgDefaultButton > div,
+.dglux_page_root .cursorEditorDiv .dgPointerButton > div,
+.dglux_page_root .cursorEditorDiv .dgMoveButton > div,
+.dglux_page_root .cursorEditorDiv .dgCrosshairButton > div,
+.dglux_page_root .cursorEditorDiv .dgWaitButton > div,
+.dglux_page_root .cursorEditorDiv .dgContextMenuButton > div,
+.dglux_page_root .cursorEditorDiv .dgHelprButton > div,
+.dglux_page_root .cursorEditorDiv .dgNoDropButton > div,
+.dglux_page_root .cursorEditorDiv .dgNResizeButton > div,
+.dglux_page_root .cursorEditorDiv .dgNEResizeButton > div,
+.dglux_page_root .cursorEditorDiv .dgEResizeButton > div,
+.dglux_page_root .cursorEditorDiv .dgSEResizeButton > div,
+.dglux_page_root .cursorEditorDiv .dgSResizeButton > div,
+.dglux_page_root .cursorEditorDiv .dgSWResizeButton > div,
+.dglux_page_root .cursorEditorDiv .dgWResizeButton > div,
+.dglux_page_root .cursorEditorDiv .dgNWResizeButton > div,
+.dglux_page_root .cursorEditorDiv .dgNSResizeButton > div,
+.dglux_page_root .cursorEditorDiv .dgNESWResizeButton > div,
+.dglux_page_root .cursorEditorDiv .dgEWResizeButton > div,
+.dglux_page_root .cursorEditorDiv .dgNWSEResizeButton > div,
+.dglux_page_root .cursorEditorDiv .dgTextButton > div,
+.dglux_page_root .cursorEditorDiv .dgVerticalTextButton > div,
+.dglux_page_root .cursorEditorDiv .dgRowResizeButton > div,
+.dglux_page_root .cursorEditorDiv .dgColResizeButton > div,
+.dglux_page_root .cursorEditorDiv .dgProgressButton > div,
+.dglux_page_root .cursorEditorDiv .dgCellButton > div,
+.dglux_page_root .cursorEditorDiv .dgAliasButton > div,
+.dglux_page_root .cursorEditorDiv .dgCopyButton > div,
+.dglux_page_root .cursorEditorDiv .dgNotAllowedButton > div,
+.dglux_page_root .cursorEditorDiv .dgAllScrollButton > div,
+.dglux_page_root .cursorEditorDiv .dgZoomInButton > div,
+.dglux_page_root .cursorEditorDiv .dgZoomOutButton > div,
+.dglux_page_root .cursorEditorDiv .dgGrabButton > div,
+.dglux_page_root .cursorEditorDiv .dgHelpButton > div,
+.dglux_page_root .cursorEditorDiv .dgGrabbingButton > div {
+  left: 6px;
+  top: 5px;
+}
+.dglux_page_root #play-button-shape {
+  fill: #2ebed7;
+}
+.dglux_page_root .calloutPositionPath {
+  stroke: #e9ebed;
+}
+.dglux_page_root .projectsSearchDiv > .dgIcon-icn-tool-zoom, .dglux_page_root .searchProjectDiv .dgIcon-icn-tool-zoom, .dglux_page_root .importLibrarySearchProjectDiv .dgIcon-icn-tool-zoom {
+  color: #2ebed7;
+}
+.dglux_page_root .importLibrarySearchProjectDiv {
+  padding: 10px 10px 10px 15px;
+}
+.dglux_page_root .importLibraryTree .projects_box {
+  height: 480px;
+}
+.dglux_page_root .dgIcon-icn-pi-fill, .dglux_page_root dgIcon-icn-pi-stroke {
+  font-size: 22px;
+  width: 22px;
+  height: 22px;
+}
+.dglux_page_root .dgDivFillEditor .emptyBig {
+  font-size: 28px;
+  width: 28px;
+  height: 28px;
+}
+.dglux_page_root #accessEditDiv .dropDownArrow, .dglux_page_root .accessEditDiv .dropDownArrow {
+  width: 6px;
+  height: 6px;
+  line-height: 0;
+  font-size: 6px;
+}
+.dglux_page_root .projects_box_holder {
+  height: auto;
+}
+.dglux_page_root .editorTooltipDiv {
+  background: white;
+  border: 0px;
+}
+.dglux_page_root .dgTooltipTextDiv a {
+  color: #2ebed7;
+}
+.dglux_page_root .constraintEditor {
+  height: 148px;
+}
+.dglux_page_root .constraintEditorsHolder {
+  height: 34px;
+}
+.dglux_page_root .leftConstraintsSection, .dglux_page_root .rightConstraintsSection {
+  margin-top: -13px;
+}
+.dglux_page_root .topConstraintsSection, .dglux_page_root .bottomConstraintsSection {
+  margin-left: 22px;
+}
+.dglux_page_root #flexGrowEditor, .dglux_page_root #flexShrinkEditor {
+  height: 30px;
+}
+.dglux_page_root .dgBindingDot {
+  border-color: #2ebed7;
+  background: #2ebed7;
+}
+.dglux_page_root .dgBindingMask {
+  -moz-box-shadow: inset 0 0 2px 2px #2ebed7;
+  -webkit-box-shadow: inset 0 0 2px 2px #2ebed7;
+  box-shadow: inset 0 0 2px 2px #2ebed7;
+  margin-left: -3px;
+  margin-top: -2px;
+  margin-bottom: -2px;
+}
+.dglux_page_root .dgBindingDot-null {
+  background: transparent;
+}
+.dglux_page_root .tempPI .dgRelativeSymbol {
+  margin-bottom: 5px;
+  margin-top: 1px;
+}
+.dglux_page_root .leftRadiusEditorsDiv, .dglux_page_root .rightRadiusEditorsDiv, .dglux_page_root .cornerRadiusEditorDiv {
+  margin-top: -6px;
+}
+.dglux_page_root .cornerRadiusEditor, .dglux_page_root .cornerRadiusUnitEditor, .dglux_page_root .topLeftRadiusEditor, .dglux_page_root .topLeftRadiusUnitEditor, .dglux_page_root .bottomLeftRadiusEditor, .dglux_page_root .bottomLeftRadiusUnitEditor,
+.dglux_page_root .topRightRadiusEditor, .dglux_page_root .topRightRadiusUnitEditor, .dglux_page_root .bottomRightRadiusEditor, .dglux_page_root .bottomRightRadiusUnitEditor {
+  height: 30px;
+}
+.dglux_page_root #trackStyles .cornerRadiusEditor, .dglux_page_root #thumbStyles .cornerRadiusEditor {
+  height: 34px;
+}
+.dglux_page_root .bottomRightRadiusEditor, .dglux_page_root .bottomRightRadiusUnitEditor {
+  margin-top: -8px;
+}
+.dglux_page_root #calShowEditor, .dglux_page_root #calHideEditor {
+  height: 30px;
+}
+.dglux_page_root .pi_corners_editor_main .dgButtonSelected {
+  background: #dedede;
+}
+.dglux_page_root .pi_corners_editor_main .dgButtonSelected:hover {
+  background: #2ebed7;
+}
+.dglux_page_root .dgIcon-icn-chart-preview {
+  height: 103px;
+  font-size: 103px;
+  transform: scale(1.5, 1);
+  transform-origin: 0%;
+}
+.dglux_page_root .pi_vertical_spacer {
+  height: 12px;
+}
+.dglux_page_root #symbolParametersGroup > .vertical > div {
+  margin-top: 11px;
+}
+.dglux_page_root .sectionContentDiv {
+  padding-top: 1px;
+  padding-bottom: 12px;
+}
+.dglux_page_root .sectionContentDiv .flexGrowShrinkGroup {
+  margin-top: 11px;
+}
+.dglux_page_root .symbolParamEditorDivider {
+  height: 12px;
+}
+.dglux_page_root .saveDialogInputDiv {
+  bottom: 40px;
+}
+.dglux_page_root #treeContainerSaveDialog {
+  bottom: 90px;
+}
+.dglux_page_root #treeContainerOpenDialog {
+  bottom: 50px;
+}
+.dglux_page_root .dgShadowEditor {
+  height: 30px;
+}
+.dglux_page_root .dgPiPopupWindow .tempPI > .dgRelativeSymbol {
+  padding-left: 10px;
+}
+.dglux_page_root .editableEnumDiv #dropButton {
+  right: 20px;
+}
+.dglux_page_root .editableEnumDiv #dropButton {
+  color: #515251;
+}
+.dglux_page_root .dgEditorBox .dgTextEditor {
+  /*  margin-top: -2px;*/
+}
+.dglux_page_root .dgIcon-icn-pi-padding-left, .dglux_page_root .dgIcon-icn-pi-padding-right, .dglux_page_root .dgIcon-icn-pi-padding-top, .dglux_page_root .dgIcon-icn-pi-padding-bottom {
+  margin-top: 7px;
+}
+.dglux_page_root .dgGradientListEditor .dgIcon-icn-pi-fill-none {
+  font-size: 28px;
+}
+.dglux_page_root .dgColorEditor #bigDisplay {
+  font-size: 28px;
+}
+.dglux_page_root .pathEditorOpenButton {
+  margin-left: 5px;
+}
+.dglux_page_root .checkBoxLabelDiv {
+  margin: 3px 3px 3px 3px;
+}
+.dglux_page_root .radiusAxisSpacer {
+  height: 11px;
+}
+.dglux_page_root .radiusAxisLabelSpacer {
+  height: 14px;
+}
+.dglux_page_root .axisSelectorWindowVerticalSpacer {
+  height: 8px;
+}
+.dglux_page_root #chartBindingBox {
+  width: 395px;
+}
+.dglux_page_root #chartBindingBox select {
+  width: 170px;
+}
+.dglux_page_root .dgBindingOptionBox > div {
+  min-height: 30px;
+}
+.dglux_page_root .dgBindingOptionGradient, .dglux_page_root .dgBindingOptionScale {
+  padding-left: 25px;
+}
+.dglux_page_root .dgBindingMapBox {
+  width: 100px;
+  padding-right: 15px;
+  padding-top: 15px;
+}
+.dglux_page_root .dgBindingOptionBox {
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.dglux_page_root .dgBindingMapOptions > div {
+  min-height: 30px;
+  padding-right: 8px;
+}
+.dglux_page_root .dgBindingMapOptions {
+  padding-top: 24px;
+}
+.dglux_page_root .bindingMapBoxLabel {
+  height: 22px;
+}
+.dglux_page_root .dgBindingMapHeader .dgToolsButton {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.dglux_page_root .dgBindingDialogContent {
+  bottom: 50px;
+}
+.dglux_page_root .dgBindingMapGrid > div {
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.dglux_page_root .dgBindingMapGrid {
+  width: auto;
+  margin-right: 4px;
+}
+.dglux_page_root .dgBindingMapGrid #boolLabel {
+  width: 23px;
+}
+.dglux_page_root .dgBindingMapGridBox {
+  padding-top: 54px;
+}
+.dglux_page_root .dgGridHeaderLast {
+  border-right: none;
+}
+.dglux_page_root .dgBindingDialogMappingRowDefaultLabel {
+  padding-right: 5px;
+}
+.dglux_page_root .exdtendedTextEditor {
+  right: 15px;
+  left: 10px;
+  top: 10px;
+  bottom: 50px;
+}
+.dglux_page_root .extendedTextEditorButtonsBar {
+  bottom: 10px;
+  right: 5px;
+}
+.dglux_page_root .symbolsLibrary {
+  bottom: 36px;
+}
+.dglux_page_root .dgIcon-fullName, .dglux_page_root .dgIcon-email, .dglux_page_root .dgIcon-company, .dglux_page_root .dgIcon-type, .dglux_page_root .dgIcon-project {
+  margin-right: 10px;
+  font-size: 12px;
+  height: 12px;
+  width: 12px;
+}
+.dglux_page_root .dgIcon-fullName:before, .dglux_page_root .dgIcon-email:before, .dglux_page_root .dgIcon-company:before, .dglux_page_root .dgIcon-type:before, .dglux_page_root .dgIcon-project:before {
+  color: #515251;
+}
+.dglux_page_root #dsaLicenseType .dgIcon-icn-pi-dropdown-arrows {
+  top: 1px;
+}
+.dglux_page_root #topicsInput {
+  color: #2ebed7;
+}
+.dglux_page_root .listEditorWithGap > * {
+  margin-top: 12px;
+}
+.dglux_page_root .welcomeDialogProjectsContent #import_button {
+  height: 30px;
+}
+.dglux_page_root #optionsContainer .dgButton {
+  height: 20px;
+}
+.dglux_page_root .dataflowNavigator {
+  height: 30px;
+}
+.dglux_page_root .dataFlowAutoSavePanel #saveBtn {
+  height: 28px;
+  padding-top: 7px;
+}
+.dglux_page_root .standardBtnPadding {
+  padding-top: 8px;
+}
+.dglux_page_root #listGroup > .dgStateValueGroupEditor {
+  padding-bottom: 12px;
+}
+.dglux_page_root .cursorEditorDiv {
+  height: 30px;
+}
+.dglux_page_root .cursorEditorDiv > div {
+  height: 30px;
+}
+.dglux_page_root .dgTableEditor {
+  height: 30px;
+}
+.dglux_page_root .actionParamsBox {
+  border: 1px solid #e9ebed;
+}
+.dglux_page_root #findComponentButton {
+  height: 30px;
+}
+.dglux_page_root .color-picker-slider {
+  height: 35px;
+}
+.dglux_page_root .color-picker-slider-canvas {
+  margin-top: 6px;
+}
+.dglux_page_root .color-picker-slider-input {
+  margin-top: 5px;
+}
+.dglux_page_root .color-picker-slider-label {
+  padding-top: 11px;
+}
+.dglux_page_root #rgbColorDiv, .dglux_page_root #hsvColorDiv {
+  height: 105px;
+}
+.dglux_page_root #sliderDiv {
+  height: 125px;
+}
+.dglux_page_root .dgToggleEditor #optionsContainer {
+  height: auto;
+}
+.dglux_page_root #deleteColumnBtn {
+  height: 30px;
+}
+.dglux_page_root .dataflowMenuParamButton {
+  width: auto;
+  height: auto;
+  padding: 0px;
+}
+.dglux_page_root #bindSourceButton {
+  margin-top: -2px;
+}
+.dglux_page_root .pinnedCheckbox {
+  margin-top: 2px;
+}
+.dglux_page_root .changeStateListGroup {
+  text-align: left;
+}
+.dglux_page_root #listGroup .dgChangeStateValueGroupEditor {
+  padding-top: 12px;
+}
+.dglux_page_root .changeStateValueGroupLabel {
+  width: 30%;
+}
+.dglux_page_root .actionLabelDiv {
+  width: auto;
+}
+.dglux_page_root .dgStateValueGroupEditor .stateValueRenderer {
+  height: auto;
+}
+.dglux_page_root .dgRelativizeEditor {
+  display: flex;
+  height: 30px;
+}
+.dglux_page_root .dgBindingMapGrid .emptyFillStroke {
+  padding-left: 1px;
+  font-size: 18px;
+  height: 18px;
+  width: 18px;
+}
+.dglux_page_root .selectAllBtnRelativizeDialog, .dglux_page_root .selectAbsoluteBtnRelativizeDialog, .dglux_page_root .relativizeBtnRelativizeDialog, .dglux_page_root .unrelativizeBtnRelativizeDialog {
+  width: auto;
+  margin-right: 0px;
+  line-height: 19px;
+}
+.dglux_page_root .spacerElementRelativizeDialog {
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+}
+.dglux_page_root .relativizeDialogToolBar {
+  height: 34px;
+  padding: 2px 10px 2px 2px;
+}
+.dglux_page_root .relativizeDialog .dgDatagridCell .dgTextEditor input {
+  border: none;
+  background: none;
+  color: #515251;
+}
+.dglux_page_root .dgRelativeSymbol .dgSubEditor {
+  padding-right: 10px;
+}
+.dglux_page_root .dgRelativeSymbol .dgSubEditor > div:first-child {
+  margin-left: 17px;
+  width: 100%;
+}
+.dglux_page_root .dgDateRangeValueEditor .daterangeButton {
+  padding-top: 8px;
+  display: inline;
+}
+.dglux_page_root .eulaDialogButton {
+  line-height: 19px;
+}
+.dglux_page_root .eulaDialogControlPanel {
+  padding-bottom: 10px;
+}
+.dglux_page_root .dgFillTypeSwitch > .dgButtonSelected, .dglux_page_root .toggleOptionsContainer .dgButtonSelected {
+  color: white;
+}
+.dglux_page_root .dgGridHeaderTopBar {
+  top: 1px;
+  height: 32px;
+}
+.dglux_page_root .fileDownloadDialogButton {
+  height: 20px;
+}
+.dglux_page_root .fileDownloadDialogBar {
+  padding-top: 0px;
+}
+.dglux_page_root #gradientRepeatEditor {
+  width: 85px;
+}
+.dglux_page_root .importDialogOptionsButton {
+  width: 30px;
+}
+.dglux_page_root .gradientShapeEditorContent {
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 10px;
+}
+.dglux_page_root #favoritesBitmapButton {
+  top: -3px;
+}
+.dglux_page_root .dgFavoritesDialogButton {
+  width: auto;
+  height: auto;
+}
+.dglux_page_root input.blockTitleInput {
+  color: white;
+  font-size: 12px;
+  text-shadow: none;
+  padding-left: 0px;
+  height: 19px;
+  background: transparent;
+  border: none;
+  text-indent: 5px;
+  left: 0px;
+}
+.dglux_page_root .ace-monokai {
+  background-color: #fbfbfb !important;
+  border: 1px solid #e9ebed !important;
+  color: #515251 !important;
+}
+.dglux_page_root .ace-monokai .ace_cursor {
+  color: #515251 !important;
+}
+.dglux_page_root .ace-monokai .ace_gutter {
+  background: #f6f8f8 !important;
+  color: #acafb4 !important;
+}
+.dglux_page_root .ace-monokai .ace_gutter-active-line {
+  background-color: #e9ebed !important;
+}
+.dglux_page_root .ace-monokai .ace_marker-layer .ace_active-line {
+  background: #e9ebed !important;
+}
+.dglux_page_root .ace-monokai .ace_punctuation, .dglux_page_root .ace-monokai .ace_punctuation.ace_tag {
+  color: #515251 !important;
+}
+.dglux_page_root .ace-monokai .ace_marker-layer .ace_selection {
+  background: #dddddd !important;
+}
+.dglux_page_root .ace_scroller.ace_scroll-left {
+  box-shadow: none !important;
+}
+.dglux_page_root .ace_dark .ace_fold-widget, .dglux_page_root .ace_dark .ace_fold-widget:hover {
+  background-color: #999999 !important;
+}
+.dglux_page_root div.symbolParameterMenuItem {
+  padding-top: 4px;
+}
+.dglux_page_root input#uploadFile {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+.dglux_page_root .dgDesignerPopupMenu #editSymbolDivEditor {
+  height: 100%;
+  margin-top: -2px;
+}
+.dglux_page_root .dgDesignerPopupMenu #editSymbolDivEditor input {
+  height: 26px;
+}
+.dglux_page_root .recordStateBlinkingBorder {
+  border: solid 5px;
+}
+@-webkit-keyframes changeColor {
+  .dglux_page_root 0%  {
+    border-color: #E9EBED;
+  }
+  .dglux_page_root 100%  {
+    border-color: red;
+  }
+}
+@keyframes changeColor {
+  .dglux_page_root 0%  {
+    border-color: #E9EBED;
+  }
+  .dglux_page_root 100%  {
+    border-color: red;
+  }
+}
+.dglux_page_root .dgIcon-icn-pi-state-record {
+  color: #EC193E;
+  height: 20px;
+  font-size: 20px;
+}
+.dglux_page_root .dgStateEditor #recordButton {
+  width: 20px;
+}
+.dglux_page_root .dgStateEditor #enabledEditor {
+  width: 40px;
+}
+.dglux_page_root .remoteDFPanel #blockTreeTabs {
+  border-bottom-width: 0px;
+  margin-top: 0px;
+  height: 27px;
+}
+.dglux_page_root .accessEditDivFF, .dglux_page_root .accessEditDivFF select {
+  width: 97px !important;
+}
+.dglux_page_root .showExtendedTextEditorButton {
+  width: 16px;
+  height: 16px;
+  top: 5px;
+}
+.dglux_page_root .showExtendedTextAreaEditorButton {
+  bottom: 1px;
+}
+.dglux_page_root .showExtendedTextEditorButtonChrome {
+  top: 5px;
+  margin-top: 0px;
+}
+.dglux_page_root .labelEditorDiv .showExtendedTextEditorButtonChrome {
+  top: 5px;
+}
+.dglux_page_root .extendedEditorButtonActivated input, .dglux_page_root .extendedEditorButtonActivated textarea {
+  padding-right: 20px;
+}
+.dglux_page_root .showExtendedEditorButton {
+  opacity: 1;
+}
+.dglux_page_root .dgMainMenuPopup > .dgStateEditor .showExtendedEditorButton {
+  right: 3px;
+}
+.dglux_page_root .dgWidgetButtonCountDiv {
+  border: #2ebed7 solid;
+  background: #2ebed7;
+}
+.dglux_page_root .groupLayoutIcon {
+  margin-top: 6px;
+  margin-right: 10px;
+}
+.dglux_page_root .outline .openedGroup .outlineTreeTriangleNodeRoot {
+  padding-top: 14px;
+  padding-left: 6px;
+  height: 7px;
+  width: 7px;
+}
+.dglux_page_root .outline .closedGroup .outlineTreeTriangleNodeRoot {
+  padding-top: 12px;
+  padding-left: 6px;
+  height: 7px;
+  width: 7px;
+}
+.dglux_page_root .outline .openedGroup .outlineTreeTriangleNodeNormal {
+  padding-top: 14px;
+  padding-left: 15px;
+  height: 7px;
+  width: 7px;
+}
+.dglux_page_root .outline .closedGroup .outlineTreeTriangleNodeNormal {
+  padding-top: 12px;
+  padding-left: 17px;
+  height: 7px;
+  width: 7px;
+}
+.dglux_page_root .outline .openedGroup .outlineTreeTriangleNodeLast {
+  padding-top: 14px;
+  padding-left: 15px;
+  height: 7px;
+  width: 7px;
+}
+.dglux_page_root .outline .closedGroup .outlineTreeTriangleNodeLast {
+  padding-top: 12px;
+  padding-left: 17px;
+  height: 7px;
+  width: 7px;
+}
+.dglux_page_root .outline path.outlineTreeTrianglePath {
+  fill: #515251;
+}
+.dglux_page_root .outline .selected path.outlineTreeTrianglePath {
+  fill: white;
+}
+.dglux_page_root .outlineContent .dgIcon-group-absolute {
+  transform: rotate(90deg);
+}
+.dglux_page_root .tab-handle-text-ellipsis {
+  padding-right: 15px;
+}
+.dglux_page_root #actionInvokeIndicator {
+  width: 16px;
+  height: 16px;
+}
+.dglux_page_root .relativizeDialog .dgBindingMask {
+  margin-left: -1px;
+}
+.dglux_page_root .logout_user_control {
+  border: 1px #e9ebed solid;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+  font-size: 14px;
+  width: 200px;
+  height: 55px;
+  padding-left: 20px;
+  color: #515251;
+}
+.dglux_page_root .logout_user_control_extended {
+  padding-left: 10px;
+}
+.dglux_page_root .userIconSpacer {
+  width: 12px;
+}
+.dglux_page_root .logout_user_control_extended .userIconSpacer {
+  width: 10px;
+}
+.dglux_page_root .logoutTriangle {
+  fill: #515251;
+}
+.dglux_page_root .logout_user_button {
+  width: 200px;
+  height: 40px;
+  padding: 10px 20px 10px 20px;
+  color: #515251;
+  border: 1px white 0px solid solid;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  background: white;
+  box-shadow: 0 24px 30px 0 #000000, inset 0 1px 0 0 #58646f;
+  margin-top: -2px;
+}
+.dglux_page_root .logout_user_label {
+  font-size: 12px;
+}
+.dglux_page_root .user_menu {
+  width: 200px;
+  box-shadow: 0 24px 30px 0 #000000, inset 0 0px 0 0 #58646f;
+}
+.dglux_page_root .userIconDiv {
+  width: 36px;
+  height: 36px;
+}
+.dglux_page_root .userFirstAndLastNameLabel {
+  color: #515251;
+  font-size: 12px;
+}
+.dglux_page_root .userNameLabel {
+  font-size: 14px;
+  width: 123px;
+}
+.dglux_page_root .logout_user_control_extended .userNameLabel {
+  color: #515251;
+  font-size: 10px;
+  width: 115px;
+}
+.dglux_page_root .collaboratorsHeaderListControl {
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 55px;
+  border: 1px #e9ebed solid;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+}
+.dglux_page_root .collaboratorsSeparator {
+  width: 10px;
+}
+.dglux_page_root .dialogVerticalSpacer {
+  height: 11px;
+}
+.dglux_page_root .dialogHorizontalSpacer {
+  width: 10px;
+}
+.dglux_page_root .dialogMainContainer {
+  padding: 20px;
+}
+.dglux_page_root .dialogButtonsBar {
+  padding: 20px 0px;
+  height: 70px;
+}
+.dglux_page_root .profileIconChangeButton {
+  font-size: 14px;
+  color: #2ebed7;
+}
+.dglux_page_root .profileDataDiv {
+  width: 268px;
+}
+.dglux_page_root .profileDataEditor {
+  height: 30px;
+}
+.dglux_page_root .userProfileLabelDiv {
+  font-size: 12px;
+  color: #474747;
+}
+.dglux_page_root .userProfilePicWithoutBackground {
+  color: #515251;
+}
+.dglux_page_root .userProfileIcon {
+  background: #e9ebed;
+}
+.dglux_page_root .collaboratorsContainer {
+  height: 500px;
+}
+.dglux_page_root .collaboratorsButtonBar, .dglux_page_root .collaboratorButtonBar {
+  padding: 20px;
+}
+.dglux_page_root .collaboratorsContent {
+  background: linear-gradient(to bottom, white, white 50px, #fbfbfb 50px, #fbfbfb 100px);
+  background-size: 200px 100px;
+}
+.dglux_page_root .collaboratorRendererDiv {
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 50px;
+}
+.dglux_page_root .collaboratorRendererNameDiv {
+  font-size: 14px;
+  width: 160px;
+  max-width: 160px;
+  padding-left: 10px;
+}
+.dglux_page_root .collaboratorRendererEmailDiv {
+  font-size: 14px;
+  color: #2ebed7;
+  width: 240px;
+  max-width: 240px;
+  padding-left: 10px;
+}
+.dglux_page_root .collaboratorProfileFieldDiv {
+  font-size: 14px;
+  width: 100px;
+  max-width: 100px;
+  padding-left: 20px;
+}
+.dglux_page_root .collaboratorProfileEmailDiv {
+  color: #2ebed7;
+}
+.dglux_page_root .collaboratorDataContent > div {
+  height: 55px;
+}
+.dglux_page_root .userProfileInactiveLabel {
+  color: #d6d6d6;
+}
+.dglux_page_root .projectPropertiesEditor {
+  padding-right: 0px;
+}
+.dglux_page_root .usersDivExt > .vertical {
+  background: linear-gradient(to bottom, white, white 50px, #fbfbfb 50px, #fbfbfb 100px);
+  background-size: 200px 100px;
+}
+.dglux_page_root .accessEditDivEven select {
+  background: #fbfbfb;
+}
+.dglux_page_root .firstDOWDivExt, .dglux_page_root .accessDivExt {
+  width: 229px;
+}
+.dglux_page_root .categoryDivExt {
+  width: 232px;
+}
+.dglux_page_root .firstDOWDivExt > select, .dglux_page_root .accessDivExt > select {
+  width: 232px !important;
+}
+.dglux_page_root .categoryDivExt > input {
+  width: 232px !important;
+}
+.dglux_page_root .newNameTextInputExt {
+  width: 200px;
+}
+.dglux_page_root .userManagementLabel {
+  font-size: 24px;
+  font-weight: 300;
+}
+.dglux_page_root .userManagementControlBar .dgIcon-s-add {
+  color: #2ebed7;
+}
+.dglux_page_root .userManagementContent {
+  background: linear-gradient(to bottom, white, white 32px, #fbfbfb 32px, #fbfbfb 64px);
+  background-position: 0px 0px;
+  background-size: 128px 64px;
+  background-repeat: repeat;
+}
+.dglux_page_root .userManagementRendererButtonsDiv .dgIcon-n-edit, .dglux_page_root .userManagementRendererButtonsDiv .dgIcon-trash-simple {
+  color: #2ebed7;
+}
+.dglux_page_root .userManagementHeaderSortingIndicator path {
+  fill: #515251;
+}
+
+/*
+  Special variables for DGThemeSettings manager
+*/
+/*div.advancedPICaptionHolder {
+  content: 'List';
+}
+
+div.advancedButtonLabelHolder {
+  content: 'Advanced';
+}*/
+/*
+div.mapLatitudeHolder {
+  content: '49.1';
+}
+
+div.mapLongitudeHolder {
+  content: '-122.73';
+}*/
+div.rootContainerHeightCorrectionHolder {
+  content: '2';
+}
+
+div.rootContainerWidthCorrectionHolder {
+  content: '2';
+}
+
+div.widgetChooserWidthCorrectionHolder {
+  content: '-1';
+}
+
+div.tollboxWidthCorrectionHolder {
+  content: '15';
+}
+
+div.submenuMainMenuShiftXHolder {
+  content: '15';
+}
+
+div.submenuMainMenuShiftYHolder {
+  content: '-3';
+}
+
+div.submenuShiftXHolder {
+  content: '0';
+}
+
+div.submenuShiftYHolder {
+  content: '-3';
+}
+
+div.defaultTreeRowHeightHolder {
+  content: '30';
+}
+
+div.useTreeFullLengthRowHolder {
+  content: 'true';
+}
+
+div.treePaddingLeftHolder {
+  content: '10';
+}
+
+div.treeIndentHolder {
+  content: '15';
+}
+
+div.piSectionHeaderTriangleClosedHolder {
+  content: 'M 1 1 V 7 L 6 4 L 1 1 Z';
+}
+
+div.piSectionHeaderTriangleOpenedHolder {
+  content: 'M 1 1 H 7 L 4 6 L 1 1 Z';
+}
+
+div.advancedPIContainerTopHolder {
+  content: '55';
+}
+
+div.outlineTopCorrectionHolder {
+  content: '1';
+}
+
+div.welcomeScreenProjectsListTopHolder {
+  content: '26';
+}
+
+div.welcomeScreenAdvancedProjectsListTopHolder {
+  content: '76';
+}
+
+div.welcomeDialogHeightHolder {
+  content: '700';
+}
+
+div.lineInputDialogHeightHolder {
+  content: '115';
+}
+
+div.projectPropertiesDialogHeightHolder {
+  content: '456';
+}
+
+div.projectPropertiesDialogHeightCorrectionHolder {
+  content: '50';
+}
+
+div.submitFeedbackEmailAndTypeLayoutHolder {
+  content: 'horizontal';
+}
+
+div.menuTriangleHolder {
+  content: 'M 1 1 V 7 L 6 4 L 1 1 Z';
+}
+
+div.useSvgTriangleInTreeHolder {
+  content: 'true';
+}
+
+div.treeTriangleClosedHolder {
+  content: 'M 6 6 V 12 L 11 9 L 6 6 Z';
+}
+
+div.treeTriangleOpenedHolder {
+  content: 'M 6 6 H 12 L 9 11 L 6 6 Z';
+}
+
+div.sidePanelWidthHolder {
+  content: '240';
+}
+
+div.dialogHeaderHeightHolder {
+  content: '28';
+}
+
+div.dataflowBlockContentTopCorrectionHolder {
+  content: '3';
+}
+
+div.usePanelCorrectionHolder {
+  content: 'true';
+}
+
+div.splitBarCorrectionHolder {
+  content: '4';
+}
+
+div.blocksPiWidthCorrectionHolder {
+  content: '15';
+}
+
+div.blocksPiHeightCorrectionHolder {
+  content: '30';
+}
+
+div.fillStrokeEditorContentWidthHolder {
+  content: '330';
+}
+
+div.fillStrokeEditorContentHeightHolder {
+  content: '390';
+}
+
+div.useIconFontHolder {
+  content: 'true';
+}
+
+div.linkingDialogWidthHolder {
+  content: '300';
+}
+
+div.linkingDialogHeightHolder {
+  content: '500';
+}
+
+div.blockComponentColorHolder {
+  color: #2ebed7;
+}
+
+div.bindingAxisSelectorWindowHeightHolder {
+  content: '370';
+}
+
+div.mainGroupClosedPaddingBottomHolder {
+  content: '0';
+}
+
+div.replacePropDialogWidthHolder {
+  content: '130';
+}
+
+div.replacePropDialogHeightCorrectionHolder {
+  content: '30';
+}
+
+div.bindingDialogWidthHolder {
+  content: '400';
+}
+
+div.bindingDialogHeightHolder {
+  content: '350';
+}
+
+div.bindingMapBoxWidthHolder {
+  content: '100';
+}
+
+div.bindingOptionScaleLayoutHolder {
+  content: 'vertical';
+}
+
+div.licenseDialogHeightHolder {
+  content: '400';
+}
+
+div.linkingDialogRendererTopHolder {
+  content: '6';
+}
+
+div.piImageFramesLabelPaddingTopHolder {
+  content: '51';
+}
+
+div.piImageFramesLabelPaddingTop0Holder {
+  content: '0';
+}
+
+div.colorPanelHeightHolder {
+  content: '220';
+}
+
+div.gradientPanelHeightHolder {
+  content: '310';
+}
+
+div.relativizeDialogGridBottomHolder {
+  content: '38';
+}
+
+div.relativizeDialogGridBorderColorHolder {
+  content: '15330285';
+}
+
+div.relativizeDialogGridHeaderHeightHolder {
+  content: '29';
+}
+
+div.relativizeDialogGridRowHeightHolder {
+  content: '30';
+}
+
+div.relativizeDialogGridFontColorHolder {
+  content: '5329489';
+}
+
+div.relativizeDialogGridGridModeHolder {
+  content: 'both';
+}
+
+div.relativizeDialogGridHeaderGridStrokeHolder {
+  content: 'solid';
+}
+
+div.relativizeDialogGridHeaderBackgroundHolder {
+  content: '16185592';
+}
+
+div.relativizeDialogGridRowBackgroundSelectHolder {
+  content: '9821673';
+}
+
+div.relativizeDialogGridRowBackgroundHoverHolder {
+  content: '3063511';
+}
+
+div.relativizeDialogGridRowBackgroundHolder {
+  content: '16777215';
+}
+
+div.relativizeDialogGridRowBackground2Holder {
+  content: '16514043';
+}
+
+div.relativizeDialogGridBackgroundHolder {
+  content: '16711422';
+}
+
+div.relativizeDialogGridTopHolder {
+  content: '0';
+}
+
+div.relativizeDialogGridHeaderFontSizeHolder {
+  content: '12';
+}
+
+div.addParamDialogHeightHolder {
+  content: '153';
+}
+
+div.strokeStyleContainerTopHolder {
+  content: '296';
+}
+
+div.defaultButtonHeightHolder {
+  content: '30';
+}
+
+div.openFileDialogHeightHolder {
+  content: '110';
+}
+
+div.gradientShapeDialogHeightHolder {
+  content: '155';
+}
+
+div.gradientShapeDialogWidthHolder {
+  content: '350';
+}
+
+div.linkingDialogWireTopHolder {
+  content: '14';
+}
+
+div.favoritesDialogHeightHolder {
+  content: '240';
+}
+
+div.projectsPreviewHeightHolder {
+  content: '672';
+}
+
+div.feedbackMessageTextAreaHeightHolder {
+  content: '337';
+}
+
+div.importLibraryDialogHeightHolder {
+  content: '605';
+}
+
+div.themeDialogHeightHolder {
+  content: '160';
+}
+
+div.languageDialogHeightHolder {
+  content: '160';
+}
+
+div.addTagMessageTextAreaHeightHolder {
+  content: '150';
+}
+
+div.maxWidgetChooserScrollBarHeightHolder {
+  content: '11';
+}
+
+div.outlineTreeTriangleOpenedHolder {
+  content: 'M 0.5 0 H 6.5 L 3.5 5 L 0.5 0 Z';
+}
+
+div.outlineTreeTriangleClosedHolder {
+  content: 'M 0 0.5 V 6.5 L 5 3.5 L 0 0.5 Z';
+}
+
+div.useSvgTriangleInOutlineTreeHolder {
+  content: 'true';
+}
+
+div.bindingListEditSymbolButtonFontColorHolder {
+  content: '5329489';
+}
+
+div.zoomPropertiesDialogHeightHolder {
+  content: '155';
+}
+
+div.gridPropertiesDialogHeightHolder {
+  content: '260';
+}
+
+div.defaultGridRGBColorHolder {
+  content: '46, 190, 215';
+}
+
+div.userProfileDialogHeightHolder {
+  content: '710';
+}
+
+div.userIconHeightHolder {
+  content: '36';
+}
+
+div.otherCollaboratorsItemColorHolder {
+  content: 'dee4e9';
+}
+
+div.collaboratorsDialogHeightHolder {
+  content: '597';
+}
+
+div.collaboratorProfileDialogHeightHolder {
+  content: '443';
+}

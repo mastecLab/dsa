@@ -1,0 +1,46 @@
+{
+  "name": "dslink-java-mqtt",
+  "version": "0.2.0",
+  "description": "An implementation dslink of a mqtt protocol consumer",
+  "license": "Apache",
+  "author": {
+    "name": "Samuel Grenier",
+    "email": "samrg472@gmail.com"
+  },
+  "main": "bin/dslink-java-mqtt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IOT-DSA/dslink-java-mqtt"
+  },
+  "bugs": {
+    "url": "https://github.com/IOT-DSA/dslink-java-mqtt/issues"
+  },
+  "configs": {
+    "name": {
+      "type": "string",
+      "default": "mqtt"
+    },
+    "broker": {
+      "type": "url"
+    },
+    "token": {
+      "type": "string"
+    },
+    "nodes": {
+      "type": "path",
+      "default": "nodes.json"
+    },
+    "key": {
+      "type": "path",
+      "default": ".key"
+    },
+    "log": {
+      "type": "enum",
+      "default": "info"
+    },
+    "handler_class": {
+      "type": "string",
+      "default": "org.dsa.iot.mqtt.Main"
+    }
+  }
+}

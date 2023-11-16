@@ -1,0 +1,7 @@
+[2018-02-19 13:45:31.038395] == Executing C:\dsa\dglux-server\dslinks\d8098110-15a0-11e8-b731-1cb72c1ccec4\bin\dslink-java-bacnet.bat with arguments [--name, BACnet, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:64268/conn, --token, DWcByJCf1yt5QwfJ6ltdWMBv83lHy5lW4JXEExs0ABDs2V0J] (pid: 10780) ==
+[2018-02-19 13:45:32.660365] 2018-02-19 13:45:32.659 [Thread-2] WARN org.dsa.iot.dslink.serializer.SerializationManager - Unable to deserialize a configuration database
+[2018-02-19 13:45:32.661366] 2018-02-19 13:45:32.660 [Thread-2] INFO bacnet.Main - Initialized
+[2018-02-19 13:45:32.769453] 2018-02-19 13:45:32.769 [nioEventLoopGroup-2-2] INFO bacnet.Main - Connected
+[2018-02-19 13:50:23.422881] == Exited with status 1 ==
+[2018-02-19 13:50:23.422881] == Exited with status 1 ==
+[2018-02-19 13:50:23.422881] == Exited with status 1 ==

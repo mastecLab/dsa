@@ -1,0 +1,8 @@
+[2019-02-19 12:47:37.940603] == Executing C:\dsa\dglux-server\dslinks\hpv\bin\dslink-java-etsdb.bat with arguments [--name, etsdb, --nodes, nodes.json, --key, .key, --log, info, --broker, http://127.0.0.1:51830/conn, --token, 54FcjI0hK0s0efbtdJa5yDa26FAFksmO2h7mYuvKaupT2NiF] (pid: 14640) ==
+[2019-02-19 12:47:40.910604] 2019-02-19 12:47:40.909 [Thread-3] WARN org.dsa.iot.dslink.serializer.SerializationManager - Unable to deserialize a configuration database
+[2019-02-19 12:47:40.953581] 2019-02-19 12:47:40.953 [nioEventLoopGroup-2-2] INFO org.dsa.iot.historian.Historian - Connected
+[2019-02-19 12:48:22.272943] 2019-02-19 12:48:22.272 [Thread-15] INFO org.etsdb.impl.DatabaseImpl - Database started at C:\dsa\dglux-server\dslinks\hpv\db
+[2019-02-19 12:48:22.315919] 2019-02-19 12:48:22.315 [Thread-15] INFO org.etsdb.impl.DatabaseImpl - Empty dir delete took 1ms
+[2019-02-19 12:48:22.318919] 2019-02-19 12:48:22.317 [Thread-15] WARN org.etsdb.impl.DBProperties - (unnamed) Can't parse boolean from properties key: clean, value=null
+[2019-02-19 12:48:22.320917] 2019-02-19 12:48:22.320 [Thread-15] INFO org.etsdb.impl.DatabaseImpl - Corruption scan took 3ms
+[2019-02-19 12:50:39.078486] 2019-02-19 12:50:39.077 [Thread-8] INFO org.dsa.iot.etsdb.db.DbPurger - Deleted 2 records from C:\dsa\dglux-server\dslinks\hpv\db

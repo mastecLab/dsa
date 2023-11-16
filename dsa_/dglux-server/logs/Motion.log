@@ -1,0 +1,298 @@
+[2018-04-10 21:48:26.932099] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, MJPEG, --log, info, --broker, http://127.0.0.1:50524/conn, --token, yNrB5XNZYLHbvw6BUZw0Ps5JTjRWNhMFzyV6ydOrxBTvSkA2] (pid: 448) ==
+[2018-04-10 21:48:27.648210] [INFO][DSA] Connecting to http://127.0.0.1:50524/conn
+[2018-04-10 21:48:27.757072] [INFO][DSA] Connected
+[2018-04-10 21:52:26.040728] Unhandled exception:
+[2018-04-10 21:52:26.040728] SocketException: OS Error: Se agotó el tiempo de espera del semáforo.
+[2018-04-10 21:52:26.040728] 
+[2018-04-10 21:52:26.040728] , errno = 121, address = palladiumjamaica.axiscam.net, port = 51326
+[2018-04-10 21:52:26.040728] #0      MotionJpegClient._receiveHttp.<_receiveHttp_async_gen_body> (file:///C:/dsa/dglux-server/dslinks/Motion/bin/run.dart)
+[2018-04-10 21:52:26.040728] #1      _asyncErrorWrapperHelper.<anonymous closure> (dart:async-patch/async_patch.dart:34)
+[2018-04-10 21:52:26.040728] #2      _RootZone.runBinary (dart:async/zone.dart:1210)
+[2018-04-10 21:52:26.040728] #3      _FutureListener.handleError (dart:async/future_impl.dart:146)
+[2018-04-10 21:52:26.040728] #4      _Future._propagateToListeners.handleError (dart:async/future_impl.dart:649)
+[2018-04-10 21:52:26.040728] #5      _Future._propagateToListeners (dart:async/future_impl.dart:671)
+[2018-04-10 21:52:26.040728] #6      _Future._completeError (dart:async/future_impl.dart:485)
+[2018-04-10 21:52:26.040728] #7      _Future._asyncCompleteError.<anonymous closure> (dart:async/future_impl.dart:537)
+[2018-04-10 21:52:26.040728] #8      _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2018-04-10 21:52:26.040728] #9      _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2018-04-10 21:52:26.040728] #10     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2018-04-10 21:52:26.040728] #11     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2018-04-10 21:52:26.109740] == Exited with status 255 ==
+[2018-04-10 21:52:26.040728] Unhandled exception:
+[2018-04-10 21:52:26.040728] SocketException: OS Error: Se agotó el tiempo de espera del semáforo.
+[2018-04-10 21:52:26.040728] 
+[2018-04-10 21:52:26.040728] , errno = 121, address = palladiumjamaica.axiscam.net, port = 51326
+[2018-04-10 21:52:26.040728] #0      MotionJpegClient._receiveHttp.<_receiveHttp_async_gen_body> (file:///C:/dsa/dglux-server/dslinks/Motion/bin/run.dart)
+[2018-04-10 21:52:26.040728] #1      _asyncErrorWrapperHelper.<anonymous closure> (dart:async-patch/async_patch.dart:34)
+[2018-04-10 21:52:26.040728] #2      _RootZone.runBinary (dart:async/zone.dart:1210)
+[2018-04-10 21:52:26.040728] #3      _FutureListener.handleError (dart:async/future_impl.dart:146)
+[2018-04-10 21:52:26.040728] #4      _Future._propagateToListeners.handleError (dart:async/future_impl.dart:649)
+[2018-04-10 21:52:26.040728] #5      _Future._propagateToListeners (dart:async/future_impl.dart:671)
+[2018-04-10 21:52:26.040728] #6      _Future._completeError (dart:async/future_impl.dart:485)
+[2018-04-10 21:52:26.040728] #7      _Future._asyncCompleteError.<anonymous closure> (dart:async/future_impl.dart:537)
+[2018-04-10 21:52:26.040728] #8      _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2018-04-10 21:52:26.040728] #9      _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2018-04-10 21:52:26.040728] #10     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2018-04-10 21:52:26.040728] #11     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2018-04-10 21:52:26.109740] == Exited with status 255 ==
+[2018-04-10 21:52:26.040728] Unhandled exception:
+[2018-04-10 21:52:26.040728] SocketException: OS Error: Se agotó el tiempo de espera del semáforo.
+[2018-04-10 21:52:26.040728] 
+[2018-04-10 21:52:26.040728] , errno = 121, address = palladiumjamaica.axiscam.net, port = 51326
+[2018-04-10 21:52:26.040728] #0      MotionJpegClient._receiveHttp.<_receiveHttp_async_gen_body> (file:///C:/dsa/dglux-server/dslinks/Motion/bin/run.dart)
+[2018-04-10 21:52:26.040728] #1      _asyncErrorWrapperHelper.<anonymous closure> (dart:async-patch/async_patch.dart:34)
+[2018-04-10 21:52:26.040728] #2      _RootZone.runBinary (dart:async/zone.dart:1210)
+[2018-04-10 21:52:26.040728] #3      _FutureListener.handleError (dart:async/future_impl.dart:146)
+[2018-04-10 21:52:26.040728] #4      _Future._propagateToListeners.handleError (dart:async/future_impl.dart:649)
+[2018-04-10 21:52:26.040728] #5      _Future._propagateToListeners (dart:async/future_impl.dart:671)
+[2018-04-10 21:52:26.040728] #6      _Future._completeError (dart:async/future_impl.dart:485)
+[2018-04-10 21:52:26.040728] #7      _Future._asyncCompleteError.<anonymous closure> (dart:async/future_impl.dart:537)
+[2018-04-10 21:52:26.040728] #8      _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2018-04-10 21:52:26.040728] #9      _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2018-04-10 21:52:26.040728] #10     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2018-04-10 21:52:26.040728] #11     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2018-04-10 21:52:26.109740] == Exited with status 255 ==
+[2018-04-10 21:52:27.229877] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, MJPEG, --log, info, --broker, http://127.0.0.1:50524/conn, --token, yNrB5XNZYLHbvw6BUZw0Ps5JTjRWNhMFzyV6ydOrxBTvSkA2] (pid: 17188) ==
+[2018-04-10 21:52:27.559545] [INFO][DSA] Connecting to http://127.0.0.1:50524/conn
+[2018-04-10 21:52:27.731840] [INFO][DSA] Connected
+[2018-04-10 21:52:48.862891] Unhandled exception:
+[2018-04-10 21:52:48.862891] SocketException: OS Error: Se agotó el tiempo de espera del semáforo.
+[2018-04-10 21:52:48.862891] 
+[2018-04-10 21:52:48.862891] , errno = 121, address = palladiumjamaica.axiscam.net, port = 51347
+[2018-04-10 21:52:48.862891] #0      MotionJpegClient._receiveHttp.<_receiveHttp_async_gen_body> (file:///C:/dsa/dglux-server/dslinks/Motion/bin/run.dart)
+[2018-04-10 21:52:48.862891] #1      _asyncErrorWrapperHelper.<anonymous closure> (dart:async-patch/async_patch.dart:34)
+[2018-04-10 21:52:48.862891] #2      _RootZone.runBinary (dart:async/zone.dart:1210)
+[2018-04-10 21:52:48.862891] #3      _FutureListener.handleError (dart:async/future_impl.dart:146)
+[2018-04-10 21:52:48.862891] #4      _Future._propagateToListeners.handleError (dart:async/future_impl.dart:649)
+[2018-04-10 21:52:48.862891] #5      _Future._propagateToListeners (dart:async/future_impl.dart:671)
+[2018-04-10 21:52:48.862891] #6      _Future._completeError (dart:async/future_impl.dart:485)
+[2018-04-10 21:52:48.862891] #7      _Future._asyncCompleteError.<anonymous closure> (dart:async/future_impl.dart:537)
+[2018-04-10 21:52:48.862891] #8      _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2018-04-10 21:52:48.862891] #9      _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2018-04-10 21:52:48.862891] #10     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2018-04-10 21:52:48.862891] #11     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2018-04-10 21:52:48.878517] == Exited with status 255 ==
+[2018-04-10 21:52:48.862891] Unhandled exception:
+[2018-04-10 21:52:48.862891] SocketException: OS Error: Se agotó el tiempo de espera del semáforo.
+[2018-04-10 21:52:48.862891] 
+[2018-04-10 21:52:48.862891] , errno = 121, address = palladiumjamaica.axiscam.net, port = 51347
+[2018-04-10 21:52:48.862891] #0      MotionJpegClient._receiveHttp.<_receiveHttp_async_gen_body> (file:///C:/dsa/dglux-server/dslinks/Motion/bin/run.dart)
+[2018-04-10 21:52:48.862891] #1      _asyncErrorWrapperHelper.<anonymous closure> (dart:async-patch/async_patch.dart:34)
+[2018-04-10 21:52:48.862891] #2      _RootZone.runBinary (dart:async/zone.dart:1210)
+[2018-04-10 21:52:48.862891] #3      _FutureListener.handleError (dart:async/future_impl.dart:146)
+[2018-04-10 21:52:48.862891] #4      _Future._propagateToListeners.handleError (dart:async/future_impl.dart:649)
+[2018-04-10 21:52:48.862891] #5      _Future._propagateToListeners (dart:async/future_impl.dart:671)
+[2018-04-10 21:52:48.862891] #6      _Future._completeError (dart:async/future_impl.dart:485)
+[2018-04-10 21:52:48.862891] #7      _Future._asyncCompleteError.<anonymous closure> (dart:async/future_impl.dart:537)
+[2018-04-10 21:52:48.862891] #8      _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2018-04-10 21:52:48.862891] #9      _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2018-04-10 21:52:48.862891] #10     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2018-04-10 21:52:48.862891] #11     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2018-04-10 21:52:48.878517] == Exited with status 255 ==
+[2018-04-10 21:52:48.862891] Unhandled exception:
+[2018-04-10 21:52:48.862891] SocketException: OS Error: Se agotó el tiempo de espera del semáforo.
+[2018-04-10 21:52:48.862891] 
+[2018-04-10 21:52:48.862891] , errno = 121, address = palladiumjamaica.axiscam.net, port = 51347
+[2018-04-10 21:52:48.862891] #0      MotionJpegClient._receiveHttp.<_receiveHttp_async_gen_body> (file:///C:/dsa/dglux-server/dslinks/Motion/bin/run.dart)
+[2018-04-10 21:52:48.862891] #1      _asyncErrorWrapperHelper.<anonymous closure> (dart:async-patch/async_patch.dart:34)
+[2018-04-10 21:52:48.862891] #2      _RootZone.runBinary (dart:async/zone.dart:1210)
+[2018-04-10 21:52:48.862891] #3      _FutureListener.handleError (dart:async/future_impl.dart:146)
+[2018-04-10 21:52:48.862891] #4      _Future._propagateToListeners.handleError (dart:async/future_impl.dart:649)
+[2018-04-10 21:52:48.862891] #5      _Future._propagateToListeners (dart:async/future_impl.dart:671)
+[2018-04-10 21:52:48.862891] #6      _Future._completeError (dart:async/future_impl.dart:485)
+[2018-04-10 21:52:48.862891] #7      _Future._asyncCompleteError.<anonymous closure> (dart:async/future_impl.dart:537)
+[2018-04-10 21:52:48.862891] #8      _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2018-04-10 21:52:48.862891] #9      _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2018-04-10 21:52:48.862891] #10     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2018-04-10 21:52:48.862891] #11     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2018-04-10 21:52:48.878517] == Exited with status 255 ==
+[2018-04-10 21:52:50.016934] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, MJPEG, --log, info, --broker, http://127.0.0.1:50524/conn, --token, yNrB5XNZYLHbvw6BUZw0Ps5JTjRWNhMFzyV6ydOrxBTvSkA2] (pid: 10488) ==
+[2018-04-10 21:52:50.319728] [INFO][DSA] Connecting to http://127.0.0.1:50524/conn
+[2018-04-10 21:52:50.451798] [INFO][DSA] Connected
+[2018-04-10 21:53:11.619585] Unhandled exception:
+[2018-04-10 21:53:11.619585] SocketException: OS Error: Se agotó el tiempo de espera del semáforo.
+[2018-04-10 21:53:11.619585] 
+[2018-04-10 21:53:11.619585] , errno = 121, address = palladiumjamaica.axiscam.net, port = 51363
+[2018-04-10 21:53:11.619585] #0      MotionJpegClient._receiveHttp.<_receiveHttp_async_gen_body> (file:///C:/dsa/dglux-server/dslinks/Motion/bin/run.dart)
+[2018-04-10 21:53:11.619585] #1      _asyncErrorWrapperHelper.<anonymous closure> (dart:async-patch/async_patch.dart:34)
+[2018-04-10 21:53:11.619585] #2      _RootZone.runBinary (dart:async/zone.dart:1210)
+[2018-04-10 21:53:11.619585] #3      _FutureListener.handleError (dart:async/future_impl.dart:146)
+[2018-04-10 21:53:11.619585] #4      _Future._propagateToListeners.handleError (dart:async/future_impl.dart:649)
+[2018-04-10 21:53:11.619585] #5      _Future._propagateToListeners (dart:async/future_impl.dart:671)
+[2018-04-10 21:53:11.619585] #6      _Future._completeError (dart:async/future_impl.dart:485)
+[2018-04-10 21:53:11.619585] #7      _Future._asyncCompleteError.<anonymous closure> (dart:async/future_impl.dart:537)
+[2018-04-10 21:53:11.619585] #8      _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2018-04-10 21:53:11.619585] #9      _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2018-04-10 21:53:11.619585] #10     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2018-04-10 21:53:11.619585] #11     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2018-04-10 21:53:11.635213] == Exited with status 255 ==
+[2018-04-10 21:53:11.619585] Unhandled exception:
+[2018-04-10 21:53:11.619585] SocketException: OS Error: Se agotó el tiempo de espera del semáforo.
+[2018-04-10 21:53:11.619585] 
+[2018-04-10 21:53:11.619585] , errno = 121, address = palladiumjamaica.axiscam.net, port = 51363
+[2018-04-10 21:53:11.619585] #0      MotionJpegClient._receiveHttp.<_receiveHttp_async_gen_body> (file:///C:/dsa/dglux-server/dslinks/Motion/bin/run.dart)
+[2018-04-10 21:53:11.619585] #1      _asyncErrorWrapperHelper.<anonymous closure> (dart:async-patch/async_patch.dart:34)
+[2018-04-10 21:53:11.619585] #2      _RootZone.runBinary (dart:async/zone.dart:1210)
+[2018-04-10 21:53:11.619585] #3      _FutureListener.handleError (dart:async/future_impl.dart:146)
+[2018-04-10 21:53:11.619585] #4      _Future._propagateToListeners.handleError (dart:async/future_impl.dart:649)
+[2018-04-10 21:53:11.619585] #5      _Future._propagateToListeners (dart:async/future_impl.dart:671)
+[2018-04-10 21:53:11.619585] #6      _Future._completeError (dart:async/future_impl.dart:485)
+[2018-04-10 21:53:11.619585] #7      _Future._asyncCompleteError.<anonymous closure> (dart:async/future_impl.dart:537)
+[2018-04-10 21:53:11.619585] #8      _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2018-04-10 21:53:11.619585] #9      _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2018-04-10 21:53:11.619585] #10     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2018-04-10 21:53:11.619585] #11     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2018-04-10 21:53:11.635213] == Exited with status 255 ==
+[2018-04-10 21:53:11.619585] Unhandled exception:
+[2018-04-10 21:53:11.619585] SocketException: OS Error: Se agotó el tiempo de espera del semáforo.
+[2018-04-10 21:53:11.619585] 
+[2018-04-10 21:53:11.619585] , errno = 121, address = palladiumjamaica.axiscam.net, port = 51363
+[2018-04-10 21:53:11.619585] #0      MotionJpegClient._receiveHttp.<_receiveHttp_async_gen_body> (file:///C:/dsa/dglux-server/dslinks/Motion/bin/run.dart)
+[2018-04-10 21:53:11.619585] #1      _asyncErrorWrapperHelper.<anonymous closure> (dart:async-patch/async_patch.dart:34)
+[2018-04-10 21:53:11.619585] #2      _RootZone.runBinary (dart:async/zone.dart:1210)
+[2018-04-10 21:53:11.619585] #3      _FutureListener.handleError (dart:async/future_impl.dart:146)
+[2018-04-10 21:53:11.619585] #4      _Future._propagateToListeners.handleError (dart:async/future_impl.dart:649)
+[2018-04-10 21:53:11.619585] #5      _Future._propagateToListeners (dart:async/future_impl.dart:671)
+[2018-04-10 21:53:11.619585] #6      _Future._completeError (dart:async/future_impl.dart:485)
+[2018-04-10 21:53:11.619585] #7      _Future._asyncCompleteError.<anonymous closure> (dart:async/future_impl.dart:537)
+[2018-04-10 21:53:11.619585] #8      _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2018-04-10 21:53:11.619585] #9      _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2018-04-10 21:53:11.619585] #10     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2018-04-10 21:53:11.619585] #11     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2018-04-10 21:53:11.635213] == Exited with status 255 ==
+[2018-04-10 21:53:12.737145] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, MJPEG, --log, info, --broker, http://127.0.0.1:50524/conn, --token, yNrB5XNZYLHbvw6BUZw0Ps5JTjRWNhMFzyV6ydOrxBTvSkA2] (pid: 17392) ==
+[2018-04-10 21:53:13.037739] [INFO][DSA] Connecting to http://127.0.0.1:50524/conn
+[2018-04-10 21:53:13.175767] [INFO][DSA] Connected
+[2018-04-10 21:53:34.518181] Unhandled exception:
+[2018-04-10 21:53:34.518181] SocketException: OS Error: Se agotó el tiempo de espera del semáforo.
+[2018-04-10 21:53:34.518181] 
+[2018-04-10 21:53:34.518181] , errno = 121, address = palladiumjamaica.axiscam.net, port = 51374
+[2018-04-10 21:53:34.518181] #0      MotionJpegClient._receiveHttp.<_receiveHttp_async_gen_body> (file:///C:/dsa/dglux-server/dslinks/Motion/bin/run.dart)
+[2018-04-10 21:53:34.518181] #1      _asyncErrorWrapperHelper.<anonymous closure> (dart:async-patch/async_patch.dart:34)
+[2018-04-10 21:53:34.518181] #2      _RootZone.runBinary (dart:async/zone.dart:1210)
+[2018-04-10 21:53:34.518181] #3      _FutureListener.handleError (dart:async/future_impl.dart:146)
+[2018-04-10 21:53:34.518181] #4      _Future._propagateToListeners.handleError (dart:async/future_impl.dart:649)
+[2018-04-10 21:53:34.518181] #5      _Future._propagateToListeners (dart:async/future_impl.dart:671)
+[2018-04-10 21:53:34.518181] #6      _Future._completeError (dart:async/future_impl.dart:485)
+[2018-04-10 21:53:34.518181] #7      _Future._asyncCompleteError.<anonymous closure> (dart:async/future_impl.dart:537)
+[2018-04-10 21:53:34.518181] #8      _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2018-04-10 21:53:34.518181] #9      _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2018-04-10 21:53:34.518181] #10     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2018-04-10 21:53:34.518181] #11     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2018-04-10 21:53:34.533191] == Exited with status 255 ==
+[2018-04-10 21:53:34.518181] Unhandled exception:
+[2018-04-10 21:53:34.518181] SocketException: OS Error: Se agotó el tiempo de espera del semáforo.
+[2018-04-10 21:53:34.518181] 
+[2018-04-10 21:53:34.518181] , errno = 121, address = palladiumjamaica.axiscam.net, port = 51374
+[2018-04-10 21:53:34.518181] #0      MotionJpegClient._receiveHttp.<_receiveHttp_async_gen_body> (file:///C:/dsa/dglux-server/dslinks/Motion/bin/run.dart)
+[2018-04-10 21:53:34.518181] #1      _asyncErrorWrapperHelper.<anonymous closure> (dart:async-patch/async_patch.dart:34)
+[2018-04-10 21:53:34.518181] #2      _RootZone.runBinary (dart:async/zone.dart:1210)
+[2018-04-10 21:53:34.518181] #3      _FutureListener.handleError (dart:async/future_impl.dart:146)
+[2018-04-10 21:53:34.518181] #4      _Future._propagateToListeners.handleError (dart:async/future_impl.dart:649)
+[2018-04-10 21:53:34.518181] #5      _Future._propagateToListeners (dart:async/future_impl.dart:671)
+[2018-04-10 21:53:34.518181] #6      _Future._completeError (dart:async/future_impl.dart:485)
+[2018-04-10 21:53:34.518181] #7      _Future._asyncCompleteError.<anonymous closure> (dart:async/future_impl.dart:537)
+[2018-04-10 21:53:34.518181] #8      _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2018-04-10 21:53:34.518181] #9      _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2018-04-10 21:53:34.518181] #10     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2018-04-10 21:53:34.518181] #11     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2018-04-10 21:53:34.533191] == Exited with status 255 ==
+[2018-04-10 21:53:34.518181] Unhandled exception:
+[2018-04-10 21:53:34.518181] SocketException: OS Error: Se agotó el tiempo de espera del semáforo.
+[2018-04-10 21:53:34.518181] 
+[2018-04-10 21:53:34.518181] , errno = 121, address = palladiumjamaica.axiscam.net, port = 51374
+[2018-04-10 21:53:34.518181] #0      MotionJpegClient._receiveHttp.<_receiveHttp_async_gen_body> (file:///C:/dsa/dglux-server/dslinks/Motion/bin/run.dart)
+[2018-04-10 21:53:34.518181] #1      _asyncErrorWrapperHelper.<anonymous closure> (dart:async-patch/async_patch.dart:34)
+[2018-04-10 21:53:34.518181] #2      _RootZone.runBinary (dart:async/zone.dart:1210)
+[2018-04-10 21:53:34.518181] #3      _FutureListener.handleError (dart:async/future_impl.dart:146)
+[2018-04-10 21:53:34.518181] #4      _Future._propagateToListeners.handleError (dart:async/future_impl.dart:649)
+[2018-04-10 21:53:34.518181] #5      _Future._propagateToListeners (dart:async/future_impl.dart:671)
+[2018-04-10 21:53:34.518181] #6      _Future._completeError (dart:async/future_impl.dart:485)
+[2018-04-10 21:53:34.518181] #7      _Future._asyncCompleteError.<anonymous closure> (dart:async/future_impl.dart:537)
+[2018-04-10 21:53:34.518181] #8      _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2018-04-10 21:53:34.518181] #9      _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2018-04-10 21:53:34.518181] #10     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2018-04-10 21:53:34.518181] #11     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2018-04-10 21:53:34.533191] == Exited with status 255 ==
+[2018-04-10 21:53:35.628391] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, MJPEG, --log, info, --broker, http://127.0.0.1:50524/conn, --token, yNrB5XNZYLHbvw6BUZw0Ps5JTjRWNhMFzyV6ydOrxBTvSkA2] (pid: 17144) ==
+[2018-04-10 21:53:35.913486] [INFO][DSA] Connecting to http://127.0.0.1:50524/conn
+[2018-04-10 21:53:36.061786] [INFO][DSA] Connected
+[2018-04-10 21:53:57.248357] Unhandled exception:
+[2018-04-10 21:53:57.248357] SocketException: OS Error: Se agotó el tiempo de espera del semáforo.
+[2018-04-10 21:53:57.248357] 
+[2018-04-10 21:53:57.248357] , errno = 121, address = palladiumjamaica.axiscam.net, port = 51386
+[2018-04-10 21:53:57.248357] #0      MotionJpegClient._receiveHttp.<_receiveHttp_async_gen_body> (file:///C:/dsa/dglux-server/dslinks/Motion/bin/run.dart)
+[2018-04-10 21:53:57.248357] #1      _asyncErrorWrapperHelper.<anonymous closure> (dart:async-patch/async_patch.dart:34)
+[2018-04-10 21:53:57.248357] #2      _RootZone.runBinary (dart:async/zone.dart:1210)
+[2018-04-10 21:53:57.248357] #3      _FutureListener.handleError (dart:async/future_impl.dart:146)
+[2018-04-10 21:53:57.248357] #4      _Future._propagateToListeners.handleError (dart:async/future_impl.dart:649)
+[2018-04-10 21:53:57.248357] #5      _Future._propagateToListeners (dart:async/future_impl.dart:671)
+[2018-04-10 21:53:57.248357] #6      _Future._completeError (dart:async/future_impl.dart:485)
+[2018-04-10 21:53:57.248357] #7      _Future._asyncCompleteError.<anonymous closure> (dart:async/future_impl.dart:537)
+[2018-04-10 21:53:57.248357] #8      _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2018-04-10 21:53:57.248357] #9      _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2018-04-10 21:53:57.248357] #10     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2018-04-10 21:53:57.248357] #11     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2018-04-10 21:53:57.295234] == Exited with status 255 ==
+[2018-04-10 21:53:57.248357] Unhandled exception:
+[2018-04-10 21:53:57.248357] SocketException: OS Error: Se agotó el tiempo de espera del semáforo.
+[2018-04-10 21:53:57.248357] 
+[2018-04-10 21:53:57.248357] , errno = 121, address = palladiumjamaica.axiscam.net, port = 51386
+[2018-04-10 21:53:57.248357] #0      MotionJpegClient._receiveHttp.<_receiveHttp_async_gen_body> (file:///C:/dsa/dglux-server/dslinks/Motion/bin/run.dart)
+[2018-04-10 21:53:57.248357] #1      _asyncErrorWrapperHelper.<anonymous closure> (dart:async-patch/async_patch.dart:34)
+[2018-04-10 21:53:57.248357] #2      _RootZone.runBinary (dart:async/zone.dart:1210)
+[2018-04-10 21:53:57.248357] #3      _FutureListener.handleError (dart:async/future_impl.dart:146)
+[2018-04-10 21:53:57.248357] #4      _Future._propagateToListeners.handleError (dart:async/future_impl.dart:649)
+[2018-04-10 21:53:57.248357] #5      _Future._propagateToListeners (dart:async/future_impl.dart:671)
+[2018-04-10 21:53:57.248357] #6      _Future._completeError (dart:async/future_impl.dart:485)
+[2018-04-10 21:53:57.248357] #7      _Future._asyncCompleteError.<anonymous closure> (dart:async/future_impl.dart:537)
+[2018-04-10 21:53:57.248357] #8      _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2018-04-10 21:53:57.248357] #9      _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2018-04-10 21:53:57.248357] #10     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2018-04-10 21:53:57.248357] #11     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2018-04-10 21:53:57.295234] == Exited with status 255 ==
+[2018-04-10 21:53:57.248357] Unhandled exception:
+[2018-04-10 21:53:57.248357] SocketException: OS Error: Se agotó el tiempo de espera del semáforo.
+[2018-04-10 21:53:57.248357] 
+[2018-04-10 21:53:57.248357] , errno = 121, address = palladiumjamaica.axiscam.net, port = 51386
+[2018-04-10 21:53:57.248357] #0      MotionJpegClient._receiveHttp.<_receiveHttp_async_gen_body> (file:///C:/dsa/dglux-server/dslinks/Motion/bin/run.dart)
+[2018-04-10 21:53:57.248357] #1      _asyncErrorWrapperHelper.<anonymous closure> (dart:async-patch/async_patch.dart:34)
+[2018-04-10 21:53:57.248357] #2      _RootZone.runBinary (dart:async/zone.dart:1210)
+[2018-04-10 21:53:57.248357] #3      _FutureListener.handleError (dart:async/future_impl.dart:146)
+[2018-04-10 21:53:57.248357] #4      _Future._propagateToListeners.handleError (dart:async/future_impl.dart:649)
+[2018-04-10 21:53:57.248357] #5      _Future._propagateToListeners (dart:async/future_impl.dart:671)
+[2018-04-10 21:53:57.248357] #6      _Future._completeError (dart:async/future_impl.dart:485)
+[2018-04-10 21:53:57.248357] #7      _Future._asyncCompleteError.<anonymous closure> (dart:async/future_impl.dart:537)
+[2018-04-10 21:53:57.248357] #8      _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2018-04-10 21:53:57.248357] #9      _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2018-04-10 21:53:57.248357] #10     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2018-04-10 21:53:57.248357] #11     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2018-04-10 21:53:57.295234] == Exited with status 255 ==
+[2018-04-10 21:53:58.382512] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, MJPEG, --log, info, --broker, http://127.0.0.1:50524/conn, --token, yNrB5XNZYLHbvw6BUZw0Ps5JTjRWNhMFzyV6ydOrxBTvSkA2] (pid: 12680) ==
+[2018-04-10 21:53:58.667001] [INFO][DSA] Connecting to http://127.0.0.1:50524/conn
+[2018-04-10 21:53:58.798987] [INFO][DSA] Connected
+[2018-04-10 21:54:19.905535] Unhandled exception:
+[2018-04-10 21:54:19.905535] SocketException: OS Error: Se agotó el tiempo de espera del semáforo.
+[2018-04-10 21:54:19.905535] 
+[2018-04-10 21:54:19.905535] , errno = 121, address = palladiumjamaica.axiscam.net, port = 51425
+[2018-04-10 21:54:19.905535] #0      MotionJpegClient._receiveHttp.<_receiveHttp_async_gen_body> (file:///C:/dsa/dglux-server/dslinks/Motion/bin/run.dart)
+[2018-04-10 21:54:19.905535] #1      _asyncErrorWrapperHelper.<anonymous closure> (dart:async-patch/async_patch.dart:34)
+[2018-04-10 21:54:19.905535] #2      _RootZone.runBinary (dart:async/zone.dart:1210)
+[2018-04-10 21:54:19.905535] #3      _FutureListener.handleError (dart:async/future_impl.dart:146)
+[2018-04-10 21:54:19.905535] #4      _Future._propagateToListeners.handleError (dart:async/future_impl.dart:649)
+[2018-04-10 21:54:19.905535] #5      _Future._propagateToListeners (dart:async/future_impl.dart:671)
+[2018-04-10 21:54:19.905535] #6      _Future._completeError (dart:async/future_impl.dart:485)
+[2018-04-10 21:54:19.905535] #7      _Future._asyncCompleteError.<anonymous closure> (dart:async/future_impl.dart:537)
+[2018-04-10 21:54:19.905535] #8      _microtaskLoop (dart:async/schedule_microtask.dart:41)
+[2018-04-10 21:54:19.905535] #9      _startMicrotaskLoop (dart:async/schedule_microtask.dart:50)
+[2018-04-10 21:54:19.905535] #10     _runPendingImmediateCallback (dart:isolate-patch/isolate_patch.dart:96)
+[2018-04-10 21:54:19.905535] #11     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:149)
+[2018-04-10 21:54:19.936787] == Exited with status 255 ==
+[2018-04-10 21:54:19.936787] == Exited with status 255 ==
+[2018-04-10 21:54:19.936787] == Exited with status 255 ==
+[2018-04-10 21:54:21.032848] == Executing C:\dsa\dart-sdk\bin\dart.exe with arguments [bin/run.dart, --name, MJPEG, --log, info, --broker, http://127.0.0.1:50524/conn, --token, yNrB5XNZYLHbvw6BUZw0Ps5JTjRWNhMFzyV6ydOrxBTvSkA2] (pid: 4452) ==
+[2018-04-10 21:54:21.317974] [INFO][DSA] Connecting to http://127.0.0.1:50524/conn
+[2018-04-10 21:54:21.433847] [INFO][DSA] Connected
+[2018-04-10 21:55:28.973201] == Exited with status 1 ==
+[2018-04-10 21:55:28.973201] == Exited with status 1 ==
+[2018-04-10 21:55:28.973201] == Exited with status 1 ==

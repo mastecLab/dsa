@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="12px" viewBox="0 0 18 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: bin/sketchtool 1.4 (305) - http://www.bohemiancoding.com/sketch -->
+    <title>mail</title>
+    <desc>Created with bin/sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Dashboard" sketch:type="MSArtboardGroup" transform="translate(-1162.000000, -34.000000)" fill="#FFFFFF">
+            <g id="top-menu" sketch:type="MSLayerGroup">
+                <g id="mail" transform="translate(1162.600000, 34.000000)" sketch:type="MSShapeGroup">
+                    <path d="M8.57142857,5.79807692 L16.4345988,0.259615385 C16.3263405,0.217153846 16.209863,0.173076923 16.0861057,0.173076923 L1.05675147,0.173076923 C0.933933464,0.173076923 0.816516634,0.217153846 0.708258317,0.259615385 L8.57142857,5.79807692 Z" id="Fill-1"></path>
+                    <path d="M8.57142857,6.933 L0.130332681,1.00776923 C0.124696673,1.04930769 0.11741683,1.09153846 0.11741683,1.13492308 L0.11741683,10.9813846 C0.11741683,11.4897692 0.538473581,11.9423077 1.05675147,11.9423077 L16.0861057,11.9423077 C16.6043836,11.9423077 17.0254403,11.4897692 17.0254403,10.9804615 L17.0254403,1.13492308 C17.0254403,1.09153846 17.0181605,1.05023077 17.0125245,1.00776923 L8.57142857,6.933 Z" id="Fill-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,41 @@
+{
+  "Mosquitto" : {
+    "$is" : "node",
+    "$$clientId" : "dsa",
+    "$$qos" : 0,
+    "$$cleanSession" : true,
+    "$$url" : "tcp://test.mosquitto.org",
+    "subscriptions" : {
+      "$name" : "Subscriptions",
+      "$is" : "node",
+      "temp" : {
+        "$is" : "node",
+        "$type" : "string",
+        "?value" : "temp/random"
+      }
+    }
+  },
+  "Hive" : {
+    "$is" : "node",
+    "$$clientId" : "Sebastian",
+    "$$qos" : 0,
+    "$$cleanSession" : false,
+    "$$url" : "tcp://broker.mqttdashboard.com:1883",
+    "subscriptions" : {
+      "$name" : "Subscriptions",
+      "$is" : "node",
+      "testtopic" : {
+        "$is" : "node",
+        "$type" : "string",
+        "?value" : "testtopic/#"
+      }
+    }
+  },
+  "brokerEnabled" : {
+    "$name" : "Broker Enabled",
+    "$is" : "node",
+    "$type" : "bool",
+    "?value" : true,
+    "$writable" : "config"
+  }
+}

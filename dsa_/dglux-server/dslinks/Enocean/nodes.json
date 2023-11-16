@@ -1,0 +1,24 @@
+{
+  "EnOcean" : {
+    "$is" : "node",
+    "@base id offset" : 0,
+    "@comm port id" : "COM3",
+    "Devices" : {
+      "$is" : "node",
+      "0505e326" : {
+        "$is" : "node",
+        "@base id offset" : 0,
+        "@profile" : "A5_10_5",
+        "@security code" : 0,
+        "@sender id" : 84271910
+      },
+      "0184ca0d" : {
+        "$is" : "node",
+        "@base id offset" : 0,
+        "@profile" : "A5_38_8",
+        "@security code" : 0,
+        "@sender id" : 25479693
+      }
+    }
+  }
+}

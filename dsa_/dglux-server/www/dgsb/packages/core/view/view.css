@@ -1,0 +1,441 @@
+
+.dglux_page_root *{
+  -webkit-flex: 0 0 auto ;
+  flex: 0 0 auto;
+}
+
+/*default style for all div component*/
+.dglux_page_root div,img{
+  z-index:0;
+  pointer-events:auto;
+  box-sizing:border-box;
+  -moz-box-sizing:border-box; /* Firefox */
+}
+
+.dglux_page_root div:focus{
+  outline:none;
+}
+
+
+.dglux_page_root .flexGrow, .dglux_page_root flexGroupGroup > div{
+  -webkit-flex: 1 0 auto ;
+  flex: 1 0 auto;
+}
+.dglux_page_root .flexShrink, .dglux_page_root flexShrinkGroup > div{
+  -webkit-flex: 0 1 auto ;
+  flex: 0 1 auto;
+}
+.dglux_page_root .flexGrowShrink, .dglux_page_root .flexGrowShrinkGroup > div{
+  -webkit-flex: 1 1 auto ;
+  flex: 1 1 auto;
+}
+.dglux_page_root .flexWrap{
+  -webkit-flex-wrap:wrap;
+  flex-wrap:wrap;
+}
+
+.dglux_page_root .fullSize{
+  width:100%;
+  height:100%;
+}
+
+.dglux_page_root .spaceBetween
+{
+  justify-content:space-between;
+  -webkit-justify-content:space-between;
+}
+
+.dglux_page_root .spaceAround
+{
+  justify-content:space-around;
+  -webkit-justify-content:space-around;
+}
+
+.dglux_page_root .justifyContentCenter
+{
+  justify-content:center;
+  -webkit-justify-content:center;
+}
+
+.dglux_page_root .alignItemsCenter
+{
+  align-items:center;
+  -webkit-align-items:center;
+}
+
+.dglux_page_root .alignItemsLeft
+{
+  align-items:left;
+  -webkit-align-items:left;
+}
+
+.dglux_page_root .alignItemsBaseLine
+{
+  align-items: baseline;
+  -webkit-align-items: baseline;
+}
+
+.dglux_page_root .flexEnd
+{
+  justify-content:flex-end;
+  -webkit-justify-content:flex-end;
+}
+
+.dglux_page_root .displayFlex
+{
+  display: flex;
+  display: -webkit-flex;
+}
+
+.dglux_page_root .dgDisabled {
+  pointer-events:none;
+  opacity:0.6;
+}
+
+/*svg need special rules, and they need to be put before dgDisableMouse*/
+.dglux_page_root svg.dgSvgSvg{
+  pointer-events:none;
+  overflow:visible;
+  min-width:1px;
+  min-height:1px;
+}
+.dglux_page_root svg.dgSvgSvg > *{
+  pointer-events:visible;
+}
+
+.dglux_page_root .dgDisableMouseSelf{
+  pointer-events:none;
+}
+.dglux_page_root .dgDisableMouseSelf > *{
+  pointer-events:visible;
+}
+.dglux_page_root .dgDisableMouseSelf > .dgDisableMouseSelf{
+  pointer-events:none;
+}
+
+.dglux_page_root div.dgDisableMouse {
+  pointer-events:none ;
+}
+
+.dglux_page_root div.dgDisableMouse * {
+  pointer-events:none ;
+}
+
+.dglux_page_root .dgDisableMouseChildren * {
+  pointer-events:none ;
+}
+
+.dglux_page_root div.dgDiv{
+
+}
+
+.dglux_page_root div.noSelect{
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+
+.dglux_page_root div.absolute{
+
+}
+
+.dglux_page_root div.absolute.dgPage,
+.dglux_page_root div.absolute > div, .dglux_page_root div.absolute > svg{
+  position:absolute;
+}
+
+.dglux_page_root div.vertical{
+  /* old style or deprecated style */
+  display: -ms-flexbox;
+  -ms-flex-direction: column;
+
+  display: -webkit-flexbox;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+
+  display: -webkit-flex;
+  -webkit-flex-direction: column;
+
+  display: flex;
+  flex-direction: column;
+
+  align-content:flex-start;
+  -webkit-align-content:flex-start;
+}
+
+.dglux_page_root div.vertical > div, .dglux_page_root div.vertical > svg{
+  position:relative;
+}
+
+.dglux_page_root div.horizontal{
+  /* old style or deprecated style */
+  display: -ms-flexbox;
+  -ms-flex-direction: row;
+
+  display: -webkit-flexbox;
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+
+
+  display: -webkit-flex;
+  -webkit-flex-direction: row;
+
+  display: flex;
+  flex-direction: row;
+
+  align-content:flex-start;
+  -webkit-align-content:flex-start;
+}
+.dglux_page_root div.horizontal > div, .dglux_page_root div.horizontal > svg{
+  position:relative;
+}
+
+.dglux_page_root div.flexToolBar{
+  justify-content: flex-end;
+  align-items: center;
+  flex-wrap: wrap;
+  align-content: flex-end;
+
+  -webkit-justify-content: flex-end;
+  -webkit-align-items: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-align-content: flex-end;
+}
+.dglux_page_root div.dgResizeSensor{
+  visibility:hidden !important;
+  position:absolute !important;
+  width:100% !important;
+  height:100% !important;
+  overflow:hidden !important;
+  z-index:-9999 !important;
+}
+
+.dglux_page_root .resize-triggers {
+  visibility: hidden !important;
+  -webkit-overflow-scrolling:auto; /* fix scrolling issue on iphone */
+  min-width: 0px;   /* Fix for resize sensor disfunction, when width < scrollbar width */
+  min-height: 0px;  /* Fix for resize sensor disfunction, when height < scrollbar width */
+}
+
+.dglux_page_root .resize-triggers, .dglux_page_root .resize-triggers > div {
+  content: " ";
+  display: block !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  height: 100% !important;
+  width: 100% !important;
+  overflow: hidden !important;
+}
+
+.dglux_page_root .resize-triggers > div {
+  overflow: auto;
+}
+.dglux_page_root .expand-trigger {
+  pointer-events:none;
+}
+.dglux_page_root .contract-trigger {
+  pointer-events:none;
+}
+.dglux_page_root .contract-trigger > div {
+  width: 200% !important;
+  height: 200% !important;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.dglux_page_root .resize-trigger-target
+{
+  position: absolute;
+}
+
+
+
+.dglux_page_root div.dgPopupGreyOut{
+  width:100%;
+  height:100%;
+  background-color: #888888;
+  opacity: 0.3;
+}
+
+.dglux_page_root .dgVirtualVScroller{
+  position:absolute;
+  width:100%;
+  height:100%;
+  overflow:auto;
+}
+.dglux_page_root .dgVirtualVScroller > div{
+  position:absolute;
+}
+.dglux_page_root .dgVirtualVScrollerHolder{
+  min-width:100%;
+  -webkit-transform: translate3d(0, 0, 0);/* force gpu to fix Dennis' scrolling bug*/
+}
+.dglux_page_root div.dgFormRow{
+  padding:1px;
+
+  display: -webkit-flex;
+  -webkit-flex-direction: row;
+
+  display: flex;
+  flex-direction: row;
+
+  align-content:flex-start;
+  -webkit-align-content:flex-start;
+
+  align-items: center;
+}
+.dglux_page_root div.dgFormRow > * {
+  position:relative;
+}
+.dglux_page_root div.dgFormRow > div:first-child {
+  width:30%;
+  text-align:right;
+}
+.dglux_page_root div.dgFormRow > input, .dglux_page_root div.dgFormRow > #dsaLicenseType {
+  width:50%;
+}
+
+.dglux_page_root .dgDraggingWireSvg{
+  width:100%;
+  height:100%;
+  z-index:9999;
+  position:absolute;
+  pointer-events:none;
+  transform:translate3d(0,0,0);
+  -webkit-transform:translate3d(0,0,0);
+}
+
+.dglux_page_root div.widgetsBasicColorHolder {
+  color: #ffffff;
+}
+
+.dglux_page_root .sectionContentDiv {
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.dglux_page_root .dgMapbox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -ms-touch-action: none;
+  touch-action: none;
+}
+
+.dglux_page_root .dgMapboxWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+}
+
+.dglux_page_root .dgMapboxApikeyHelper {
+  z-index: 101;
+
+  padding: 20px;
+  border: 1px solid #424244;
+
+  background-color: #323232;
+  border-radius: 2px;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25);
+
+  color: rgba(255,255,255,0.7);
+  font-family: 'Open Sans', 'Helvetica', sans-serif;
+}
+
+.dglux_page_root .dgMapboxApikeyHelper.hide {
+  display: none;
+}
+
+.dglux_page_root .dgMapboxCalloutHelper {
+  position: absolute;
+  height: 1px;
+  width: 1px;
+  
+  opacity: 0;
+  z-index: -999;
+}
+
+/*
+ * styles for tree component
+ * ===========================
+ */
+
+.dglux_page_root .dgTopology {
+  transform-origin: 0 0 0;
+  overflow: hidden;
+  -webkit-text-select: none;
+}
+
+.dglux_page_root .dgTopology > div {
+  width: 100%;
+  height: 100%;
+
+  transform-origin: 0 0;
+}
+
+.dglux_page_root .dgTopology svg {
+  min-height: 100%;
+  min-width: 100%;
+}
+
+.dglux_page_root .dgTopology > *,
+.dglux_page_root .dgTopology > * > * {
+  position: absolute;
+}
+
+.dglux_page_root .dgTopology .node,
+.dglux_page_root .dgTopology .value {
+  position: absolute;
+  transform-origin: 50% 50%;
+}
+
+.dglux_page_root .dgTopology .defaultNode {
+  position: absolute;
+  top: -4px;
+  left: -4px;
+  
+  width: 8px;
+  height: 8px;
+  
+  border: 2px solid;
+  border-radius: 4px;
+}
+
+.dglux_page_root .dgTopology .text {
+  position: absolute;
+  top: -6px;
+  left: 8px;
+
+  height: 10px;
+  width: 130px;
+
+  font-size: 10px;
+  font-family: sans-serif;
+  white-space: nowrap;
+}
+
+.dglux_page_root .dgTopology .value {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+
+  width: 2px;
+  height: 2px;
+
+  border-radius: 1px;
+}
+
+.dglux_page_root .dgTopology .link {
+  stroke-width: 1.5px;
+  fill: none;
+}

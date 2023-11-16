@@ -1,0 +1,9 @@
+{
+  "@@getHistory": {
+    "@": "merge",
+    "type": "paths",
+    "val": [
+      "/downstream/etsdb-G/db/Temp/%2Fdownstream%2FWeather%2FMexico City-3530597%2FTemperature/getHistory"
+    ]
+  }
+}
